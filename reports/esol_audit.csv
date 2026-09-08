@@ -1,0 +1,1129 @@
+compound_id,smiles,measured_logS,valid_smiles,canonical_smiles,fragment_count,multi_fragment,formal_charge,molecular_weight,heavy_atom_count
+Amigdalin,OCC3OC(OCC2OC(OC(C#N)c1ccccc1)C(O)C(O)C2O)C(O)C(O)C3O ,-0.77,True,N#CC(OC1OC(COC2OC(CO)C(O)C(O)C2O)C(O)C(O)C1O)c1ccccc1,1,False,0,457.4320000000001,32
+Fenfuram,Cc1occc1C(=O)Nc2ccccc2,-3.3,True,Cc1occc1C(=O)Nc1ccccc1,1,False,0,201.22500000000002,15
+citral,CC(C)=CCCC(C)=CC(=O),-2.06,True,CC(C)=CCCC(C)=CC=O,1,False,0,152.237,11
+Picene,c1ccc2c(c1)ccc3c2ccc4c5ccccc5ccc43,-7.87,True,c1ccc2c(c1)ccc1c2ccc2c3ccccc3ccc21,1,False,0,278.354,22
+Thiophene,c1ccsc1,-1.33,True,c1ccsc1,1,False,0,84.14299999999999,5
+benzothiazole,c2ccc1scnc1c2 ,-1.5,True,c1ccc2scnc2c1,1,False,0,135.191,9
+"2,2,4,6,6'-PCB",Clc1cc(Cl)c(c(Cl)c1)c2c(Cl)cccc2Cl,-7.32,True,Clc1cc(Cl)c(-c2c(Cl)cccc2Cl)c(Cl)c1,1,False,0,326.437,17
+Estradiol,CC12CCC3C(CCc4cc(O)ccc34)C2CCC1O,-5.03,True,CC12CCC3c4ccc(O)cc4CCC3C1CCC2O,1,False,0,272.388,20
+Dieldrin,ClC4=C(Cl)C5(Cl)C3C1CC(C2OC12)C3C4(Cl)C5(Cl)Cl,-6.29,True,ClC1=C(Cl)C2(Cl)C3C4CC(C5OC45)C3C1(Cl)C2(Cl)Cl,1,False,0,380.913,19
+Rotenone,COc5cc4OCC3Oc2c1CC(Oc1ccc2C(=O)C3c4cc5OC)C(C)=C ,-4.42,True,C=C(C)C1Cc2c(ccc3c2OC2COc4cc(OC)c(OC)cc4C2C3=O)O1,1,False,0,394.42300000000023,29
+2-pyrrolidone,O=C1CCCN1,1.07,True,O=C1CCCN1,1,False,0,85.10600000000001,6
+2-Chloronapthalene,Clc1ccc2ccccc2c1,-4.14,True,Clc1ccc2ccccc2c1,1,False,0,162.61899999999997,11
+1-Pentene ,CCCC=C,-2.68,True,C=CCCC,1,False,0,70.135,5
+Primidone,CCC1(C(=O)NCNC1=O)c2ccccc2,-2.64,True,CCC1(c2ccccc2)C(=O)NCNC1=O,1,False,0,218.256,16
+Tetradecane,CCCCCCCCCCCCCC,-7.96,True,CCCCCCCCCCCCCC,1,False,0,198.39399999999995,14
+2-Chloropropane,CC(C)Cl,-1.41,True,CC(C)Cl,1,False,0,78.542,4
+2-Methylbutanol,CCC(C)CO,-0.47,True,CCC(C)CO,1,False,0,88.14999999999999,6
+Benzonitrile,N#Cc1ccccc1,-1.0,True,N#Cc1ccccc1,1,False,0,103.12399999999997,8
+Diazinon,CCOP(=S)(OCC)Oc1cc(C)nc(n1)C(C)C,-3.64,True,CCOP(=S)(OCC)Oc1cc(C)nc(C(C)C)n1,1,False,0,304.35200000000003,19
+2-Undecanol,CCCCCCCCCC(C)O,-2.94,True,CCCCCCCCCC(C)O,1,False,0,172.312,12
+"2,2',3,4,6-PCB",Clc1ccc(c(Cl)c1)c2c(Cl)ccc(Cl)c2Cl ,-7.43,True,Clc1ccc(-c2c(Cl)ccc(Cl)c2Cl)c(Cl)c1,1,False,0,326.437,17
+Lenacil,O=c2[nH]c1CCCc1c(=O)n2C3CCCCC3,-4.593999999999999,True,O=c1[nH]c2c(c(=O)n1C1CCCCC1)CCC2,1,False,0,234.29899999999995,17
+Phorate,CCOP(=S)(OCC)SCSCC,-4.11,True,CCOP(=S)(OCC)SCSCC,1,False,0,260.38599999999997,13
+Phenacetin,CCOc1ccc(NC(=O)C)cc1,-2.35,True,CCOc1ccc(NC(C)=O)cc1,1,False,0,179.219,13
+Dinitramine,CCN(CC)c1c(cc(c(N)c1N(=O)=O)C(F)(F)F)N(=O)=O,-5.47,True,CCN(CC)c1c([N+](=O)[O-])cc(C(F)(F)F)c(N)c1[N+](=O)[O-],1,False,0,322.243,22
+1-Heptanol,CCCCCCCO,-1.81,True,CCCCCCCO,1,False,0,116.204,8
+Theophylline,Cn1c(=O)n(C)c2nc[nH]c2c1=O,-1.39,True,Cn1c(=O)c2[nH]cnc2n(C)c1=O,1,False,0,180.16699999999997,13
+Butethal,CCCCC1(CC)C(=O)NC(=O)NC1=O,-1.661,True,CCCCC1(CC)C(=O)NC(=O)NC1=O,1,False,0,212.249,15
+"P,P'-DDE",ClC(Cl)=C(c1ccc(Cl)cc1)c2ccc(Cl)cc2,-6.9,True,ClC(Cl)=C(c1ccc(Cl)cc1)c1ccc(Cl)cc1,1,False,0,318.0300000000001,18
+Methyl octanoate,CCCCCCCC(=O)OC,-3.17,True,CCCCCCCC(=O)OC,1,False,0,158.24099999999999,11
+"1,4-Diethylbenzene ",CCc1ccc(CC)cc1,-3.75,True,CCc1ccc(CC)cc1,1,False,0,134.22199999999998,10
+Terbufos,CCOP(=S)(OCC)SCSC(C)(C)C,-4.755,True,CCOP(=S)(OCC)SCSC(C)(C)C,1,False,0,288.44,15
+Phenmedipham,COC(=O)Nc1cccc(OC(=O)Nc2cccc(C)c2)c1,-4.805,True,COC(=O)Nc1cccc(OC(=O)Nc2cccc(C)c2)c1,1,False,0,300.314,22
+"1,1-Dichloroethylene",ClC(=C)Cl,-1.64,True,C=C(Cl)Cl,1,False,0,96.94399999999999,4
+1-Methylfluorene,Cc1cccc2c1Cc3ccccc32,-5.22,True,Cc1cccc2c1Cc1ccccc1-2,1,False,0,180.25000000000003,14
+Valeraldehyde,CCCCC=O,-0.85,True,CCCCC=O,1,False,0,86.13399999999999,6
+Diphenylamine,N(c1ccccc1)c2ccccc2,-3.504,True,c1ccc(Nc2ccccc2)cc1,1,False,0,169.227,13
+Fenothiocarb,CN(C)C(=O)SCCCCOc1ccccc1,-3.927,True,CN(C)C(=O)SCCCCOc1ccccc1,1,False,0,253.367,17
+Piperophos,CCCOP(=S)(OCCC)SCC(=O)N1CCCCC1C,-4.15,True,CCCOP(=S)(OCCC)SCC(=O)N1CCCCC1C,1,False,0,353.4900000000001,21
+1-Iodoheptane,CCCCCCCI,-4.81,True,CCCCCCCI,1,False,0,226.101,8
+3-Chlorobiphenyl,c1c(Cl)cccc1c2ccccc2,-4.88,True,Clc1cccc(-c2ccccc2)c1,1,False,0,188.657,13
+4-Pentene-1-ol,OCCCC=C,-0.15,True,C=CCCCO,1,False,0,86.134,6
+Cyclobutyl-5-spirobarbituric acid,O=C2NC(=O)C1(CCC1)C(=O)N2,-1.655,True,O=C1NC(=O)C2(CCC2)C(=O)N1,1,False,0,168.15200000000002,12
+menthol,CC(C)C1CCC(C)CC1O ,-2.53,True,CC1CCC(C(C)C)C(O)C1,1,False,0,156.269,11
+Isopropyl formate,CC(C)OC=O,-0.63,True,CC(C)OC=O,1,False,0,88.106,6
+2-Heptanol ,CCCCCC(C)O,-1.55,True,CCCCCC(C)O,1,False,0,116.20399999999998,8
+p-Bromoacetanilide,CC(=O)Nc1ccc(Br)cc1,-3.083,True,CC(=O)Nc1ccc(Br)cc1,1,False,0,214.06199999999998,11
+brompyrazone,c1ccccc1n2ncc(N)c(Br)c2(=O),-3.127,True,Nc1cnn(-c2ccccc2)c(=O)c1Br,1,False,0,266.098,15
+nifedipine,COC(=O)C1=C(C)NC(=C(C1c2ccccc2N(=O)=O)C(=O)OC)C ,-4.76,True,COC(=O)C1=C(C)NC(C)=C(C(=O)OC)C1c1ccccc1[N+](=O)[O-],1,False,0,346.33900000000017,25
+"2,7-dimethylquinoline",c2c(C)cc1nc(C)ccc1c2 ,-1.94,True,Cc1ccc2ccc(C)nc2c1,1,False,0,157.216,12
+1-Octyne ,CCCCCCC#C,-3.66,True,C#CCCCCCC,1,False,0,110.19999999999999,8
+cyclobarbital,CCC1(C(=O)NC(=O)NC1=O)C2=CCCCC2 ,-2.17,True,CCC1(C2=CCCCC2)C(=O)NC(=O)NC1=O,1,False,0,236.27099999999993,17
+Chrysene,c1ccc2c(c1)ccc3c4ccccc4ccc23,-8.057,True,c1ccc2c(c1)ccc1c3ccccc3ccc21,1,False,0,228.29399999999998,18
+Bromacil,CCC(C)n1c(=O)[nH]c(C)c(Br)c1=O ,-2.523,True,CCC(C)n1c(=O)[nH]c(C)c(Br)c1=O,1,False,0,261.11899999999997,14
+"2,2',3,3',5,6-PCB",Clc1cccc(c1Cl)c2c(Cl)c(Cl)cc(Cl)c2Cl ,-8.6,True,Clc1cccc(-c2c(Cl)c(Cl)cc(Cl)c2Cl)c1Cl,1,False,0,360.88200000000006,18
+2-Methylphenol,Cc1ccccc1O,-0.62,True,Cc1ccccc1O,1,False,0,108.13999999999999,8
+"2,2,5-Trimethylhexane",CC(C)CCC(C)(C)C,-5.05,True,CC(C)CCC(C)(C)C,1,False,0,128.259,9
+"1,4-Dimethylnaphthalene ",Cc1ccc(C)c2ccccc12,-4.14,True,Cc1ccc(C)c2ccccc12,1,False,0,156.228,12
+6-Methylchrysene,Cc1cc2c3ccccc3ccc2c4ccccc14,-6.57,True,Cc1cc2c3ccccc3ccc2c2ccccc12,1,False,0,242.321,19
+2-Pentanone,CCCC(=O)C,-0.19,True,CCCC(C)=O,1,False,0,86.13399999999999,6
+"2,2',3,3',5,5',6,6'-PCB",Clc1cc(Cl)c(Cl)c(c1Cl)c2c(Cl)c(Cl)cc(Cl)c2Cl ,-9.15,True,Clc1cc(Cl)c(Cl)c(-c2c(Cl)c(Cl)cc(Cl)c2Cl)c1Cl,1,False,0,429.77200000000016,20
+Methyl butyrate,CCCOC(=O)CC,-0.82,True,CCCOC(=O)CC,1,False,0,116.15999999999998,8
+Triamcinolone,CC34CC(O)C1(F)C(CCC2=CC(=O)C=CC12C)C3CC(O)C4(O)C(=O)CO,-3.68,True,CC12C=CC(=O)C=C1CCC1C3CC(O)C(O)(C(=O)CO)C3(C)CC(O)C12F,1,False,0,394.43900000000014,28
+p-Aminophenol,Nc1ccc(O)cc1,-0.8,True,Nc1ccc(O)cc1,1,False,0,109.12799999999999,8
+Benznidazole,O=C(Cn1ccnc1N(=O)=O)NCc2ccccc2,-2.81,True,O=C(Cn1ccnc1[N+](=O)[O-])NCc1ccccc1,1,False,0,260.253,19
+"Atovaquone(0,430mg/ml) - neutral",OC4=C(C1CCC(CC1)c2ccc(Cl)cc2)C(=O)c3ccccc3C4=O,-5.931,True,O=C1C(O)=C(C2CCC(c3ccc(Cl)cc3)CC2)C(=O)c2ccccc21,1,False,0,366.84400000000016,26
+Trietazine,CCNc1nc(Cl)nc(n1)N(CC)CC,-4.06,True,CCNc1nc(Cl)nc(N(CC)CC)n1,1,False,0,229.71499999999997,15
+Pyrazinamide,NC(=O)c1cnccn1,-0.667,True,NC(=O)c1cnccn1,1,False,0,123.11499999999998,9
+Carbromal,CCC(Br)(CC)C(=O)NC(N)=O,-2.68,True,CCC(Br)(CC)C(=O)NC(N)=O,1,False,0,237.09699999999998,12
+"2,2'-PCB",Clc1ccccc1c2ccccc2Cl ,-5.27,True,Clc1ccccc1-c1ccccc1Cl,1,False,0,223.102,14
+nitrofurantoin,O=C2CN(N=Cc1ccc(o1)N(=O)=O)C(=O)N2 ,-3.38,True,O=C1CN(N=Cc2ccc([N+](=O)[O-])o2)C(=O)N1,1,False,0,238.15899999999996,17
+Nitrofen,Clc2ccc(Oc1ccc(cc1)N(=O)=O)c(Cl)c2,-5.46,True,O=[N+]([O-])c1ccc(Oc2ccc(Cl)cc2Cl)cc1,1,False,0,284.09799999999996,18
+Camphor,CC1(C)C2CCC1(C)C(=O)C2,-1.96,True,CC12CCC(CC1=O)C2(C)C,1,False,0,152.237,11
+5-Allyl-5-phenylbarbital,O=C1NC(=O)NC(=O)C1(CC=C)c1ccccc1,-2.369,True,C=CCC1(c2ccccc2)C(=O)NC(=O)NC1=O,1,False,0,244.25,18
+Pentyl propanoate,CCCCC(=O)OCC,-2.25,True,CCCCC(=O)OCC,1,False,0,130.18699999999998,9
+Isopentyl acetate,CC(C)CCOC(=O)C,-1.92,True,CC(=O)OCCC(C)C,1,False,0,130.18699999999998,9
+3-Hexanoyloxymethylphenyltoin,O=C1N(COC(=O)CCCCC)C(=O)C(N1)(c2ccccc2)c3ccccc3,-5.886,True,CCCCCC(=O)OCN1C(=O)NC(c2ccccc2)(c2ccccc2)C1=O,1,False,0,380.444,28
+"2,3',5-PCB",Clc1cccc(c1)c2cc(Cl)ccc2Cl ,-6.01,True,Clc1cccc(-c2cc(Cl)ccc2Cl)c1,1,False,0,257.547,15
+1-Bromopropane,CCCBr,-1.73,True,CCCBr,1,False,0,122.993,4
+Propiconazole,CCCC1COC(Cn2cncn2)(O1)c3ccc(Cl)cc3Cl,-3.4930000000000003,True,CCCC1COC(Cn2cncn2)(c2ccc(Cl)cc2Cl)O1,1,False,0,342.2260000000001,22
+Formothion,COP(=S)(OC)SCC(=O)N(C)C=O,-1.995,True,COP(=S)(OC)SCC(=O)N(C)C=O,1,False,0,257.27299999999997,14
+4-methylpteridine,Cc1ncnc2nccnc12,-0.466,True,Cc1ncnc2nccnc12,1,False,0,146.15299999999996,11
+Thiourea,NC(=S)N,0.32,True,NC(N)=S,1,False,0,76.12400000000001,4
+p-Xylene ,Cc1ccc(C)cc1,-2.77,True,Cc1ccc(C)cc1,1,False,0,106.16799999999999,8
+"1,2-Diethylbenzene",CCc1ccccc1CC,-3.28,True,CCc1ccccc1CC,1,False,0,134.22199999999998,10
+Hexachloroethane,ClC(Cl)(Cl)C(Cl)(Cl)Cl,-3.67,True,ClC(Cl)(Cl)C(Cl)(Cl)Cl,1,False,0,236.74,8
+Flucythrinate,CC(C)C(C(=O)OC(C#N)c1cccc(Oc2ccccc2)c1)c3ccc(OC(F)F)cc3,-6.876,True,CC(C)C(C(=O)OC(C#N)c1cccc(Oc2ccccc2)c1)c1ccc(OC(F)F)cc1,1,False,0,451.46900000000005,33
+1-Nitropropane,CCCN(=O)=O,-0.8,True,CCC[N+](=O)[O-],1,False,0,89.09399999999998,6
+Menthone,CC(C)C1CCC(C)CC1=O,-2.35,True,CC1CCC(C(C)C)C(=O)C1,1,False,0,154.253,11
+RTI 24,CCN2c1cc(Cl)ccc1NC(=O)c3cccnc23 ,-5.36,True,CCN1c2cc(Cl)ccc2NC(=O)c2cccnc21,1,False,0,273.723,19
+"2,3-Dichloronitrobenzene",O=N(=O)c1c(Cl)c(Cl)ccc1,-3.48,True,O=[N+]([O-])c1cccc(Cl)c1Cl,1,False,0,192.00100000000003,11
+thiamylal,CCCC(C)C1(CC=C)C(=O)NC(=S)NC1=O ,-3.46,True,C=CCC1(C(C)CCC)C(=O)NC(=S)NC1=O,1,False,0,254.35500000000002,17
+Fluoranthene,c1ccc2c(c1)c3cccc4cccc2c34,-6.0,True,c1ccc2c(c1)-c1cccc3cccc-2c13,1,False,0,202.25599999999997,16
+Propylisopropylether,CCCOC(C)C,-1.34,True,CCCOC(C)C,1,False,0,102.17699999999998,7
+"1,3-Dimethylnaphthalene",Cc1cc(C)c2ccccc2c1,-4.29,True,Cc1cc(C)c2ccccc2c1,1,False,0,156.22799999999998,12
+diethylstilbestrol,CCC(=C(CC)c1ccc(O)cc1)c2ccc(O)cc2 ,-4.07,True,CCC(=C(CC)c1ccc(O)cc1)c1ccc(O)cc1,1,False,0,268.356,20
+Chlorothalonil,c1(C#N)c(Cl)c(C#N)c(Cl)c(Cl)c(Cl)1,-5.64,True,N#Cc1c(Cl)c(Cl)c(Cl)c(C#N)c1Cl,1,False,0,265.914,14
+"2,3',4',5-PCB",Clc1ccc(Cl)c(c1)c2ccc(Cl)c(Cl)c2,-7.25,True,Clc1ccc(Cl)c(-c2ccc(Cl)c(Cl)c2)c1,1,False,0,291.992,16
+styrene oxide,C1OC1c2ccccc2 ,-1.6,True,c1ccc(C2CO2)cc1,1,False,0,120.15099999999995,9
+Isopropylbenzene ,CC(C)c1ccccc1,-3.27,True,CC(C)c1ccccc1,1,False,0,120.19499999999995,9
+Deoxycorticosterone,CC12CCC3C(CCC4=CC(=O)CCC34C)C2CCC1C(=O)CO,-3.45,True,CC12CCC(=O)C=C1CCC1C2CCC2(C)C(C(=O)CO)CCC12,1,False,0,330.4680000000001,24
+chlorquinox,c2(Cl)c(Cl)c(Cl)c1nccnc1c2(Cl) ,-5.43,True,Clc1c(Cl)c(Cl)c2nccnc2c1Cl,1,False,0,267.93,14
+L-arabinose,C1OC(O)C(O)C(O)C1O,0.39,True,OC1COC(O)C(O)C1O,1,False,0,150.13,10
+Dichloromethane,ClCCl,-0.63,True,ClCCl,1,False,0,84.93299999999999,3
+1-Ethylnaphthalene ,CCc1cccc2ccccc12,-4.17,True,CCc1cccc2ccccc12,1,False,0,156.22799999999998,12
+Methyl formate,COC=O,0.58,True,COC=O,1,False,0,60.05200000000001,4
+o-Nitrophenol,Oc1ccccc1N(=O)=O,-1.74,True,O=[N+]([O-])c1ccccc1O,1,False,0,139.10999999999999,10
+thymine,Cc1c[nH]c(=O)[nH]c1=O ,-1.506,True,Cc1c[nH]c(=O)[nH]c1=O,1,False,0,126.115,9
+2-Methylpropane,CC(C)C,-2.55,True,CC(C)C,1,False,0,58.123999999999995,4
+Inosine,OCC1OC(C(O)C1O)n2cnc3c(O)ncnc23,-1.23,True,OCC1OC(n2cnc3c(O)ncnc32)C(O)C1O,1,False,0,268.22900000000004,19
+Ioxynil,Oc1c(I)cc(C#N)cc1I,-3.61,True,N#Cc1cc(I)c(O)c(I)c1,1,False,0,370.91499999999996,11
+Niclosamide,Oc1ccc(Cl)cc1C(=O)Nc2ccc(cc2Cl)N(=O)=O,-4.7,True,O=C(Nc1ccc([N+](=O)[O-])cc1Cl)c1cc(Cl)ccc1O,1,False,0,327.1230000000001,21
+Pentane,CCCCC,-3.18,True,CCCCC,1,False,0,72.151,5
+Phenol,c1ccccc1O,0.0,True,Oc1ccccc1,1,False,0,94.11299999999999,7
+2-aminoanthracene,Nc3ccc2cc1ccccc1cc2c3 ,-5.17,True,Nc1ccc2cc3ccccc3cc2c1,1,False,0,193.249,15
+theobromine,Cn1cnc2n(C)c(=O)[nH]c(=O)c12 ,-2.523,True,Cn1cnc2c1c(=O)[nH]c(=O)n2C,1,False,0,180.16699999999997,13
+Isoquinoline,c1ccc2cnccc2c1,-1.45,True,c1ccc2cnccc2c1,1,False,0,129.16199999999998,10
+Anilofos,COP(=S)(OC)SCC(=O)N(C(C)C)c1ccc(Cl)cc1,-4.432,True,COP(=S)(OC)SCC(=O)N(c1ccc(Cl)cc1)C(C)C,1,False,0,367.86,21
+Hexylbenzene ,CCCCCCc1ccccc1,-5.21,True,CCCCCCc1ccccc1,1,False,0,162.276,12
+2-Chlorobiphenyl,Clc1ccccc1c2ccccc2,-4.54,True,Clc1ccccc1-c1ccccc1,1,False,0,188.657,13
+2-Methyl-1-Pentene,CCCC(=C)C,-3.03,True,C=C(C)CCC,1,False,0,84.16199999999999,6
+"2,3,4-Trimethylpentane",CC(C)C(C)C(C)C,-4.8,True,CC(C)C(C)C(C)C,1,False,0,114.23199999999999,8
+Pentachlorobenzene,Clc1cc(Cl)c(Cl)c(Cl)c1Cl,-5.65,True,Clc1cc(Cl)c(Cl)c(Cl)c1Cl,1,False,0,250.339,11
+m-Nitrophenol,Oc1cccc(c1)N(=O)=O,-1.01,True,O=[N+]([O-])c1cccc(O)c1,1,False,0,139.10999999999999,10
+1-Decene,CCCCCCCCC=C,-5.51,True,C=CCCCCCCCC,1,False,0,140.26999999999998,10
+Glyceryl triacetate,CC(=O)OCC(COC(=O)C)OC(=O)C,-0.6,True,CC(=O)OCC(COC(C)=O)OC(C)=O,1,False,0,218.20499999999998,15
+dimethirimol,CCCCc1c(C)nc(nc1O)N(C)C ,-2.24,True,CCCCc1c(C)nc(N(C)C)nc1O,1,False,0,209.29299999999998,15
+Cyfluthrin,CC1(C)C(C=C(Cl)Cl)C1C(=O)OC(C#N)c2ccc(F)c(Oc3ccccc3)c2,-7.337000000000001,True,CC1(C)C(C=C(Cl)Cl)C1C(=O)OC(C#N)c1ccc(F)c(Oc2ccccc2)c1,1,False,0,434.29400000000015,29
+Pyridine,c1ccncc1,0.76,True,c1ccncc1,1,False,0,79.10199999999998,6
+1-Bromoheptane,CCCCCCCBr,-4.43,True,CCCCCCCBr,1,False,0,179.101,8
+"3,4-Dimethylpyridine",Cc1ccncc1C,0.36,True,Cc1ccncc1C,1,False,0,107.15599999999999,8
+Fludrocortisone,CC34CC(O)C1(F)C(CCC2=CC(=O)CCC12C)C3CCC4(O)C(=O)CO ,-3.43,True,CC12CCC(=O)C=C1CCC1C3CCC(O)(C(=O)CO)C3(C)CC(O)C12F,1,False,0,380.45600000000013,27
+ethiofencarb,CCSCc1ccccc1OC(=O)NC ,-2.09,True,CCSCc1ccccc1OC(=O)NC,1,False,0,225.313,15
+Malonic acid diethylester,CCOC(=O)CC(=O)OCC,-0.82,True,CCOC(=O)CC(=O)OCC,1,False,0,160.16899999999998,11
+d-Limonene,CC1=CCC(CC1)C(C)=C,-4.26,True,C=C(C)C1CC=C(C)CC1,1,False,0,136.238,10
+Indan,C1Cc2ccccc2C1,-3.04,True,c1ccc2c(c1)CCC2,1,False,0,118.17899999999997,9
+p-t-Butylphenol,CC(C)(C)c1ccc(O)cc1,-2.41,True,CC(C)(C)c1ccc(O)cc1,1,False,0,150.22099999999998,11
+Cyclopropyl-5-spirobarbituric acid,O=C2NC(=O)C1(CC1)C(=O)N2 ,-1.886,True,O=C1NC(=O)C2(CC2)C(=O)N1,1,False,0,154.125,11
+m-Chloroiodobenzene,Clc1cccc(I)c1,-3.55,True,Clc1cccc(I)c1,1,False,0,238.45499999999998,8
+1-Bromonapthalene,Brc1cccc2ccccc12,-4.35,True,Brc1cccc2ccccc12,1,False,0,207.07,11
+trans-2-Pentene ,CC/C=C/C,-2.54,True,C/C=C/CC,1,False,0,70.135,5
+"2,6-Dimethylpyridine",Cc1cccc(C)n1,0.45,True,Cc1cccc(C)n1,1,False,0,107.156,8
+Trichloroethylene,ClC=C(Cl)Cl,-1.96,True,ClC=C(Cl)Cl,1,False,0,131.389,5
+1-Napthylamine,Nc1cccc2ccccc12,-1.92,True,Nc1cccc2ccccc12,1,False,0,143.189,11
+m-Xylene ,Cc1cccc(C)c1,-2.82,True,Cc1cccc(C)c1,1,False,0,106.16799999999999,8
+2-hydroxypteridine,Oc2ncc1nccnc1n2,-1.947,True,Oc1ncc2nccnc2n1,1,False,0,148.125,11
+Methanol,CO,1.57,True,CO,1,False,0,32.042,2
+Amobarbital,CCC1(CCC(C)C)C(=O)NC(=O)NC1=O,-2.468,True,CCC1(CCC(C)C)C(=O)NC(=O)NC1=O,1,False,0,226.27599999999998,16
+2-Butanone,CCC(=O)C,0.52,True,CCC(C)=O,1,False,0,72.107,5
+5-fluorouracil,Fc1c[nH]c(=O)[nH]c1=O ,-1.077,True,O=c1[nH]cc(F)c(=O)[nH]1,1,False,0,130.078,9
+tubercidin,Nc1ncnc2n(ccc12)C3OC(CO)C(O)C3O ,-1.95,True,Nc1ncnc2c1ccn2C1OC(CO)C(O)C1O,1,False,0,266.257,19
+"1,3-Benzenediol",Oc1cccc(O)c1,0.81,True,Oc1cccc(O)c1,1,False,0,110.11199999999998,8
+1-Hexanol,CCCCCCO,-1.24,True,CCCCCCO,1,False,0,102.17699999999999,7
+1-Chloropentane,CCCCCCl,-2.73,True,CCCCCCl,1,False,0,106.596,6
+"1,3-Butadiene",C=CC=C,-1.87,True,C=CC=C,1,False,0,54.09199999999999,4
+Propyl acetate,CCCOC(=O)C,-0.72,True,CCCOC(C)=O,1,False,0,102.13299999999998,7
+"5,6,7,8-tetrahydro-2-naphthol",Oc2ccc1CCCCc1c2 ,-1.99,True,Oc1ccc2c(c1)CCCC2,1,False,0,148.205,11
+chloroacetamide,NC(=O)CCl ,-0.02,True,NC(=O)CCl,1,False,0,93.513,5
+Iodofenphos,COP(=S)(OC)Oc1cc(Cl)c(I)cc1Cl,-6.62,True,COP(=S)(OC)Oc1cc(Cl)c(I)cc1Cl,1,False,0,413.0,16
+4-Chlorotoluene,Cc1ccc(Cl)cc1,-3.08,True,Cc1ccc(Cl)cc1,1,False,0,126.586,8
+Metribuzin,CSc1nnc(c(=O)n1N)C(C)(C)C,-2.253,True,CSc1nnc(C(C)(C)C)c(=O)n1N,1,False,0,214.29399999999998,14
+Tricresyl phosphate,Cc1ccc(OP(=O)(Oc2cccc(C)c2)Oc3ccccc3C)cc1,-6.01,True,Cc1ccc(OP(=O)(Oc2cccc(C)c2)Oc2ccccc2C)cc1,1,False,0,368.3690000000001,26
+Caproaldehyde,CCCCCC=O,-1.3,True,CCCCCC=O,1,False,0,100.16099999999999,7
+Butamben,CCCCOC(=O)c1ccc(N)cc1,-3.082,True,CCCCOC(=O)c1ccc(N)cc1,1,False,0,193.24599999999998,14
+RTI 3,O2c1cc(C)ccc1N(C)C(=O)c3cc(N)cnc23 ,-3.043,True,Cc1ccc2c(c1)Oc1ncc(N)cc1C(=O)N2C,1,False,0,255.277,19
+Nerol,CC(C)=CCC/C(C)=C\CO,-2.46,True,CC(C)=CCC/C(C)=C\CO,1,False,0,154.253,11
+"2,4'-PCB",Clc1ccc(cc1)c2ccccc2Cl ,-5.28,True,Clc1ccc(-c2ccccc2Cl)cc1,1,False,0,223.102,14
+3-Octanoyloxymethylphenytoin,O=C1N(COC(=O)CCCCCCC)C(=O)C(N1)(c2ccccc2)c3ccccc3,-6.523,True,CCCCCCCC(=O)OCN1C(=O)NC(c2ccccc2)(c2ccccc2)C1=O,1,False,0,408.498,30
+Nitroethane,CCN(=O)=O,-0.22,True,CC[N+](=O)[O-],1,False,0,75.067,5
+Ethalfluralin,CCN(CC(C)=C)c1c(cc(cc1N(=O)=O)C(F)(F)F)N(=O)=O,-6.124,True,C=C(C)CN(CC)c1c([N+](=O)[O-])cc(C(F)(F)F)cc1[N+](=O)[O-],1,False,0,333.266,23
+"1,2,3,4-Tetrachlorobenzene",Clc1ccc(Cl)c(Cl)c1Cl,-4.57,True,Clc1ccc(Cl)c(Cl)c1Cl,1,False,0,215.894,10
+Meprobamate,CCCC(C)(COC(N)=O)COC(N)=O ,-1.807,True,CCCC(C)(COC(N)=O)COC(N)=O,1,False,0,218.25299999999996,15
+pregnenolone,CC(=O)C3CCC4C2CC=C1CC(O)CCC1(C)C2CCC34C ,-4.65,True,CC(=O)C1CCC2C3CC=C4CC(O)CCC4(C)C3CCC12C,1,False,0,316.48500000000007,23
+Iodomethane,CI,-1.0,True,CI,1,False,0,141.939,2
+cycloheximide,CC1CC(C)C(=O)C(C1)C(O)CC2CC(=O)NC(=O)C2 ,-1.13,True,CC1CC(C)C(=O)C(C(O)CC2CC(=O)NC(=O)C2)C1,1,False,0,281.35200000000003,20
+3-Heptanoyloxymethylphenytoin,O=C1N(COC(=O)CCCCCC)C(=O)C(N1)(c2ccccc2)c3ccccc3,-6.301,True,CCCCCCC(=O)OCN1C(=O)NC(c2ccccc2)(c2ccccc2)C1=O,1,False,0,394.471,29
+isophorone,CC1=CC(=O)CC(C)(C)C1 ,-1.06,True,CC1=CC(=O)CC(C)(C)C1,1,False,0,138.20999999999998,10
+Butabarbital,O=C1NC(=O)NC(=O)C1(CC)C(C)CC,-2.39,True,CCC(C)C1(CC)C(=O)NC(=O)NC1=O,1,False,0,212.24899999999997,15
+5-Nonanone,CCCCC(=O)CCCC,-2.58,True,CCCCC(=O)CCCC,1,False,0,142.242,10
+Glutethimide,CCC1(CCC(=O)NC1=O)c2ccccc2 ,-2.337,True,CCC1(c2ccccc2)CCC(=O)NC1=O,1,False,0,217.268,16
+3-Methylpentane,CCC(C)CC,-3.68,True,CCC(C)CC,1,False,0,86.178,6
+Etofenprox,CCOc1ccc(cc1)C(C)(C)COCc3cccc(Oc2ccccc2)c3,-8.6,True,CCOc1ccc(C(C)(C)COCc2cccc(Oc3ccccc3)c2)cc1,1,False,0,376.49600000000004,28
+Methaqualone,Cc1ccccc1n3c(C)nc2ccccc2c3=O,-2.925,True,Cc1ccccc1-n1c(C)nc2ccccc2c1=O,1,False,0,250.30100000000002,19
+Chloroacetonitrile,ClCC#N,-0.092,True,N#CCCl,1,False,0,75.498,4
+Trichloronate,CCOP(=S)(CC)Oc1cc(Cl)c(Cl)cc1Cl,-5.752000000000001,True,CCOP(=S)(CC)Oc1cc(Cl)c(Cl)cc1Cl,1,False,0,333.60400000000004,17
+Ethisterone,CC12CCC(=O)C=C1CCC3C2CCC4(C)C3CCC4(O)C#C ,-5.66,True,C#CC1(O)CCC2C3CCC4=CC(=O)CCC4(C)C3CCC21C,1,False,0,312.45300000000003,23
+Pyridazine,c1ccnnc1,1.1,True,c1ccnnc1,1,False,0,80.08999999999999,6
+"1,2,3,5-Tetrachlorobenzene",Clc1cc(Cl)c(Cl)c(Cl)c1,-4.63,True,Clc1cc(Cl)c(Cl)c(Cl)c1,1,False,0,215.894,10
+Diosgenin,C1C(O)CCC2(C)CC3CCC4(C)C5(C)CC6OCC(C)CC6OC5CC4C3C=C21,-7.32,True,CC1COC2CC3(C)C(CC4C5C=C6CC(O)CCC6(C)CC5CCC43C)OC2C1,1,False,0,414.63000000000017,30
+o-Aminophenol,Nc1ccccc1O,-0.72,True,Nc1ccccc1O,1,False,0,109.12799999999999,8
+Ethyl nonanoate,CCCCCCCCC(=O)OCC,-3.8,True,CCCCCCCCC(=O)OCC,1,False,0,186.295,13
+metalaxyl,COCC(=O)N(C(C)C(=O)OC)c1c(C)cccc1C ,-1.601,True,COCC(=O)N(c1c(C)cccc1C)C(C)C(=O)OC,1,False,0,279.336,20
+Propoxur,CNC(=O)Oc1ccccc1OC(C)C,-2.05,True,CNC(=O)Oc1ccccc1OC(C)C,1,False,0,209.24499999999998,15
+2-Chlorobutane,CCC(C)Cl,-1.96,True,CCC(C)Cl,1,False,0,92.569,5
+2-Napthol,Oc1ccc2ccccc2c1,-2.28,True,Oc1ccc2ccccc2c1,1,False,0,144.17299999999997,11
+Oxadiazon,CC(C)Oc1cc(c(Cl)cc1Cl)n2nc(oc2=O)C(C)(C)C,-5.696000000000001,True,CC(C)Oc1cc(-n2nc(C(C)(C)C)oc2=O)c(Cl)cc1Cl,1,False,0,345.22600000000017,22
+1-Hexyne ,CCCCC#C,-2.36,True,C#CCCCC,1,False,0,82.14599999999999,6
+1-Nonyne ,CCCCCCCC#C,-4.24,True,C#CCCCCCCC,1,False,0,124.22699999999999,9
+2-Chlorotoluene,Cc1ccccc1Cl,-3.52,True,Cc1ccccc1Cl,1,False,0,126.586,8
+Diisopropyl ether ,CC(C)OC(C)C,-1.1,True,CC(C)OC(C)C,1,False,0,102.17699999999999,7
+Dapsone,Nc1ccc(cc1)S(=O)(=O)c2ccc(N)cc2,-3.094,True,Nc1ccc(S(=O)(=O)c2ccc(N)cc2)cc1,1,False,0,248.307,17
+Methyl hydrazine,CNN,1.34,True,CNN,1,False,0,46.073,3
+Propyne,CC#C,-0.41,True,C#CC,1,False,0,40.065000000000005,3
+Phoxim,CCOP(=S)(OCC)ON=C(C#N)c1ccccc1,-4.862,True,CCOP(=S)(OCC)ON=C(C#N)c1ccccc1,1,False,0,298.304,19
+Propetamphos,CCNP(=S)(OC)OC(=CC(=O)OC(C)C)C,-3.408,True,CCNP(=S)(OC)OC(C)=CC(=O)OC(C)C,1,False,0,281.314,17
+Acrolein,C=CC=O,0.57,True,C=CC=O,1,False,0,56.064,4
+Hypoxanthine,O=c1[nH]cnc2nc[nH]c12 ,-2.296,True,O=c1[nH]cnc2nc[nH]c12,1,False,0,136.114,10
+6-hydroxyquinoline,Oc2ccc1ncccc1c2 ,-2.16,True,Oc1ccc2ncccc2c1,1,False,0,145.161,11
+Fluorobenzene,Fc1ccccc1,-1.8,True,Fc1ccccc1,1,False,0,96.10399999999998,7
+1-Chloropropane,CCCCl,-1.47,True,CCCCl,1,False,0,78.542,4
+Ethyl acetate,CCOC(=O)C,-0.04,True,CCOC(C)=O,1,False,0,88.106,6
+"2,2-Dimethylpentane",CCCC(C)(C)C,-4.36,True,CCCC(C)(C)C,1,False,0,100.20499999999998,7
+Pentamethylbenzene,Cc1cc(C)c(C)c(C)c1C,-4.0,True,Cc1cc(C)c(C)c(C)c1C,1,False,0,148.249,11
+eucalyptol,CC12CCC(CC1)C(C)(C)O2 ,-1.64,True,CC12CCC(CC1)C(C)(C)O2,1,False,0,154.253,11
+dibutyl sebacate,CCCCOC(=O)CCCCCCCCC(=O)OCCCC,-3.896,True,CCCCOC(=O)CCCCCCCCC(=O)OCCCC,1,False,0,314.46600000000007,22
+"4,4'-PCB",Clc1ccc(cc1)c2ccc(Cl)cc2 ,-6.56,True,Clc1ccc(-c2ccc(Cl)cc2)cc1,1,False,0,223.102,14
+"2,3-Dimethylpyridine",Cc1cccnc1C,0.38,True,Cc1cccnc1C,1,False,0,107.156,8
+Carvone,CC(=C)C1CC=C(C)C(=O)C1,-2.06,True,C=C(C)C1CC=C(C)C(=O)C1,1,False,0,150.22099999999998,11
+Carbophenthion,CCOP(=S)(OCC)SCSc1ccc(Cl)cc1,-5.736000000000001,True,CCOP(=S)(OCC)SCSc1ccc(Cl)cc1,1,False,0,342.875,18
+"Etoposide (148-167,25mg/ml)",COc1cc(cc(OC)c1O)C6C2C(COC2=O)C(OC4OC3COC(C)OC3C(O)C4O)c7cc5OCOc5cc67,-3.571,True,COc1cc(C2c3cc4c(cc3C(OC3OC5COC(C)OC5C(O)C3O)C3COC(=O)C23)OCO4)cc(OC)c1O,1,False,0,588.5620000000001,42
+Perylene,c1cc2cccc3c4cccc5cccc(c(c1)c23)c54,-8.804,True,c1cc2cccc3c4cccc5cccc(c(c1)c23)c54,1,False,0,252.31599999999997,20
+"2,4-Dinitrotoluene",Cc1ccc(cc1N(=O)=O)N(=O)=O,-2.82,True,Cc1ccc([N+](=O)[O-])cc1[N+](=O)[O-],1,False,0,182.135,13
+2-bromonaphthalene,c1c(Br)ccc2ccccc12 ,-4.4,True,Brc1ccc2ccccc2c1,1,False,0,207.07000000000002,11
+Formetanate,CNC(=O)Oc1cccc(N=CN(C)C)c1,-2.34,True,CNC(=O)Oc1cccc(N=CN(C)C)c1,1,False,0,221.26,16
+6-methoxypteridine,COc2cnc1ncncc1n2,-1.139,True,COc1cnc2ncncc2n1,1,False,0,162.15200000000002,12
+nevirapine,Cc3ccnc4N(C1CC1)c2ncccc2C(=O)Nc34 ,-3.19,True,Cc1ccnc2c1NC(=O)c1cccnc1N2C1CC1,1,False,0,266.30400000000003,20
+Isazofos,CCOP(=S)(OCC)Oc1nc(Cl)n(n1)C(C)C,-3.658,True,CCOP(=S)(OCC)Oc1nc(Cl)n(C(C)C)n1,1,False,0,313.747,18
+"2-Methyl-1,3-Butadiene ",CC(=C)C=C,-2.03,True,C=CC(=C)C,1,False,0,68.11900000000001,5
+linalool,CC(C)=CCCC(O)(C)C=C,-1.99,True,C=CC(C)(O)CCC=C(C)C,1,False,0,154.253,11
+Fenthion,COP(=S)(OC)Oc1ccc(SC)c(C)c1,-4.57,True,COP(=S)(OC)Oc1ccc(SC)c(C)c1,1,False,0,278.335,16
+Cyclohexanol ,OC1CCCCC1,-0.44,True,OC1CCCCC1,1,False,0,100.161,7
+5-Allyl-5-methylbarbital,O=C1NC(=O)NC(=O)C1(C)CC=C,-1.16,True,C=CCC1(C)C(=O)NC(=O)NC1=O,1,False,0,182.17899999999997,13
+Epiandrosterone,CC34CCC1C(CCC2CC(O)CCC12C)C3CCC4=O,-4.16,True,CC12CCC3C(CCC4CC(O)CCC43C)C1CCC2=O,1,False,0,290.447,21
+mannitol,OCC(O)C(O)C(O)C(O)CO ,0.06,True,OCC(O)C(O)C(O)C(O)CO,1,False,0,182.172,12
+4-Methylbiphenyl,Cc1ccc(cc1)c2ccccc2,-4.62,True,Cc1ccc(-c2ccccc2)cc1,1,False,0,168.239,13
+Atrazine,CCNc1nc(Cl)nc(NC(C)C)n1,-3.85,True,CCNc1nc(Cl)nc(NC(C)C)n1,1,False,0,215.68800000000002,14
+Phenylthiourea,NC(=S)Nc1ccccc1,-1.77,True,NC(=S)Nc1ccccc1,1,False,0,152.22199999999998,10
+4-Heptanone,CCCC(=O)CCC,-1.3,True,CCCC(=O)CCC,1,False,0,114.18799999999999,8
+"3,3-Dimethyl-2-butanone",CC(=O)C(C)(C)C,-0.72,True,CC(=O)C(C)(C)C,1,False,0,100.16099999999999,7
+4-Chlorophenol ,Oc1ccc(Cl)cc1,-0.7,True,Oc1ccc(Cl)cc1,1,False,0,128.558,8
+Cyclohexanone,O=C1CCCCC1,-0.6,True,O=C1CCCCC1,1,False,0,98.14500000000001,7
+m-Methylaniline,Cc1cccc(N)c1,-0.85,True,Cc1cccc(N)c1,1,False,0,107.156,8
+Trichloroacetonitrile,ClC(Cl)(Cl)C#N,-2.168,True,N#CC(Cl)(Cl)Cl,1,False,0,144.388,6
+norflurazon,CNc2cnn(c1cccc(c1)C(F)(F)F)c(=O)c2Cl,-4.046,True,CNc1cnn(-c2cccc(C(F)(F)F)c2)c(=O)c1Cl,1,False,0,303.67100000000005,20
+2-Decanone,CCCCCCCCC(=O)C,-3.3,True,CCCCCCCCC(C)=O,1,False,0,156.269,11
+Ipazine,CCN(CC)c1nc(Cl)nc(NC(C)C)n1,-3.785,True,CCN(CC)c1nc(Cl)nc(NC(C)C)n1,1,False,0,243.74200000000002,16
+Benzocaine,CCOC(=O)c1ccc(N)cc1,-2.616,True,CCOC(=O)c1ccc(N)cc1,1,False,0,165.19199999999998,12
+"1,2,4-Trichlorobenzene",Clc1ccc(Cl)c(Cl)c1,-3.59,True,Clc1ccc(Cl)c(Cl)c1,1,False,0,181.449,9
+Triazolam,Cc3nnc4CN=C(c1ccccc1Cl)c2cc(Cl)ccc2n34,-4.09,True,Cc1nnc2n1-c1ccc(Cl)cc1C(c1ccccc1Cl)=NC2,1,False,0,343.2170000000001,23
+"1,2-Benzenediol",Oc1ccccc1O,0.62,True,Oc1ccccc1O,1,False,0,110.11199999999998,8
+Reverse Transcriptase inhibitor 1,CCN2c1ncccc1N(C)C(=O)c3cccnc23 ,-2.62,True,CCN1c2ncccc2C(=O)N(C)c2cccnc21,1,False,0,254.29299999999998,19
+Dimethyl sulfide,CSC,-0.45,True,CSC,1,False,0,62.137,3
+2-Bromotoluene,Cc1ccccc1Br,-2.23,True,Cc1ccccc1Br,1,False,0,171.03699999999998,8
+O-Ethyl carbamate,CCOC(=O)N,0.85,True,CCOC(N)=O,1,False,0,89.09400000000001,6
+megestrol acetate,CC(=O)OC3(CCC4C2C=C(C)C1=CC(=O)CCC1(C)C2CCC34C)C(C)=O ,-5.35,True,CC(=O)OC1(C(C)=O)CCC2C3C=C(C)C4=CC(=O)CCC4(C)C3CCC21C,1,False,0,384.5160000000002,28
+"2,4-Dimethyl-3-pentanol",CC(C)C(O)C(C)C,-1.22,True,CC(C)C(O)C(C)C,1,False,0,116.20399999999998,8
+Napthalene,c1ccc2ccccc2c1,-3.6,True,c1ccc2ccccc2c1,1,False,0,128.17399999999995,10
+N-Ethylaniline,CCNc1ccccc1,-1.7,True,CCNc1ccccc1,1,False,0,121.18299999999995,9
+Phenytoin,O=C1NC(=O)C(N1)(c2ccccc2)c3ccccc3,-4.097,True,O=C1NC(=O)C(c2ccccc2)(c2ccccc2)N1,1,False,0,252.27300000000002,19
+"7,12-Dimethylbenz(a)anthracene",Cc1c2ccccc2c(C)c3ccc4ccccc4c13,-7.02,True,Cc1c2ccccc2c(C)c2c1ccc1ccccc12,1,False,0,256.348,20
+Dialifor,CCOP(=S)(OCC)SC(CCl)N1C(=O)c2ccccc2C1=O,-6.34,True,CCOP(=S)(OCC)SC(CCl)N1C(=O)c2ccccc2C1=O,1,False,0,393.85400000000016,23
+Methoxychlor,COc1ccc(cc1)C(c2ccc(OC)cc2)C(Cl)(Cl)Cl,-6.89,True,COc1ccc(C(c2ccc(OC)cc2)C(Cl)(Cl)Cl)cc1,1,False,0,345.6529999999999,21
+TEFLUBENZURON,Fc1cccc(F)c1C(=O)NC(=O)Nc2cc(Cl)c(F)c(Cl)c2F ,-7.28,True,O=C(NC(=O)c1c(F)cccc1F)Nc1cc(Cl)c(F)c(Cl)c1F,1,False,0,381.1120000000001,24
+3-Pentanoyloxymethylphenytoin,O=C1N(COC(=O)CCCC)C(=O)C(N1)(c2ccccc2)c3ccccc3,-4.678,True,CCCCC(=O)OCN1C(=O)NC(c2ccccc2)(c2ccccc2)C1=O,1,False,0,366.41700000000003,27
+Monuron,CN(C)C(=O)Nc1ccc(Cl)cc1,-2.89,True,CN(C)C(=O)Nc1ccc(Cl)cc1,1,False,0,198.653,13
+Flutriafol,OC(Cn1cncn1)(c2ccc(F)cc2)c3ccccc3F,-3.37,True,OC(Cn1cncn1)(c1ccc(F)cc1)c1ccccc1F,1,False,0,301.296,22
+triamcinolone diacetate,CC(=O)OCC(=O)C3(O)C(CC4C2CCC1=CC(=O)C=CC1(C)C2(F)C(O)CC34C)OC(C)=O ,-4.13,True,CC(=O)OCC(=O)C1(O)C(OC(C)=O)CC2C3CCC4=CC(=O)C=CC4(C)C3(F)C(O)CC21C,1,False,0,478.51300000000026,34
+1-Bromobutane,CCCCBr,-2.37,True,CCCCBr,1,False,0,137.01999999999998,5
+"1,2,4,5-Tetrabromobenzene",Brc1cc(Br)c(Br)cc1Br,-6.98,True,Brc1cc(Br)c(Br)cc1Br,1,False,0,393.69800000000004,10
+4-Methyl-2-pentanone,CC(C)CC(=O)C,-0.74,True,CC(=O)CC(C)C,1,False,0,100.16099999999999,7
+cycloate,CCSC(=O)N(CC)C1CCCCC1 ,-3.4,True,CCSC(=O)N(CC)C1CCCCC1,1,False,0,215.36199999999994,14
+4-Chloroanisole,COc1ccc(Cl)cc1,-2.78,True,COc1ccc(Cl)cc1,1,False,0,142.585,9
+Deltamethrin,CC1(C)C(C=C(Br)Br)C1C(=O)OC(C#N)c2cccc(Oc3ccccc3)c2,-8.402000000000001,True,CC1(C)C(C=C(Br)Br)C1C(=O)OC(C#N)c1cccc(Oc2ccccc2)c1,1,False,0,505.20600000000024,28
+Talbutal,CCC(C)C1(CC=C)C(=O)NC(=O)NC1=O,-2.016,True,C=CCC1(C(C)CC)C(=O)NC(=O)NC1=O,1,False,0,224.26,16
+Fenitrothion,COP(=S)(OC)Oc1ccc(N(=O)=O)c(C)c1,-4.04,True,COP(=S)(OC)Oc1ccc([N+](=O)[O-])c(C)c1,1,False,0,277.238,17
+1-Iodonapthalene,Ic1cccc2ccccc12,-4.55,True,Ic1cccc2ccccc12,1,False,0,254.07000000000002,11
+Sorbitol,OCC(O)C(O)C(O)C(O)CO,1.09,True,OCC(O)C(O)C(O)C(O)CO,1,False,0,182.172,12
+Ethanethiol,CCS,-0.6,True,CCS,1,False,0,62.137,3
+"1,1,2-Trichloroethane",ClCC(Cl)Cl,-1.48,True,ClCC(Cl)Cl,1,False,0,133.405,5
+Pyrolan,CN(C)C(=O)Oc1cc(C)nn1c2ccccc2,-2.09,True,Cc1cc(OC(=O)N(C)C)n(-c2ccccc2)n1,1,False,0,245.282,18
+o-Hydroxybenzamide,NC(=O)c1ccccc1O,-1.82,True,NC(=O)c1ccccc1O,1,False,0,137.13799999999998,10
+o-Nitrotoluene,Cc1ccccc1N(=O)=O,-2.33,True,Cc1ccccc1[N+](=O)[O-],1,False,0,137.138,10
+"5,5-Diisopropylbarbital",O=C1NC(=O)NC(=O)C1(C(C)C)C(C)C,-2.766,True,CC(C)C1(C(C)C)C(=O)NC(=O)NC1=O,1,False,0,212.249,15
+2-Ethyltoluene,CCc1ccccc1C,-3.21,True,CCc1ccccc1C,1,False,0,120.19499999999996,9
+1-Chloroheptane,CCCCCCCCl,-4.0,True,CCCCCCCCl,1,False,0,134.65,8
+Barbital,O=C1NC(=O)NC(=O)C1(CC)CC,-2.4,True,CCC1(CC)C(=O)NC(=O)NC1=O,1,False,0,184.19499999999996,13
+Bibenzyl ,C(Cc1ccccc1)c2ccccc2,-4.62,True,c1ccc(CCc2ccccc2)cc1,1,False,0,182.266,14
+"1,1,2,2-Tetrachloroethane",ClC(Cl)C(Cl)Cl,-1.74,True,ClC(Cl)C(Cl)Cl,1,False,0,167.85,6
+RTI 23,CCN2c1cc(OC)cc(C)c1NC(=O)c3cccnc23 ,-5.153,True,CCN1c2cc(OC)cc(C)c2NC(=O)c2cccnc21,1,False,0,283.331,21
+2-Methylphenanthrene,Cc1ccc2c(ccc3ccccc32)c1,-5.84,True,Cc1ccc2c(ccc3ccccc32)c1,1,False,0,192.261,15
+dibutylphthalate,CCCCOC(=O)c1ccccc1C(=O)OCCCC ,-4.4,True,CCCCOC(=O)c1ccccc1C(=O)OCCCC,1,False,0,278.348,20
+tetrachloroguaiacol,COc1c(O)c(Cl)c(Cl)c(Cl)c1Cl ,-4.02,True,COc1c(O)c(Cl)c(Cl)c(Cl)c1Cl,1,False,0,261.919,13
+Dimecron,CCN(CC)C(=O)C(=CCOP(=O)(OC)OC)Cl,0.523,True,CCN(CC)C(=O)C(Cl)=CCOP(=O)(OC)OC,1,False,0,299.6909999999999,18
+Equilin,CC34CCC1C(=CCc2cc(O)ccc12)C3CCC4=O,-5.282,True,CC12CCC3C(=CCc4cc(O)ccc43)C1CCC2=O,1,False,0,268.356,20
+Chlorimuron-ethyl (ph 7),CCOC(=O)c1ccccc1S(=O)(=O)NN(C=O)c2nc(Cl)cc(OC)n2,-4.5760000000000005,True,CCOC(=O)c1ccccc1S(=O)(=O)NN(C=O)c1nc(Cl)cc(OC)n1,1,False,0,414.82700000000017,27
+p-Nitroanisole,COc1ccc(cc1)N(=O)=O,-2.41,True,COc1ccc([N+](=O)[O-])cc1,1,False,0,153.13699999999997,11
+1-Chlorohexane,CCCCCCCl,-3.12,True,CCCCCCCl,1,False,0,120.623,7
+"2,2',3,3',4,4',5,5'-PCB",Clc1cc(c(Cl)c(Cl)c1Cl)c2cc(Cl)c(Cl)c(Cl)c2Cl,-9.16,True,Clc1cc(-c2cc(Cl)c(Cl)c(Cl)c2Cl)c(Cl)c(Cl)c1Cl,1,False,0,429.77200000000016,20
+Raffinose,OCC1OC(CO)(OC2OC(COC3OC(CO)C(O)C(O)C3O)C(O)C(O)C2O)C(O)C1O,-0.41,True,OCC1OC(OCC2OC(OC3(CO)OC(CO)C(O)C3O)C(O)C(O)C2O)C(O)C(O)C1O,1,False,0,504.43800000000005,34
+hexacosane,CCCCCCCCCCCCCCCCCCCCCCCCCC,-8.334,True,CCCCCCCCCCCCCCCCCCCCCCCCCC,1,False,0,366.7180000000002,26
+RTI 5,CCN2c1ccccc1N(C)C(=O)c3cccnc23 ,-3.324,True,CCN1c2ccccc2N(C)C(=O)c2cccnc21,1,False,0,253.30499999999995,19
+"1,1-Dichloroethane",CC(Cl)Cl,-1.29,True,CC(Cl)Cl,1,False,0,98.96000000000001,4
+Sulfanilamide,Nc1ccc(cc1)S(N)(=O)=O,-1.34,True,Nc1ccc(S(N)(=O)=O)cc1,1,False,0,172.20899999999997,11
+Isopropalin,CCCN(CCC)c1c(cc(cc1N(=O)=O)C(C)C)N(=O)=O,-6.49,True,CCCN(CCC)c1c([N+](=O)[O-])cc(C(C)C)cc1[N+](=O)[O-],1,False,0,309.36600000000004,22
+Lindane,ClC1C(Cl)C(Cl)C(Cl)C(Cl)C1Cl,-4.64,True,ClC1C(Cl)C(Cl)C(Cl)C(Cl)C1Cl,1,False,0,290.832,12
+Isofenphos,CCOP(=S)(NC(C)C)Oc1ccccc1C(=O)OC(C)C,-4.194,True,CCOP(=S)(NC(C)C)Oc1ccccc1C(=O)OC(C)C,1,False,0,345.4010000000002,22
+"1,2,3-Trichlorobenzene",Clc1cccc(Cl)c1Cl,-4.0,True,Clc1cccc(Cl)c1Cl,1,False,0,181.44899999999998,9
+Tetrachloromethane,ClC(Cl)(Cl)Cl,-2.31,True,ClC(Cl)(Cl)Cl,1,False,0,153.823,5
+"3,4-Dichloronitrobenzene",O=N(=O)c1cc(Cl)c(Cl)cc1,-3.2,True,O=[N+]([O-])c1ccc(Cl)c(Cl)c1,1,False,0,192.001,11
+Cyclooctanol,OC1CCCCCCC1,-1.29,True,OC1CCCCCCC1,1,False,0,128.215,9
+17a-Methyltestosterone,CC1(O)CCC2C3CCC4=CC(=O)CCC4(C)C3CCC21C,-3.999,True,CC12CCC(=O)C=C1CCC1C2CCC2(C)C1CCC2(C)O,1,False,0,302.4580000000001,22
+Dulcin,CCOc1ccc(NC(N)=O)cc1,-2.17,True,CCOc1ccc(NC(N)=O)cc1,1,False,0,180.20699999999997,13
+"trans-1,4-Dimethylcyclohexane",C/C1CCC(\C)CC1,-4.47,True,CC1CCC(C)CC1,1,False,0,112.216,8
+"1,7-phenantroline",c1cnc2c(c1)ccc3ncccc23,-2.68,True,c1cnc2c(c1)ccc1ncccc12,1,False,0,180.20999999999998,14
+Methyl t-butyl ether ,COC(C)(C)C,-0.24,True,COC(C)(C)C,1,False,0,88.14999999999999,6
+Anethole,COc1ccc(C=CC)cc1,-3.13,True,CC=Cc1ccc(OC)cc1,1,False,0,148.20499999999998,11
+1-Hexadecanol,CCCCCCCCCCCCCCCCO,-7.0,True,CCCCCCCCCCCCCCCCO,1,False,0,242.44699999999992,17
+uracil,O=c1cc[nH]c(=O)[nH]1 ,-1.4880000000000002,True,O=c1cc[nH]c(=O)[nH]1,1,False,0,112.088,8
+adenine,Nc1ncnc2nc[nH]c12 ,-2.12,True,Nc1ncnc2nc[nH]c12,1,False,0,135.13,10
+"2,2',3,4,5-PCB",Clc1cc(Cl)c(cc1Cl)c2cccc(Cl)c2Cl ,-7.21,True,Clc1cc(Cl)c(-c2cccc(Cl)c2Cl)cc1Cl,1,False,0,326.437,17
+Ancymidol,COc1ccc(cc1)C(O)(C2CC2)c3cncnc3 ,-2.596,True,COc1ccc(C(O)(c2cncnc2)C2CC2)cc1,1,False,0,256.30499999999995,19
+Benzo(b)fluoranthene,c1ccc2c(c1)c3cccc4c3c2cc5ccccc54,-8.23,True,c1ccc2c(c1)-c1cccc3c1c-2cc1ccccc13,1,False,0,252.31599999999997,20
+Carbanilide,O=C(Nc1ccccc1)Nc2ccccc2,-3.15,True,O=C(Nc1ccccc1)Nc1ccccc1,1,False,0,212.25199999999998,16
+phenobarbital,CCC1(C(=O)NC(=O)NC1=O)c2ccccc2 ,-2.322,True,CCC1(c2ccccc2)C(=O)NC(=O)NC1=O,1,False,0,232.239,17
+"2',3,4-PCB",Clc1ccc(cc1)c2cccc(Cl)c2Cl ,-6.29,True,Clc1ccc(-c2cccc(Cl)c2Cl)cc1,1,False,0,257.547,15
+Isoproturon,CC(C)c1ccc(NC(=O)N(C)C)cc1,-3.536,True,CC(C)c1ccc(NC(=O)N(C)C)cc1,1,False,0,206.289,15
+Azintamide,CCN(CC)C(=O)CSc1ccc(Cl)nn1,-1.716,True,CCN(CC)C(=O)CSc1ccc(Cl)nn1,1,False,0,259.762,16
+"2,2-Dimethyl-1-butanol",CCC(C)(C)CO,-1.04,True,CCC(C)(C)CO,1,False,0,102.17699999999998,7
+Ethyl pentanoate,CCCOC(=O)CCC,-1.75,True,CCCOC(=O)CCC,1,False,0,130.18699999999998,9
+"2,4,6-Trinitrotoluene",Cc1c(cc(cc1N(=O)=O)N(=O)=O)N(=O)=O,-3.22,True,Cc1c([N+](=O)[O-])cc([N+](=O)[O-])cc1[N+](=O)[O-],1,False,0,227.13199999999998,16
+Bensulide,CC(C)OP(=S)(OC(C)C)SCCNS(=O)(=O)c1ccccc1,-4.2,True,CC(C)OP(=S)(OC(C)C)SCCNS(=O)(=O)c1ccccc1,1,False,0,397.52400000000006,23
+Cycloheptane,C1CCCCCC1,-3.51,True,C1CCCCCC1,1,False,0,98.18900000000001,7
+Propyl formate,CCCOC=O,-0.49,True,CCCOC=O,1,False,0,88.10599999999998,6
+2-Isopropyltoluene,CC(C)c1ccccc1C,-3.76,True,Cc1ccccc1C(C)C,1,False,0,134.22199999999995,10
+m-Chloroaniline,Nc1cccc(Cl)c1,-1.37,True,Nc1cccc(Cl)c1,1,False,0,127.574,8
+"2,4-Dimethylpentane",CC(C)CC(C)C,-4.26,True,CC(C)CC(C)C,1,False,0,100.20499999999998,7
+Dibenzofurane,o1c2ccccc2c3ccccc13,-4.6,True,c1ccc2c(c1)oc1ccccc12,1,False,0,168.195,13
+ethofumesate,CCOC2Oc1ccc(OS(C)(=O)=O)cc1C2(C)C,-3.42,True,CCOC1Oc2ccc(OS(C)(=O)=O)cc2C1(C)C,1,False,0,286.34900000000005,19
+Fluometuron,CN(C)C(=O)Nc1cccc(c1)C(F)(F)F,-3.43,True,CN(C)C(=O)Nc1cccc(C(F)(F)F)c1,1,False,0,232.20499999999996,16
+Acridine,c3ccc2nc1ccccc1cc2c3,-3.67,True,c1ccc2nc3ccccc3cc2c1,1,False,0,179.22199999999998,14
+Cortisone,CC12CC(=O)C3C(CCC4=CC(=O)CCC34C)C2CCC1(O)C(=O)CO,-3.11,True,CC12CCC(=O)C=C1CCC1C2C(=O)CC2(C)C1CCC2(O)C(=O)CO,1,False,0,360.45000000000016,26
+glucose,OCC1OC(O)C(O)C(O)C1O,0.74,True,OCC1OC(O)C(O)C(O)C1O,1,False,0,180.156,12
+3-Methylphenol,Cc1cccc(O)c1,-0.68,True,Cc1cccc(O)c1,1,False,0,108.13999999999999,8
+Indapamide,CC2Cc1ccccc1N2NC(=O)c3ccc(Cl)c(c3)S(N)(=O)=O ,-3.5860000000000003,True,CC1Cc2ccccc2N1NC(=O)c1ccc(Cl)c(S(N)(=O)=O)c1,1,False,0,365.84200000000004,24
+Lovastatin,CCC(C)C(=O)OC2CC(C)C=C3C=CC(C)C(CCC1CC(O)CC(=O)O1)C23 ,-6.005,True,CCC(C)C(=O)OC1CC(C)C=C2C=CC(C)C(CCC3CC(O)CC(=O)O3)C21,1,False,0,404.54700000000025,29
+"1,4-Dinitrobenzene",O=N(=O)c1ccc(cc1)N(=O)=O,-3.39,True,O=[N+]([O-])c1ccc([N+](=O)[O-])cc1,1,False,0,168.10799999999995,12
+Reposal,CCC1(C(=O)NC(=O)NC1=O)C2=CCC3CCC2C3,-2.696,True,CCC1(C2=CCC3CCC2C3)C(=O)NC(=O)NC1=O,1,False,0,262.30899999999997,19
+Ethyl decanoate,CCCCCCCCCC(=O)OCC,-4.1,True,CCCCCCCCCC(=O)OCC,1,False,0,200.32199999999997,14
+Fenuron,CN(C)C(=O)Nc1ccccc1,-1.6,True,CN(C)C(=O)Nc1ccccc1,1,False,0,164.208,12
+Ethyl propyl ether,CCCOCC,-0.66,True,CCCOCC,1,False,0,88.14999999999999,6
+2-Propanol,CC(C)O,0.43,True,CC(C)O,1,False,0,60.096000000000004,4
+2-Methylnapthalene,Cc1ccc2ccccc2c1,-3.77,True,Cc1ccc2ccccc2c1,1,False,0,142.201,11
+Chlorodibromethane,ClC(Br)Br,-1.9,True,ClC(Br)Br,1,False,0,208.28,4
+Hexestrol,CCC(C(CC)c1ccc(O)cc1)c2ccc(O)cc2,-4.43,True,CCC(c1ccc(O)cc1)C(CC)c1ccc(O)cc1,1,False,0,270.372,20
+Malathion,CCOC(=O)CC(SP(=S)(OC)OC)C(=O)OCC,-3.37,True,CCOC(=O)CC(SP(=S)(OC)OC)C(=O)OCC,1,False,0,330.3640000000001,19
+Benzylchloride,ClCc1ccccc1,-2.39,True,ClCc1ccccc1,1,False,0,126.58599999999996,8
+t-Crotonaldehyde,C/C=C/C=O,0.32,True,C/C=C/C=O,1,False,0,70.09100000000001,5
+Chlorbromuron,CON(C)C(=O)Nc1ccc(Br)c(Cl)c1,-3.924,True,CON(C)C(=O)Nc1ccc(Br)c(Cl)c1,1,False,0,293.548,15
+"9,10-Dimethylanthracene",Cc1c2ccccc2c(C)c3ccccc13,-6.57,True,Cc1c2ccccc2c(C)c2ccccc12,1,False,0,206.28799999999998,16
+Methyl hexanoate,CCCCCC(=O)OC,-1.87,True,CCCCCC(=O)OC,1,False,0,130.18699999999998,9
+Dimefuron,CN(C)C(=O)Nc1ccc(c(Cl)c1)n2nc(oc2=O)C(C)(C)C,-4.328,True,CN(C)C(=O)Nc1ccc(-n2nc(C(C)(C)C)oc2=O)c(Cl)c1,1,False,0,338.79500000000013,23
+p-Fluoroacetanilide,CC(=O)Nc1ccc(F)cc1,-1.78,True,CC(=O)Nc1ccc(F)cc1,1,False,0,153.156,11
+alachlor,CCc1cccc(CC)c1N(COC)C(=O)CCl ,-3.26,True,CCc1cccc(CC)c1N(COC)C(=O)CCl,1,False,0,269.77199999999993,18
+Cyclohexene,C1CCC=CC1,-2.59,True,C1=CCCCC1,1,False,0,82.146,6
+Hydrocortisone ,CC12CC(O)C3C(CCC4=CC(=O)CCC34C)C2CCC1(O)C(=O)CO,-3.09,True,CC12CCC(=O)C=C1CCC1C2C(O)CC2(C)C1CCC2(O)C(=O)CO,1,False,0,362.4660000000002,26
+Pyrimidine,c1cncnc1,1.1,True,c1cncnc1,1,False,0,80.08999999999999,6
+p-Chloronitrobenzene,Clc1ccc(cc1)N(=O)=O,-2.92,True,O=[N+]([O-])c1ccc(Cl)cc1,1,False,0,157.55599999999998,10
+Methyl propionate,CCC(=O)OC,-0.14,True,CCC(=O)OC,1,False,0,88.106,6
+o-Chloronitrobenzene,Clc1ccccc1N(=O)=O,-2.55,True,O=[N+]([O-])c1ccccc1Cl,1,False,0,157.55599999999998,10
+Neburon,CCCCN(C)C(=O)Nc1ccc(Cl)c(Cl)c1,-4.77,True,CCCCN(C)C(=O)Nc1ccc(Cl)c(Cl)c1,1,False,0,275.179,17
+Buthidazole,CN1CC(O)N(C1=O)c2nnc(s2)C(C)(C)C,-1.877,True,CN1CC(O)N(c2nnc(C(C)(C)C)s2)C1=O,1,False,0,256.33099999999996,17
+Nitrobenzene,O=N(=O)c1ccccc1,-1.8,True,O=[N+]([O-])c1ccccc1,1,False,0,123.11099999999996,9
+Iodobenzene,Ic1ccccc1,-3.01,True,Ic1ccccc1,1,False,0,204.01000000000002,7
+Metolazone,CC2Nc1cc(Cl)c(cc1C(=O)N2c3ccccc3C)S(N)(=O)=O ,-3.78,True,Cc1ccccc1N1C(=O)c2cc(S(N)(=O)=O)c(Cl)cc2NC1C,1,False,0,365.8420000000001,24
+Methocarbamol,COc1ccccc1OCC(O)COC(N)=O,-0.985,True,COc1ccccc1OCC(O)COC(N)=O,1,False,0,241.24299999999994,17
+butachlor,CCCCOCN(C(=O)CCl)c1c(CC)cccc1CC ,-4.19,True,CCCCOCN(C(=O)CCl)c1c(CC)cccc1CC,1,False,0,311.85300000000007,21
+"2,3-Dichlorophenol",Oc1cccc(Cl)c1Cl,-1.3,True,Oc1cccc(Cl)c1Cl,1,False,0,163.003,9
+Propyl butyrate,CCCC(=O)OC,-1.92,True,CCCC(=O)OC,1,False,0,102.13299999999998,7
+Propanil,CCC(=O)Nc1ccc(Cl)c(Cl)c1,-3.0,True,CCC(=O)Nc1ccc(Cl)c(Cl)c1,1,False,0,218.08299999999997,13
+Triamterene,Nc3nc(N)c2nc(c1ccccc1)c(N)nc2n3,-2.404,True,Nc1nc(N)c2nc(-c3ccccc3)c(N)nc2n1,1,False,0,253.26900000000003,19
+Ethyl hexanoate,CCCCCC(=O)OCC,-2.35,True,CCCCCC(=O)OCC,1,False,0,144.21399999999997,10
+chloralose,OCC(O)C2OC1OC(OC1C2O)C(Cl)(Cl)Cl ,-1.84,True,OCC(O)C1OC2OC(C(Cl)(Cl)Cl)OC2C1O,1,False,0,309.529,17
+Amitraz,CN(C=Nc1ccc(C)cc1C)C=Nc2ccc(C)cc2C,-5.47,True,Cc1ccc(N=CN(C)C=Nc2ccc(C)cc2C)c(C)c1,1,False,0,293.41400000000004,22
+Prometon,COc1nc(NC(C)C)nc(NC(C)C)n1,-2.478,True,COc1nc(NC(C)C)nc(NC(C)C)n1,1,False,0,225.296,16
+1-Octene ,CCCCCCC=C,-4.44,True,C=CCCCCCC,1,False,0,112.216,8
+p-Methylaniline ,Cc1ccc(N)cc1,-1.21,True,Cc1ccc(N)cc1,1,False,0,107.156,8
+aminothiazole,Nc1nccs1 ,-0.36,True,Nc1nccs1,1,False,0,100.14599999999999,6
+Metolcarb,c1ccccc1(OC(=O)NC),-1.803,True,CNC(=O)Oc1ccccc1,1,False,0,151.165,11
+3-Hexanol,CCCC(O)CC,-0.8,True,CCCC(O)CC,1,False,0,102.17699999999999,7
+9-anthrol,c3ccc2c(O)c1ccccc1cc2c3 ,-4.73,True,Oc1c2ccccc2cc2ccccc12,1,False,0,194.23299999999998,15
+2-Methylanthracene,Cc1ccc2cc3ccccc3cc2c1,-6.96,True,Cc1ccc2cc3ccccc3cc2c1,1,False,0,192.261,15
+"1,2,3-Trimethylbenzene ",Cc1cccc(C)c1C,-3.2,True,Cc1cccc(C)c1C,1,False,0,120.195,9
+Aminocarb,CNC(=O)Oc1ccc(N(C)C)c(C)c1,-2.36,True,CNC(=O)Oc1ccc(N(C)C)c(C)c1,1,False,0,208.26099999999997,15
+2-Nonanol,CCCCCCCC(C)O,-2.74,True,CCCCCCCC(C)O,1,False,0,144.258,10
+Methyldymron,CN(C(=O)NC(C)(C)c1ccccc1)c2ccccc2,-3.35,True,CN(C(=O)NC(C)(C)c1ccccc1)c1ccccc1,1,False,0,268.36,20
+3-Hexanone,CCCC(=O)CC,-0.83,True,CCCC(=O)CC,1,False,0,100.16099999999999,7
+bromoxynil,Oc1c(Br)cc(C#N)cc1Br ,-3.33,True,N#Cc1cc(Br)c(O)c(Br)c1,1,False,0,276.91499999999996,11
+"3,4-PCB",Clc1ccc(cc1Cl)c2ccccc2 ,-6.39,True,Clc1ccc(-c2ccccc2)cc1Cl,1,False,0,223.102,14
+Mefenacet,CN(C(=O)COc1nc2ccccc2s1)c3ccccc3,-4.873,True,CN(C(=O)COc1nc2ccccc2s1)c1ccccc1,1,False,0,298.367,21
+5-hydroxyquinoline,Oc1cccc2ncccc12 ,-2.54,True,Oc1cccc2ncccc12,1,False,0,145.161,11
+Carboxin,CC1=C(SCCO1)C(=O)Nc2ccccc2,-3.14,True,CC1=C(C(=O)Nc2ccccc2)SCCO1,1,False,0,235.30800000000002,16
+Ethoxyzolamide,CCOc2ccc1nc(sc1c2)S(N)(=O)=O ,-3.81,True,CCOc1ccc2nc(S(N)(=O)=O)sc2c1,1,False,0,258.324,16
+Pentachlorophenol,Oc1c(Cl)c(Cl)c(Cl)c(Cl)c1Cl,-4.28,True,Oc1c(Cl)c(Cl)c(Cl)c(Cl)c1Cl,1,False,0,266.33799999999997,12
+Bromochloromethane,ClCBr,-0.89,True,ClCBr,1,False,0,129.384,3
+metharbital,CCC1(CC)C(=O)NC(=O)N(C)C1=O ,-2.23,True,CCC1(CC)C(=O)NC(=O)N(C)C1=O,1,False,0,198.22199999999998,14
+deoxycorticosterone acetate,CC(=O)OCC(=O)C3CCC4C2CCC1=CC(=O)CCC1(C)C2CCC34C ,-4.63,True,CC(=O)OCC(=O)C1CCC2C3CCC4=CC(=O)CCC4(C)C3CCC12C,1,False,0,372.5050000000002,27
+benzylurea,NC(=O)NCc1ccccc1 ,-0.95,True,NC(=O)NCc1ccccc1,1,False,0,150.18099999999998,11
+Chlortoluron,CN(C)C(=O)Nc1ccc(C)c(Cl)c1,-3.483,True,Cc1ccc(NC(=O)N(C)C)cc1Cl,1,False,0,212.67999999999998,14
+Linuron,CON(C)C(=O)Nc1ccc(Cl)c(Cl)c1,-3.592,True,CON(C)C(=O)Nc1ccc(Cl)c(Cl)c1,1,False,0,249.09699999999998,15
+Cycloheptanol,OC1CCCCCC1,-0.88,True,OC1CCCCCC1,1,False,0,114.188,8
+Thiamphenicol,CS(=O)(=O)c1ccc(cc1)C(O)C(CO)NC(=O)C(Cl)Cl ,-2.154,True,CS(=O)(=O)c1ccc(C(O)C(CO)NC(=O)C(Cl)Cl)cc1,1,False,0,356.2270000000001,21
+thiopental,CCCC(C)C1(CC)C(=O)NC(=S)NC1=O ,-3.36,True,CCCC(C)C1(CC)C(=O)NC(=S)NC1=O,1,False,0,242.34400000000002,16
+acetazolamide,CC(=O)Nc1nnc(s1)S(N)(=O)=O ,-2.36,True,CC(=O)Nc1nnc(S(N)(=O)=O)s1,1,False,0,222.251,13
+p-Nitrophenol,Oc1ccc(cc1)N(=O)=O,-0.74,True,O=[N+]([O-])c1ccc(O)cc1,1,False,0,139.10999999999999,10
+Aldrin,ClC1=C(Cl)C2(Cl)C3C4CC(C=C4)C3C1(Cl)C2(Cl)Cl,-6.307,True,ClC1=C(Cl)C2(Cl)C3C4C=CC(C4)C3C1(Cl)C2(Cl)Cl,1,False,0,364.914,18
+Tetrahydrofurane ,C1CCOC1,0.49,True,C1CCOC1,1,False,0,72.107,5
+o-Nitroaniline,Nc1ccccc1N(=O)=O,-1.96,True,Nc1ccccc1[N+](=O)[O-],1,False,0,138.126,10
+"2,2',3,3'-PCB",Clc1cccc(c1Cl)c2cccc(Cl)c2Cl,-7.28,True,Clc1cccc(-c2cccc(Cl)c2Cl)c1Cl,1,False,0,291.99199999999996,16
+phenylbutazone,CCCCC1C(=O)N(N(C1=O)c2ccccc2)c3ccccc3 ,-3.81,True,CCCCC1C(=O)N(c2ccccc2)N(c2ccccc2)C1=O,1,False,0,308.38100000000003,23
+"2,6-Dinitrotoluene",Cc1c(cccc1N(=O)=O)N(=O)=O,-3.0,True,Cc1c([N+](=O)[O-])cccc1[N+](=O)[O-],1,False,0,182.135,13
+Progesterone,CC(=O)C1CCC2C3CCC4=CC(=O)CCC4(C)C3CCC12C,-4.42,True,CC(=O)C1CCC2C3CCC4=CC(=O)CCC4(C)C3CCC12C,1,False,0,314.46900000000005,23
+Chlorazine,CCN(CC)c1nc(Cl)nc(n1)N(CC)CC,-4.4110000000000005,True,CCN(CC)c1nc(Cl)nc(N(CC)CC)n1,1,False,0,257.76899999999995,17
+captafol,ClC(Cl)C(Cl)(Cl)SN2C(=O)C1CC=CCC1C2=O ,-5.4,True,O=C1C2CC=CCC2C(=O)N1SC(Cl)(Cl)C(Cl)Cl,1,False,0,349.06600000000014,18
+"1,2,4-tribromobenzene",c1(Br)c(Br)cc(Br)cc1,-4.5,True,Brc1ccc(Br)c(Br)c1,1,False,0,314.802,9
+Oxazepam,OC3N=C(c1ccccc1)c2cc(Cl)ccc2NC3=O ,-3.952,True,O=C1Nc2ccc(Cl)cc2C(c2ccccc2)=NC1O,1,False,0,286.718,20
+Secobarbital,O=C1NC(=O)NC(=O)C1(C(C)CCC)CC=C,-2.356,True,C=CCC1(C(C)CCC)C(=O)NC(=O)NC1=O,1,False,0,238.28699999999995,17
+Carvacrol,c1(O)c(C)ccc(C(C)C)c1,-2.08,True,Cc1ccc(C(C)C)cc1O,1,False,0,150.22099999999998,11
+rhodanine,C1SC(=S)NC1(=O),-1.77,True,O=C1CSC(=S)N1,1,False,0,133.197,7
+Morin,Oc1ccc(c(O)c1)c3oc2cc(O)cc(O)c2c(=O)c3O ,-3.083,True,O=c1c(O)c(-c2ccc(O)cc2O)oc2cc(O)cc(O)c12,1,False,0,302.23800000000006,22
+Kepone,ClC1(C(=O)C2(Cl)C3(Cl)C14Cl)C5(Cl)C2(Cl)C3(Cl)C(Cl)(Cl)C45Cl,-5.259,True,O=C1C2(Cl)C3(Cl)C4(Cl)C(Cl)(Cl)C5(Cl)C3(Cl)C1(Cl)C5(Cl)C24Cl,1,False,0,490.6390000000001,21
+Disulfiram,CCN(CC)C(=S)SSC(=S)N(CC)CC,-4.86,True,CCN(CC)C(=S)SSC(=S)N(CC)CC,1,False,0,296.5520000000001,16
+Cyclohexane,C1CCCCC1,-3.1,True,C1CCCCC1,1,False,0,84.162,6
+Dienochlor,ClC1=C(Cl)C(Cl)(C(=C1Cl)Cl)C2(Cl)C(=C(Cl)C(=C2Cl)Cl)Cl,-7.278,True,ClC1=C(Cl)C(Cl)(C2(Cl)C(Cl)=C(Cl)C(Cl)=C2Cl)C(Cl)=C1Cl,1,False,0,474.64,20
+chlordimeform,CN(C)C=Nc1ccc(Cl)cc1C,-2.86,True,Cc1cc(Cl)ccc1N=CN(C)C,1,False,0,196.68099999999998,13
+Equilenin,CC34CCc1c(ccc2cc(O)ccc12)C3CCC4=O,-5.24,True,CC12CCc3c(ccc4cc(O)ccc34)C1CCC2=O,1,False,0,266.34,20
+1-Octanol,CCCCCCCCO,-2.39,True,CCCCCCCCO,1,False,0,130.23100000000002,9
+Diethyl sulfide,CCSCC,-1.34,True,CCSCC,1,False,0,90.191,5
+"1,2-Dichloroethane",ClCCCl,-1.06,True,ClCCCl,1,False,0,98.96000000000001,4
+2-Chloro-2-methylbutane,CCC(C)(C)Cl,-2.51,True,CCC(C)(C)Cl,1,False,0,106.59599999999999,6
+1-Chloro-2-bromoethane,ClCCBr,-1.32,True,ClCCBr,1,False,0,143.411,4
+p-Nitroaniline,Nc1ccc(cc1)N(=O)=O,-2.37,True,Nc1ccc([N+](=O)[O-])cc1,1,False,0,138.126,10
+Lactose,OCC1OC(OC2C(O)C(O)C(O)OC2CO)C(O)C(O)C1O,-0.244,True,OCC1OC(OC2C(CO)OC(O)C(O)C2O)C(O)C(O)C1O,1,False,0,342.297,23
+RTI 2,CCN2c1ncccc1N(CC)C(=O)c3cccnc23 ,-2.86,True,CCN1C(=O)c2cccnc2N(CC)c2ncccc21,1,False,0,268.32,20
+Chlorobenzene,Clc1ccccc1,-2.38,True,Clc1ccccc1,1,False,0,112.55899999999997,7
+1-Nonene ,CCCCCCCC=C,-5.05,True,C=CCCCCCCC,1,False,0,126.243,9
+p-Bromoiodobenzene,Brc1ccc(I)cc1,-4.56,True,Brc1ccc(I)cc1,1,False,0,282.90599999999995,8
+3-Methyl-3-pentanol,CCC(C)(O)CC,-0.36,True,CCC(C)(O)CC,1,False,0,102.17699999999998,7
+Pentylbenzene,CCCCCc1ccccc1,-4.64,True,CCCCCc1ccccc1,1,False,0,148.249,11
+allantoin,NC(=O)NC1NC(=O)NC1=O ,-1.6,True,NC(=O)NC1NC(=O)NC1=O,1,False,0,158.117,11
+Glafenine,OCC(O)COC(=O)c1ccccc1Nc2ccnc3cc(Cl)ccc23,-4.571000000000001,True,O=C(OCC(O)CO)c1ccccc1Nc1ccnc2cc(Cl)ccc12,1,False,0,372.80800000000016,26
+DDD,ClC(Cl)C(c1ccc(Cl)cc1)c2ccc(Cl)cc2,-7.2,True,Clc1ccc(C(c2ccc(Cl)cc2)C(Cl)Cl)cc1,1,False,0,320.04600000000005,18
+testosterone acetate,CC(=O)OC3CCC4C2CCC1=CC(=O)CCC1(C)C2CCC34C ,-5.184,True,CC(=O)OC1CCC2C3CCC4=CC(=O)CCC4(C)C3CCC12C,1,False,0,330.4680000000001,24
+1-Chloronapthalene,Clc1cccc2ccccc12,-3.93,True,Clc1cccc2ccccc12,1,False,0,162.61899999999997,11
+RTI 19,CCN2c1ccccc1N(C)C(=O)c3ccccc23 ,-4.749,True,CCN1c2ccccc2C(=O)N(C)c2ccccc21,1,False,0,252.31699999999995,19
+2-Hexanol,CCCCC(C)O,-0.89,True,CCCCC(C)O,1,False,0,102.17699999999998,7
+Propylcyclopentane,CCCC1CCCC1,-4.74,True,CCCC1CCCC1,1,False,0,112.21600000000001,8
+Etomidate,CCOC(=O)c1cncn1C(C)c2ccccc2,-4.735,True,CCOC(=O)c1cncn1C(C)c1ccccc1,1,False,0,244.294,18
+"3,4-Dichlorophenol",Oc1ccc(Cl)c(Cl)c1,-1.25,True,Oc1ccc(Cl)c(Cl)c1,1,False,0,163.00300000000001,9
+Cypermethrin,CC1(C)C(C=C(Cl)Cl)C1C(=O)OC(C#N)c2cccc(Oc3ccccc3)c2,-8.017000000000001,True,CC1(C)C(C=C(Cl)Cl)C1C(=O)OC(C#N)c1cccc(Oc2ccccc2)c1,1,False,0,416.30400000000014,28
+Benzoxazole,c2ccc1ocnc1c2,-1.16,True,c1ccc2ocnc2c1,1,False,0,119.12299999999998,9
+1-Pentanol,CCCCCO,-0.6,True,CCCCCO,1,False,0,88.14999999999999,6
+"N,N-Diethylaniline",CCN(CC)c1ccccc1,-3.03,True,CCN(CC)c1ccccc1,1,False,0,149.237,11
+"1,3-Difluorobenzene",Fc1cccc(F)c1,-2.0,True,Fc1cccc(F)c1,1,False,0,114.094,8
+3-chloropropionitrile,ClCCC#N ,-0.29,True,N#CCCCl,1,False,0,89.525,5
+t-Pentylbenzene,CC(C)(C)Cc1ccccc1,-4.15,True,CC(C)(C)Cc1ccccc1,1,False,0,148.249,11
+5-Ethyl-5-phenylbarbital,O=C1NC(=O)NC(=O)C1(CC)c1ccccc1,-2.322,True,CCC1(c2ccccc2)C(=O)NC(=O)NC1=O,1,False,0,232.239,17
+o-Chloroiodobenzene,Clc1ccccc1I,-3.54,True,Clc1ccccc1I,1,False,0,238.45499999999998,8
+Benzotriazole,c2ccc1[nH]nnc1c2,-0.78,True,c1ccc2[nH]nnc2c1,1,False,0,119.127,9
+Carbofuran,CNC(=O)Oc1cccc2CC(C)(C)Oc12,-2.8,True,CNC(=O)Oc1cccc2c1OC(C)(C)C2,1,False,0,221.25599999999994,16
+"2,6-Dimethylphenol",Cc1cccc(C)c1O,-1.29,True,Cc1cccc(C)c1O,1,False,0,122.16699999999999,9
+3-Methyl-2-butanol,CC(C)C(C)O,-0.18,True,CC(C)C(C)O,1,False,0,88.14999999999999,6
+benzhydrol,c1ccccc1C(O)c2ccccc2,-2.55,True,OC(c1ccccc1)c1ccccc1,1,False,0,184.238,14
+Methyl decanoate,CCCCCCCCCC(=O)OC,-4.69,True,CCCCCCCCCC(=O)OC,1,False,0,186.295,13
+Dicapthon,COP(=S)(OC)Oc1ccc(cc1Cl)N(=O)=O,-4.31,True,COP(=S)(OC)Oc1ccc([N+](=O)[O-])cc1Cl,1,False,0,297.656,17
+1-Bromo-2-methylpropane,CC(C)CBr,-2.43,True,CC(C)CBr,1,False,0,137.01999999999998,5
+Iodoethane,CCI,-1.6,True,CCI,1,False,0,155.966,3
+Pirimicarb,CN(C)C(=O)Oc1nc(nc(C)c1C)N(C)C,-1.95,True,Cc1nc(N(C)C)nc(OC(=O)N(C)C)c1C,1,False,0,238.29099999999997,17
+1-Bromohexane,CCCCCCBr,-3.81,True,CCCCCCBr,1,False,0,165.074,7
+2-Methylpentane,CCCC(C)C,-3.74,True,CCCC(C)C,1,False,0,86.178,6
+Tetrafluthrin,Cc1c(F)c(F)c(COC(=O)C2C(C=C(Cl)C(F)(F)F)C2(C)C)c(F)c1F,-7.321000000000001,True,Cc1c(F)c(F)c(COC(=O)C2C(C=C(Cl)C(F)(F)F)C2(C)C)c(F)c1F,1,False,0,418.7360000000001,27
+Metolachlor,CCc1cccc(C)c1N(C(C)COC)C(=O)CCl ,-2.73,True,CCc1cccc(C)c1N(C(=O)CCl)C(C)COC,1,False,0,283.7989999999999,19
+nifuroxime,ON=Cc1ccc(o1)N(=O)=O ,-2.19,True,O=[N+]([O-])c1ccc(C=NO)o1,1,False,0,156.09699999999998,11
+Fluvalinate,CC(C)C(Nc1ccc(cc1Cl)C(F)(F)F)C(=O)OC(C#N)c2cccc(Oc3ccccc3)c2,-8.003,True,CC(C)C(Nc1ccc(C(F)(F)F)cc1Cl)C(=O)OC(C#N)c1cccc(Oc2ccccc2)c1,1,False,0,502.9200000000002,35
+Amitrole,Nc1nc[nH]n1,0.522,True,Nc1nc[nH]n1,1,False,0,84.082,6
+Tribromomethane,BrC(Br)Br,-1.91,True,BrC(Br)Br,1,False,0,252.731,4
+Trichlorfon,COP(=O)(OC)C(O)C(Cl)(Cl)Cl,-0.22,True,COP(=O)(OC)C(O)C(Cl)(Cl)Cl,1,False,0,257.437,12
+Phosalone,CCOP(=S)(OCC)SCn1c(=O)oc2cc(Cl)ccc12,-5.233,True,CCOP(=S)(OCC)SCn1c(=O)oc2cc(Cl)ccc21,1,False,0,367.8160000000001,21
+Phenylmethanol,OCc1ccccc1,-0.4,True,OCc1ccccc1,1,False,0,108.13999999999997,8
+Coumatetralyl,O=c2c(C3CCCc4ccccc43)c(O)c1ccccc1o2 ,-2.84,True,O=c1oc2ccccc2c(O)c1C1CCCc2ccccc21,1,False,0,292.33400000000006,22
+4-Bromophenol,Oc1ccc(Br)cc1,-1.09,True,Oc1ccc(Br)cc1,1,False,0,173.00900000000001,8
+2-Bromopropane,CC(C)Br,-1.59,True,CC(C)Br,1,False,0,122.993,4
+"2,2,4-Trimethylpentane",CC(C)CC(C)(C)C,-4.74,True,CC(C)CC(C)(C)C,1,False,0,114.23199999999999,8
+"1,3,5-Trinitrobenzene",O=N(=O)c1cc(cc(c1)N(=O)=O)N(=O)=O,-2.89,True,O=[N+]([O-])c1cc([N+](=O)[O-])cc([N+](=O)[O-])c1,1,False,0,213.10499999999996,15
+Nimetazepam,CN2C(=O)CN=C(c1ccccc1)c3cc(ccc23)N(=O)=O,-3.796,True,CN1C(=O)CN=C(c2ccccc2)c2cc([N+](=O)[O-])ccc21,1,False,0,295.29800000000006,22
+Propane,CCC,-1.94,True,CCC,1,False,0,44.096999999999994,3
+Minoxidil,Nc1cc(nc(N)n1=O)N2CCCCC2 ,-1.989,True,Nc1cc(N2CCCCC2)nc(N)[n+]1[O-],1,False,0,209.25299999999996,15
+1-aminoacridine,Nc2cccc3nc1ccccc1cc23 ,-4.22,True,Nc1cccc2nc3ccccc3cc12,1,False,0,194.23700000000002,15
+Benzo(k)fluoranthene,c1ccc2cc3c4cccc5cccc(c3cc2c1)c45,-8.49,True,c1ccc2cc3c(cc2c1)-c1cccc2cccc-3c12,1,False,0,252.31599999999997,20
+Dicofol,OC(c1ccc(Cl)cc1)(c2ccc(Cl)cc2)C(Cl)(Cl)Cl,-5.666,True,OC(c1ccc(Cl)cc1)(c1ccc(Cl)cc1)C(Cl)(Cl)Cl,1,False,0,370.49,20
+Acenapthene,C1Cc2cccc3cccc1c23,-4.63,True,c1cc2c3c(cccc3c1)CC2,1,False,0,154.21199999999996,12
+Dialifos,CCOP(=S)(OCC)SC(CCl)N2C(=O)c1ccccc1C2=O,-6.34,True,CCOP(=S)(OCC)SC(CCl)N1C(=O)c2ccccc2C1=O,1,False,0,393.85400000000016,23
+"1,4-Dibromobenzene",Brc1ccc(Br)cc1,-4.07,True,Brc1ccc(Br)cc1,1,False,0,235.90599999999998,8
+Methazole,Cn2c(=O)on(c1ccc(Cl)c(Cl)c1)c2=O,-2.82,True,Cn1c(=O)on(-c2ccc(Cl)c(Cl)c2)c1=O,1,False,0,261.064,16
+p-Phenylphenol,Oc1ccc(cc1)c2ccccc2,-3.48,True,Oc1ccc(-c2ccccc2)cc1,1,False,0,170.211,13
+pyracarbolid,CC1=C(CCCO1)C(=O)Nc2ccccc2 ,-2.56,True,CC1=C(C(=O)Nc2ccccc2)CCCO1,1,False,0,217.26800000000003,16
+Ethyl vinyl ether,CCOC=C,-0.85,True,C=COCC,1,False,0,72.10700000000001,5
+1-Butyne,CCC#C,-1.24,True,C#CCC,1,False,0,54.09199999999999,4
+4-methoxypteridine,COc1ncnc2nccnc12 ,-1.11,True,COc1ncnc2nccnc12,1,False,0,162.15200000000002,12
+3-Methyl-3-heptanol,CCCCC(C)(O)CC,-1.6,True,CCCCC(C)(O)CC,1,False,0,130.23099999999997,9
+"1,4-Dichlorobenzene",Clc1ccc(Cl)cc1,-3.27,True,Clc1ccc(Cl)cc1,1,False,0,147.00400000000002,8
+3-Ethanoyloxymethylphenytoin,O=C1N(COC(=O)C)C(=O)C(N1)(c2ccccc2)c3ccccc3,-4.47,True,CC(=O)OCN1C(=O)NC(c2ccccc2)(c2ccccc2)C1=O,1,False,0,324.33600000000007,24
+"Sparsomycin (3,8mg/ml)",CSCS(=O)CC(CO)NC(=O)C=Cc1c(C)[nH]c(=O)[nH]c1=O,-1.981,True,CSCS(=O)CC(CO)NC(=O)C=Cc1c(C)[nH]c(=O)[nH]c1=O,1,False,0,361.4450000000001,23
+3-methylindole,Cc1c[nH]c2ccccc12 ,-2.42,True,Cc1c[nH]c2ccccc12,1,False,0,131.17799999999997,10
+2-methoxypteridine,COc2ncc1nccnc1n2,-1.11,True,COc1ncc2nccnc2n1,1,False,0,162.152,12
+Dioxacarb,CNC(=O)Oc1ccccc1C2OCCO2,-1.57,True,CNC(=O)Oc1ccccc1C1OCCO1,1,False,0,223.22799999999995,16
+isocarbamid,C1N(C(=O)NCC(C)C)C(=O)NC1,-2.15,True,CC(C)CNC(=O)N1CCNC1=O,1,False,0,185.22699999999998,13
+Acetonitrile,CC#N,0.26,True,CC#N,1,False,0,41.053,3
+Fenoxycarb,CCOC(=O)NCCOc2ccc(Oc1ccccc1)cc2,-4.7,True,CCOC(=O)NCCOc1ccc(Oc2ccccc2)cc1,1,False,0,301.34200000000004,22
+acetyl sulfisoxazole,CC(=O)N(S(=O)c1ccc(N)cc1)c2onc(C)c2C ,-3.59,True,CC(=O)N(c1onc(C)c1C)S(=O)c1ccc(N)cc1,1,False,0,293.34800000000007,20
+"1,1,1,2-Tetrachloroethane",ClCC(Cl)(Cl)Cl,-2.18,True,ClCC(Cl)(Cl)Cl,1,False,0,167.85,6
+1-Butanol,CCCCO,0.0,True,CCCCO,1,False,0,74.12299999999999,5
+Siduron,CC1CCCCC1NC(=O)Nc2ccccc2,-4.11,True,CC1CCCCC1NC(=O)Nc1ccccc1,1,False,0,232.32700000000003,17
+"1,3,5-Trichlorobenzene",Clc1cc(Cl)cc(Cl)c1,-4.48,True,Clc1cc(Cl)cc(Cl)c1,1,False,0,181.449,9
+Furfural,O=Cc1ccco1,-0.1,True,O=Cc1ccco1,1,False,0,96.08499999999998,7
+3-Methylbutan-1-ol,CC(C)CCO,-0.51,True,CC(C)CCO,1,False,0,88.14999999999999,6
+piperonal,O=Cc2ccc1OCOc1c2 ,-1.63,True,O=Cc1ccc2c(c1)OCO2,1,False,0,150.13299999999998,11
+2-Methylpropene,CC(=C)C,-2.33,True,C=C(C)C,1,False,0,56.108000000000004,4
+Benzaldehyde,O=Cc1ccccc1,-1.19,True,O=Cc1ccccc1,1,False,0,106.12399999999997,8
+"2,3-Dimethyl-1,3-Butadiene",CC(=C)C(=C)C,-2.4,True,C=C(C)C(=C)C,1,False,0,82.146,6
+Benfuracarb,CCOC(=O)CCN(SN(C)C(=O)Oc1cccc2CC(C)(C)Oc21)C(C)C,-4.71,True,CCOC(=O)CCN(SN(C)C(=O)Oc1cccc2c1OC(C)(C)C2)C(C)C,1,False,0,410.53600000000023,28
+RTI 10,O2c1ccccc1N(C)C(=O)c3cccnc23 ,-3.672,True,CN1C(=O)c2cccnc2Oc2ccccc21,1,False,0,226.235,17
+Fluorene ,C1c2ccccc2c3ccccc13,-5.0,True,c1ccc2c(c1)Cc1ccccc1-2,1,False,0,166.22299999999998,13
+Methylcyclohexane ,CC1CCCCC1,-3.85,True,CC1CCCCC1,1,False,0,98.18900000000001,7
+sulfaguanidine,NC(=N)NS(=O)(=O)c1ccc(N)cc1 ,-1.99,True,N=C(N)NS(=O)(=O)c1ccc(N)cc1,1,False,0,214.25,14
+Methylparaben,COC(=O)c1ccc(O)cc1,-1.827,True,COC(=O)c1ccc(O)cc1,1,False,0,152.149,11
+2-Methyltetrahydrofurane,CC1CCCO1,0.11,True,CC1CCCO1,1,False,0,86.134,6
+Santonin,CC3C2CCC1(C)C=CC(=O)C(=C1C2OC3=O)C,-3.09,True,CC1=C2C3OC(=O)C(C)C3CCC2(C)C=CC1=O,1,False,0,246.30599999999995,18
+Salicin,OCC2OC(Oc1ccccc1CO)C(O)C(O)C2O,-0.85,True,OCc1ccccc1OC1OC(CO)C(O)C(O)C1O,1,False,0,286.28,20
+1-Iodopropane,CCCI,-2.29,True,CCCI,1,False,0,169.993,4
+Ametryn,CCNc1nc(NC(C)C)nc(SC)n1,-3.04,True,CCNc1nc(NC(C)C)nc(SC)n1,1,False,0,227.337,15
+1-Propanol,CCCO,0.62,True,CCCO,1,False,0,60.096,4
+Hydroxyprogesterone-17a,CC(=O)C1(O)CCC2C3CCC4=CC(=O)CCC4(C)C3CCC21C,-3.817,True,CC(=O)C1(O)CCC2C3CCC4=CC(=O)CCC4(C)C3CCC21C,1,False,0,330.4680000000001,24
+2-Pentanol,CCCC(C)O,-0.29,True,CCCC(C)O,1,False,0,88.14999999999999,6
+benzoin,OC(C(=O)c1ccccc1)c2ccccc2,-2.85,True,O=C(c1ccccc1)C(O)c1ccccc1,1,False,0,212.248,16
+"2,4-Dimethylphenol",Cc1ccc(O)c(C)c1,-1.19,True,Cc1ccc(O)c(C)c1,1,False,0,122.16699999999999,9
+m-Chloronitrobenzene ,Clc1cccc(c1)N(=O)=O,-2.77,True,O=[N+]([O-])c1cccc(Cl)c1,1,False,0,157.55599999999998,10
+ampyrone,Cc2c(N)c(=O)n(c1ccccc1)n2C,-0.624,True,Cc1c(N)c(=O)n(-c2ccccc2)n1C,1,False,0,203.245,15
+"2,2',4,5'-PCB",Clc1ccc(c(Cl)c1)c2cc(Cl)ccc2Cl ,-6.57,True,Clc1ccc(-c2cc(Cl)ccc2Cl)c(Cl)c1,1,False,0,291.99199999999996,16
+"Hexachloro-1,3-butadiene",ClC(=C(Cl)C(=C(Cl)Cl)Cl)Cl,-4.92,True,ClC(Cl)=C(Cl)C(Cl)=C(Cl)Cl,1,False,0,260.762,10
+Terbutryn,CCNc1nc(NC(C)(C)C)nc(SC)n1,-4.0,True,CCNc1nc(NC(C)(C)C)nc(SC)n1,1,False,0,241.364,16
+3-Methyl-2-pentanol,CCC(C)CCO,-0.71,True,CCC(C)CCO,1,False,0,102.17699999999999,7
+2-methylpteridine,Cc2ncc1nccnc1n2,-0.12,True,Cc1ncc2nccnc2n1,1,False,0,146.153,11
+Danazol,CC23Cc1cnoc1C=C2CCC4C3CCC5(C)C4CCC5(O)C#C,-5.507000000000001,True,C#CC1(O)CCC2C3CCC4=Cc5oncc5CC4(C)C3CCC21C,1,False,0,337.4630000000001,25
+1-Iodobutane,CCCCI,-2.96,True,CCCCI,1,False,0,184.01999999999998,5
+2-Bromonapthalene,Brc1ccc2ccccc2c1,-4.4,True,Brc1ccc2ccccc2c1,1,False,0,207.07,11
+"Digoxin (L1=41,8mg/mL, L2=68,2mg/mL, Z=40,1mg/mL)",CC1OC(CC(O)C1O)OC2C(O)CC(OC2C)OC8C(O)CC(OC7CCC3(C)C(CCC4C3CC(O)C5(C)C(CCC45O)C6=CC(=O)OC6)C7)OC8C ,-4.081,True,CC1OC(OC2C(O)CC(OC3C(O)CC(OC4CCC5(C)C(CCC6C5CC(O)C5(C)C(C7=CC(=O)OC7)CCC65O)C4)OC3C)OC2C)CC(O)C1O,1,False,0,780.9490000000001,55
+Benzyltrifluoride,FC(F)(F)c1ccccc1,-2.51,True,FC(F)(F)c1ccccc1,1,False,0,146.111,10
+Dihexyl phthalate,CCCCCCOC(=O)c1ccccc1C(=O)OCCCCCC,-6.144,True,CCCCCCOC(=O)c1ccccc1C(=O)OCCCCCC,1,False,0,334.45600000000024,24
+Dibenzothiophene,c1ccc2c(c1)sc3ccccc23,-4.38,True,c1ccc2c(c1)sc1ccccc12,1,False,0,184.263,13
+"2,3',4,4'-PCB",Clc1ccc(c(Cl)c1)c2ccc(Cl)c(Cl)c2Cl ,-7.8,True,Clc1ccc(-c2ccc(Cl)c(Cl)c2Cl)c(Cl)c1,1,False,0,326.437,17
+"2,2',3,3',4,4'-PCB",Clc1ccc(c(Cl)c1Cl)c2ccc(Cl)c(Cl)c2Cl ,-8.01,True,Clc1ccc(-c2ccc(Cl)c(Cl)c2Cl)c(Cl)c1Cl,1,False,0,360.88200000000006,18
+Warfarin,CC(=O)CC(c1ccccc1)c3c(O)c2ccccc2oc3=O ,-3.893,True,CC(=O)CC(c1ccccc1)c1c(O)c2ccccc2oc1=O,1,False,0,308.3330000000001,23
+hydrobenzoin,c1ccccc1C(O)C(O)c2ccccc2,-1.93,True,OC(c1ccccc1)C(O)c1ccccc1,1,False,0,214.264,16
+Dimethyl phthalate,COC(=O)c1ccccc1C(=O)OC,-1.66,True,COC(=O)c1ccccc1C(=O)OC,1,False,0,194.18599999999995,14
+Ethyl octanoate,CCCCCCCC(=O)OCC,-3.39,True,CCCCCCCC(=O)OCC,1,False,0,172.26799999999997,12
+Diethyldisulfide,CCSSCC,-2.42,True,CCSSCC,1,False,0,122.258,6
+"1,2-Diethoxyethane ",CCOCCOCC,-0.77,True,CCOCCOCC,1,False,0,118.176,8
+"1,2,4,5-Tetrachlorobenzene",Clc1cc(Cl)c(Cl)cc1Cl,-5.56,True,Clc1cc(Cl)c(Cl)cc1Cl,1,False,0,215.894,10
+p-benzidine,Nc1ccc(cc1)c2ccc(N)cc2,-2.7,True,Nc1ccc(-c2ccc(N)cc2)cc1,1,False,0,184.242,14
+1-Heptene,CCCCCC=C,-3.73,True,C=CCCCCC,1,False,0,98.189,7
+Ethirimol,CCCCc1c(C)nc(NCC)[nH]c1=O,-3.028,True,CCCCc1c(C)nc(NCC)[nH]c1=O,1,False,0,209.29299999999998,15
+Pentobarbital,O=C1NC(=O)NC(=O)C1(CC)C(C)CCC,-2.39,True,CCCC(C)C1(CC)C(=O)NC(=O)NC1=O,1,False,0,226.27599999999995,16
+o-Chloroaniline,Nc1ccccc1Cl,-1.52,True,Nc1ccccc1Cl,1,False,0,127.574,8
+3-Chloroanisole,COc1cccc(Cl)c1,-2.78,True,COc1cccc(Cl)c1,1,False,0,142.58499999999998,9
+Pebulate,CCCCN(CC)C(=O)SCCC,-3.53,True,CCCCN(CC)C(=O)SCCC,1,False,0,203.35099999999997,13
+Butyl acetate,CCCCOC=O,-1.37,True,CCCCOC=O,1,False,0,102.13299999999998,7
+Prednisolone,CC12CC(O)C3C(CCC4=CC(=O)C=CC34C)C2CCC1(O)C(=O)CO,-3.18,True,CC12C=CC(=O)C=C1CCC1C2C(O)CC2(C)C1CCC2(O)C(=O)CO,1,False,0,360.4500000000002,26
+Bromodichloromethane,BrC(Cl)Cl,-1.54,True,ClC(Cl)Br,1,False,0,163.82899999999998,4
+adrenosterone,CC34CC(=O)C1C(CCC2=CC(=O)CCC12C)C3CCC4(=O) ,-3.48,True,CC12CC(=O)C3C(CCC4=CC(=O)CCC43C)C1CCC2=O,1,False,0,300.3980000000001,22
+p-terphenyl,c1ccc(cc1)c2ccc(cc2)c3ccccc3,-7.11,True,c1ccc(-c2ccc(-c3ccccc3)cc2)cc1,1,False,0,230.31,18
+p-Hydroxybenzaldehyde ,Oc1ccc(C=O)cc1,-0.96,True,O=Cc1ccc(O)cc1,1,False,0,122.12299999999998,9
+Bromomethane,CBr,-0.79,True,CBr,1,False,0,94.939,2
+Perfluidone,Cc1cc(ccc1NS(=O)(=O)C(F)(F)F)S(=O)(=O)c2ccccc2,-3.8,True,Cc1cc(S(=O)(=O)c2ccccc2)ccc1NS(=O)(=O)C(F)(F)F,1,False,0,379.38100000000003,24
+Coumachlor,CC(=O)CC(c1ccc(Cl)cc1)c2c(O)c3ccccc3oc2=O,-5.839,True,CC(=O)CC(c1ccc(Cl)cc1)c1c(O)c2ccccc2oc1=O,1,False,0,342.7780000000001,24
+2-Ethylnaphthalene,CCc1ccc2ccccc2c1,-4.29,True,CCc1ccc2ccccc2c1,1,False,0,156.22799999999998,12
+5-methylcytosine,Nc1c(C)c[nH]c(=O)n1 ,-1.4580000000000002,True,Cc1c[nH]c(=O)nc1N,1,False,0,125.13099999999999,9
+"2,3,4,5,6-PCB",Clc2c(Cl)c(Cl)c(c1ccccc1)c(Cl)c2Cl ,-7.92,True,Clc1c(Cl)c(Cl)c(-c2ccccc2)c(Cl)c1Cl,1,False,0,326.437,17
+benodanil,c1c(NC(=O)c2ccccc2(I))cccc1,-4.21,True,O=C(Nc1ccccc1)c1ccccc1I,1,False,0,323.133,16
+Riboflavin,Cc3cc2nc1c(=O)[nH]c(=O)nc1n(CC(O)C(O)C(O)CO)c2cc3C,-3.685,True,Cc1cc2nc3c(=O)[nH]c(=O)nc-3n(CC(O)C(O)C(O)CO)c2cc1C,1,False,0,376.36900000000014,27
+o-Fluorobromobenzene,Fc1ccccc1Br,-2.7,True,Fc1ccccc1Br,1,False,0,175.0,8
+"2,4-Dichlorophenol ",Oc1ccc(Cl)cc1Cl,-1.55,True,Oc1ccc(Cl)cc1Cl,1,False,0,163.003,9
+Permethrin,CC1(C)C(C=C(Cl)Cl)C1C(=O)OCc2cccc(Oc3ccccc3)c2,-6.291,True,CC1(C)C(C=C(Cl)Cl)C1C(=O)OCc1cccc(Oc2ccccc2)c1,1,False,0,391.2940000000001,26
+piroxicam,CN2C(=C(O)c1ccccc1S2(=O)=O)C(=O)Nc3ccccn3 ,-4.16,True,CN1C(C(=O)Nc2ccccn2)=C(O)c2ccccc2S1(=O)=O,1,False,0,331.353,23
+3-Propanoyloxymethylphenytoin,O=C1N(COC(=O)CC)C(=O)C(N1)(c2ccccc2)c3ccccc3,-4.907,True,CCC(=O)OCN1C(=O)NC(c2ccccc2)(c2ccccc2)C1=O,1,False,0,338.36300000000006,25
+Cyclopentane ,C1CCCC1,-2.64,True,C1CCCC1,1,False,0,70.135,5
+o-Toluidine,Cc1ccccc1N,-2.21,True,Cc1ccccc1N,1,False,0,107.156,8
+Estragole,c1(OC)ccc(CC=C)cc1,-2.92,True,C=CCc1ccc(OC)cc1,1,False,0,148.205,11
+karbutilate,CN(C)C(=O)Nc1cccc(OC(=O)NC(C)(C)C)c1 ,-2.93,True,CN(C)C(=O)Nc1cccc(OC(=O)NC(C)(C)C)c1,1,False,0,279.34,20
+3-Methyl-1-Butene,CC(C)C=C,-2.73,True,C=CC(C)C,1,False,0,70.135,5
+2-Hydroxypyridine,Oc1ccccn1,1.02,True,Oc1ccccn1,1,False,0,95.101,7
+Ethane,CC,-1.36,True,CC,1,False,0,30.07,2
+"1,2-Dichlorobenzene",Clc1ccccc1Cl,-3.05,True,Clc1ccccc1Cl,1,False,0,147.00399999999996,8
+mercaptobenzothiazole,Sc2nc1ccccc1s2 ,-3.18,True,Sc1nc2ccccc2s1,1,False,0,167.25799999999998,10
+"2,2',3,3',4,4',5,5',6,6'-PCB",Clc1c(Cl)c(Cl)c(c(Cl)c1Cl)c2c(Cl)c(Cl)c(Cl)c(Cl)c2Cl ,-11.6,True,Clc1c(Cl)c(Cl)c(-c2c(Cl)c(Cl)c(Cl)c(Cl)c2Cl)c(Cl)c1Cl,1,False,0,498.66200000000026,22
+Methoxsalen,COc2c1occc1cc3ccc(=O)oc23 ,-3.664,True,COc1c2occc2cc2ccc(=O)oc12,1,False,0,216.19199999999995,16
+Acetamide,CC(=O)N,1.58,True,CC(N)=O,1,False,0,59.068,4
+1-Methylnaphthalene,Cc1cccc2ccccc12,-3.7,True,Cc1cccc2ccccc12,1,False,0,142.201,11
+Napropamide,CCN(CC)C(=O)C(C)Oc1cccc2ccccc12 ,-3.57,True,CCN(CC)C(=O)C(C)Oc1cccc2ccccc12,1,False,0,271.36,20
+"3,3-Dimethyl-2-butanol",CC(O)C(C)(C)C,-0.62,True,CC(O)C(C)(C)C,1,False,0,102.17699999999999,7
+Methyl pentanoate,CCCC(=O)OCC,-1.36,True,CCCC(=O)OCC,1,False,0,116.15999999999998,8
+Menadione,CC2=CC(=O)c1ccccc1C2=O ,-3.03,True,CC1=CC(=O)c2ccccc2C1=O,1,False,0,172.18299999999996,13
+Phenanthrene,c1ccc2c(c1)ccc3ccccc32,-5.26,True,c1ccc2c(c1)ccc1ccccc12,1,False,0,178.23399999999998,14
+"2,4-Dimethylpyridine",Cc1ccnc(C)c1,0.38,True,Cc1ccnc(C)c1,1,False,0,107.15599999999999,8
+1-Nonanol,CCCCCCCCCO,-3.01,True,CCCCCCCCCO,1,False,0,144.258,10
+Dibromomethane,BrCBr,-1.17,True,BrCBr,1,False,0,173.83499999999998,3
+Dexamethasone,CC1CC2C3CCC4=CC(=O)C=CC4(C)C3(F)C(O)CC2(C)C1(O)C(=O)CO,-3.59,True,CC1CC2C3CCC4=CC(=O)C=CC4(C)C3(F)C(O)CC2(C)C1(O)C(=O)CO,1,False,0,392.4670000000002,28
+"2,6-Dimethylnaphthalene ",Cc1ccc2cc(C)ccc2c1,-4.89,True,Cc1ccc2cc(C)ccc2c1,1,False,0,156.228,12
+Butylate,CCSC(=O)N(CC(C)C)CC(C)C,-3.68,True,CCSC(=O)N(CC(C)C)CC(C)C,1,False,0,217.378,14
+nitroglycerin,O=N(=O)OCC(CON(=O)=O)ON(=O)=O ,-2.22,True,O=[N+]([O-])OCC(CO[N+](=O)[O-])O[N+](=O)[O-],1,False,0,227.08499999999998,15
+m-Nitroaniline,Nc1cccc(c1)N(=O)=O,-2.19,True,Nc1cccc([N+](=O)[O-])c1,1,False,0,138.126,10
+1-Chlorobutane,CCCCCl,-2.03,True,CCCCCl,1,False,0,92.56899999999999,5
+triforine,ClC(Cl)(Cl)C(NC=O)N1C=CN(C=C1)C(NC=O)C(Cl)(Cl)Cl ,-4.19,True,O=CNC(N1C=CN(C(NC=O)C(Cl)(Cl)Cl)C=C1)C(Cl)(Cl)Cl,1,False,0,430.9340000000001,22
+Fluridone,Cn2cc(c1ccccc1)c(=O)c(c2)c3cccc(c3)C(F)(F)F,-4.445,True,Cn1cc(-c2ccccc2)c(=O)c(-c2cccc(C(F)(F)F)c2)c1,1,False,0,329.32099999999997,24
+6-aminochrysene,Nc3cc2c1ccccc1ccc2c4ccccc34 ,-6.2,True,Nc1cc2c3ccccc3ccc2c2ccccc12,1,False,0,243.309,19
+Estrone,CC12CCC3C(CCc4cc(O)ccc34)C2CCC1=O,-3.955,True,CC12CCC3c4ccc(O)cc4CCC3C1CCC2=O,1,False,0,270.372,20
+RTI 17,CCN2c1ccccc1N(C)C(=S)c3cccnc23 ,-4.706,True,CCN1c2ccccc2N(C)C(=S)c2cccnc21,1,False,0,269.373,19
+"1,2-Propylene oxide",CC1CO1,-0.59,True,CC1CO1,1,False,0,58.08,4
+Nitrazepam,O=C3CN=C(c1ccccc1)c2cc(ccc2N3)N(=O)=O,-3.796,True,O=C1CN=C(c2ccccc2)c2cc([N+](=O)[O-])ccc2N1,1,False,0,281.271,21
+"1,3-diethylthiourea",CCNC(=S)NCC,-1.46,True,CCNC(=S)NCC,1,False,0,132.232,8
+"2,3,5-Trichlorophenol",Oc1cc(Cl)cc(Cl)c1Cl,-2.67,True,Oc1cc(Cl)cc(Cl)c1Cl,1,False,0,197.44799999999998,10
+Propyl propanoate,CCCCC(=O)OC,-1.34,True,CCCCC(=O)OC,1,False,0,116.15999999999998,8
+Aniline ,Nc1ccccc1,-0.41,True,Nc1ccccc1,1,False,0,93.12899999999999,7
+"1,5-Dimethlnapthalene",Cc1cccc2c(C)cccc12,-4.678999999999999,True,Cc1cccc2c(C)cccc12,1,False,0,156.228,12
+hydrochlorothiazide,NS(=O)(=O)c2cc1c(NCNS1(=O)=O)cc2Cl ,-2.63,True,NS(=O)(=O)c1cc2c(cc1Cl)NCNS2(=O)=O,1,False,0,297.745,17
+Acenapthylene,C1=Cc2cccc3cccc1c23,-3.96,True,C1=Cc2cccc3cccc1c23,1,False,0,152.19599999999994,12
+Ethyl butyrate,CCCCCOC(=O)CC,-1.28,True,CCCCCOC(=O)CC,1,False,0,144.21399999999997,10
+Atratone,CCNc1nc(NC(C)C)nc(OC)n1,-2.084,True,CCNc1nc(NC(C)C)nc(OC)n1,1,False,0,211.26899999999998,15
+Benzo(a)pyrene,c1ccc2c(c1)cc3ccc4cccc5ccc2c3c45,-8.699,True,c1ccc2c(c1)cc1ccc3cccc4ccc2c1c34,1,False,0,252.31599999999997,20
+Bromoethane,CCBr,-1.09,True,CCBr,1,False,0,108.966,3
+3-Hexyne,CCC#CCC,-1.99,True,CCC#CCC,1,False,0,82.14599999999999,6
+Digitoxin,CC1OC(CC(O)C1O)OC2C(O)CC(OC2C)OC8C(O)CC(OC7CCC3(C)C(CCC4C3CCC5(C)C(CCC45O)C6=CC(=O)OC6)C7)OC8C ,-5.292999999999999,True,CC1OC(OC2C(O)CC(OC3C(O)CC(OC4CCC5(C)C(CCC6C5CCC5(C)C(C7=CC(=O)OC7)CCC65O)C4)OC3C)OC2C)CC(O)C1O,1,False,0,764.9499999999999,54
+2-Methyl-1-Butene,CCC(=C)C,-2.73,True,C=C(C)CC,1,False,0,70.13499999999999,5
+8-quinolinol,Oc1cccc2cccnc12 ,-2.42,True,Oc1cccc2cccnc12,1,False,0,145.16099999999997,11
+"1,2,3,4-Tetrahydronapthalene",C1CCc2ccccc2C1,-4.37,True,c1ccc2c(c1)CCCC2,1,False,0,132.20599999999996,10
+phenolphthalein,Oc1ccc(cc1)C2(OC(=O)c3ccccc23)c4ccc(O)cc4 ,-2.9,True,O=C1OC(c2ccc(O)cc2)(c2ccc(O)cc2)c2ccccc21,1,False,0,318.32800000000003,24
+"1,3,5-Tribromobenzene",Brc1cc(Br)cc(Br)c1,-5.6,True,Brc1cc(Br)cc(Br)c1,1,False,0,314.802,9
+Ronnel,COP(=S)(OC)Oc1cc(Cl)c(Cl)cc1Cl,-5.72,True,COP(=S)(OC)Oc1cc(Cl)c(Cl)cc1Cl,1,False,0,321.549,16
+methylthiouracil,Cc1cc(=O)[nH]c(=S)[nH]1,-2.436,True,Cc1cc(=O)[nH]c(=S)[nH]1,1,False,0,142.18300000000002,9
+Eugenol,COc1cc(CC=C)ccc1O,-1.56,True,C=CCc1ccc(O)c(OC)c1,1,False,0,164.204,12
+5-Allyl-5-isopropylbarbital,O=C1NC(=O)NC(=O)C1(C(C)C)CC=C,-1.7080000000000002,True,C=CCC1(C(C)C)C(=O)NC(=O)NC1=O,1,False,0,210.23299999999998,15
+Pyrene,c1cc2ccc3cccc4ccc(c1)c2c34,-6.176,True,c1cc2ccc3cccc4ccc(c1)c2c34,1,False,0,202.25599999999997,16
+"1,1-Diethoxyethane ",CCOC(C)OCC,-0.43,True,CCOC(C)OCC,1,False,0,118.176,8
+Clomazone,CC1(C)CON(Cc2ccccc2Cl)C1=O,-2.338,True,CC1(C)CON(Cc2ccccc2Cl)C1=O,1,False,0,239.702,16
+2-Butoxyethanol,CCCCOCCO,-0.42,True,CCCCOCCO,1,False,0,118.17599999999999,8
+Quintozene,Clc1c(Cl)c(Cl)c(N(=O)=O)c(Cl)c1Cl,-5.82,True,O=[N+]([O-])c1c(Cl)c(Cl)c(Cl)c(Cl)c1Cl,1,False,0,295.336,14
+Androsterone,CC12CCC(O)CC1CCC3C2CCC4(C)C3CCC4=O,-4.402,True,CC12CCC3C(CCC4CC(O)CCC43C)C1CCC2=O,1,False,0,290.447,21
+Flurochloridone,FC(F)(F)c1cccc(c1)N2CC(CCl)C(Cl)C2=O,-4.047,True,O=C1C(Cl)C(CCl)CN1c1cccc(C(F)(F)F)c1,1,False,0,312.118,19
+Quinoline,c1ccc2ncccc2c1,-1.3,True,c1ccc2ncccc2c1,1,False,0,129.16199999999998,10
+methyl gallate,COC(=O)c1cc(O)c(O)c(O)c1 ,-1.24,True,COC(=O)c1cc(O)c(O)c(O)c1,1,False,0,184.147,13
+fluconazole,OC(Cn1cncn1)(Cn2cncn2)c3ccc(F)cc3F ,-1.8,True,OC(Cn1cncn1)(Cn1cncn1)c1ccc(F)cc1F,1,False,0,306.276,22
+Chlorzoxazone,Clc2ccc1oc(=O)[nH]c1c2,-2.8310000000000004,True,O=c1[nH]c2cc(Cl)ccc2o1,1,False,0,169.567,11
+"2,2',3,4,4',5',6-PCB",Clc1ccc(c(Cl)c1)c2c(Cl)c(Cl)c(Cl)c(Cl)c2Cl,-7.92,True,Clc1ccc(-c2c(Cl)c(Cl)c(Cl)c(Cl)c2Cl)c(Cl)c1,1,False,0,395.3270000000001,19
+alloxan,O=C1NC(=O)C(=O)C(=O)N1 ,-1.25,True,O=C1NC(=O)C(=O)C(=O)N1,1,False,0,142.07,10
+"1,3-Dichloropropane",ClCCCCl,-1.62,True,ClCCCCl,1,False,0,112.98700000000001,5
+m-Fluorobromobenzene,Fc1cccc(Br)c1,-2.67,True,Fc1cccc(Br)c1,1,False,0,175.0,8
+p-Chlorobromobenzene,Clc1ccc(Br)cc1,-3.63,True,Clc1ccc(Br)cc1,1,False,0,191.45499999999998,8
+"2,3-Dimethylbutane",CC(C)C(C)C,-3.65,True,CC(C)C(C)C,1,False,0,86.178,6
+1-Butene,CCC=C,-1.94,True,C=CCC,1,False,0,56.108,4
+"2,2',3,4,5,5'-PCB",Clc1ccc(Cl)c(c1)c2cc(Cl)c(Cl)c(Cl)c2Cl,-7.68,True,Clc1ccc(Cl)c(-c2cc(Cl)c(Cl)c(Cl)c2Cl)c1,1,False,0,360.88200000000006,18
+cytosine,Nc1cc[nH]c(=O)n1 ,-1.155,True,Nc1cc[nH]c(=O)n1,1,False,0,111.104,8
+"1,1,2-Trichlorotrifluoroethane",FC(F)(Cl)C(F)(Cl)Cl,-3.04,True,FC(F)(Cl)C(F)(Cl)Cl,1,False,0,187.37500000000003,8
+Propionitrile,CCC#N,0.28,True,CCC#N,1,False,0,55.07999999999999,4
+"O,P'-DDD",ClC(Cl)C(c1ccc(Cl)cc1)c2ccccc2Cl ,-6.51,True,Clc1ccc(C(c2ccccc2Cl)C(Cl)Cl)cc1,1,False,0,320.04600000000005,18
+o-Nitroanisole,COc1ccccc1N(=O)=O,-1.96,True,COc1ccccc1[N+](=O)[O-],1,False,0,153.13699999999997,11
+Prasterone,CC34CCC1C(CC=C2CC(O)CCC12C)C3CCC4=O,-4.12,True,CC12CCC3C(CC=C4CC(O)CCC43C)C1CCC2=O,1,False,0,288.43100000000004,21
+Procymidone,CC12CC2(C)C(=O)N(C1=O)c3cc(Cl)cc(Cl)c3,-4.8,True,CC12CC1(C)C(=O)N(c1cc(Cl)cc(Cl)c1)C2=O,1,False,0,284.142,18
+Benzo[ghi]perylene,c1cc2ccc3ccc4ccc5cccc6c(c1)c2c3c4c56,-9.018,True,c1cc2ccc3ccc4ccc5cccc6c(c1)c2c3c4c56,1,False,0,276.338,22
+Dinoseb,CCC(C)c1cc(cc(N(=O)=O)c1O)N(=O)=O ,-3.38,True,CCC(C)c1cc([N+](=O)[O-])cc([N+](=O)[O-])c1O,1,False,0,240.21499999999995,17
+meconin,c1c(OC)c(OC)C2C(=O)OCC2c1,-1.899,True,COC1=C(OC)C2C(=O)OCC2C=C1,1,False,0,196.20199999999997,14
+Glycerol,OCC(O)CO,1.12,True,OCC(O)CO,1,False,0,92.09400000000001,6
+Guaiacol,COc1ccccc1O ,-1.96,True,COc1ccccc1O,1,False,0,124.13899999999997,9
+chlorpyrifos,CCOP(=S)(OCC)Oc1nc(Cl)c(Cl)cc1Cl ,-5.67,True,CCOP(=S)(OCC)Oc1nc(Cl)c(Cl)cc1Cl,1,False,0,350.591,18
+9-Methylanthracene,Cc1c2ccccc2cc3ccccc13,-5.89,True,Cc1c2ccccc2cc2ccccc12,1,False,0,192.261,15
+Antipyrene,Cc1cc(=O)n(c2ccccc2)n1C,0.715,True,Cc1cc(=O)n(-c2ccccc2)n1C,1,False,0,188.23000000000002,14
+Methyl butyl ether ,CCCCOC,-0.99,True,CCCCOC,1,False,0,88.14999999999999,6
+7-methylpteridine,Cc2cnc1cncnc1n2,-0.8540000000000001,True,Cc1cnc2cncnc2n1,1,False,0,146.153,11
+simazine,CCNc1nc(Cl)nc(NCC)n1 ,-4.55,True,CCNc1nc(Cl)nc(NCC)n1,1,False,0,201.661,13
+"N,N-Dimethylacetamide",CN(C)C(=O)C,1.11,True,CC(=O)N(C)C,1,False,0,87.12199999999999,6
+Simetryn,CSc1nc(nc(n1)N(C)C)N(C)C,-2.676,True,CSc1nc(N(C)C)nc(N(C)C)n1,1,False,0,213.31,14
+Ethylene,C=C,-0.4,True,C=C,1,False,0,28.053999999999995,2
+"3,3-Dimethyl-1-butanol",CC(C)(C)CCO,-0.5,True,CC(C)(C)CCO,1,False,0,102.17699999999999,7
+5-Allyl-5-ethylbarbital,O=C1NC(=O)NC(=O)C1(CC)CC=C,-1.614,True,C=CCC1(CC)C(=O)NC(=O)NC1=O,1,False,0,196.20599999999996,14
+"2,3,4-Trichlorophenol",Oc1ccc(Cl)c(Cl)c1Cl,-2.67,True,Oc1ccc(Cl)c(Cl)c1Cl,1,False,0,197.448,10
+Anisole,COc1ccccc1,-1.85,True,COc1ccccc1,1,False,0,108.13999999999997,8
+chloropropylate,c1ccc(Cl)cc1C(c2ccc(Cl)cc2)(O)C(=O)OC(C)C,-4.53,True,CC(C)OC(=O)C(O)(c1ccc(Cl)cc1)c1cccc(Cl)c1,1,False,0,339.21800000000013,22
+aldosterone,CC13CCC(=O)C=C1CCC4C2CCC(C(=O)CO)C2(CC(O)C34)C=O ,-3.85,True,CC12CCC(=O)C=C1CCC1C2C(O)CC2(C=O)C(C(=O)CO)CCC12,1,False,0,360.45000000000005,26
+Difenoxuron,COc2ccc(Oc1ccc(NC(=O)N(C)C)cc1)cc2,-4.16,True,COc1ccc(Oc2ccc(NC(=O)N(C)C)cc2)cc1,1,False,0,286.331,21
+4-Ethyltoluene,CCc1ccc(C)cc1,-3.11,True,CCc1ccc(C)cc1,1,False,0,120.19499999999996,9
+Diisopropylsulfide,CC(C)SC(C)C,-2.24,True,CC(C)SC(C)C,1,False,0,118.24499999999999,7
+"1,3-Dinitrobenzene",O=N(=O)c1cccc(c1)N(=O)=O,-2.29,True,O=[N+]([O-])c1cccc([N+](=O)[O-])c1,1,False,0,168.10799999999995,12
+Ethion,CCOP(=S)(OCC)SCSP(=S)(OCC)OCC,-5.54,True,CCOP(=S)(OCC)SCSP(=S)(OCC)OCC,1,False,0,384.4870000000002,19
+probarbital,CCC1(C(C)C)C(=O)NC(=O)NC1=O ,-2.21,True,CCC1(C(C)C)C(=O)NC(=O)NC1=O,1,False,0,198.22199999999998,14
+cortisone acetate,CC(=O)OCC(=O)C3(O)CCC4C2CCC1=CC(=O)CCC1(C)C2C(=O)CC34C ,-4.21,True,CC(=O)OCC(=O)C1(O)CCC2C3CCC4=CC(=O)CCC4(C)C3C(=O)CC21C,1,False,0,402.48700000000025,29
+Metronidazole,Cc1ncc(N(=O)=O)n1CCO,-1.22,True,Cc1ncc([N+](=O)[O-])n1CCO,1,False,0,171.15599999999998,12
+p-Chloroaniline,Nc1ccc(Cl)cc1,-1.66,True,Nc1ccc(Cl)cc1,1,False,0,127.574,8
+"2,2-Dimethylpentanol",CCCC(C)(C)CO,-1.52,True,CCCC(C)(C)CO,1,False,0,116.20399999999998,8
+Furane,c1ccoc1,-0.82,True,c1ccoc1,1,False,0,68.07499999999999,5
+Methoproptryne,COCCCNc1nc(NC(C)C)nc(SC)n1,-2.928,True,COCCCNc1nc(NC(C)C)nc(SC)n1,1,False,0,271.39,18
+Norea,CN(C)C(=O)NC1CC2CC1C3CCCC23,-3.1710000000000003,True,CN(C)C(=O)NC1CC2CC1C1CCCC21,1,False,0,222.33199999999994,16
+t-Butylbenzene ,CC(C)(C)c1ccccc1,-3.66,True,CC(C)(C)c1ccccc1,1,False,0,134.22199999999998,10
+kebuzone,CC(=O)CCC1C(=O)N(N(C1=O)c2ccccc2)c3ccccc3,-3.27,True,CC(=O)CCC1C(=O)N(c2ccccc2)N(c2ccccc2)C1=O,1,False,0,322.36400000000003,24
+prednisolone acetate,CC(=O)OCC(=O)C3(O)CCC4C2CCC1=CC(=O)C=CC1(C)C2C(O)CC34C ,-4.37,True,CC(=O)OCC(=O)C1(O)CCC2C3CCC4=CC(=O)C=CC4(C)C3C(O)CC21C,1,False,0,402.48700000000014,29
+Methyl propyl ether ,CCCOC,-0.39,True,CCCOC,1,False,0,74.12299999999999,5
+Isopropyl acetate,CC(C)OC(=O)C,-0.55,True,CC(=O)OC(C)C,1,False,0,102.133,7
+Bromobenzene,Brc1ccccc1,-2.55,True,Brc1ccccc1,1,False,0,157.01,7
+Ethyl-p-hydroxybenzoate ,CCOC(=O)c1ccc(O)cc1,-2.35,True,CCOC(=O)c1ccc(O)cc1,1,False,0,166.176,12
+3-Butanoyloxymethylphenytoin,O=C1N(COC(=O)CCC)C(=O)C(N1)(c2ccccc2)c3ccccc3,-5.071000000000001,True,CCCC(=O)OCN1C(=O)NC(c2ccccc2)(c2ccccc2)C1=O,1,False,0,352.39000000000004,26
+testosterone propionate,CCC(=O)OC3CCC4C2CCC1=CC(=O)CCC1(C)C2CCC34C ,-5.37,True,CCC(=O)OC1CCC2C3CCC4=CC(=O)CCC4(C)C3CCC12C,1,False,0,344.4950000000001,25
+Coronene,c1cc2ccc3ccc4ccc5ccc6ccc1c7c2c3c4c5c67,-9.332,True,c1cc2ccc3ccc4ccc5ccc6ccc1c1c2c3c4c5c61,1,False,0,300.36000000000007,24
+allopurinol,O=c1[nH]cnc2[nH]ncc12 ,-2.266,True,O=c1[nH]cnc2[nH]ncc12,1,False,0,136.114,10
+Chloroethylene,ClC=C,-1.75,True,C=CCl,1,False,0,62.499,3
+diphenamid,CN(C)C(=O)C(c1ccccc1)c2ccccc2 ,-2.98,True,CN(C)C(=O)C(c1ccccc1)c1ccccc1,1,False,0,239.318,18
+Tetrabromomethane,BrC(Br)(Br)Br,-3.14,True,BrC(Br)(Br)Br,1,False,0,331.62699999999995,5
+RTI 22,CCN2c1cc(N(C)C)cc(C)c1NC(=O)c3cccnc23 ,-4.871,True,CCN1c2cc(N(C)C)cc(C)c2NC(=O)c2cccnc21,1,False,0,296.374,22
+phthalimide,O=C1NC(=O)c2ccccc12 ,-2.61,True,O=C1NC(=O)c2ccccc21,1,False,0,147.13299999999998,11
+Fenarimol,OC(c1ccc(Cl)cc1)(c2cncnc2)c3ccccc3Cl,-4.38,True,OC(c1ccc(Cl)cc1)(c1cncnc1)c1ccccc1Cl,1,False,0,331.202,22
+Methyl benzoate ,COC(=O)c1ccccc1,-1.85,True,COC(=O)c1ccccc1,1,False,0,136.14999999999998,10
+1-methyluracil,Cn1ccc(=O)[nH]c1=O,-0.807,True,Cn1ccc(=O)[nH]c1=O,1,False,0,126.115,9
+oxyphenbutazone,CCCCC1C(=O)N(N(C1=O)c2ccc(O)cc2)c3ccccc3 ,-3.73,True,CCCCC1C(=O)N(c2ccccc2)N(c2ccc(O)cc2)C1=O,1,False,0,324.38000000000005,24
+"2,2',3,5'-PCB",Clc1ccc(Cl)c(c1)c2cccc(Cl)c2Cl ,-6.47,True,Clc1ccc(Cl)c(-c2cccc(Cl)c2Cl)c1,1,False,0,291.9920000000001,16
+Quinethazone,CCC2NC(=O)c1cc(c(Cl)cc1N2)S(N)(=O)=O,-3.29,True,CCC1NC(=O)c2cc(S(N)(=O)=O)c(Cl)cc2N1,1,False,0,289.7440000000001,18
+Diuron,CN(C)C(=O)Nc1ccc(Cl)c(Cl)c1,-3.8,True,CN(C)C(=O)Nc1ccc(Cl)c(Cl)c1,1,False,0,233.09799999999998,14
+Cyclopentene ,C1CC=CC1,-2.1,True,C1=CCCC1,1,False,0,68.11900000000001,5
+alloxantin,C1(=O)NC(=O)NC(=O)C1(O)C2(O)C(=O)NC(=O)NC2(=O),-1.99,True,O=C1NC(=O)C(O)(C2(O)C(=O)NC(=O)NC2=O)C(=O)N1,1,False,0,286.156,20
+Nonane,CCCCCCCCC,-5.88,True,CCCCCCCCC,1,False,0,128.259,9
+2-Chlorophenol,Oc1ccccc1Cl,-1.06,True,Oc1ccccc1Cl,1,False,0,128.558,8
+5-Methylchrysene,c1cccc2c3c(C)cc4ccccc4c3ccc12,-6.59,True,Cc1cc2ccccc2c2ccc3ccccc3c12,1,False,0,242.321,19
+Phenetole,CCOc1ccccc1,-2.33,True,CCOc1ccccc1,1,False,0,122.16699999999996,9
+ethyl cinnamate,CCOC(=O)C=Cc1ccccc1,-3.0,True,CCOC(=O)C=Cc1ccccc1,1,False,0,176.215,13
+Terbacil,Cc1[nH]c(=O)n(c(=O)c1Cl)C(C)(C)C,-2.484,True,Cc1[nH]c(=O)n(C(C)(C)C)c(=O)c1Cl,1,False,0,216.66799999999998,14
+Clonazepam,Clc1ccccc1C2=NCC(=O)Nc3ccc(cc23)N(=O)=O,-3.499,True,O=C1CN=C(c2ccccc2Cl)c2cc([N+](=O)[O-])ccc2N1,1,False,0,315.716,22
+p-Toluenesulfonamide ,Cc1ccc(cc1)S(=O)(=O)N,-1.74,True,Cc1ccc(S(N)(=O)=O)cc1,1,False,0,171.22099999999998,11
+Chlorbufam,CC(OC(=O)Nc1cccc(Cl)c1)C#C,-2.617,True,C#CC(C)OC(=O)Nc1cccc(Cl)c1,1,False,0,223.659,15
+2-Methylheptane,CCCCCC(C)C,-5.08,True,CCCCCC(C)C,1,False,0,114.23199999999999,8
+Cyhalothrin,CC1(C)C(C=C(Cl)C(F)(F)F)C1C(=O)OC(C#N)c2cccc(Oc3ccccc3)c2,-8.176,True,CC1(C)C(C=C(Cl)C(F)(F)F)C1C(=O)OC(C#N)c1cccc(Oc2ccccc2)c1,1,False,0,449.8560000000001,31
+Apazone,CCCC1C(=O)N3N(C1=O)c2cc(C)ccc2N=C3N(C)C ,-3.5380000000000003,True,CCCC1C(=O)N2C(N(C)C)=Nc3ccc(C)cc3N2C1=O,1,False,0,300.3620000000001,22
+Diazepam,CN2C(=O)CN=C(c1ccccc1)c3cc(Cl)ccc23,-3.754,True,CN1C(=O)CN=C(c2ccccc2)c2cc(Cl)ccc21,1,False,0,284.74600000000004,20
+2-Methyl-3-pentanol,CCC(O)C(C)C,-0.7,True,CCC(O)C(C)C,1,False,0,102.17699999999999,7
+fensulfothion,CCOP(=S)(OCC)Oc1ccc(cc1)S(C)=O ,-2.3,True,CCOP(=S)(OCC)Oc1ccc(S(C)=O)cc1,1,False,0,308.36100000000005,18
+borneol,CC1(C)C2CCC1(C)C(O)C2,-2.32,True,CC1(C)C2CCC1(C)C(O)C2,1,False,0,154.253,11
+Testosterone,CC12CCC3C(CCC4=CC(=O)CCC34C)C2CCC1O,-4.02,True,CC12CCC(=O)C=C1CCC1C2CCC2(C)C(O)CCC12,1,False,0,288.431,21
+Heptane,CCCCCCC,-4.53,True,CCCCCCC,1,False,0,100.205,7
+1-Napthol,Oc1cccc2ccccc12,-2.22,True,Oc1cccc2ccccc12,1,False,0,144.17299999999997,11
+"cis-1,2-Dimethylcyclohexane",C/C1CCCCC1\C,-4.3,True,CC1CCCCC1C,1,False,0,112.216,8
+Trimazosin,COc2cc1c(N)nc(nc1c(OC)c2OC)N3CCN(CC3)C(=O)OCC(C)(C)O ,-3.638,True,COc1cc2c(N)nc(N3CCN(C(=O)OCC(C)(C)O)CC3)nc2c(OC)c1OC,1,False,0,435.48100000000034,31
+Cholanthrene,C1Cc2c3c1cccc3cc4c2ccc5ccccc54,-7.85,True,c1cc2c3c(c4ccc5ccccc5c4cc3c1)CC2,1,False,0,254.33199999999997,20
+Medrogestone,CC(=O)C3(C)CCC4C2C=C(C)C1=CC(=O)CCC1(C)C2CCC34C,-5.27,True,CC(=O)C1(C)CCC2C3C=C(C)C4=CC(=O)CCC4(C)C3CCC21C,1,False,0,340.5070000000001,25
+2-Heptanone,CCCCCC(=O)C,-1.45,True,CCCCCC(C)=O,1,False,0,114.18799999999999,8
+Acephate,COP(=O)(NC(C)=O)SC ,0.54,True,COP(=O)(NC(C)=O)SC,1,False,0,183.16899999999998,10
+DEF,CCCCSP(=O)(SCCCC)SCCCC,-5.14,True,CCCCSP(=O)(SCCCC)SCCCC,1,False,0,314.5220000000001,17
+phthalamide,c1cC2C(=O)NC(=O)C2cc1,-2.932,True,O=C1NC(=O)C2C=CC=CC12,1,False,0,149.149,11
+Trichlomethiazide,NS(=O)(=O)c2cc1c(NC(NS1(=O)=O)C(Cl)Cl)cc2Cl ,-2.68,True,NS(=O)(=O)c1cc2c(cc1Cl)NC(C(Cl)Cl)NS2(=O)=O,1,False,0,380.66200000000003,20
+2-Methy-2-Butene,CC=C(C)C,-2.56,True,CC=C(C)C,1,False,0,70.13499999999999,5
+"1,2,4-Trimethylbenzene",Cc1ccc(C)c(C)c1,-3.31,True,Cc1ccc(C)c(C)c1,1,False,0,120.195,9
+"2,4,5-Trichlorophenol ",Oc1cc(Cl)c(Cl)cc1Cl,-2.21,True,Oc1cc(Cl)c(Cl)cc1Cl,1,False,0,197.448,10
+phenanthridine,c1ccc2c(c1)cnc3ccccc23 ,-2.78,True,c1ccc2c(c1)cnc1ccccc12,1,False,0,179.22199999999998,14
+3-Methyl-3-hexanol,CCCC(C)(O)CC,-0.98,True,CCCC(C)(O)CC,1,False,0,116.20399999999998,8
+Octane,CCCCCCCC,-5.24,True,CCCCCCCC,1,False,0,114.232,8
+Anthracene,c1ccc2cc3ccccc3cc2c1,-6.35,True,c1ccc2cc3ccccc3cc2c1,1,False,0,178.23399999999995,14
+Phenylhydrazine,NNc1ccccc1,0.07,True,NNc1ccccc1,1,False,0,108.14399999999998,8
+Propionaldehyde,CCC=O,0.58,True,CCC=O,1,False,0,58.08,4
+Cyclooctane,C1CCCCCCC1,-4.15,True,C1CCCCCCC1,1,False,0,112.21600000000001,8
+"5,5-Diallylbarbital",O=C1NC(=O)NC(=O)C1(CC=C)CC=C,-2.077,True,C=CCC1(CC=C)C(=O)NC(=O)NC1=O,1,False,0,208.21699999999996,15
+Trichloromethane,ClC(Cl)Cl,-1.17,True,ClC(Cl)Cl,1,False,0,119.37800000000001,4
+thiouracil,Sc1nccc(=O)[nH]1 ,-2.273,True,O=c1ccnc(S)[nH]1,1,False,0,128.15599999999998,8
+Pencycuron,Clc1ccc(CN(C2CCCC2)C(=O)Nc3ccccc3)cc1,-5.915,True,O=C(Nc1ccccc1)N(Cc1ccc(Cl)cc1)C1CCCC1,1,False,0,328.84299999999996,23
+1-Methylcyclohexene ,CC1=CCCCC1,-3.27,True,CC1=CCCCC1,1,False,0,96.17300000000002,7
+2-Ethylhexanal,CCCCC(CC)C=O,-2.13,True,CCCCC(C=O)CC,1,False,0,128.21499999999997,9
+Khellin,COc2c1occc1c(OC)c3c(=O)cc(C)oc23 ,-3.0210000000000004,True,COc1c2occc2c(OC)c2c(=O)cc(C)oc12,1,False,0,260.24499999999995,19
+5-Ethyl-5-(3-methylbutyl)barbital,O=C1NC(=O)NC(=O)C1(CC)CCC(C)C,-2.658,True,CCC1(CCC(C)C)C(=O)NC(=O)NC1=O,1,False,0,226.27599999999995,16
+Benzo(j)fluoranthene,c1ccc2c3c(ccc2c1)c4cccc5cccc3c45,-8.0,True,c1ccc2c3c(ccc2c1)-c1cccc2cccc-3c12,1,False,0,252.31599999999997,20
+2-Ethylbutanal,CCC(CC)C=O,-1.52,True,CCC(C=O)CC,1,False,0,100.16099999999999,7
+Dipropyl ether,CCCOCCC,-1.62,True,CCCOCCC,1,False,0,102.17699999999999,7
+1-Tetradecanol,CCCCCCCCCCCCCCO,-5.84,True,CCCCCCCCCCCCCCO,1,False,0,214.39299999999994,15
+"2,3,6-Trichlorophenol",Oc1c(Cl)ccc(Cl)c1Cl,-2.64,True,Oc1c(Cl)ccc(Cl)c1Cl,1,False,0,197.44799999999998,10
+Urea,NC(=O)N,0.96,True,NC(N)=O,1,False,0,60.056,4
+1-Pentyne,CCCC#C,-1.64,True,C#CCCC,1,False,0,68.11899999999999,5
+"1,3-Dibromobenzene",Brc1cccc(Br)c1,-3.54,True,Brc1cccc(Br)c1,1,False,0,235.90599999999998,8
+1-Octadecanol,CCCCCCCCCCCCCCCCCCO,-8.4,True,CCCCCCCCCCCCCCCCCCO,1,False,0,270.50099999999986,19
+Acetanilide,CC(=O)Nc1ccccc1,-1.33,True,CC(=O)Nc1ccccc1,1,False,0,135.16599999999997,10
+hematein,c1cc(O)c(O)c2OCC3(O)CC4=CC(=O)C(O)=CC4=C3c21,-2.7,True,O=C1C=C2CC3(O)COc4c(ccc(O)c4O)C3=C2C=C1O,1,False,0,300.266,22
+Isonazid,c1nccc(C(=O)NN)c1,0.009,True,NNC(=O)c1ccncc1,1,False,0,137.14200000000002,10
+hydroxychlordene,OC1C=CC2C1C3(Cl)C(=C(Cl)C2(Cl)C3(Cl)Cl)Cl ,-5.46,True,OC1C=CC2C1C1(Cl)C(Cl)=C(Cl)C2(Cl)C1(Cl)Cl,1,False,0,354.8749999999999,17
+Isopentyl formate,CC(C)CCOC=O,-1.52,True,CC(C)CCOC=O,1,False,0,116.15999999999998,8
+Acetophenone,CC(=O)c1ccccc1,-1.28,True,CC(=O)c1ccccc1,1,False,0,120.15099999999995,9
+biquinoline,c2ccc1nc(ccc1c2)c4ccc3ccccc3n4 ,-5.4,True,c1ccc2nc(-c3ccc4ccccc4n3)ccc2c1,1,False,0,256.308,20
+Triethyl phosphate,CCOP(=O)(OCC)OCC,0.43,True,CCOP(=O)(OCC)OCC,1,False,0,182.15599999999998,11
+D-fenchone,CC2(C)C1CCC(C)(C1)C2=O,-1.85,True,CC12CCC(C1)C(C)(C)C2=O,1,False,0,152.237,11
+7-methoxypteridine,COc2cnc1cncnc1n2,-0.91,True,COc1cnc2cncnc2n1,1,False,0,162.152,12
+Chlordene,ClC2=C(Cl)C3(Cl)C1C=CCC1C2(Cl)C3(Cl)Cl ,-5.64,True,ClC1=C(Cl)C2(Cl)C3CC=CC3C1(Cl)C2(Cl)Cl,1,False,0,338.876,16
+2-Nitropropane,CC(C)N(=O)=O,-0.62,True,CC(C)[N+](=O)[O-],1,False,0,89.094,6
+Carbazole,c1ccc2c(c1)[nH]c3ccccc32,-5.27,True,c1ccc2c(c1)[nH]c1ccccc12,1,False,0,167.21099999999998,13
+Erythritol,OCC(O)C(O)CO,0.7,True,OCC(O)C(O)CO,1,False,0,122.11999999999999,8
+Risocaine,CCCOC(=O)c1ccc(N)cc1,-2.452,True,CCCOC(=O)c1ccc(N)cc1,1,False,0,179.21899999999997,13
+Azodrin,CNC(=O)C=C(C)OP(=O)(OC)OC,0.6509999999999999,True,CNC(=O)C=C(C)OP(=O)(OC)OC,1,False,0,223.16499999999996,14
+Succinimide,O=C1CCC(=O)N1,0.3,True,O=C1CCC(=O)N1,1,False,0,99.089,7
+"2,3-Dimethylpentane",CCC(C)C(C)C,-4.28,True,CCC(C)C(C)C,1,False,0,100.20499999999998,7
+bupirimate,CCCCc1c(C)nc(NCC)nc1OS(=O)(=O)N(C)C ,-4.16,True,CCCCc1c(C)nc(NCC)nc1OS(=O)(=O)N(C)C,1,False,0,316.4270000000001,21
+RTI 16,CCN2c1ncccc1N(C)C(=S)c3cccnc23 ,-4.634,True,CCN1c2ncccc2C(=S)N(C)c2cccnc21,1,False,0,270.361,19
+RTI 9,O2c1ccccc1N(CC)C(=O)c3ccccc23 ,-3.68,True,CCN1C(=O)c2ccccc2Oc2ccccc21,1,False,0,239.274,18
+Tetrahydropyran ,C1CCOCC1,-0.03,True,C1CCOCC1,1,False,0,86.134,6
+1-Heptyne,CCCCCC#C,-3.01,True,C#CCCCCC,1,False,0,96.17299999999999,7
+osthole,c1cc2ccc(OC)c(CC=C(C)(C))c2oc1=O ,-4.314,True,COc1ccc2ccc(=O)oc2c1CC=C(C)C,1,False,0,244.28999999999994,18
+3-Methylcholanthrene,c1cc(C)cc2c1c3cc4cccc5CCc(c45)c3cc2,-7.92,True,Cc1ccc2c(ccc3c4c5c(cccc5cc32)CC4)c1,1,False,0,268.3589999999999,21
+Ethyl benzoate ,CCOC(=O)c1ccccc1,-2.32,True,CCOC(=O)c1ccccc1,1,False,0,150.177,11
+1-Chloro-2-methylpropane,ClCC(C)C,-2.0,True,CC(C)CCl,1,False,0,92.569,5
+Ethinyl estradiol,CC34CCC1C(CCc2cc(O)ccc12)C3CCC4(O)C#C ,-4.3,True,C#CC1(O)CCC2C3CCc4cc(O)ccc4C3CCC21C,1,False,0,296.41,22
+methyl laurate,CCCCCCCCCCCC(=O)OC,-4.69,True,CCCCCCCCCCCC(=O)OC,1,False,0,214.34899999999996,15
+Di-n-propylsulfide,CCCSCCC,-2.58,True,CCCSCCC,1,False,0,118.24499999999999,7
+Napthacene,c1ccc2cc3cc4ccccc4cc3cc2c1,-8.6,True,c1ccc2cc3cc4ccccc4cc3cc2c1,1,False,0,228.29399999999998,18
+1-Bromopentane,CCCCCBr,-3.08,True,CCCCCBr,1,False,0,151.047,6
+trans-2-Heptene ,CCCC/C=C/C,-3.82,True,C/C=C/CCCC,1,False,0,98.18899999999998,7
+Metranidazole,Cc1ncc(N(=O)=O)n1CCO ,-1.26,True,Cc1ncc([N+](=O)[O-])n1CCO,1,False,0,171.15599999999998,12
+Pentylcyclopentane,CCCCCC1CCCC1,-6.08,True,CCCCCC1CCCC1,1,False,0,140.26999999999998,10
+"2,2',3,5,5',6-PCB",Clc1ccc(Cl)c(c1)c2c(Cl)c(Cl)cc(Cl)c2Cl ,-7.42,True,Clc1ccc(Cl)c(-c2c(Cl)c(Cl)cc(Cl)c2Cl)c1,1,False,0,360.88200000000006,18
+5-Ethyl-5-isopropylbarbituric acid,O=C1NC(=O)NC(=O)C1(CC)C(C)C,-2.148,True,CCC1(C(C)C)C(=O)NC(=O)NC1=O,1,False,0,198.22199999999998,14
+"1,1,1-Trichloroethane",CC(Cl)(Cl)Cl,-2.0,True,CC(Cl)(Cl)Cl,1,False,0,133.405,5
+Monolinuron,CON(C)C(=O)Nc1ccc(Cl)cc1,-2.57,True,CON(C)C(=O)Nc1ccc(Cl)cc1,1,False,0,214.652,14
+Cyclohexyl-5-spirobarbituric acid,O=C2NC(=O)C1(CCCCC1)C(=O)N2,-3.06,True,O=C1NC(=O)C2(CCCCC2)C(=O)N1,1,False,0,196.206,14
+dimetan,CN(C)C(=O)OC1=CC(=O)CC(C)(C)C1 ,-0.85,True,CN(C)C(=O)OC1=CC(=O)CC(C)(C)C1,1,False,0,211.26099999999994,15
+4-Bromotoluene,Cc1ccc(Br)cc1,-3.19,True,Cc1ccc(Br)cc1,1,False,0,171.03700000000003,8
+Diethyl ether ,CCOCC,-0.09,True,CCOCC,1,False,0,74.123,5
+Rovral,CC(C)NC(=O)N1CC(=O)N(C1=O)c2cc(Cl)cc(Cl)c2,-4.376,True,CC(C)NC(=O)N1CC(=O)N(c2cc(Cl)cc(Cl)c2)C1=O,1,False,0,330.17100000000005,21
+Benfluralin,CCCCN(CC)c1c(cc(cc1N(=O)=O)C(F)(F)F)N(=O)=O,-5.53,True,CCCCN(CC)c1c([N+](=O)[O-])cc(C(F)(F)F)cc1[N+](=O)[O-],1,False,0,335.28200000000004,23
+"2,4,6-Trimethylphenol",Cc1cc(C)c(O)c(C)c1,-2.05,True,Cc1cc(C)c(O)c(C)c1,1,False,0,136.194,10
+Benzene ,c1ccccc1,-1.64,True,c1ccccc1,1,False,0,78.11399999999999,6
+p-Chloroiodobenzene,Clc1ccc(I)cc1,-4.03,True,Clc1ccc(I)cc1,1,False,0,238.45499999999998,8
+Metoxuron,COc1ccc(NC(=O)N(C)C)cc1Cl,-2.564,True,COc1ccc(NC(=O)N(C)C)cc1Cl,1,False,0,228.67899999999997,15
+propachlor,CC(C)N(C(=O)CCl)c1ccccc1 ,-2.48,True,CC(C)N(C(=O)CCl)c1ccccc1,1,False,0,211.69200000000004,14
+Styrene,C=Cc1ccccc1,-2.82,True,C=Cc1ccccc1,1,False,0,104.15199999999997,8
+Dimethoxymethane,COCOC,0.48,True,COCOC,1,False,0,76.095,5
+o-Xylene ,Cc1ccccc1C,-2.8,True,Cc1ccccc1C,1,False,0,106.16799999999999,8
+Butan-2-ol,CCC(C)O,0.47,True,CCC(C)O,1,False,0,74.12299999999999,5
+"1,4-Benzenediol",Oc1ccc(O)cc1,-0.17,True,Oc1ccc(O)cc1,1,False,0,110.11199999999998,8
+estriol,CC34CCC1C(CCc2cc(O)ccc12)C3CC(O)C4O ,-4.955,True,CC12CCC3c4ccc(O)cc4CCC3C1CC(O)C2O,1,False,0,288.387,21
+Benzo(b)fluorene,C1c2ccccc2c3cc4ccccc4cc13,-8.04,True,c1ccc2c(c1)Cc1cc3ccccc3cc1-2,1,False,0,216.283,17
+hydantoin,O=C1CNC(=O)N1 ,-0.4,True,O=C1CNC(=O)N1,1,False,0,100.077,7
+4-hexylresorcinol,c1(O)cc(O)ccc1CCCCCC,-2.59,True,CCCCCCc1ccc(O)cc1O,1,False,0,194.27399999999992,14
+allicin,C=CCS(=O)SCC=C,-0.83,True,C=CCSS(=O)CC=C,1,False,0,162.27899999999997,9
+Coumaphos,CCOP(=S)(OCC)Oc2ccc1oc(=O)c(Cl)c(C)c1c2,-5.382000000000001,True,CCOP(=S)(OCC)Oc1ccc2oc(=O)c(Cl)c(C)c2c1,1,False,0,362.77100000000013,22
+"5,6-Dimethylchrysene",Cc1c(C)c2c3ccccc3ccc2c4ccccc14,-7.01,True,Cc1c(C)c2c3ccccc3ccc2c2ccccc12,1,False,0,256.348,20
+Betamethasone-17-valerate,CCCCC(=O)OC3(C(C)CC4C2CCC1=CC(=O)C=CC1(C)C2(F)C(O)CC34C)C(=O)CO,-4.71,True,CCCCC(=O)OC1(C(=O)CO)C(C)CC2C3CCC4=CC(=O)C=CC4(C)C3(F)C(O)CC21C,1,False,0,476.5850000000002,34
+uric acid,O=c2[nH]c(=O)c1[nH]c(=O)[nH]c1[nH]2 ,-3.93,True,O=c1[nH]c(=O)c2[nH]c(=O)[nH]c2[nH]1,1,False,0,168.112,12
+"2,3,4,6-Tetrachlorophenol",Oc1c(Cl)cc(Cl)c(Cl)c1Cl,-3.1,True,Oc1c(Cl)cc(Cl)c(Cl)c1Cl,1,False,0,231.89299999999997,11
+"1,3-Dichlorobenzene",Clc1cccc(Cl)c1,-3.04,True,Clc1cccc(Cl)c1,1,False,0,147.004,8
+DDT,Clc1ccc(cc1)C(c2ccc(Cl)cc2)C(Cl)(Cl)Cl,-7.15,True,Clc1ccc(C(c2ccc(Cl)cc2)C(Cl)(Cl)Cl)cc1,1,False,0,354.491,19
+Isobutyl formate,CC(C)COC=O,-1.01,True,CC(C)COC=O,1,False,0,102.13299999999998,7
+thioanisole,c1ccccc1SC,-2.39,True,CSc1ccccc1,1,False,0,124.208,8
+RTI 13,CCN2c1nc(C)cc(C(F)(F)F)c1NC(=O)c3cccnc23 ,-4.207,True,CCN1c2ncccc2C(=O)Nc2c(C(F)(F)F)cc(C)nc21,1,False,0,322.29,23
+Hexane ,CCCCCC,-3.84,True,CCCCCC,1,False,0,86.178,6
+methyl nicotinate,COC(=O)c1cccnc1 ,-0.46,True,COC(=O)c1cccnc1,1,False,0,137.138,10
+Bendroflumethiazide,NS(=O)(=O)c3cc2c(NC(Cc1ccccc1)NS2(=O)=O)cc3C(F)(F)F,-3.59,True,NS(=O)(=O)c1cc2c(cc1C(F)(F)F)NC(Cc1ccccc1)NS2(=O)=O,1,False,0,421.4220000000001,27
+"2,3,3',4,4',5-PCB",Clc1ccc(cc1Cl)c2cc(Cl)c(Cl)c(Cl)c2Cl ,-7.82,True,Clc1ccc(-c2cc(Cl)c(Cl)c(Cl)c2Cl)cc1Cl,1,False,0,360.88200000000006,18
+Vinclozolin,CC1(OC(=O)N(C1=O)c2cc(Cl)cc(Cl)c2)C=C,-4.925,True,C=CC1(C)OC(=O)N(c2cc(Cl)cc(Cl)c2)C1=O,1,False,0,286.11400000000003,18
+Cyanazine,CCNc1nc(Cl)nc(NC(C)(C)C#N)n1,-3.15,True,CCNc1nc(Cl)nc(NC(C)(C)C#N)n1,1,False,0,240.698,16
+Triphenylene,c1ccc2c(c1)c3ccccc3c4ccccc24,-6.726,True,c1ccc2c(c1)c1ccccc1c1ccccc21,1,False,0,228.29399999999998,18
+Dienestrol,CC=C(C(=CC)c1ccc(O)cc1)c2ccc(O)cc2,-4.95,True,CC=C(C(=CC)c1ccc(O)cc1)c1ccc(O)cc1,1,False,0,266.34,20
+Di(2-ethylhexyl)-phthalate,CCCCC(CC)COC(=O)c1ccccc1C(=O)OCC(CC)CCCC,-6.96,True,CCCCC(CC)COC(=O)c1ccccc1C(=O)OCC(CC)CCCC,1,False,0,390.5640000000003,28
+2-Ethyl pyridine,CCc1ccccn1,0.51,True,CCc1ccccn1,1,False,0,107.15599999999998,8
+Naled,COP(=O)(OC)OC(Br)C(Cl)(Cl)Br,-2.28,True,COP(=O)(OC)OC(Br)C(Cl)(Cl)Br,1,False,0,380.784,13
+Biphenyl,c1ccc(cc1)c2ccccc2,-4.345,True,c1ccc(-c2ccccc2)cc1,1,False,0,154.21199999999996,12
+"2,2',4,4',6,6'-PCB",Clc1cc(Cl)c(c(Cl)c1)c2c(Cl)cc(Cl)cc2Cl ,-8.71,True,Clc1cc(Cl)c(-c2c(Cl)cc(Cl)cc2Cl)c(Cl)c1,1,False,0,360.88200000000006,18
+Altretamine,CN(C)c1nc(nc(n1)N(C)C)N(C)C,-3.364,True,CN(C)c1nc(N(C)C)nc(N(C)C)n1,1,False,0,210.285,15
+"2,4-Dimethyl-2-pentanol ",CC(C)CC(C)(C)O,-0.92,True,CC(C)CC(C)(C)O,1,False,0,116.20399999999998,8
+Cycloheptyl-5-spirobarbituric acid,O=C2NC(=O)C1(CCCCCC1)C(=O)N2 ,-3.168,True,O=C1NC(=O)C2(CCCCCC2)C(=O)N1,1,False,0,210.23299999999998,15
+Fructose,OCC1OC(O)(CO)C(O)C1O,0.64,True,OCC1OC(O)(CO)C(O)C1O,1,False,0,180.156,12
+"3,5-Dimethylphenol",Cc1cc(C)cc(O)c1,-1.4,True,Cc1cc(C)cc(O)c1,1,False,0,122.16699999999997,9
+Barban,ClCC#CCOC(=O)Nc1cccc(Cl)c1,-4.37,True,O=C(Nc1cccc(Cl)c1)OCC#CCCl,1,False,0,258.104,16
+p-Chloroacetanilide,CC(=O)Nc1ccc(Cl)cc1,-2.843,True,CC(=O)Nc1ccc(Cl)cc1,1,False,0,169.611,11
+"2,2',3,4,5,5',6-PCB",Clc1ccc(Cl)c(c1)c2c(Cl)c(Cl)c(Cl)c(Cl)c2Cl,-8.94,True,Clc1ccc(Cl)c(-c2c(Cl)c(Cl)c(Cl)c(Cl)c2Cl)c1,1,False,0,395.3270000000001,19
+"2,2-Dimethylbutane",CCC(C)(C)C,-3.55,True,CCC(C)(C)C,1,False,0,86.17799999999998,6
+N-Methylaniline ,CNc1ccccc1,-1.28,True,CNc1ccccc1,1,False,0,107.15599999999998,8
+"1,4-Pentadiene ",C=CCC=C,-2.09,True,C=CCC=C,1,False,0,68.119,5
+Hydrocortisone 21-acetate,CC(=O)OCC(=O)C1(O)CCC2C3CCC4=CC(=O)CCC4(C)C3C(O)CC21C,-4.88,True,CC(=O)OCC(=O)C1(O)CCC2C3CCC4=CC(=O)CCC4(C)C3C(O)CC21C,1,False,0,404.5030000000002,29
+DNOC,Cc1cc(cc(N(=O)=O)c1O)N(=O)=O,-1.456,True,Cc1cc([N+](=O)[O-])cc([N+](=O)[O-])c1O,1,False,0,198.134,14
+Lorazepam,OC3N=C(c1ccccc1Cl)c2cc(Cl)ccc2NC3=O,-3.604,True,O=C1Nc2ccc(Cl)cc2C(c2ccccc2Cl)=NC1O,1,False,0,321.163,21
+3-Chlorophenol,Oc1cccc(Cl)c1,-0.7,True,Oc1cccc(Cl)c1,1,False,0,128.558,8
+m-Chlorobromobenzene,Clc1cccc(Br)c1,-3.21,True,Clc1cccc(Br)c1,1,False,0,191.45499999999998,8
+chlorothiazide,NS(=O)(=O)c2cc1c(N=CNS1(=O)=O)cc2Cl ,-3.05,True,NS(=O)(=O)c1cc2c(cc1Cl)N=CNS2(=O)=O,1,False,0,295.72900000000004,17
+5-Methyl-5-ethylbarbituric acid,O=C1NC(=O)NC(=O)C1(C)CC,-1.228,True,CCC1(C)C(=O)NC(=O)NC1=O,1,False,0,170.16799999999998,12
+2-Phenoxyethanol,OCCOc1ccccc1,-0.7,True,OCCOc1ccccc1,1,False,0,138.16599999999997,10
+Diphenylmethane,C(c1ccccc1)c2ccccc2,-4.08,True,c1ccc(Cc2ccccc2)cc1,1,False,0,168.239,13
+3-Octanol,CCCCCC(O)CC,-1.98,True,CCCCCC(O)CC,1,False,0,130.23099999999997,9
+Flumetralin,CCN(Cc1c(F)cccc1Cl)c2c(cc(cc2N(=O)=O)C(F)(F)F)N(=O)=O,-6.78,True,CCN(Cc1c(F)cccc1Cl)c1c([N+](=O)[O-])cc(C(F)(F)F)cc1[N+](=O)[O-],1,False,0,421.7340000000001,28
+Propazine,CC(C)Nc1nc(Cl)nc(NC(C)C)n1,-4.43,True,CC(C)Nc1nc(Cl)nc(NC(C)C)n1,1,False,0,229.71500000000003,15
+2-Methylpentanol,CCCC(C)CO,-1.11,True,CCCC(C)CO,1,False,0,102.17699999999999,7
+2-Methyl-2-hexanol,CCCCC(C)(C)O,-1.08,True,CCCCC(C)(C)O,1,False,0,116.20399999999998,8
+Ethylbenzene,CCc1ccccc1,-2.77,True,CCc1ccccc1,1,False,0,106.16799999999996,8
+5-(3-Methyl-2-butenyl)-5-ethylbarbital,O=C1NC(=O)NC(=O)C1(CC)CC=C(C)C,-2.253,True,CCC1(CC=C(C)C)C(=O)NC(=O)NC1=O,1,False,0,224.25999999999996,16
+Heptachlor,ClC1C=CC2C1C3(Cl)C(=C(Cl)C2(Cl)C3(Cl)Cl)Cl,-6.317,True,ClC1=C(Cl)C2(Cl)C3C(Cl)C=CC3C1(Cl)C2(Cl)Cl,1,False,0,373.3209999999999,17
+butallylonal,CCC(C)C1(CC(Br)=C)C(=O)NC(=O)NC1=O ,-2.647,True,C=C(Br)CC1(C(C)CC)C(=O)NC(=O)NC1=O,1,False,0,303.156,17
+Fenpropathrin,CC1(C)C(C(=O)OC(C#N)c2cccc(Oc3ccccc3)c2)C1(C)C,-6.025,True,CC1(C)C(C(=O)OC(C#N)c2cccc(Oc3ccccc3)c2)C1(C)C,1,False,0,349.43000000000006,26
+Methoprene,COC(C)(C)CCCC(C)CC=CC(C)=CC(=O)OC(C)C,-5.19,True,COC(C)(C)CCCC(C)CC=CC(C)=CC(=O)OC(C)C,1,False,0,310.47800000000007,22
+Ethyl propionate,CCOC(=O)CC,-0.66,True,CCOC(=O)CC,1,False,0,102.133,7
+Prometryn,CSc1nc(NC(C)C)nc(NC(C)C)n1,-4.1,True,CSc1nc(NC(C)C)nc(NC(C)C)n1,1,False,0,241.364,16
+Buturon,CC(C#C)N(C)C(=O)Nc1ccc(Cl)cc1,-3.9,True,C#CC(C)N(C)C(=O)Nc1ccc(Cl)cc1,1,False,0,236.702,16
+"2,3-Dimethylnaphthalene",Cc1cc2ccccc2cc1C,-4.72,True,Cc1cc2ccccc2cc1C,1,False,0,156.22799999999998,12
+"2,4',5-PCB",Clc1ccc(cc1)c2cc(Cl)ccc2Cl ,-6.25,True,Clc1ccc(-c2cc(Cl)ccc2Cl)cc1,1,False,0,257.547,15
+"2,3',4,4',5-PCB",Clc1ccc(c(Cl)c1)c2cc(Cl)c(Cl)c(Cl)c2Cl ,-7.39,True,Clc1ccc(-c2cc(Cl)c(Cl)c(Cl)c2Cl)c(Cl)c1,1,False,0,360.88200000000006,18
+2-cyanoguanidine,NC(N)=NC#N ,-0.31,True,N#CN=C(N)N,1,False,0,84.082,6
+Chloropicrin,ClC(Cl)(Cl)N(=O)=O,-2.0,True,O=[N+]([O-])C(Cl)(Cl)Cl,1,False,0,164.375,7
+"2,6-PCB",Clc1cccc(Cl)c1c2ccccc2 ,-5.21,True,Clc1cccc(Cl)c1-c1ccccc1,1,False,0,223.102,14
+p-Methoxybenzaldehyde,COc1ccc(C=O)cc1,-1.49,True,COc1ccc(C=O)cc1,1,False,0,136.14999999999998,10
+4-Nitroacetanilide,CC(=O)Nc1ccc(cc1)N(=O)=O,-2.692,True,CC(=O)Nc1ccc([N+](=O)[O-])cc1,1,False,0,180.16299999999998,13
+Ethyl heptanoate,CCCCCCC(=O)OCC,-2.74,True,CCCCCCC(=O)OCC,1,False,0,158.24099999999999,11
+p-Hydroxyacetanilide,CC(=O)Nc1ccc(O)cc1,-1.03,True,CC(=O)Nc1ccc(O)cc1,1,False,0,151.165,11
+indazole,c2ccc1[nH]ncc1c2 ,-2.16,True,c1ccc2[nH]ncc2c1,1,False,0,118.13899999999998,9
+triamcinolone acetonide,CC5(C)OC4CC3C2CCC1=CC(=O)C=CC1(C)C2(F)C(O)CC3(C)C4(O5)C(=O)CO ,-4.31,True,CC1(C)OC2CC3C4CCC5=CC(=O)C=CC5(C)C4(F)C(O)CC3(C)C2(C(=O)CO)O1,1,False,0,434.50400000000025,31
+guanine,Nc2nc1[nH]cnc1c(=O)[nH]2 ,-3.583,True,Nc1nc2[nH]cnc2c(=O)[nH]1,1,False,0,151.129,11
+Methyl acetate,COC(=O)C,0.46,True,COC(C)=O,1,False,0,74.07900000000001,5
+Stanolone,CC34CCC1C(CCC2CC(=O)CCC12C)C3CCC4O ,-4.743,True,CC12CCC3C(CCC4CC(=O)CCC43C)C1CCC2O,1,False,0,290.44699999999995,21
+1-Hexene-3-ol,CCCC(O)C=C,-0.59,True,C=CC(O)CCC,1,False,0,100.16099999999999,7
+norbormide,OC(C1=CC2C5C(C1C2=C(c3ccccc3)c4ccccn4)C(=O)NC5=O)(c6ccccc6)c7ccccn7 ,-3.931,True,O=C1NC(=O)C2C3C(C(O)(c4ccccc4)c4ccccn4)=CC(C3=C(c3ccccc3)c3ccccn3)C12,1,False,0,511.5810000000002,39
+Dibutyl ether ,CCCCOCCCC,-1.85,True,CCCCOCCCC,1,False,0,130.231,9
+1-Dodecanol,CCCCCCCCCCCCO,-4.8,True,CCCCCCCCCCCCO,1,False,0,186.33899999999997,13
+RTI 6,CCN2c1nc(N(C)(CCO))ccc1NC(=O)c3cccnc23 ,-3.36,True,CCN1c2nc(N(C)CCO)ccc2NC(=O)c2cccnc21,1,False,0,313.36100000000005,23
+2-Methyl-2-pentanol,CCCC(C)(C)O,-0.49,True,CCCC(C)(C)O,1,False,0,102.17699999999998,7
+Flucytosine,Nc1nc(=O)[nH]cc1F,-0.972,True,Nc1nc(=O)[nH]cc1F,1,False,0,129.09399999999997,9
+stadacaine,CCCCOc1ccc(C(=O)OCC)c(c1)N(CC)CC ,-3.84,True,CCCCOc1ccc(C(=O)OCC)c(N(CC)CC)c1,1,False,0,293.40700000000004,21
+2-Methyl-2-heptanol,CCCCCC(C)(C)O,-1.72,True,CCCCCC(C)(C)O,1,False,0,130.231,9
+Hexamethylbenzene,Cc1c(C)c(C)c(C)c(C)c1C,-5.23,True,Cc1c(C)c(C)c(C)c(C)c1C,1,False,0,162.27599999999998,12
+Thymol,CC(C)c1ccc(C)cc1O,-2.22,True,Cc1ccc(C(C)C)c(O)c1,1,False,0,150.22099999999998,11
+Pteridine,c2cnc1ncncc1n2,0.02,True,c1cnc2ncncc2n1,1,False,0,132.12599999999998,10
+Parathion,CCOP(=S)(OCC)Oc1ccc(cc1)N(=O)=O,-4.66,True,CCOP(=S)(OCC)Oc1ccc([N+](=O)[O-])cc1,1,False,0,291.26500000000004,18
+Methane,C,-0.9,True,C,1,False,0,16.043,1
+indoline,c2ccc1NCCc1c2 ,-1.04,True,c1ccc2c(c1)CCN2,1,False,0,119.16699999999999,9
+1-Nitronapthalene,O=N(=O)c1cccc2ccccc12,-3.54,True,O=[N+]([O-])c1cccc2ccccc12,1,False,0,173.171,13
+3-Methyl-2-pentanone,CCC(C)C(=O)C,-0.67,True,CCC(C)C(C)=O,1,False,0,100.16099999999999,7
+isoguanine,Nc1nc(O)nc2nc[nH]c12 ,-3.401,True,Nc1nc(O)nc2nc[nH]c12,1,False,0,151.129,11
+bromadiolone,OC(CC(c1ccccc1)c3c(O)c2ccccc2oc3=O)c4ccc(cc4)c5ccc(Br)cc5 ,-4.445,True,O=c1oc2ccccc2c(O)c1C(CC(O)c1ccc(-c2ccc(Br)cc2)cc1)c1ccccc1,1,False,0,527.4140000000002,35
+Nitromethane,CN(=O)=O,0.26,True,C[N+](=O)[O-],1,False,0,61.040000000000006,4
+Triallate,CC(C)N(C(C)C)C(=O)SCC(Cl)=C(Cl)Cl,-4.88,True,CC(C)N(C(=O)SCC(Cl)=C(Cl)Cl)C(C)C,1,False,0,304.66999999999996,16
+"1,5-Hexadiene ",C=CCCC=C,-2.68,True,C=CCCC=C,1,False,0,82.14599999999999,6
+Indole,c2ccc1[nH]ccc1c2,-1.52,True,c1ccc2[nH]ccc2c1,1,False,0,117.15099999999997,9
+Androstenedione,CC34CCC1C(CCC2=CC(=O)CCC12C)C3CCC4=O,-3.69,True,CC12CCC3C(CCC4=CC(=O)CCC43C)C1CCC2=O,1,False,0,286.415,21
+1-Hexene,CCCCC=C,-3.23,True,C=CCCCC,1,False,0,84.16199999999999,6
+Xipamide,Cc1cccc(C)c1NC(=O)c2cc(c(Cl)cc2O)S(N)(=O)=O,-3.79,True,Cc1cccc(C)c1NC(=O)c1cc(S(N)(=O)=O)c(Cl)cc1O,1,False,0,354.8150000000001,23
+Ethylcyclohexane,CCC1CCCCC1,-4.25,True,CCC1CCCCC1,1,False,0,112.21600000000001,8
+2-Nonanone,CCCCCCCC(=O)C,-2.58,True,CCCCCCCC(C)=O,1,False,0,142.242,10
+Mebendazole,COC(=O)Nc2nc1ccc(cc1[nH]2)C(=O)c3ccccc3,-3.88,True,COC(=O)Nc1nc2ccc(C(=O)c3ccccc3)cc2[nH]1,1,False,0,295.298,22
+Chloropham,CC(C)OC(=O)Nc1cccc(Cl)c1,-3.38,True,CC(C)OC(=O)Nc1cccc(Cl)c1,1,False,0,213.66400000000002,14
+RTI 12,CCN2c1nc(Cl)ccc1N(C)C(=O)c3cccnc23 ,-4.114,True,CCN1c2ncccc2C(=O)N(C)c2ccc(Cl)nc21,1,False,0,288.73800000000006,20
+Carbaryl,CNC(=O)Oc1cccc2ccccc12,-3.224,True,CNC(=O)Oc1cccc2ccccc12,1,False,0,201.225,15
+Ethyne,C#C,0.29,True,C#C,1,False,0,26.037999999999997,2
+"3,5-Dimethylpyridine",Cc1cncc(C)c1,0.38,True,Cc1cncc(C)c1,1,False,0,107.15599999999998,8
+"1,4-Cyclohexadiene",C1C=CCC=C1,-2.06,True,C1=CCC=CC1,1,False,0,80.12999999999998,6
+Mecarbam,CCOC(=O)N(C)C(=O)CSP(=S)(OCC)OCC,-2.518,True,CCOC(=O)N(C)C(=O)CSP(=S)(OCC)OCC,1,False,0,329.3800000000001,19
+1-Phenylethanol,CC(O)c1ccccc1,-0.92,True,CC(O)c1ccccc1,1,False,0,122.16699999999996,9
+"1,2-Dichloropropane",CC(Cl)CCl,-1.6,True,CC(Cl)CCl,1,False,0,112.98700000000001,5
+2-Ethyl-2-hexanal,CCCC=C(CC)C=O,-2.46,True,CCCC=C(C=O)CC,1,False,0,126.19899999999998,9
+Disulfoton,CCOP(=S)(OCC)SCCSCC,-4.23,True,CCOP(=S)(OCC)SCCSCC,1,False,0,274.413,14
+methyltestosterone acetate,CC(=O)OC3(C)CCC4C2CCC1=CC(=O)CCC1(C)C2CCC34C ,-5.284,True,CC(=O)OC1(C)CCC2C3CCC4=CC(=O)CCC4(C)C3CCC21C,1,False,0,344.4950000000001,25
+"2,4,6-PCB",Clc1ccc(cc1)c2c(Cl)cccc2Cl ,-6.14,True,Clc1ccc(-c2c(Cl)cccc2Cl)cc1,1,False,0,257.547,15
+difluron,Fc1cccc(F)c1C(=O)NC(=O)Nc2ccc(Cl)cc2,-6.02,True,O=C(NC(=O)c1c(F)cccc1F)Nc1ccc(Cl)cc1,1,False,0,310.687,21
+Triclosan,Oc1cc(Cl)ccc1Oc2ccc(Cl)cc2Cl,-4.46,True,Oc1cc(Cl)ccc1Oc1ccc(Cl)cc1Cl,1,False,0,289.54499999999996,17
+diisooctyl phthalate,c1(C(=O)OCCCCCC(C)(C))c(C(=O)OCCCCCC(C)(C))cccc1,-6.6370000000000005,True,CC(C)CCCCCOC(=O)c1ccccc1C(=O)OCCCCCC(C)C,1,False,0,390.5640000000002,28
+Corticosterone,CC12CC(O)C3C(CCC4=CC(=O)CCC34C)C2CCC1C(=O)CO,-3.24,True,CC12CCC(=O)C=C1CCC1C2C(O)CC2(C)C(C(=O)CO)CCC12,1,False,0,346.46700000000016,25
+"1,3,5-Trimethylbenzene ",Cc1cc(C)cc(C)c1,-3.4,True,Cc1cc(C)cc(C)c1,1,False,0,120.19499999999998,9
+dioctyl phthalate,CCCCCCCCOC(=O)c1ccccc1C(=O)OCCCCCCCC ,-5.115,True,CCCCCCCCOC(=O)c1ccccc1C(=O)OCCCCCCCC,1,False,0,390.56400000000036,28
+1-Pentadecanol,CCCCCCCCCCCCCCCO,-6.35,True,CCCCCCCCCCCCCCCO,1,False,0,228.41999999999993,16
+"2,2',6,6'-PCB",Clc1cccc(Cl)c1c2c(Cl)cccc2Cl ,-7.39,True,Clc1cccc(Cl)c1-c1c(Cl)cccc1Cl,1,False,0,291.99199999999996,16
+"5,5-Dimethylbarbituric acid",O=C1NC(=O)NC(=O)C1(C)C,-1.742,True,CC1(C)C(=O)NC(=O)NC1=O,1,False,0,156.141,11
+2-Iodopropane,CC(C)I,-2.09,True,CC(C)I,1,False,0,169.993,4
+"1,2-Dinitrobenzene",O=N(=O)c1ccccc1N(=O)=O,-3.1,True,O=[N+]([O-])c1ccccc1[N+](=O)[O-],1,False,0,168.10799999999995,12
+3-Methyl-2-butanone,CC(C)C(=O)C,-0.12,True,CC(=O)C(C)C,1,False,0,86.13399999999999,6
+Hexadecane,CCCCCCCCCCCCCCCC,-8.4,True,CCCCCCCCCCCCCCCC,1,False,0,226.44799999999992,16
+"1,8-Cineole",CC12CCC(CC1)C(C)(C)O2,-1.74,True,CC12CCC(CC1)C(C)(C)O2,1,False,0,154.253,11
+Tricyclazole,Cc2cccc3sc1nncn1c23 ,-2.07,True,Cc1cccc2sc3nncn3c12,1,False,0,189.24300000000002,13
+2-Octanone,CCCCCCC(=O)C,-2.05,True,CCCCCCC(C)=O,1,False,0,128.21499999999997,9
+Methyl nonanoate,CCCCCCCCC(=O)OC,-3.38,True,CCCCCCCCC(=O)OC,1,False,0,172.268,12
+"1,4-Difluorobenzene",Fc1ccc(F)cc1,-1.97,True,Fc1ccc(F)cc1,1,False,0,114.094,8
+Thalidomide,O=C1N(C2CCC(=O)NC2=O)C(=O)c3ccccc13,-2.676,True,O=C1CCC(N2C(=O)c3ccccc3C2=O)C(=O)N1,1,False,0,258.233,19
+Trifluralin,CCCN(CCC)c1c(cc(cc1N(=O)=O)C(F)(F)F)N(=O)=O,-5.68,True,CCCN(CCC)c1c([N+](=O)[O-])cc(C(F)(F)F)cc1[N+](=O)[O-],1,False,0,335.28200000000004,23
+Ethanol,CCO,1.1,True,CCO,1,False,0,46.069,3
+Cyclopentyl-5-spirobarbituric acid,O=C2NC(=O)C1(CCCC1)C(=O)N2,-2.349,True,O=C1NC(=O)C2(CCCC2)C(=O)N1,1,False,0,182.179,13
+Carbetamide,c1c(NC(=O)OC(C)C(=O)NCC)cccc1,-1.83,True,CCNC(=O)C(C)OC(=O)Nc1ccccc1,1,False,0,236.271,17
+phenothrin,CC(C)=CC3C(C(=O)OCc2cccc(Oc1ccccc1)c2)C3(C)C ,-5.24,True,CC(C)=CC1C(C(=O)OCc2cccc(Oc3ccccc3)c2)C1(C)C,1,False,0,350.4580000000001,26
+Cycluron,CN(C)C(=O)NC1CCCCCCC1,-2.218,True,CN(C)C(=O)NC1CCCCCCC1,1,False,0,198.30999999999992,14
+Mirex,ClC1(C2(Cl)C3(Cl)C4(Cl)C5(Cl)C1(Cl)C3(Cl)Cl)C5(Cl)C(Cl)(Cl)C24Cl,-6.8,True,ClC1(Cl)C2(Cl)C3(Cl)C4(Cl)C(Cl)(Cl)C5(Cl)C3(Cl)C1(Cl)C5(Cl)C24Cl,1,False,0,545.5460000000002,22
+1-Bromooctane,CCCCCCCCBr,-5.06,True,CCCCCCCCBr,1,False,0,193.128,9
+Benomyl,CCCCNC(=O)n1c(NC(=O)OC)nc2ccccc12,-4.883,True,CCCCNC(=O)n1c(NC(=O)OC)nc2ccccc21,1,False,0,290.323,21
+aminopyrine,CN(C)c2c(C)n(C)n(c1ccccc1)c2=O ,-0.364,True,Cc1c(N(C)C)c(=O)n(-c2ccccc2)n1C,1,False,0,231.299,17
+3-Pentanol,CCC(O)CC,-0.24,True,CCC(O)CC,1,False,0,88.15,6
+p-Nitrotoluene,Cc1ccc(cc1)N(=O)=O,-2.49,True,Cc1ccc([N+](=O)[O-])cc1,1,False,0,137.138,10
+4-Methylpentanol,CC(C)CCCO,-1.14,True,CC(C)CCCO,1,False,0,102.17699999999999,7
+Norethisterone,CC34CCC1C(CCC2=CC(=O)CCC12O)C3CCC4(O)C#C,-4.57,True,C#CC1(O)CCC2C3CCC4=CC(=O)CCC4(O)C3CCC21C,1,False,0,314.42500000000007,23
+bromopropylate,CC(C)OC(=O)C(O)(c1ccc(Br)cc1)c2ccc(Br)cc2 ,-4.93,True,CC(C)OC(=O)C(O)(c1ccc(Br)cc1)c1ccc(Br)cc1,1,False,0,428.12000000000006,22
+Pyrazon,Nc2cnn(c1ccccc1)c(=O)c2Cl,-2.878,True,Nc1cnn(-c2ccccc2)c(=O)c1Cl,1,False,0,221.647,15
+2-Methylbutan-2-ol,CCC(C)(C)O,0.15,True,CCC(C)(C)O,1,False,0,88.14999999999998,6
+p-Cresol,Cc1ccc(O)cc1,-0.73,True,Cc1ccc(O)cc1,1,False,0,108.13999999999999,8
+Ethyl formate,CCOC=O,0.15,True,CCOC=O,1,False,0,74.07900000000001,5
+"N,N-Dimethylaniline",CN(C)c1ccccc1,-1.92,True,CN(C)c1ccccc1,1,False,0,121.18299999999995,9
+Decalin,C1CCC2CCCCC2C1,-5.19,True,C1CCC2CCCCC2C1,1,False,0,138.254,10
+Butanethiol ,CCCCS,-2.18,True,CCCCS,1,False,0,90.19099999999999,5
+Benzo(e)pyrene,c1ccc2c(c1)c3cccc4ccc5cccc2c5c43,-7.8,True,c1ccc2c(c1)c1cccc3ccc4cccc2c4c31,1,False,0,252.31599999999997,20
+Tetrachloroethylene,ClC(=C(Cl)Cl)Cl,-2.54,True,ClC(Cl)=C(Cl)Cl,1,False,0,165.834,6
+3-Pentanone,CCC(=O)CC,-0.28,True,CCC(=O)CC,1,False,0,86.134,6
+Acrylonitrile,C=CC#N,0.15,True,C=CC#N,1,False,0,53.06399999999999,4
+Flumethasone,CC1CC2C3CC(F)C4=CC(=O)C=CC4(C)C3(F)C(O)CC2(C)C1(O)C(=O)CO,-5.613,True,CC1CC2C3CC(F)C4=CC(=O)C=CC4(C)C3(F)C(O)CC2(C)C1(O)C(=O)CO,1,False,0,410.4570000000002,29
+2-Hexanone,CCCCC(=O)C,-0.8,True,CCCCC(C)=O,1,False,0,100.16099999999999,7
+Terbumeton,CCNc1nc(NC(C)(C)C)nc(OC)n1,-3.239,True,CCNc1nc(NC(C)(C)C)nc(OC)n1,1,False,0,225.296,16
+3-Methylheptane,CCCCC(C)CC,-5.16,True,CCCCC(C)CC,1,False,0,114.23199999999999,8
+"1,2-Dibromoethane",BrCCBr,-1.68,True,BrCCBr,1,False,0,187.862,4
+Isoprocarb,CNC(=O)Oc1ccccc1C(C)C,-2.863,True,CNC(=O)Oc1ccccc1C(C)C,1,False,0,193.24599999999998,14
+Niridazole,O=C1NCCN1c2ncc(s2)N(=O)=O,-3.22,True,O=C1NCCN1c1ncc([N+](=O)[O-])s1,1,False,0,214.20600000000002,14
+Benzo(a)fluorene,C1c2ccccc2c3ccc4ccccc4c13,-6.68,True,c1ccc2c(c1)Cc1c-2ccc2ccccc12,1,False,0,216.283,17
+2-Chloroanisole,COc1ccccc1Cl,-2.46,True,COc1ccccc1Cl,1,False,0,142.58499999999998,9
+Bromophos,COP(=S)(OC)Oc1cc(Cl)c(Br)cc1Cl,-6.09,True,COP(=S)(OC)Oc1cc(Cl)c(Br)cc1Cl,1,False,0,366.0,16
+Quinonamid,ClC(Cl)CC(=O)NC2=C(Cl)C(=O)c1ccccc1C2=O,-5.03,True,O=C(CC(Cl)Cl)NC1=C(Cl)C(=O)c2ccccc2C1=O,1,False,0,332.57000000000005,20
+"P,P'-DDD",ClC(Cl)C(c1ccc(Cl)cc1)c2ccc(Cl)cc2 ,-7.2,True,Clc1ccc(C(c2ccc(Cl)cc2)C(Cl)Cl)cc1,1,False,0,320.04600000000005,18
+Methyl acrylate,COC(=O)C=C,-0.22,True,C=CC(=O)OC,1,False,0,86.09,6
+Chloroxuron,CN(C)C(=O)Nc2ccc(Oc1ccc(Cl)cc1)cc2,-4.89,True,CN(C)C(=O)Nc1ccc(Oc2ccc(Cl)cc2)cc1,1,False,0,290.75,20
+Azobenzene,N(=Nc1ccccc1)c2ccccc2,-4.45,True,c1ccc(N=Nc2ccccc2)cc1,1,False,0,182.226,14
+4-Isopropyltoluene,CC(C)c1ccc(C)cc1,-3.77,True,Cc1ccc(C(C)C)cc1,1,False,0,134.22199999999998,10
+"2,6-Dichlorophenol",Oc1c(Cl)cccc1Cl,-1.79,True,Oc1c(Cl)cccc1Cl,1,False,0,163.003,9
+Sucrose,OCC2OC(OC1(CO)OC(CO)C(O)C1O)C(O)C(O)C2O ,0.79,True,OCC1OC(OC2(CO)OC(CO)C(O)C2O)C(O)C(O)C1O,1,False,0,342.297,23
+d-inositol,OC1C(O)C(O)C(O)C(O)C1O,0.35,True,OC1C(O)C(O)C(O)C(O)C1O,1,False,0,180.156,12
+Dyphylline,Cn2c(=O)n(C)c1ncn(CC(O)CO)c1c2=O,-0.17,True,Cn1c(=O)c2c(ncn2CC(O)CO)n(C)c1=O,1,False,0,254.24599999999995,18
+Chloramphenicol,OCC(NC(=O)C(Cl)Cl)C(O)c1ccc(cc1)N(=O)=O,-2.111,True,O=C(NC(CO)C(O)c1ccc([N+](=O)[O-])cc1)C(Cl)Cl,1,False,0,323.13200000000006,20
+3-Ethyl-3-pentanol,CCC(O)(CC)CC,-0.85,True,CCC(O)(CC)CC,1,False,0,116.204,8
+Epitostanol,CC45CCC2C(CCC3CC1SC1CC23C)C4CCC5O,-5.41,True,CC12CCC3C(CCC4CC5SC5CC43C)C1CCC2O,1,False,0,306.51500000000004,21
+"1,2-Dibromobenzene",Brc1ccccc1Br,-3.5,True,Brc1ccccc1Br,1,False,0,235.90599999999998,8
+"2,4,6-Trichlorophenol",Oc1c(Cl)cc(Cl)cc1Cl,-2.34,True,Oc1c(Cl)cc(Cl)cc1Cl,1,False,0,197.44799999999998,10
+oryzalin,CCCN(CCC)c1c(cc(cc1N(=O)=O)S(N)(=O)=O)N(=O)=O,-5.16,True,CCCN(CCC)c1c([N+](=O)[O-])cc(S(N)(=O)=O)cc1[N+](=O)[O-],1,False,0,346.3650000000001,23
+RTI 20,C2c1ccccc1N(CCF)C(=O)c3ccccc23 ,-4.799,True,O=C1c2ccccc2Cc2ccccc2N1CCF,1,False,0,255.29199999999997,19
+"2,4-Dimethyl-3-pentanone",CC(C)C(=O)C(C)C,-1.3,True,CC(C)C(=O)C(C)C,1,False,0,114.18799999999997,8
+5-(3-Methyl-2-butenyl)-5-isoPrbarbital,O=C1NC(=O)NC(=O)C1(C(C)C)CC=C(C)C,-2.593,True,CC(C)=CCC1(C(C)C)C(=O)NC(=O)NC1=O,1,False,0,238.28699999999998,17
+gentisin,c1c(O)C2C(=O)C3cc(O)ccC3OC2cc1(OC),-2.943,True,COC1=CC2OC3C=CC(O)=CC3C(=O)C2C(O)=C1,1,False,0,262.261,19
+Caffeine,Cn1cnc2n(C)c(=O)n(C)c(=O)c12,-0.8759999999999999,True,Cn1c(=O)c2c(ncn2C)n(C)c1=O,1,False,0,194.19399999999996,14
+Spironolactone,CC(=O)SC4CC1=CC(=O)CCC1(C)C5CCC2(C)C(CCC23CCC(=O)O3)C45,-4.173,True,CC(=O)SC1CC2=CC(=O)CCC2(C)C2CCC3(C)C(CCC34CCC(=O)O4)C12,1,False,0,416.58300000000025,29
+"3,4-Dimethylphenol",Cc1ccc(O)cc1C,-1.38,True,Cc1ccc(O)cc1C,1,False,0,122.16699999999999,9
+Diphenyl ether ,O(c1ccccc1)c2ccccc2,-3.96,True,c1ccc(Oc2ccccc2)cc1,1,False,0,170.211,13
+"2,2',4,4',5,5'-PCB",Clc1cc(Cl)c(cc1Cl)c2cc(Cl)c(Cl)cc2Cl ,-8.56,True,Clc1cc(Cl)c(-c2cc(Cl)c(Cl)cc2Cl)cc1Cl,1,False,0,360.88200000000006,18
+nicotinamide,NC(=O)c1cccnc1 ,0.61,True,NC(=O)c1cccnc1,1,False,0,122.12699999999997,9
+Thiophenol ,Sc1ccccc1,-2.12,True,Sc1ccccc1,1,False,0,110.18099999999997,7
+XMC,CNC(=O)Oc1cc(C)cc(C)c1,-2.5810000000000004,True,CNC(=O)Oc1cc(C)cc(C)c1,1,False,0,179.219,13
+Chlordane,ClC1CC2C(C1Cl)C3(Cl)C(=C(Cl)C2(Cl)C3(Cl)Cl)Cl,-6.86,True,ClC1=C(Cl)C2(Cl)C3C(Cl)C(Cl)CC3C1(Cl)C2(Cl)Cl,1,False,0,409.7819999999999,18
+Dimethyldisulfide,CSSC,-1.44,True,CSSC,1,False,0,94.20400000000001,4
+Benzamide,NC(=O)c1ccccc1,-0.96,True,NC(=O)c1ccccc1,1,False,0,121.13899999999995,9
+o-Chlorobromobenzene,Clc1ccccc1Br,-3.19,True,Clc1ccccc1Br,1,False,0,191.45499999999998,8
+Monotropitoside,COC(=O)c1ccccc1OC2OC(COC3OCC(O)C(O)C3O)C(O)C(O)C2O,-0.742,True,COC(=O)c1ccccc1OC1OC(COC2OCC(O)C(O)C2O)C(O)C(O)C1O,1,False,0,446.40500000000003,31
+3-Heptanol ,CCCCC(O)CC,-1.47,True,CCCCC(O)CC,1,False,0,116.20399999999998,8
+RTI 15,CCN2c1nc(C)cc(C)c1NC(=O)c3cccnc23 ,-4.553999999999999,True,CCN1c2ncccc2C(=O)Nc2c(C)cc(C)nc21,1,False,0,268.32,20
+"3,5-Dichlorophenol",Oc1cc(Cl)cc(Cl)c1,-1.34,True,Oc1cc(Cl)cc(Cl)c1,1,False,0,163.003,9
+1-Methylphenanthrene,Cc1cccc2c1ccc3ccccc32,-5.85,True,Cc1cccc2c1ccc1ccccc12,1,False,0,192.261,15
+2-Ethyl-1-hexanol,CCCCC(CC)CO,-2.11,True,CCCCC(CC)CO,1,False,0,130.231,9
+Diallate,CC(C)N(C(C)C)C(=O)SCC(=CCl)Cl,-4.2860000000000005,True,CC(C)N(C(=O)SCC(Cl)=CCl)C(C)C,1,False,0,270.225,15
+Toluene ,Cc1ccccc1,-2.21,True,Cc1ccccc1,1,False,0,92.14099999999999,7
+Nitrapyrin,Clc1cccc(n1)C(Cl)(Cl)Cl,-3.76,True,Clc1cccc(C(Cl)(Cl)Cl)n1,1,False,0,230.909,11
+Cycloheptene,C1CCC=CCC1,-3.18,True,C1=CCCCCC1,1,False,0,96.173,7
+Thiram,CN(C)C(=S)SSC(=S)N(C)C ,-3.9,True,CN(C)C(=S)SSC(=S)N(C)C,1,False,0,240.44400000000002,12
+Griseofulvin,COC1=CC(=O)CC(C)C13Oc2c(Cl)c(OC)cc(OC)c2C3=O,-3.2460000000000004,True,COC1=CC(=O)CC(C)C12Oc1c(Cl)c(OC)cc(OC)c1C2=O,1,False,0,352.7700000000001,24
+1-Decanol,CCCCCCCCCCO,-3.63,True,CCCCCCCCCCO,1,False,0,158.285,11
+"3,3-Dimethylpentane",CCC(C)(C)CC,-4.23,True,CCC(C)(C)CC,1,False,0,100.20499999999998,7
+vamidothion,CNC(=O)C(C)SCCSP(=O)(OC)(OC),1.144,True,CNC(=O)C(C)SCCSP(=O)(OC)OC,1,False,0,287.34299999999996,16
+"2,3,4,5-Tetrachlorophenol",Oc1cc(Cl)c(Cl)c(Cl)c1Cl,-3.15,True,Oc1cc(Cl)c(Cl)c(Cl)c1Cl,1,False,0,231.893,11
+Butyraldehyde,CCCC=O,-0.01,True,CCCC=O,1,False,0,72.107,5
+dexamethasone acetate,CC4CC3C2CCC1=CC(=O)C=CC1(C)C2(F)C(O)CC3(C)C4(O)C(=O)COC(C)=O ,-4.9,True,CC(=O)OCC(=O)C1(O)C(C)CC2C3CCC4=CC(=O)C=CC4(C)C3(F)C(O)CC21C,1,False,0,434.5040000000003,31
+Butane,CCCC,-2.57,True,CCCC,1,False,0,58.123999999999995,4
+o-Methoxyphenol,COc1ccccc1O,-1.96,True,COc1ccccc1O,1,False,0,124.13899999999997,9
+Fluoromethalone,CC1CC2C3CCC(O)(C(=O)C)C3(C)CC(O)C2(F)C4(C)C=CC(=O)C=C14,-4.099,True,CC(=O)C1(O)CCC2C3CC(C)C4=CC(=O)C=CC4(C)C3(F)C(O)CC21C,1,False,0,376.46800000000013,27
+Pentachloroethane,ClC(Cl)C(Cl)(Cl)Cl,-2.6,True,ClC(Cl)C(Cl)(Cl)Cl,1,False,0,202.29500000000002,7
+Diethyl phthalate ,CCOC(=O)c1ccccc1C(=O)OCC,-2.35,True,CCOC(=O)c1ccccc1C(=O)OCC,1,False,0,222.23999999999995,16
+2-Methylpropan-1-ol,CC(C)CO,0.1,True,CC(C)CO,1,False,0,74.12299999999999,5
+Isobutylbenzene,CC(C)Cc1ccccc1,-4.12,True,CC(C)Cc1ccccc1,1,False,0,134.22199999999998,10
+Diiodomethane,ICI,-2.34,True,ICI,1,False,0,267.835,3
+4-Heptanol,CCCC(O)CCC,-1.4,True,CCCC(O)CCC,1,False,0,116.204,8
+Pentyl acetate,CCCCCOC(=O)C,-1.89,True,CCCCCOC(C)=O,1,False,0,130.18699999999998,9
+"2,3,5,6-Tetrachlorophenol",Oc1c(Cl)c(Cl)cc(Cl)c1Cl,-3.37,True,Oc1c(Cl)c(Cl)cc(Cl)c1Cl,1,False,0,231.893,11
+Propylbenzene ,CCCc1ccccc1,-3.37,True,CCCc1ccccc1,1,False,0,120.19499999999995,9
+"1,2-Dichlorotetrafluoroethane",FC(F)(Cl)C(F)(F)Cl,-2.74,True,FC(F)(Cl)C(F)(F)Cl,1,False,0,170.92000000000002,8
+2-butenal,CC=CC=O,0.32,True,CC=CC=O,1,False,0,70.09100000000001,5
+tetramethylurea,CN(C)C(=O)N(C)C ,0.94,True,CN(C)C(=O)N(C)C,1,False,0,116.16399999999999,8
+"1,2,4,5-Tetramethylbenzene",Cc1cc(C)c(C)cc1C,-4.59,True,Cc1cc(C)c(C)cc1C,1,False,0,134.22199999999998,10
+norethindrone acetate,CC(=O)OC3(CCC4C2CCC1=CC(=O)CCC1C2CCC34C)C#C,-4.8,True,C#CC1(OC(C)=O)CCC2C3CCC4=CC(=O)CCC4C3CCC21C,1,False,0,340.4630000000001,25
+Ditalimfos,CCOP(=S)(OCC)N2C(=O)c1ccccc1C2=O,-3.35,True,CCOP(=S)(OCC)N1C(=O)c2ccccc2C1=O,1,False,0,299.28800000000007,19
+salicylanilide,c1ccccc1NC(=O)c2c(O)cccc2,-3.59,True,O=C(Nc1ccccc1)c1ccccc1O,1,False,0,213.23600000000002,16
+Sulfallate,CCN(CC)C(=S)SCC(Cl)=C,-3.39,True,C=C(Cl)CSC(=S)N(CC)CC,1,False,0,223.79399999999998,12
+Chloroethane,ClCC,-1.06,True,CCCl,1,False,0,64.515,3
+Mefluidide,CC(=O)Nc1cc(NS(=O)(=O)C(F)(F)F)c(C)cc1C,-3.24,True,CC(=O)Nc1cc(NS(=O)(=O)C(F)(F)F)c(C)cc1C,1,False,0,310.297,20
+Piperine,O=C(C=CC=Cc2ccc1OCOc1c2)N3CCCCC3,-3.46,True,O=C(C=CC=Cc1ccc2c(c1)OCO2)N1CCCCC1,1,False,0,285.343,21
+cis-2-Pentene,CC/C=C\C,-2.54,True,C/C=C\CC,1,False,0,70.135,5
+thiofanox,CNC(=O)ON=C(CSC)C(C)(C)C ,-1.62,True,CNC(=O)ON=C(CSC)C(C)(C)C,1,False,0,218.32199999999997,14
+Cyclooctyl-5-spirobarbituric acid,O=C2NC(=O)C1(CCCCCCC1)C(=O)N2,-2.982,True,O=C1NC(=O)C2(CCCCCCC2)C(=O)N1,1,False,0,224.25999999999996,16
+butacarb,c1(C(C)(C)C)cc(C(C)(C)C)cc(OC(=O)NC)c1,-4.24,True,CNC(=O)Oc1cc(C(C)(C)C)cc(C(C)(C)C)c1,1,False,0,263.381,19
+Eriodictyol,Oc2cc(O)c1C(=O)CC(Oc1c2)c3ccc(O)c(O)c3,-3.62,True,O=C1CC(c2ccc(O)c(O)c2)Oc2cc(O)cc(O)c21,1,False,0,288.255,21
+Benzophenone,O=C(c1ccccc1)c2ccccc2,-3.12,True,O=C(c1ccccc1)c1ccccc1,1,False,0,182.222,14
+Eicosane,CCCCCCCCCCCCCCCCCCCC,-8.172,True,CCCCCCCCCCCCCCCCCCCC,1,False,0,282.5559999999999,20
+hydrazobenzene,N(Nc1ccccc1)c2ccccc2 ,-2.92,True,c1ccc(NNc2ccccc2)cc1,1,False,0,184.242,14
+2-Ethyl-1-butanol,CCC(CC)CO,-1.17,True,CCC(CC)CO,1,False,0,102.17699999999999,7
+4-hydroxypyridine,Oc1ccncc1,1.02,True,Oc1ccncc1,1,False,0,95.10099999999998,7
+"cis 1,2-Dichloroethylene",Cl\C=C/Cl,-1.3,True,Cl/C=C\Cl,1,False,0,96.94400000000002,4
+Methylcyclopentane,CC1CCCC1,-3.3,True,CC1CCCC1,1,False,0,84.162,6
+4-Methyl-2-pentanol,CC(C)CC(C)O,-0.8,True,CC(C)CC(C)O,1,False,0,102.17699999999998,7
+RTI 11,O2c1ccc(N)cc1N(C)C(=O)c3cc(C)ccc23 ,-3.928,True,Cc1ccc2c(c1)C(=O)N(C)c1cc(N)ccc1O2,1,False,0,254.28900000000002,19
+"2,2-Dimethylpropanol",CC(C)(C)CO,-0.4,True,CC(C)(C)CO,1,False,0,88.14999999999999,6
+Triadimefon,CC(C)(C)C(=O)C(Oc1ccc(Cl)cc1)n2cncn2,-3.61,True,CC(C)(C)C(=O)C(Oc1ccc(Cl)cc1)n1cncn1,1,False,0,293.754,20
+Isocarboxazid,Cc1cc(no1)C(=O)NNCc2ccccc2,-2.461,True,Cc1cc(C(=O)NNCc2ccccc2)no1,1,False,0,231.25500000000002,17
+Propylene,CC=C,-1.08,True,C=CC,1,False,0,42.080999999999996,3
+Dichlorophen,Oc1ccc(Cl)cc1Cc2cc(Cl)ccc2O,-3.953,True,Oc1ccc(Cl)cc1Cc1cc(Cl)ccc1O,1,False,0,269.127,17
+Desmedipham,CCOC(=O)Nc2cccc(OC(=O)Nc1ccccc1)c2 ,-4.632,True,CCOC(=O)Nc1cccc(OC(=O)Nc2ccccc2)c1,1,False,0,300.314,22
+Anthraquinone,O=C1c2ccccc2C(=O)c3ccccc13,-5.19,True,O=C1c2ccccc2C(=O)c2ccccc21,1,False,0,208.21599999999998,16
+2-Octanol,CCCCCCC(C)O,-2.09,True,CCCCCCC(C)O,1,False,0,130.231,9
+Oxycarboxin,CC1=C(C(=O)Nc2ccccc2)S(=O)(=O)CCO1,-2.281,True,CC1=C(C(=O)Nc2ccccc2)S(=O)(=O)CCO1,1,False,0,267.306,18
+Butylbenzene,CCCCc1ccccc1,-4.06,True,CCCCc1ccccc1,1,False,0,134.22199999999998,10
+parabanic acid,O=C1NC(=O)C(=O)N1 ,-0.4,True,O=C1NC(=O)C(=O)N1,1,False,0,114.05999999999999,8
+Abate,COP(=S)(OC)Oc1ccc(Sc2ccc(OP(=S)(OC)OC)cc2)cc1,-6.237,True,COP(=S)(OC)Oc1ccc(Sc2ccc(OP(=S)(OC)OC)cc2)cc1,1,False,0,466.47900000000016,27
+Chlorthalidone,NS(=O)(=O)c1cc(ccc1Cl)C2(O)NC(=O)c3ccccc23,-3.451,True,NS(=O)(=O)c1cc(C2(O)NC(=O)c3ccccc32)ccc1Cl,1,False,0,338.7720000000001,22
+Isobutyl acetate,CC(C)COC(=O)C,-1.21,True,CC(=O)OCC(C)C,1,False,0,116.15999999999998,8
+"2,2,3-Trimethylbutane",CC(C)C(C)(C)C,-4.36,True,CC(C)C(C)(C)C,1,False,0,100.20499999999998,7
+"2,3,3',4,4'6-PCB",Clc1ccc(c(Cl)c1Cl)c2c(Cl)cc(Cl)c(Cl)c2Cl ,-7.66,True,Clc1ccc(-c2c(Cl)cc(Cl)c(Cl)c2Cl)c(Cl)c1Cl,1,False,0,395.3270000000001,19
+Phthalonitrile,N#Cc1ccccc1C#N,-2.38,True,N#Cc1ccccc1C#N,1,False,0,128.13399999999996,10
+m-Nitrotoluene,Cc1cccc(c1)N(=O)=O,-2.44,True,Cc1cccc([N+](=O)[O-])c1,1,False,0,137.138,10
+halothane,FC(F)(F)C(Cl)Br ,-1.71,True,FC(F)(F)C(Cl)Br,1,False,0,197.381,7
+Oxamyl,CNC(=O)ON=C(SC)C(=O)N(C)C,0.106,True,CNC(=O)ON=C(SC)C(=O)N(C)C,1,False,0,219.266,14
+Thiometon,CCSCCSP(=S)(OC)OC,-3.091,True,CCSCCSP(=S)(OC)OC,1,False,0,246.35899999999998,12
+2-Methylbutane,CCC(C)C,-3.18,True,CCC(C)C,1,False,0,72.151,5
+Stirofos,COP(=O)(OC)OC(=CCl)c1cc(Cl)c(Cl)cc1Cl,-4.522,True,COP(=O)(OC)OC(=CCl)c1cc(Cl)c(Cl)cc1Cl,1,False,0,365.96400000000006,19

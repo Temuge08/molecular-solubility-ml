@@ -1,0 +1,25 @@
+{
+    "n_estimators": 500,
+    "random_state": 42,
+    "parameter_grid": {
+        "max_depth": [
+            null,
+            10,
+            20
+        ],
+        "min_samples_split": [
+            2,
+            5
+        ],
+        "min_samples_leaf": [
+            1,
+            2,
+            4
+        ],
+        "max_features": [
+            1.0,
+            0.5,
+            "sqrt"
+        ]
+    }
+}

@@ -1,0 +1,3 @@
+representation,validation_rmse,validation_mae,validation_r2,max_depth,max_features,min_samples_leaf,min_samples_split
+combined,0.7554980406425478,0.5819479455328881,0.8470660747740459,20,0.5,2,2
+descriptors,0.7586739832957979,0.5771735000945003,0.8457775730012396,20,sqrt,1,2

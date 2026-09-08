@@ -1,0 +1,13 @@
+name: molml
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - rdkit
+  - scikit-learn
+  - python=3.11
+  - pandas
+  - jupyterlab
+  - numpy
+  - matplotlib
+prefix: /Data/temuge/conda/envs/molml

@@ -1,0 +1,71 @@
+======================================================================
+MOLECULAR FEATURIZATION
+======================================================================
+Input molecules: 1116
+
+======================================================================
+DESCRIPTOR SUMMARY
+======================================================================
+                           count        mean         std      min        25%         50%       75%       max
+desc_mol_weight           1116.0  203.726679  102.988214  16.0430  120.51600  182.167500  270.3720  780.9490
+desc_logp                 1116.0    2.458850    1.837058  -7.5714    1.41918    2.339600    3.3944   10.3886
+desc_tpsa                 1116.0   34.637115   35.248863   0.0000    0.00000   26.020000   54.9250  268.6800
+desc_hbd                  1116.0    0.689964    1.069230   0.0000    0.00000    0.000000    1.0000   11.0000
+desc_hba                  1116.0    2.059140    2.107449   0.0000    0.00000    2.000000    3.0000   16.0000
+desc_rotatable_bonds      1116.0    2.171147    2.643260   0.0000    0.00000    1.000000    3.0000   23.0000
+desc_ring_count           1116.0    1.388889    1.320152   0.0000    0.00000    1.000000    2.0000    8.0000
+desc_aromatic_ring_count  1116.0    0.933692    1.007191   0.0000    0.00000    1.000000    2.0000    7.0000
+desc_heavy_atom_count     1116.0   13.275090    6.900481   1.0000    8.00000   12.000000   18.0000   55.0000
+desc_fraction_csp3        1116.0    0.443075    0.374928   0.0000    0.10000    0.352941    0.8000    1.0000
+
+Missing descriptor values:
+desc_mol_weight             0
+desc_logp                   0
+desc_tpsa                   0
+desc_hbd                    0
+desc_hba                    0
+desc_rotatable_bonds        0
+desc_ring_count             0
+desc_aromatic_ring_count    0
+desc_heavy_atom_count       0
+desc_fraction_csp3          0
+dtype: int64
+
+Constant descriptor features:
+None
+
+======================================================================
+MORGAN FINGERPRINT SUMMARY
+======================================================================
+Radius: 2
+Bits:   2048
+Average active bits/molecule: 21.49
+Minimum active bits: 1
+Maximum active bits: 68
+Fingerprint bits never active: 190/2048
+
+======================================================================
+FEATURIZATION COMPLETE
+======================================================================
+Molecules:             1116
+Descriptor features:   10
+Morgan features:       2048
+Combined features:     2058
+
+Saved:
+  data/processed/esol_descriptors.csv
+  data/processed/esol_morgan.csv
+  data/processed/esol_combined_features.csv
+  reports/descriptor_summary.csv
+  reports/morgan_bit_summary.csv
+
+
+
+Interpret:
+    Your featurization looks healthy: all 1,116 curated molecules produced all 10 descriptors, the Morgan fingerprints are sparse as expected (~21 active bits out of 2048 per molecule), and only 190 fingerprint positions are unused in this dataset. We can now freeze the molecular representations and move to the train/validation/test split.
+
+The important rule from now on is:
+
+All three models must use exactly the same molecules in train, validation, and test.
+
+That makes the descriptor-vs-fingerprint comparison fair.

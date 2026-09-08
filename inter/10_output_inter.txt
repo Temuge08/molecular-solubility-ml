@@ -1,0 +1,19 @@
+======================================================================
+FINAL PORTFOLIO ANALYSIS
+======================================================================
+
+                   model     rmse      mae        r2
+           mean_baseline 2.217631 1.813110 -0.197513
+descriptor_random_forest 0.853331 0.625349  0.822689
+
+======================================================================
+FINAL MODEL SUMMARY
+======================================================================
+Test molecules: 113
+Test RMSE:      0.8533
+Test MAE:       0.6253
+Test R2:        0.8227
+
+Saved final portfolio figures to figures/
+Saved worst predictions to:
+  reports/final_worst_test_predictions.csv

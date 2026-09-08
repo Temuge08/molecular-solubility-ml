@@ -1,0 +1,66 @@
+======================================================================
+CHEMICAL SIMILARITY CLUSTER SPLIT
+======================================================================
+Molecules: 1116
+
+Calculating pairwise Tanimoto distances...
+
+======================================================================
+CLUSTER SUMMARY
+======================================================================
+Distance cutoff: 0.6
+Equivalent neighbor similarity: 0.40
+Number of clusters: 422
+Largest cluster: 59
+Median cluster size: 1.0
+Singleton clusters: 268
+
+15 largest clusters:
+ 1. n=  59
+ 2. n=  35
+ 3. n=  29
+ 4. n=  19
+ 5. n=  20
+ 6. n=  21
+ 7. n=  23
+ 8. n=  18
+ 9. n=  12
+10. n=  20
+11. n=  18
+12. n=  14
+13. n=   3
+14. n=  16
+15. n=  13
+
+======================================================================
+TARGET SPLIT SIZES
+======================================================================
+train     : 892
+validation: 111
+test      : 113
+
+======================================================================
+LEAKAGE CHECK
+======================================================================
+Clusters appearing in multiple splits: 0
+
+======================================================================
+ACTUAL SPLIT SUMMARY
+======================================================================
+     split  n_molecules  fraction  n_clusters  mean_logS  std_logS  min_logS  max_logS
+     train          892  0.799283         221  -3.196018  2.093502    -11.60      1.58
+validation          111  0.099462         100  -2.730495  1.940647     -8.60      1.12
+      test          113  0.101254         101  -2.243867  2.035538     -7.32      1.57
+
+======================================================================
+CLUSTER SPLIT COMPLETE
+======================================================================
+
+Saved:
+  data/processed/esol_cluster_split_manifest.csv
+  reports/cluster_split_summary.csv
+  reports/chemical_clusters.csv
+
+
+Interpret:
+    this split is better

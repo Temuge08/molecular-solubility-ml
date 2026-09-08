@@ -1,0 +1,893 @@
+compound_ids,canonical_smiles,measured_logS,scaffold,is_acyclic_scaffold,split
+Amigdalin,N#CC(OC1OC(COC2OC(CO)C(O)C(O)C2O)C(O)C(O)C1O)c1ccccc1,-0.77,c1ccc(COC2CCCC(COC3CCCCO3)O2)cc1,False,train
+Fenfuram,Cc1occc1C(=O)Nc1ccccc1,-3.3,O=C(Nc1ccccc1)c1ccoc1,False,train
+citral,CC(C)=CCCC(C)=CC=O,-2.06,,True,train
+Picene,c1ccc2c(c1)ccc1c2ccc2c3ccccc3ccc21,-7.87,c1ccc2c(c1)ccc1c2ccc2c3ccccc3ccc21,False,train
+benzothiazole,c1ccc2scnc2c1,-1.5,c1ccc2scnc2c1,False,train
+"2,2,4,6,6'-PCB",Clc1cc(Cl)c(-c2c(Cl)cccc2Cl)c(Cl)c1,-7.32,c1ccc(-c2ccccc2)cc1,False,train
+Estradiol,CC12CCC3c4ccc(O)cc4CCC3C1CCC2O,-5.03,c1ccc2c(c1)CCC1C2CCC2CCCC21,False,train
+Dieldrin,ClC1=C(Cl)C2(Cl)C3C4CC(C5OC45)C3C1(Cl)C2(Cl)Cl,-6.29,C1=CC2CC1C1C3CC(C4OC34)C21,False,train
+2-Chloronapthalene,Clc1ccc2ccccc2c1,-4.14,c1ccc2ccccc2c1,False,train
+1-Pentene ,C=CCCC,-2.68,,True,train
+Primidone,CCC1(c2ccccc2)C(=O)NCNC1=O,-2.64,O=C1NCNC(=O)C1c1ccccc1,False,train
+Tetradecane,CCCCCCCCCCCCCC,-7.96,,True,train
+2-Chloropropane,CC(C)Cl,-1.41,,True,train
+2-Methylbutanol,CCC(C)CO,-0.47,,True,train
+Benzonitrile,N#Cc1ccccc1,-1.0,c1ccccc1,False,train
+2-Undecanol,CCCCCCCCCC(C)O,-2.94,,True,train
+"2,2',3,4,6-PCB",Clc1ccc(-c2c(Cl)ccc(Cl)c2Cl)c(Cl)c1,-7.43,c1ccc(-c2ccccc2)cc1,False,train
+Lenacil,O=c1[nH]c2c(c(=O)n1C1CCCCC1)CCC2,-4.593999999999999,O=c1[nH]c2c(c(=O)n1C1CCCCC1)CCC2,False,train
+Phorate,CCOP(=S)(OCC)SCSCC,-4.11,,True,train
+Phenacetin,CCOc1ccc(NC(C)=O)cc1,-2.35,c1ccccc1,False,train
+Dinitramine,CCN(CC)c1c([N+](=O)[O-])cc(C(F)(F)F)c(N)c1[N+](=O)[O-],-5.47,c1ccccc1,False,train
+1-Heptanol,CCCCCCCO,-1.81,,True,train
+Theophylline,Cn1c(=O)c2[nH]cnc2n(C)c1=O,-1.39,O=c1[nH]c(=O)c2[nH]cnc2[nH]1,False,train
+Butethal,CCCCC1(CC)C(=O)NC(=O)NC1=O,-1.661,O=C1CC(=O)NC(=O)N1,False,train
+Methyl octanoate,CCCCCCCC(=O)OC,-3.17,,True,train
+"1,4-Diethylbenzene ",CCc1ccc(CC)cc1,-3.75,c1ccccc1,False,train
+Terbufos,CCOP(=S)(OCC)SCSC(C)(C)C,-4.755,,True,train
+"1,1-Dichloroethylene",C=C(Cl)Cl,-1.64,,True,train
+Valeraldehyde,CCCCC=O,-0.85,,True,train
+Fenothiocarb,CN(C)C(=O)SCCCCOc1ccccc1,-3.927,c1ccccc1,False,train
+1-Iodoheptane,CCCCCCCI,-4.81,,True,train
+3-Chlorobiphenyl,Clc1cccc(-c2ccccc2)c1,-4.88,c1ccc(-c2ccccc2)cc1,False,train
+4-Pentene-1-ol,C=CCCCO,-0.15,,True,train
+Cyclobutyl-5-spirobarbituric acid,O=C1NC(=O)C2(CCC2)C(=O)N1,-1.655,O=C1NC(=O)C2(CCC2)C(=O)N1,False,train
+menthol,CC1CCC(C(C)C)C(O)C1,-2.53,C1CCCCC1,False,train
+Isopropyl formate,CC(C)OC=O,-0.63,,True,train
+2-Heptanol ,CCCCCC(C)O,-1.55,,True,train
+p-Bromoacetanilide,CC(=O)Nc1ccc(Br)cc1,-3.083,c1ccccc1,False,train
+brompyrazone,Nc1cnn(-c2ccccc2)c(=O)c1Br,-3.127,O=c1cccnn1-c1ccccc1,False,train
+1-Octyne ,C#CCCCCCC,-3.66,,True,train
+cyclobarbital,CCC1(C2=CCCCC2)C(=O)NC(=O)NC1=O,-2.17,O=C1NC(=O)C(C2=CCCCC2)C(=O)N1,False,train
+Chrysene,c1ccc2c(c1)ccc1c3ccccc3ccc21,-8.057,c1ccc2c(c1)ccc1c3ccccc3ccc21,False,train
+Bromacil,CCC(C)n1c(=O)[nH]c(C)c(Br)c1=O,-2.523,O=c1cc[nH]c(=O)[nH]1,False,train
+"2,2',3,3',5,6-PCB",Clc1cccc(-c2c(Cl)c(Cl)cc(Cl)c2Cl)c1Cl,-8.6,c1ccc(-c2ccccc2)cc1,False,train
+2-Methylphenol,Cc1ccccc1O,-0.62,c1ccccc1,False,train
+"2,2,5-Trimethylhexane",CC(C)CCC(C)(C)C,-5.05,,True,train
+"1,4-Dimethylnaphthalene ",Cc1ccc(C)c2ccccc12,-4.14,c1ccc2ccccc2c1,False,train
+6-Methylchrysene,Cc1cc2c3ccccc3ccc2c2ccccc12,-6.57,c1ccc2c(c1)ccc1c3ccccc3ccc21,False,train
+2-Pentanone,CCCC(C)=O,-0.19,,True,train
+"2,2',3,3',5,5',6,6'-PCB",Clc1cc(Cl)c(Cl)c(-c2c(Cl)c(Cl)cc(Cl)c2Cl)c1Cl,-9.15,c1ccc(-c2ccccc2)cc1,False,train
+Methyl butyrate,CCCOC(=O)CC,-0.82,,True,train
+Triamcinolone,CC12C=CC(=O)C=C1CCC1C3CC(O)C(O)(C(=O)CO)C3(C)CC(O)C12F,-3.68,O=C1C=CC2C(=C1)CCC1C3CCCC3CCC21,False,train
+p-Aminophenol,Nc1ccc(O)cc1,-0.8,c1ccccc1,False,train
+Trietazine,CCNc1nc(Cl)nc(N(CC)CC)n1,-4.06,c1ncncn1,False,train
+Carbromal,CCC(Br)(CC)C(=O)NC(N)=O,-2.68,,True,train
+"2,2'-PCB",Clc1ccccc1-c1ccccc1Cl,-5.27,c1ccc(-c2ccccc2)cc1,False,train
+Nitrofen,O=[N+]([O-])c1ccc(Oc2ccc(Cl)cc2Cl)cc1,-5.46,c1ccc(Oc2ccccc2)cc1,False,train
+Pentyl propanoate,CCCCC(=O)OCC,-2.25,,True,train
+Isopentyl acetate,CC(=O)OCCC(C)C,-1.92,,True,train
+3-Hexanoyloxymethylphenyltoin,CCCCCC(=O)OCN1C(=O)NC(c2ccccc2)(c2ccccc2)C1=O,-5.886,O=C1NC(=O)C(c2ccccc2)(c2ccccc2)N1,False,train
+"2,3',5-PCB",Clc1cccc(-c2cc(Cl)ccc2Cl)c1,-6.01,c1ccc(-c2ccccc2)cc1,False,train
+1-Bromopropane,CCCBr,-1.73,,True,train
+Propiconazole,CCCC1COC(Cn2cncn2)(c2ccc(Cl)cc2Cl)O1,-3.4930000000000003,c1ccc(C2(Cn3cncn3)OCCO2)cc1,False,train
+Formothion,COP(=S)(OC)SCC(=O)N(C)C=O,-1.995,,True,train
+4-methylpteridine,Cc1ncnc2nccnc12,-0.466,c1cnc2ncncc2n1,False,train
+Thiourea,NC(N)=S,0.32,,True,train
+p-Xylene ,Cc1ccc(C)cc1,-2.77,c1ccccc1,False,train
+"1,2-Diethylbenzene",CCc1ccccc1CC,-3.28,c1ccccc1,False,train
+Hexachloroethane,ClC(Cl)(Cl)C(Cl)(Cl)Cl,-3.67,,True,train
+Flucythrinate,CC(C)C(C(=O)OC(C#N)c1cccc(Oc2ccccc2)c1)c1ccc(OC(F)F)cc1,-6.876,O=C(Cc1ccccc1)OCc1cccc(Oc2ccccc2)c1,False,train
+1-Nitropropane,CCC[N+](=O)[O-],-0.8,,True,train
+"2,3-Dichloronitrobenzene",O=[N+]([O-])c1cccc(Cl)c1Cl,-3.48,c1ccccc1,False,train
+thiamylal,C=CCC1(C(C)CCC)C(=O)NC(=S)NC1=O,-3.46,O=C1CC(=O)NC(=S)N1,False,train
+Propylisopropylether,CCCOC(C)C,-1.34,,True,train
+"1,3-Dimethylnaphthalene",Cc1cc(C)c2ccccc2c1,-4.29,c1ccc2ccccc2c1,False,train
+Chlorothalonil,N#Cc1c(Cl)c(Cl)c(Cl)c(C#N)c1Cl,-5.64,c1ccccc1,False,train
+"2,3',4',5-PCB",Clc1ccc(Cl)c(-c2ccc(Cl)c(Cl)c2)c1,-7.25,c1ccc(-c2ccccc2)cc1,False,train
+Isopropylbenzene ,CC(C)c1ccccc1,-3.27,c1ccccc1,False,train
+Deoxycorticosterone,CC12CCC(=O)C=C1CCC1C2CCC2(C)C(C(=O)CO)CCC12,-3.45,O=C1C=C2CCC3C4CCCC4CCC3C2CC1,False,train
+chlorquinox,Clc1c(Cl)c(Cl)c2nccnc2c1Cl,-5.43,c1ccc2nccnc2c1,False,train
+Dichloromethane,ClCCl,-0.63,,True,train
+1-Ethylnaphthalene ,CCc1cccc2ccccc12,-4.17,c1ccc2ccccc2c1,False,train
+Methyl formate,COC=O,0.58,,True,train
+o-Nitrophenol,O=[N+]([O-])c1ccccc1O,-1.74,c1ccccc1,False,train
+thymine,Cc1c[nH]c(=O)[nH]c1=O,-1.506,O=c1cc[nH]c(=O)[nH]1,False,train
+2-Methylpropane,CC(C)C,-2.55,,True,train
+Ioxynil,N#Cc1cc(I)c(O)c(I)c1,-3.61,c1ccccc1,False,train
+Pentane,CCCCC,-3.18,,True,train
+Phenol,Oc1ccccc1,0.0,c1ccccc1,False,train
+2-aminoanthracene,Nc1ccc2cc3ccccc3cc2c1,-5.17,c1ccc2cc3ccccc3cc2c1,False,train
+theobromine,Cn1cnc2c1c(=O)[nH]c(=O)n2C,-2.523,O=c1[nH]c(=O)c2[nH]cnc2[nH]1,False,train
+Isoquinoline,c1ccc2cnccc2c1,-1.45,c1ccc2cnccc2c1,False,train
+Anilofos,COP(=S)(OC)SCC(=O)N(c1ccc(Cl)cc1)C(C)C,-4.432,c1ccccc1,False,train
+Hexylbenzene ,CCCCCCc1ccccc1,-5.21,c1ccccc1,False,train
+2-Chlorobiphenyl,Clc1ccccc1-c1ccccc1,-4.54,c1ccc(-c2ccccc2)cc1,False,train
+2-Methyl-1-Pentene,C=C(C)CCC,-3.03,,True,train
+"2,3,4-Trimethylpentane",CC(C)C(C)C(C)C,-4.8,,True,train
+Pentachlorobenzene,Clc1cc(Cl)c(Cl)c(Cl)c1Cl,-5.65,c1ccccc1,False,train
+m-Nitrophenol,O=[N+]([O-])c1cccc(O)c1,-1.01,c1ccccc1,False,train
+1-Decene,C=CCCCCCCCC,-5.51,,True,train
+Glyceryl triacetate,CC(=O)OCC(COC(C)=O)OC(C)=O,-0.6,,True,train
+Cyfluthrin,CC1(C)C(C=C(Cl)Cl)C1C(=O)OC(C#N)c1ccc(F)c(Oc2ccccc2)c1,-7.337000000000001,O=C(OCc1cccc(Oc2ccccc2)c1)C1CC1,False,train
+Pyridine,c1ccncc1,0.76,c1ccncc1,False,train
+1-Bromoheptane,CCCCCCCBr,-4.43,,True,train
+"3,4-Dimethylpyridine",Cc1ccncc1C,0.36,c1ccncc1,False,train
+Fludrocortisone,CC12CCC(=O)C=C1CCC1C3CCC(O)(C(=O)CO)C3(C)CC(O)C12F,-3.43,O=C1C=C2CCC3C4CCCC4CCC3C2CC1,False,train
+ethiofencarb,CCSCc1ccccc1OC(=O)NC,-2.09,c1ccccc1,False,train
+Malonic acid diethylester,CCOC(=O)CC(=O)OCC,-0.82,,True,train
+Indan,c1ccc2c(c1)CCC2,-3.04,c1ccc2c(c1)CCC2,False,train
+p-t-Butylphenol,CC(C)(C)c1ccc(O)cc1,-2.41,c1ccccc1,False,train
+m-Chloroiodobenzene,Clc1cccc(I)c1,-3.55,c1ccccc1,False,train
+1-Bromonapthalene,Brc1cccc2ccccc12,-4.35,c1ccc2ccccc2c1,False,train
+trans-2-Pentene ,C/C=C/CC,-2.54,,True,train
+"2,6-Dimethylpyridine",Cc1cccc(C)n1,0.45,c1ccncc1,False,train
+Trichloroethylene,ClC=C(Cl)Cl,-1.96,,True,train
+1-Napthylamine,Nc1cccc2ccccc12,-1.92,c1ccc2ccccc2c1,False,train
+m-Xylene ,Cc1cccc(C)c1,-2.82,c1ccccc1,False,train
+2-hydroxypteridine,Oc1ncc2nccnc2n1,-1.947,c1cnc2ncncc2n1,False,train
+Methanol,CO,1.57,,True,train
+Amobarbital|5-Ethyl-5-(3-methylbutyl)barbital,CCC1(CCC(C)C)C(=O)NC(=O)NC1=O,-2.563,O=C1CC(=O)NC(=O)N1,False,train
+2-Butanone,CCC(C)=O,0.52,,True,train
+5-fluorouracil,O=c1[nH]cc(F)c(=O)[nH]1,-1.077,O=c1cc[nH]c(=O)[nH]1,False,train
+tubercidin,Nc1ncnc2c1ccn2C1OC(CO)C(O)C1O,-1.95,c1ncc2ccn(C3CCCO3)c2n1,False,train
+"1,3-Benzenediol",Oc1cccc(O)c1,0.81,c1ccccc1,False,train
+1-Hexanol,CCCCCCO,-1.24,,True,train
+1-Chloropentane,CCCCCCl,-2.73,,True,train
+"1,3-Butadiene",C=CC=C,-1.87,,True,train
+Propyl acetate,CCCOC(C)=O,-0.72,,True,train
+chloroacetamide,NC(=O)CCl,-0.02,,True,train
+Iodofenphos,COP(=S)(OC)Oc1cc(Cl)c(I)cc1Cl,-6.62,c1ccccc1,False,train
+4-Chlorotoluene,Cc1ccc(Cl)cc1,-3.08,c1ccccc1,False,train
+Caproaldehyde,CCCCCC=O,-1.3,,True,train
+Butamben,CCCCOC(=O)c1ccc(N)cc1,-3.082,c1ccccc1,False,train
+RTI 3,Cc1ccc2c(c1)Oc1ncc(N)cc1C(=O)N2C,-3.043,O=C1Nc2ccccc2Oc2ncccc21,False,train
+Nerol,CC(C)=CCC/C(C)=C\CO,-2.46,,True,train
+"2,4'-PCB",Clc1ccc(-c2ccccc2Cl)cc1,-5.28,c1ccc(-c2ccccc2)cc1,False,train
+3-Octanoyloxymethylphenytoin,CCCCCCCC(=O)OCN1C(=O)NC(c2ccccc2)(c2ccccc2)C1=O,-6.523,O=C1NC(=O)C(c2ccccc2)(c2ccccc2)N1,False,train
+Nitroethane,CC[N+](=O)[O-],-0.22,,True,train
+Ethalfluralin,C=C(C)CN(CC)c1c([N+](=O)[O-])cc(C(F)(F)F)cc1[N+](=O)[O-],-6.124,c1ccccc1,False,train
+"1,2,3,4-Tetrachlorobenzene",Clc1ccc(Cl)c(Cl)c1Cl,-4.57,c1ccccc1,False,train
+Meprobamate,CCCC(C)(COC(N)=O)COC(N)=O,-1.807,,True,train
+Iodomethane,CI,-1.0,,True,train
+3-Heptanoyloxymethylphenytoin,CCCCCCC(=O)OCN1C(=O)NC(c2ccccc2)(c2ccccc2)C1=O,-6.301,O=C1NC(=O)C(c2ccccc2)(c2ccccc2)N1,False,train
+Butabarbital,CCC(C)C1(CC)C(=O)NC(=O)NC1=O,-2.39,O=C1CC(=O)NC(=O)N1,False,train
+5-Nonanone,CCCCC(=O)CCCC,-2.58,,True,train
+Glutethimide,CCC1(c2ccccc2)CCC(=O)NC1=O,-2.337,O=C1CCC(c2ccccc2)C(=O)N1,False,train
+3-Methylpentane,CCC(C)CC,-3.68,,True,train
+Chloroacetonitrile,N#CCCl,-0.092,,True,train
+Trichloronate,CCOP(=S)(CC)Oc1cc(Cl)c(Cl)cc1Cl,-5.752000000000001,c1ccccc1,False,train
+Ethisterone,C#CC1(O)CCC2C3CCC4=CC(=O)CCC4(C)C3CCC21C,-5.66,O=C1C=C2CCC3C4CCCC4CCC3C2CC1,False,train
+"1,2,3,5-Tetrachlorobenzene",Clc1cc(Cl)c(Cl)c(Cl)c1,-4.63,c1ccccc1,False,train
+o-Aminophenol,Nc1ccccc1O,-0.72,c1ccccc1,False,train
+Ethyl nonanoate,CCCCCCCCC(=O)OCC,-3.8,,True,train
+metalaxyl,COCC(=O)N(c1c(C)cccc1C)C(C)C(=O)OC,-1.601,c1ccccc1,False,train
+Propoxur,CNC(=O)Oc1ccccc1OC(C)C,-2.05,c1ccccc1,False,train
+2-Chlorobutane,CCC(C)Cl,-1.96,,True,train
+2-Napthol,Oc1ccc2ccccc2c1,-2.28,c1ccc2ccccc2c1,False,train
+1-Hexyne ,C#CCCCC,-2.36,,True,train
+1-Nonyne ,C#CCCCCCCC,-4.24,,True,train
+2-Chlorotoluene,Cc1ccccc1Cl,-3.52,c1ccccc1,False,train
+Diisopropyl ether ,CC(C)OC(C)C,-1.1,,True,train
+Methyl hydrazine,CNN,1.34,,True,train
+Propyne,C#CC,-0.41,,True,train
+Phoxim,CCOP(=S)(OCC)ON=C(C#N)c1ccccc1,-4.862,c1ccccc1,False,train
+Propetamphos,CCNP(=S)(OC)OC(C)=CC(=O)OC(C)C,-3.408,,True,train
+Acrolein,C=CC=O,0.57,,True,train
+Hypoxanthine,O=c1[nH]cnc2nc[nH]c12,-2.296,O=c1[nH]cnc2nc[nH]c12,False,train
+Fluorobenzene,Fc1ccccc1,-1.8,c1ccccc1,False,train
+1-Chloropropane,CCCCl,-1.47,,True,train
+Ethyl acetate,CCOC(C)=O,-0.04,,True,train
+"2,2-Dimethylpentane",CCCC(C)(C)C,-4.36,,True,train
+Pentamethylbenzene,Cc1cc(C)c(C)c(C)c1C,-4.0,c1ccccc1,False,train
+dibutyl sebacate,CCCCOC(=O)CCCCCCCCC(=O)OCCCC,-3.896,,True,train
+"4,4'-PCB",Clc1ccc(-c2ccc(Cl)cc2)cc1,-6.56,c1ccc(-c2ccccc2)cc1,False,train
+"2,3-Dimethylpyridine",Cc1cccnc1C,0.38,c1ccncc1,False,train
+Carbophenthion,CCOP(=S)(OCC)SCSc1ccc(Cl)cc1,-5.736000000000001,c1ccccc1,False,train
+"Etoposide (148-167,25mg/ml)",COc1cc(C2c3cc4c(cc3C(OC3OC5COC(C)OC5C(O)C3O)C3COC(=O)C23)OCO4)cc(OC)c1O,-3.571,O=C1OCC2C(OC3CCC4OCOCC4O3)c3cc4c(cc3C(c3ccccc3)C12)OCO4,False,train
+"2,4-Dinitrotoluene",Cc1ccc([N+](=O)[O-])cc1[N+](=O)[O-],-2.82,c1ccccc1,False,train
+2-bromonaphthalene|2-Bromonapthalene,Brc1ccc2ccccc2c1,-4.4,c1ccc2ccccc2c1,False,train
+Formetanate,CNC(=O)Oc1cccc(N=CN(C)C)c1,-2.34,c1ccccc1,False,train
+6-methoxypteridine,COc1cnc2ncncc2n1,-1.139,c1cnc2ncncc2n1,False,train
+"2-Methyl-1,3-Butadiene ",C=CC(=C)C,-2.03,,True,train
+linalool,C=CC(C)(O)CCC=C(C)C,-1.99,,True,train
+Fenthion,COP(=S)(OC)Oc1ccc(SC)c(C)c1,-4.57,c1ccccc1,False,train
+Cyclohexanol ,OC1CCCCC1,-0.44,C1CCCCC1,False,train
+5-Allyl-5-methylbarbital,C=CCC1(C)C(=O)NC(=O)NC1=O,-1.16,O=C1CC(=O)NC(=O)N1,False,train
+Epiandrosterone|Androsterone,CC12CCC3C(CCC4CC(O)CCC43C)C1CCC2=O,-4.281000000000001,O=C1CCC2C1CCC1C3CCCCC3CCC21,False,train
+4-Methylbiphenyl,Cc1ccc(-c2ccccc2)cc1,-4.62,c1ccc(-c2ccccc2)cc1,False,train
+Atrazine,CCNc1nc(Cl)nc(NC(C)C)n1,-3.85,c1ncncn1,False,train
+Phenylthiourea,NC(=S)Nc1ccccc1,-1.77,c1ccccc1,False,train
+4-Heptanone,CCCC(=O)CCC,-1.3,,True,train
+"3,3-Dimethyl-2-butanone",CC(=O)C(C)(C)C,-0.72,,True,train
+4-Chlorophenol ,Oc1ccc(Cl)cc1,-0.7,c1ccccc1,False,train
+m-Methylaniline,Cc1cccc(N)c1,-0.85,c1ccccc1,False,train
+Trichloroacetonitrile,N#CC(Cl)(Cl)Cl,-2.168,,True,train
+norflurazon,CNc1cnn(-c2cccc(C(F)(F)F)c2)c(=O)c1Cl,-4.046,O=c1cccnn1-c1ccccc1,False,train
+2-Decanone,CCCCCCCCC(C)=O,-3.3,,True,train
+Ipazine,CCN(CC)c1nc(Cl)nc(NC(C)C)n1,-3.785,c1ncncn1,False,train
+Benzocaine,CCOC(=O)c1ccc(N)cc1,-2.616,c1ccccc1,False,train
+"1,2,4-Trichlorobenzene",Clc1ccc(Cl)c(Cl)c1,-3.59,c1ccccc1,False,train
+"1,2-Benzenediol",Oc1ccccc1O,0.62,c1ccccc1,False,train
+Reverse Transcriptase inhibitor 1,CCN1c2ncccc2C(=O)N(C)c2cccnc21,-2.62,O=C1Nc2cccnc2Nc2ncccc21,False,train
+Dimethyl sulfide,CSC,-0.45,,True,train
+2-Bromotoluene,Cc1ccccc1Br,-2.23,c1ccccc1,False,train
+O-Ethyl carbamate,CCOC(N)=O,0.85,,True,train
+megestrol acetate,CC(=O)OC1(C(C)=O)CCC2C3C=C(C)C4=CC(=O)CCC4(C)C3CCC21C,-5.35,O=C1C=C2C=CC3C4CCCC4CCC3C2CC1,False,train
+"2,4-Dimethyl-3-pentanol",CC(C)C(O)C(C)C,-1.22,,True,train
+Napthalene,c1ccc2ccccc2c1,-3.6,c1ccc2ccccc2c1,False,train
+N-Ethylaniline,CCNc1ccccc1,-1.7,c1ccccc1,False,train
+Phenytoin,O=C1NC(=O)C(c2ccccc2)(c2ccccc2)N1,-4.097,O=C1NC(=O)C(c2ccccc2)(c2ccccc2)N1,False,train
+Methoxychlor,COc1ccc(C(c2ccc(OC)cc2)C(Cl)(Cl)Cl)cc1,-6.89,c1ccc(Cc2ccccc2)cc1,False,train
+TEFLUBENZURON,O=C(NC(=O)c1c(F)cccc1F)Nc1cc(Cl)c(F)c(Cl)c1F,-7.28,O=C(NC(=O)c1ccccc1)Nc1ccccc1,False,train
+3-Pentanoyloxymethylphenytoin,CCCCC(=O)OCN1C(=O)NC(c2ccccc2)(c2ccccc2)C1=O,-4.678,O=C1NC(=O)C(c2ccccc2)(c2ccccc2)N1,False,train
+Monuron,CN(C)C(=O)Nc1ccc(Cl)cc1,-2.89,c1ccccc1,False,train
+Flutriafol,OC(Cn1cncn1)(c1ccc(F)cc1)c1ccccc1F,-3.37,c1ccc(C(Cn2cncn2)c2ccccc2)cc1,False,train
+triamcinolone diacetate,CC(=O)OCC(=O)C1(O)C(OC(C)=O)CC2C3CCC4=CC(=O)C=CC4(C)C3(F)C(O)CC21C,-4.13,O=C1C=CC2C(=C1)CCC1C3CCCC3CCC21,False,train
+1-Bromobutane,CCCCBr,-2.37,,True,train
+"1,2,4,5-Tetrabromobenzene",Brc1cc(Br)c(Br)cc1Br,-6.98,c1ccccc1,False,train
+4-Methyl-2-pentanone,CC(=O)CC(C)C,-0.74,,True,train
+cycloate,CCSC(=O)N(CC)C1CCCCC1,-3.4,C1CCCCC1,False,train
+4-Chloroanisole,COc1ccc(Cl)cc1,-2.78,c1ccccc1,False,train
+Deltamethrin,CC1(C)C(C=C(Br)Br)C1C(=O)OC(C#N)c1cccc(Oc2ccccc2)c1,-8.402000000000001,O=C(OCc1cccc(Oc2ccccc2)c1)C1CC1,False,train
+Talbutal,C=CCC1(C(C)CC)C(=O)NC(=O)NC1=O,-2.016,O=C1CC(=O)NC(=O)N1,False,train
+Fenitrothion,COP(=S)(OC)Oc1ccc([N+](=O)[O-])c(C)c1,-4.04,c1ccccc1,False,train
+1-Iodonapthalene,Ic1cccc2ccccc12,-4.55,c1ccc2ccccc2c1,False,train
+Ethanethiol,CCS,-0.6,,True,train
+"1,1,2-Trichloroethane",ClCC(Cl)Cl,-1.48,,True,train
+o-Hydroxybenzamide,NC(=O)c1ccccc1O,-1.82,c1ccccc1,False,train
+o-Nitrotoluene,Cc1ccccc1[N+](=O)[O-],-2.33,c1ccccc1,False,train
+"5,5-Diisopropylbarbital",CC(C)C1(C(C)C)C(=O)NC(=O)NC1=O,-2.766,O=C1CC(=O)NC(=O)N1,False,train
+2-Ethyltoluene,CCc1ccccc1C,-3.21,c1ccccc1,False,train
+1-Chloroheptane,CCCCCCCCl,-4.0,,True,train
+Barbital,CCC1(CC)C(=O)NC(=O)NC1=O,-2.4,O=C1CC(=O)NC(=O)N1,False,train
+"1,1,2,2-Tetrachloroethane",ClC(Cl)C(Cl)Cl,-1.74,,True,train
+dibutylphthalate,CCCCOC(=O)c1ccccc1C(=O)OCCCC,-4.4,c1ccccc1,False,train
+tetrachloroguaiacol,COc1c(O)c(Cl)c(Cl)c(Cl)c1Cl,-4.02,c1ccccc1,False,train
+Dimecron,CCN(CC)C(=O)C(Cl)=CCOP(=O)(OC)OC,0.523,,True,train
+Chlorimuron-ethyl (ph 7),CCOC(=O)c1ccccc1S(=O)(=O)NN(C=O)c1nc(Cl)cc(OC)n1,-4.5760000000000005,O=S(=O)(NNc1ncccn1)c1ccccc1,False,train
+p-Nitroanisole,COc1ccc([N+](=O)[O-])cc1,-2.41,c1ccccc1,False,train
+1-Chlorohexane,CCCCCCCl,-3.12,,True,train
+"2,2',3,3',4,4',5,5'-PCB",Clc1cc(-c2cc(Cl)c(Cl)c(Cl)c2Cl)c(Cl)c(Cl)c1Cl,-9.16,c1ccc(-c2ccccc2)cc1,False,train
+Raffinose,OCC1OC(OCC2OC(OC3(CO)OC(CO)C(O)C3O)C(O)C(O)C2O)C(O)C(O)C1O,-0.41,C1CCC(OCC2CCCC(OC3CCCO3)O2)OC1,False,train
+hexacosane,CCCCCCCCCCCCCCCCCCCCCCCCCC,-8.334,,True,train
+"1,1-Dichloroethane",CC(Cl)Cl,-1.29,,True,train
+Sulfanilamide,Nc1ccc(S(N)(=O)=O)cc1,-1.34,c1ccccc1,False,train
+Isopropalin,CCCN(CCC)c1c([N+](=O)[O-])cc(C(C)C)cc1[N+](=O)[O-],-6.49,c1ccccc1,False,train
+Lindane,ClC1C(Cl)C(Cl)C(Cl)C(Cl)C1Cl,-4.64,C1CCCCC1,False,train
+Isofenphos,CCOP(=S)(NC(C)C)Oc1ccccc1C(=O)OC(C)C,-4.194,c1ccccc1,False,train
+"1,2,3-Trichlorobenzene",Clc1cccc(Cl)c1Cl,-4.0,c1ccccc1,False,train
+Tetrachloromethane,ClC(Cl)(Cl)Cl,-2.31,,True,train
+"3,4-Dichloronitrobenzene",O=[N+]([O-])c1ccc(Cl)c(Cl)c1,-3.2,c1ccccc1,False,train
+17a-Methyltestosterone,CC12CCC(=O)C=C1CCC1C2CCC2(C)C1CCC2(C)O,-3.999,O=C1C=C2CCC3C4CCCC4CCC3C2CC1,False,train
+Dulcin,CCOc1ccc(NC(N)=O)cc1,-2.17,c1ccccc1,False,train
+"trans-1,4-Dimethylcyclohexane",CC1CCC(C)CC1,-4.47,C1CCCCC1,False,train
+"1,7-phenantroline",c1cnc2c(c1)ccc1ncccc12,-2.68,c1cnc2c(c1)ccc1ncccc12,False,train
+Methyl t-butyl ether ,COC(C)(C)C,-0.24,,True,train
+Anethole,CC=Cc1ccc(OC)cc1,-3.13,c1ccccc1,False,train
+1-Hexadecanol,CCCCCCCCCCCCCCCCO,-7.0,,True,train
+uracil,O=c1cc[nH]c(=O)[nH]1,-1.4880000000000002,O=c1cc[nH]c(=O)[nH]1,False,train
+adenine,Nc1ncnc2nc[nH]c12,-2.12,c1ncc2[nH]cnc2n1,False,train
+"2,2',3,4,5-PCB",Clc1cc(Cl)c(-c2cccc(Cl)c2Cl)cc1Cl,-7.21,c1ccc(-c2ccccc2)cc1,False,train
+"2',3,4-PCB",Clc1ccc(-c2cccc(Cl)c2Cl)cc1,-6.29,c1ccc(-c2ccccc2)cc1,False,train
+Isoproturon,CC(C)c1ccc(NC(=O)N(C)C)cc1,-3.536,c1ccccc1,False,train
+"2,2-Dimethyl-1-butanol",CCC(C)(C)CO,-1.04,,True,train
+Ethyl pentanoate,CCCOC(=O)CCC,-1.75,,True,train
+"2,4,6-Trinitrotoluene",Cc1c([N+](=O)[O-])cc([N+](=O)[O-])cc1[N+](=O)[O-],-3.22,c1ccccc1,False,train
+Bensulide,CC(C)OP(=S)(OC(C)C)SCCNS(=O)(=O)c1ccccc1,-4.2,c1ccccc1,False,train
+Propyl formate,CCCOC=O,-0.49,,True,train
+2-Isopropyltoluene,Cc1ccccc1C(C)C,-3.76,c1ccccc1,False,train
+m-Chloroaniline,Nc1cccc(Cl)c1,-1.37,c1ccccc1,False,train
+"2,4-Dimethylpentane",CC(C)CC(C)C,-4.26,,True,train
+Fluometuron,CN(C)C(=O)Nc1cccc(C(F)(F)F)c1,-3.43,c1ccccc1,False,train
+Acridine,c1ccc2nc3ccccc3cc2c1,-3.67,c1ccc2nc3ccccc3cc2c1,False,train
+3-Methylphenol,Cc1cccc(O)c1,-0.68,c1ccccc1,False,train
+"1,4-Dinitrobenzene",O=[N+]([O-])c1ccc([N+](=O)[O-])cc1,-3.39,c1ccccc1,False,train
+Ethyl decanoate,CCCCCCCCCC(=O)OCC,-4.1,,True,train
+Fenuron,CN(C)C(=O)Nc1ccccc1,-1.6,c1ccccc1,False,train
+Ethyl propyl ether,CCCOCC,-0.66,,True,train
+2-Propanol,CC(C)O,0.43,,True,train
+2-Methylnapthalene,Cc1ccc2ccccc2c1,-3.77,c1ccc2ccccc2c1,False,train
+Chlorodibromethane,ClC(Br)Br,-1.9,,True,train
+Malathion,CCOC(=O)CC(SP(=S)(OC)OC)C(=O)OCC,-3.37,,True,train
+Benzylchloride,ClCc1ccccc1,-2.39,c1ccccc1,False,train
+t-Crotonaldehyde,C/C=C/C=O,0.32,,True,train
+Chlorbromuron,CON(C)C(=O)Nc1ccc(Br)c(Cl)c1,-3.924,c1ccccc1,False,train
+"9,10-Dimethylanthracene",Cc1c2ccccc2c(C)c2ccccc12,-6.57,c1ccc2cc3ccccc3cc2c1,False,train
+Methyl hexanoate,CCCCCC(=O)OC,-1.87,,True,train
+p-Fluoroacetanilide,CC(=O)Nc1ccc(F)cc1,-1.78,c1ccccc1,False,train
+alachlor,CCc1cccc(CC)c1N(COC)C(=O)CCl,-3.26,c1ccccc1,False,train
+Hydrocortisone ,CC12CCC(=O)C=C1CCC1C2C(O)CC2(C)C1CCC2(O)C(=O)CO,-3.09,O=C1C=C2CCC3C4CCCC4CCC3C2CC1,False,train
+p-Chloronitrobenzene,O=[N+]([O-])c1ccc(Cl)cc1,-2.92,c1ccccc1,False,train
+Methyl propionate,CCC(=O)OC,-0.14,,True,train
+o-Chloronitrobenzene,O=[N+]([O-])c1ccccc1Cl,-2.55,c1ccccc1,False,train
+Neburon,CCCCN(C)C(=O)Nc1ccc(Cl)c(Cl)c1,-4.77,c1ccccc1,False,train
+Nitrobenzene,O=[N+]([O-])c1ccccc1,-1.8,c1ccccc1,False,train
+Iodobenzene,Ic1ccccc1,-3.01,c1ccccc1,False,train
+Methocarbamol,COc1ccccc1OCC(O)COC(N)=O,-0.985,c1ccccc1,False,train
+butachlor,CCCCOCN(C(=O)CCl)c1c(CC)cccc1CC,-4.19,c1ccccc1,False,train
+"2,3-Dichlorophenol",Oc1cccc(Cl)c1Cl,-1.3,c1ccccc1,False,train
+Propyl butyrate,CCCC(=O)OC,-1.92,,True,train
+Propanil,CCC(=O)Nc1ccc(Cl)c(Cl)c1,-3.0,c1ccccc1,False,train
+Triamterene,Nc1nc(N)c2nc(-c3ccccc3)c(N)nc2n1,-2.404,c1ccc(-c2cnc3ncncc3n2)cc1,False,train
+Ethyl hexanoate,CCCCCC(=O)OCC,-2.35,,True,train
+chloralose,OCC(O)C1OC2OC(C(Cl)(Cl)Cl)OC2C1O,-1.84,C1CC2OCOC2O1,False,train
+Prometon,COc1nc(NC(C)C)nc(NC(C)C)n1,-2.478,c1ncncn1,False,train
+1-Octene ,C=CCCCCCC,-4.44,,True,train
+p-Methylaniline ,Cc1ccc(N)cc1,-1.21,c1ccccc1,False,train
+Metolcarb,CNC(=O)Oc1ccccc1,-1.803,c1ccccc1,False,train
+3-Hexanol,CCCC(O)CC,-0.8,,True,train
+9-anthrol,Oc1c2ccccc2cc2ccccc12,-4.73,c1ccc2cc3ccccc3cc2c1,False,train
+2-Methylanthracene,Cc1ccc2cc3ccccc3cc2c1,-6.96,c1ccc2cc3ccccc3cc2c1,False,train
+"1,2,3-Trimethylbenzene ",Cc1cccc(C)c1C,-3.2,c1ccccc1,False,train
+Aminocarb,CNC(=O)Oc1ccc(N(C)C)c(C)c1,-2.36,c1ccccc1,False,train
+2-Nonanol,CCCCCCCC(C)O,-2.74,,True,train
+Methyldymron,CN(C(=O)NC(C)(C)c1ccccc1)c1ccccc1,-3.35,O=C(NCc1ccccc1)Nc1ccccc1,False,train
+3-Hexanone,CCCC(=O)CC,-0.83,,True,train
+bromoxynil,N#Cc1cc(Br)c(O)c(Br)c1,-3.33,c1ccccc1,False,train
+"3,4-PCB",Clc1ccc(-c2ccccc2)cc1Cl,-6.39,c1ccc(-c2ccccc2)cc1,False,train
+Ethoxyzolamide,CCOc1ccc2nc(S(N)(=O)=O)sc2c1,-3.81,c1ccc2scnc2c1,False,train
+Pentachlorophenol,Oc1c(Cl)c(Cl)c(Cl)c(Cl)c1Cl,-4.28,c1ccccc1,False,train
+Bromochloromethane,ClCBr,-0.89,,True,train
+metharbital,CCC1(CC)C(=O)NC(=O)N(C)C1=O,-2.23,O=C1CC(=O)NC(=O)N1,False,train
+deoxycorticosterone acetate,CC(=O)OCC(=O)C1CCC2C3CCC4=CC(=O)CCC4(C)C3CCC12C,-4.63,O=C1C=C2CCC3C4CCCC4CCC3C2CC1,False,train
+benzylurea,NC(=O)NCc1ccccc1,-0.95,c1ccccc1,False,train
+Chlortoluron,Cc1ccc(NC(=O)N(C)C)cc1Cl,-3.483,c1ccccc1,False,train
+Linuron,CON(C)C(=O)Nc1ccc(Cl)c(Cl)c1,-3.592,c1ccccc1,False,train
+Thiamphenicol,CS(=O)(=O)c1ccc(C(O)C(CO)NC(=O)C(Cl)Cl)cc1,-2.154,c1ccccc1,False,train
+thiopental,CCCC(C)C1(CC)C(=O)NC(=S)NC1=O,-3.36,O=C1CC(=O)NC(=S)N1,False,train
+p-Nitrophenol,O=[N+]([O-])c1ccc(O)cc1,-0.74,c1ccccc1,False,train
+Tetrahydrofurane ,C1CCOC1,0.49,C1CCOC1,False,train
+o-Nitroaniline,Nc1ccccc1[N+](=O)[O-],-1.96,c1ccccc1,False,train
+"2,2',3,3'-PCB",Clc1cccc(-c2cccc(Cl)c2Cl)c1Cl,-7.28,c1ccc(-c2ccccc2)cc1,False,train
+phenylbutazone,CCCCC1C(=O)N(c2ccccc2)N(c2ccccc2)C1=O,-3.81,O=C1CC(=O)N(c2ccccc2)N1c1ccccc1,False,train
+"2,6-Dinitrotoluene",Cc1c([N+](=O)[O-])cccc1[N+](=O)[O-],-3.0,c1ccccc1,False,train
+Progesterone,CC(=O)C1CCC2C3CCC4=CC(=O)CCC4(C)C3CCC12C,-4.42,O=C1C=C2CCC3C4CCCC4CCC3C2CC1,False,train
+Chlorazine,CCN(CC)c1nc(Cl)nc(N(CC)CC)n1,-4.4110000000000005,c1ncncn1,False,train
+"1,2,4-tribromobenzene",Brc1ccc(Br)c(Br)c1,-4.5,c1ccccc1,False,train
+Oxazepam,O=C1Nc2ccc(Cl)cc2C(c2ccccc2)=NC1O,-3.952,O=C1CN=C(c2ccccc2)c2ccccc2N1,False,train
+Secobarbital,C=CCC1(C(C)CCC)C(=O)NC(=O)NC1=O,-2.356,O=C1CC(=O)NC(=O)N1,False,train
+Carvacrol,Cc1ccc(C(C)C)cc1O,-2.08,c1ccccc1,False,train
+Morin,O=c1c(O)c(-c2ccc(O)cc2O)oc2cc(O)cc(O)c12,-3.083,O=c1cc(-c2ccccc2)oc2ccccc12,False,train
+Disulfiram,CCN(CC)C(=S)SSC(=S)N(CC)CC,-4.86,,True,train
+Cyclohexane,C1CCCCC1,-3.1,C1CCCCC1,False,train
+Dienochlor,ClC1=C(Cl)C(Cl)(C2(Cl)C(Cl)=C(Cl)C(Cl)=C2Cl)C(Cl)=C1Cl,-7.278,C1=CC(C2C=CC=C2)C=C1,False,train
+chlordimeform,Cc1cc(Cl)ccc1N=CN(C)C,-2.86,c1ccccc1,False,train
+Equilenin,CC12CCc3c(ccc4cc(O)ccc34)C1CCC2=O,-5.24,O=C1CCC2c3ccc4ccccc4c3CCC12,False,train
+1-Octanol,CCCCCCCCO,-2.39,,True,train
+Diethyl sulfide,CCSCC,-1.34,,True,train
+"1,2-Dichloroethane",ClCCCl,-1.06,,True,train
+2-Chloro-2-methylbutane,CCC(C)(C)Cl,-2.51,,True,train
+1-Chloro-2-bromoethane,ClCCBr,-1.32,,True,train
+p-Nitroaniline,Nc1ccc([N+](=O)[O-])cc1,-2.37,c1ccccc1,False,train
+RTI 2,CCN1C(=O)c2cccnc2N(CC)c2ncccc21,-2.86,O=C1Nc2cccnc2Nc2ncccc21,False,train
+Chlorobenzene,Clc1ccccc1,-2.38,c1ccccc1,False,train
+1-Nonene ,C=CCCCCCCC,-5.05,,True,train
+p-Bromoiodobenzene,Brc1ccc(I)cc1,-4.56,c1ccccc1,False,train
+3-Methyl-3-pentanol,CCC(C)(O)CC,-0.36,,True,train
+Pentylbenzene,CCCCCc1ccccc1,-4.64,c1ccccc1,False,train
+allantoin,NC(=O)NC1NC(=O)NC1=O,-1.6,O=C1CNC(=O)N1,False,train
+"DDD|P,P'-DDD",Clc1ccc(C(c2ccc(Cl)cc2)C(Cl)Cl)cc1,-7.2,c1ccc(Cc2ccccc2)cc1,False,train
+testosterone acetate,CC(=O)OC1CCC2C3CCC4=CC(=O)CCC4(C)C3CCC12C,-5.184,O=C1C=C2CCC3C4CCCC4CCC3C2CC1,False,train
+1-Chloronapthalene,Clc1cccc2ccccc12,-3.93,c1ccc2ccccc2c1,False,train
+RTI 19,CCN1c2ccccc2C(=O)N(C)c2ccccc21,-4.749,O=C1Nc2ccccc2Nc2ccccc21,False,train
+2-Hexanol,CCCCC(C)O,-0.89,,True,train
+Propylcyclopentane,CCCC1CCCC1,-4.74,C1CCCC1,False,train
+"3,4-Dichlorophenol",Oc1ccc(Cl)c(Cl)c1,-1.25,c1ccccc1,False,train
+Cypermethrin,CC1(C)C(C=C(Cl)Cl)C1C(=O)OC(C#N)c1cccc(Oc2ccccc2)c1,-8.017000000000001,O=C(OCc1cccc(Oc2ccccc2)c1)C1CC1,False,train
+1-Pentanol,CCCCCO,-0.6,,True,train
+"N,N-Diethylaniline",CCN(CC)c1ccccc1,-3.03,c1ccccc1,False,train
+"1,3-Difluorobenzene",Fc1cccc(F)c1,-2.0,c1ccccc1,False,train
+3-chloropropionitrile,N#CCCCl,-0.29,,True,train
+t-Pentylbenzene,CC(C)(C)Cc1ccccc1,-4.15,c1ccccc1,False,train
+o-Chloroiodobenzene,Clc1ccccc1I,-3.54,c1ccccc1,False,train
+Benzotriazole,c1ccc2[nH]nnc2c1,-0.78,c1ccc2[nH]nnc2c1,False,train
+"2,6-Dimethylphenol",Cc1cccc(C)c1O,-1.29,c1ccccc1,False,train
+3-Methyl-2-butanol,CC(C)C(C)O,-0.18,,True,train
+benzhydrol,OC(c1ccccc1)c1ccccc1,-2.55,c1ccc(Cc2ccccc2)cc1,False,train
+Methyl decanoate,CCCCCCCCCC(=O)OC,-4.69,,True,train
+Dicapthon,COP(=S)(OC)Oc1ccc([N+](=O)[O-])cc1Cl,-4.31,c1ccccc1,False,train
+1-Bromo-2-methylpropane,CC(C)CBr,-2.43,,True,train
+Iodoethane,CCI,-1.6,,True,train
+1-Bromohexane,CCCCCCBr,-3.81,,True,train
+2-Methylpentane,CCCC(C)C,-3.74,,True,train
+Metolachlor,CCc1cccc(C)c1N(C(=O)CCl)C(C)COC,-2.73,c1ccccc1,False,train
+Tribromomethane,BrC(Br)Br,-1.91,,True,train
+Trichlorfon,COP(=O)(OC)C(O)C(Cl)(Cl)Cl,-0.22,,True,train
+Phosalone,CCOP(=S)(OCC)SCn1c(=O)oc2cc(Cl)ccc21,-5.233,O=c1[nH]c2ccccc2o1,False,train
+Phenylmethanol,OCc1ccccc1,-0.4,c1ccccc1,False,train
+4-Bromophenol,Oc1ccc(Br)cc1,-1.09,c1ccccc1,False,train
+2-Bromopropane,CC(C)Br,-1.59,,True,train
+"2,2,4-Trimethylpentane",CC(C)CC(C)(C)C,-4.74,,True,train
+"1,3,5-Trinitrobenzene",O=[N+]([O-])c1cc([N+](=O)[O-])cc([N+](=O)[O-])c1,-2.89,c1ccccc1,False,train
+Nimetazepam,CN1C(=O)CN=C(c2ccccc2)c2cc([N+](=O)[O-])ccc21,-3.796,O=C1CN=C(c2ccccc2)c2ccccc2N1,False,train
+Propane,CCC,-1.94,,True,train
+1-aminoacridine,Nc1cccc2nc3ccccc3cc12,-4.22,c1ccc2nc3ccccc3cc2c1,False,train
+Benzo(k)fluoranthene,c1ccc2cc3c(cc2c1)-c1cccc2cccc-3c12,-8.49,c1ccc2cc3c(cc2c1)-c1cccc2cccc-3c12,False,train
+Dicofol,OC(c1ccc(Cl)cc1)(c1ccc(Cl)cc1)C(Cl)(Cl)Cl,-5.666,c1ccc(Cc2ccccc2)cc1,False,train
+Acenapthene,c1cc2c3c(cccc3c1)CC2,-4.63,c1cc2c3c(cccc3c1)CC2,False,train
+"1,4-Dibromobenzene",Brc1ccc(Br)cc1,-4.07,c1ccccc1,False,train
+p-Phenylphenol,Oc1ccc(-c2ccccc2)cc1,-3.48,c1ccc(-c2ccccc2)cc1,False,train
+pyracarbolid,CC1=C(C(=O)Nc2ccccc2)CCCO1,-2.56,O=C(Nc1ccccc1)C1=COCCC1,False,train
+Ethyl vinyl ether,C=COCC,-0.85,,True,train
+1-Butyne,C#CCC,-1.24,,True,train
+4-methoxypteridine,COc1ncnc2nccnc12,-1.11,c1cnc2ncncc2n1,False,train
+3-Methyl-3-heptanol,CCCCC(C)(O)CC,-1.6,,True,train
+"1,4-Dichlorobenzene",Clc1ccc(Cl)cc1,-3.27,c1ccccc1,False,train
+3-Ethanoyloxymethylphenytoin,CC(=O)OCN1C(=O)NC(c2ccccc2)(c2ccccc2)C1=O,-4.47,O=C1NC(=O)C(c2ccccc2)(c2ccccc2)N1,False,train
+"Sparsomycin (3,8mg/ml)",CSCS(=O)CC(CO)NC(=O)C=Cc1c(C)[nH]c(=O)[nH]c1=O,-1.981,O=c1cc[nH]c(=O)[nH]1,False,train
+3-methylindole,Cc1c[nH]c2ccccc12,-2.42,c1ccc2[nH]ccc2c1,False,train
+2-methoxypteridine,COc1ncc2nccnc2n1,-1.11,c1cnc2ncncc2n1,False,train
+Dioxacarb,CNC(=O)Oc1ccccc1C1OCCO1,-1.57,c1ccc(C2OCCO2)cc1,False,train
+isocarbamid,CC(C)CNC(=O)N1CCNC1=O,-2.15,O=C1NCCN1,False,train
+Acetonitrile,CC#N,0.26,,True,train
+Fenoxycarb,CCOC(=O)NCCOc1ccc(Oc2ccccc2)cc1,-4.7,c1ccc(Oc2ccccc2)cc1,False,train
+"1,1,1,2-Tetrachloroethane",ClCC(Cl)(Cl)Cl,-2.18,,True,train
+1-Butanol,CCCCO,0.0,,True,train
+"1,3,5-Trichlorobenzene",Clc1cc(Cl)cc(Cl)c1,-4.48,c1ccccc1,False,train
+3-Methylbutan-1-ol,CC(C)CCO,-0.51,,True,train
+2-Methylpropene,C=C(C)C,-2.33,,True,train
+Benzaldehyde,O=Cc1ccccc1,-1.19,c1ccccc1,False,train
+"2,3-Dimethyl-1,3-Butadiene",C=C(C)C(=C)C,-2.4,,True,train
+RTI 10,CN1C(=O)c2cccnc2Oc2ccccc21,-3.672,O=C1Nc2ccccc2Oc2ncccc21,False,train
+Methylcyclohexane ,CC1CCCCC1,-3.85,C1CCCCC1,False,train
+sulfaguanidine,N=C(N)NS(=O)(=O)c1ccc(N)cc1,-1.99,c1ccccc1,False,train
+Methylparaben,COC(=O)c1ccc(O)cc1,-1.827,c1ccccc1,False,train
+2-Methyltetrahydrofurane,CC1CCCO1,0.11,C1CCOC1,False,train
+Santonin,CC1=C2C3OC(=O)C(C)C3CCC2(C)C=CC1=O,-3.09,O=C1C=CC2CCC3CC(=O)OC3C2=C1,False,train
+1-Iodopropane,CCCI,-2.29,,True,train
+Ametryn,CCNc1nc(NC(C)C)nc(SC)n1,-3.04,c1ncncn1,False,train
+1-Propanol,CCCO,0.62,,True,train
+Hydroxyprogesterone-17a,CC(=O)C1(O)CCC2C3CCC4=CC(=O)CCC4(C)C3CCC21C,-3.817,O=C1C=C2CCC3C4CCCC4CCC3C2CC1,False,train
+2-Pentanol,CCCC(C)O,-0.29,,True,train
+"2,4-Dimethylphenol",Cc1ccc(O)c(C)c1,-1.19,c1ccccc1,False,train
+m-Chloronitrobenzene ,O=[N+]([O-])c1cccc(Cl)c1,-2.77,c1ccccc1,False,train
+"2,2',4,5'-PCB",Clc1ccc(-c2cc(Cl)ccc2Cl)c(Cl)c1,-6.57,c1ccc(-c2ccccc2)cc1,False,train
+"Hexachloro-1,3-butadiene",ClC(Cl)=C(Cl)C(Cl)=C(Cl)Cl,-4.92,,True,train
+Terbutryn,CCNc1nc(NC(C)(C)C)nc(SC)n1,-4.0,c1ncncn1,False,train
+3-Methyl-2-pentanol,CCC(C)CCO,-0.71,,True,train
+2-methylpteridine,Cc1ncc2nccnc2n1,-0.12,c1cnc2ncncc2n1,False,train
+Danazol,C#CC1(O)CCC2C3CCC4=Cc5oncc5CC4(C)C3CCC21C,-5.507000000000001,C1=C2CCC3C4CCCC4CCC3C2Cc2cnoc21,False,train
+1-Iodobutane,CCCCI,-2.96,,True,train
+Benzyltrifluoride,FC(F)(F)c1ccccc1,-2.51,c1ccccc1,False,train
+Dihexyl phthalate,CCCCCCOC(=O)c1ccccc1C(=O)OCCCCCC,-6.144,c1ccccc1,False,train
+Dibenzothiophene,c1ccc2c(c1)sc1ccccc12,-4.38,c1ccc2c(c1)sc1ccccc12,False,train
+"2,3',4,4'-PCB",Clc1ccc(-c2ccc(Cl)c(Cl)c2Cl)c(Cl)c1,-7.8,c1ccc(-c2ccccc2)cc1,False,train
+"2,2',3,3',4,4'-PCB",Clc1ccc(-c2ccc(Cl)c(Cl)c2Cl)c(Cl)c1Cl,-8.01,c1ccc(-c2ccccc2)cc1,False,train
+Warfarin,CC(=O)CC(c1ccccc1)c1c(O)c2ccccc2oc1=O,-3.893,O=c1oc2ccccc2cc1Cc1ccccc1,False,train
+Dimethyl phthalate,COC(=O)c1ccccc1C(=O)OC,-1.66,c1ccccc1,False,train
+Ethyl octanoate,CCCCCCCC(=O)OCC,-3.39,,True,train
+Diethyldisulfide,CCSSCC,-2.42,,True,train
+"1,2-Diethoxyethane ",CCOCCOCC,-0.77,,True,train
+"1,2,4,5-Tetrachlorobenzene",Clc1cc(Cl)c(Cl)cc1Cl,-5.56,c1ccccc1,False,train
+p-benzidine,Nc1ccc(-c2ccc(N)cc2)cc1,-2.7,c1ccc(-c2ccccc2)cc1,False,train
+1-Heptene,C=CCCCCC,-3.73,,True,train
+Pentobarbital,CCCC(C)C1(CC)C(=O)NC(=O)NC1=O,-2.39,O=C1CC(=O)NC(=O)N1,False,train
+o-Chloroaniline,Nc1ccccc1Cl,-1.52,c1ccccc1,False,train
+3-Chloroanisole,COc1cccc(Cl)c1,-2.78,c1ccccc1,False,train
+Pebulate,CCCCN(CC)C(=O)SCCC,-3.53,,True,train
+Butyl acetate,CCCCOC=O,-1.37,,True,train
+Prednisolone,CC12C=CC(=O)C=C1CCC1C2C(O)CC2(C)C1CCC2(O)C(=O)CO,-3.18,O=C1C=CC2C(=C1)CCC1C3CCCC3CCC21,False,train
+Bromodichloromethane,ClC(Cl)Br,-1.54,,True,train
+p-Hydroxybenzaldehyde ,O=Cc1ccc(O)cc1,-0.96,c1ccccc1,False,train
+Bromomethane,CBr,-0.79,,True,train
+Coumachlor,CC(=O)CC(c1ccc(Cl)cc1)c1c(O)c2ccccc2oc1=O,-5.839,O=c1oc2ccccc2cc1Cc1ccccc1,False,train
+2-Ethylnaphthalene,CCc1ccc2ccccc2c1,-4.29,c1ccc2ccccc2c1,False,train
+"2,3,4,5,6-PCB",Clc1c(Cl)c(Cl)c(-c2ccccc2)c(Cl)c1Cl,-7.92,c1ccc(-c2ccccc2)cc1,False,train
+o-Fluorobromobenzene,Fc1ccccc1Br,-2.7,c1ccccc1,False,train
+"2,4-Dichlorophenol ",Oc1ccc(Cl)cc1Cl,-1.55,c1ccccc1,False,train
+Permethrin,CC1(C)C(C=C(Cl)Cl)C1C(=O)OCc1cccc(Oc2ccccc2)c1,-6.291,O=C(OCc1cccc(Oc2ccccc2)c1)C1CC1,False,train
+3-Propanoyloxymethylphenytoin,CCC(=O)OCN1C(=O)NC(c2ccccc2)(c2ccccc2)C1=O,-4.907,O=C1NC(=O)C(c2ccccc2)(c2ccccc2)N1,False,train
+Cyclopentane ,C1CCCC1,-2.64,C1CCCC1,False,train
+o-Toluidine,Cc1ccccc1N,-2.21,c1ccccc1,False,train
+Estragole,C=CCc1ccc(OC)cc1,-2.92,c1ccccc1,False,train
+karbutilate,CN(C)C(=O)Nc1cccc(OC(=O)NC(C)(C)C)c1,-2.93,c1ccccc1,False,train
+3-Methyl-1-Butene,C=CC(C)C,-2.73,,True,train
+2-Hydroxypyridine,Oc1ccccn1,1.02,c1ccncc1,False,train
+Ethane,CC,-1.36,,True,train
+"1,2-Dichlorobenzene",Clc1ccccc1Cl,-3.05,c1ccccc1,False,train
+mercaptobenzothiazole,Sc1nc2ccccc2s1,-3.18,c1ccc2scnc2c1,False,train
+"2,2',3,3',4,4',5,5',6,6'-PCB",Clc1c(Cl)c(Cl)c(-c2c(Cl)c(Cl)c(Cl)c(Cl)c2Cl)c(Cl)c1Cl,-11.6,c1ccc(-c2ccccc2)cc1,False,train
+Acetamide,CC(N)=O,1.58,,True,train
+1-Methylnaphthalene,Cc1cccc2ccccc12,-3.7,c1ccc2ccccc2c1,False,train
+Napropamide,CCN(CC)C(=O)C(C)Oc1cccc2ccccc12,-3.57,c1ccc2ccccc2c1,False,train
+"3,3-Dimethyl-2-butanol",CC(O)C(C)(C)C,-0.62,,True,train
+Methyl pentanoate,CCCC(=O)OCC,-1.36,,True,train
+"2,4-Dimethylpyridine",Cc1ccnc(C)c1,0.38,c1ccncc1,False,train
+1-Nonanol,CCCCCCCCCO,-3.01,,True,train
+Dibromomethane,BrCBr,-1.17,,True,train
+Dexamethasone,CC1CC2C3CCC4=CC(=O)C=CC4(C)C3(F)C(O)CC2(C)C1(O)C(=O)CO,-3.59,O=C1C=CC2C(=C1)CCC1C3CCCC3CCC21,False,train
+"2,6-Dimethylnaphthalene ",Cc1ccc2cc(C)ccc2c1,-4.89,c1ccc2ccccc2c1,False,train
+Butylate,CCSC(=O)N(CC(C)C)CC(C)C,-3.68,,True,train
+nitroglycerin,O=[N+]([O-])OCC(CO[N+](=O)[O-])O[N+](=O)[O-],-2.22,,True,train
+m-Nitroaniline,Nc1cccc([N+](=O)[O-])c1,-2.19,c1ccccc1,False,train
+1-Chlorobutane,CCCCCl,-2.03,,True,train
+6-aminochrysene,Nc1cc2c3ccccc3ccc2c2ccccc12,-6.2,c1ccc2c(c1)ccc1c3ccccc3ccc21,False,train
+"1,2-Propylene oxide",CC1CO1,-0.59,C1CO1,False,train
+Nitrazepam,O=C1CN=C(c2ccccc2)c2cc([N+](=O)[O-])ccc2N1,-3.796,O=C1CN=C(c2ccccc2)c2ccccc2N1,False,train
+"1,3-diethylthiourea",CCNC(=S)NCC,-1.46,,True,train
+"2,3,5-Trichlorophenol",Oc1cc(Cl)cc(Cl)c1Cl,-2.67,c1ccccc1,False,train
+Propyl propanoate,CCCCC(=O)OC,-1.34,,True,train
+Aniline ,Nc1ccccc1,-0.41,c1ccccc1,False,train
+"1,5-Dimethlnapthalene",Cc1cccc2c(C)cccc12,-4.678999999999999,c1ccc2ccccc2c1,False,train
+Acenapthylene,C1=Cc2cccc3cccc1c23,-3.96,C1=Cc2cccc3cccc1c23,False,train
+Ethyl butyrate,CCCCCOC(=O)CC,-1.28,,True,train
+Atratone,CCNc1nc(NC(C)C)nc(OC)n1,-2.084,c1ncncn1,False,train
+Bromoethane,CCBr,-1.09,,True,train
+3-Hexyne,CCC#CCC,-1.99,,True,train
+2-Methyl-1-Butene,C=C(C)CC,-2.73,,True,train
+"1,3,5-Tribromobenzene",Brc1cc(Br)cc(Br)c1,-5.6,c1ccccc1,False,train
+Ronnel,COP(=S)(OC)Oc1cc(Cl)c(Cl)cc1Cl,-5.72,c1ccccc1,False,train
+Eugenol,C=CCc1ccc(O)c(OC)c1,-1.56,c1ccccc1,False,train
+5-Allyl-5-isopropylbarbital,C=CCC1(C(C)C)C(=O)NC(=O)NC1=O,-1.7080000000000002,O=C1CC(=O)NC(=O)N1,False,train
+Pyrene,c1cc2ccc3cccc4ccc(c1)c2c34,-6.176,c1cc2ccc3cccc4ccc(c1)c2c34,False,train
+"1,1-Diethoxyethane ",CCOC(C)OCC,-0.43,,True,train
+2-Butoxyethanol,CCCCOCCO,-0.42,,True,train
+Quintozene,O=[N+]([O-])c1c(Cl)c(Cl)c(Cl)c(Cl)c1Cl,-5.82,c1ccccc1,False,train
+Flurochloridone,O=C1C(Cl)C(CCl)CN1c1cccc(C(F)(F)F)c1,-4.047,O=C1CCCN1c1ccccc1,False,train
+methyl gallate,COC(=O)c1cc(O)c(O)c(O)c1,-1.24,c1ccccc1,False,train
+Chlorzoxazone,O=c1[nH]c2cc(Cl)ccc2o1,-2.8310000000000004,O=c1[nH]c2ccccc2o1,False,train
+"2,2',3,4,4',5',6-PCB",Clc1ccc(-c2c(Cl)c(Cl)c(Cl)c(Cl)c2Cl)c(Cl)c1,-7.92,c1ccc(-c2ccccc2)cc1,False,train
+alloxan,O=C1NC(=O)C(=O)C(=O)N1,-1.25,O=C1NC(=O)C(=O)C(=O)N1,False,train
+"1,3-Dichloropropane",ClCCCCl,-1.62,,True,train
+m-Fluorobromobenzene,Fc1cccc(Br)c1,-2.67,c1ccccc1,False,train
+p-Chlorobromobenzene,Clc1ccc(Br)cc1,-3.63,c1ccccc1,False,train
+"2,3-Dimethylbutane",CC(C)C(C)C,-3.65,,True,train
+1-Butene,C=CCC,-1.94,,True,train
+"2,2',3,4,5,5'-PCB",Clc1ccc(Cl)c(-c2cc(Cl)c(Cl)c(Cl)c2Cl)c1,-7.68,c1ccc(-c2ccccc2)cc1,False,train
+"1,1,2-Trichlorotrifluoroethane",FC(F)(Cl)C(F)(Cl)Cl,-3.04,,True,train
+Propionitrile,CCC#N,0.28,,True,train
+"O,P'-DDD",Clc1ccc(C(c2ccccc2Cl)C(Cl)Cl)cc1,-6.51,c1ccc(Cc2ccccc2)cc1,False,train
+o-Nitroanisole,COc1ccccc1[N+](=O)[O-],-1.96,c1ccccc1,False,train
+Dinoseb,CCC(C)c1cc([N+](=O)[O-])cc([N+](=O)[O-])c1O,-3.38,c1ccccc1,False,train
+Glycerol,OCC(O)CO,1.12,,True,train
+Guaiacol|o-Methoxyphenol,COc1ccccc1O,-1.96,c1ccccc1,False,train
+chlorpyrifos,CCOP(=S)(OCC)Oc1nc(Cl)c(Cl)cc1Cl,-5.67,c1ccncc1,False,train
+9-Methylanthracene,Cc1c2ccccc2cc2ccccc12,-5.89,c1ccc2cc3ccccc3cc2c1,False,train
+Methyl butyl ether ,CCCCOC,-0.99,,True,train
+7-methylpteridine,Cc1cnc2cncnc2n1,-0.8540000000000001,c1cnc2ncncc2n1,False,train
+simazine,CCNc1nc(Cl)nc(NCC)n1,-4.55,c1ncncn1,False,train
+"N,N-Dimethylacetamide",CC(=O)N(C)C,1.11,,True,train
+Simetryn,CSc1nc(N(C)C)nc(N(C)C)n1,-2.676,c1ncncn1,False,train
+Ethylene,C=C,-0.4,,True,train
+"3,3-Dimethyl-1-butanol",CC(C)(C)CCO,-0.5,,True,train
+5-Allyl-5-ethylbarbital,C=CCC1(CC)C(=O)NC(=O)NC1=O,-1.614,O=C1CC(=O)NC(=O)N1,False,train
+"2,3,4-Trichlorophenol",Oc1ccc(Cl)c(Cl)c1Cl,-2.67,c1ccccc1,False,train
+Anisole,COc1ccccc1,-1.85,c1ccccc1,False,train
+chloropropylate,CC(C)OC(=O)C(O)(c1ccc(Cl)cc1)c1cccc(Cl)c1,-4.53,c1ccc(Cc2ccccc2)cc1,False,train
+aldosterone,CC12CCC(=O)C=C1CCC1C2C(O)CC2(C=O)C(C(=O)CO)CCC12,-3.85,O=C1C=C2CCC3C4CCCC4CCC3C2CC1,False,train
+Difenoxuron,COc1ccc(Oc2ccc(NC(=O)N(C)C)cc2)cc1,-4.16,c1ccc(Oc2ccccc2)cc1,False,train
+4-Ethyltoluene,CCc1ccc(C)cc1,-3.11,c1ccccc1,False,train
+Diisopropylsulfide,CC(C)SC(C)C,-2.24,,True,train
+"1,3-Dinitrobenzene",O=[N+]([O-])c1cccc([N+](=O)[O-])c1,-2.29,c1ccccc1,False,train
+Ethion,CCOP(=S)(OCC)SCSP(=S)(OCC)OCC,-5.54,,True,train
+probarbital|5-Ethyl-5-isopropylbarbituric acid,CCC1(C(C)C)C(=O)NC(=O)NC1=O,-2.1790000000000003,O=C1CC(=O)NC(=O)N1,False,train
+p-Chloroaniline,Nc1ccc(Cl)cc1,-1.66,c1ccccc1,False,train
+"2,2-Dimethylpentanol",CCCC(C)(C)CO,-1.52,,True,train
+Methoproptryne,COCCCNc1nc(NC(C)C)nc(SC)n1,-2.928,c1ncncn1,False,train
+t-Butylbenzene ,CC(C)(C)c1ccccc1,-3.66,c1ccccc1,False,train
+kebuzone,CC(=O)CCC1C(=O)N(c2ccccc2)N(c2ccccc2)C1=O,-3.27,O=C1CC(=O)N(c2ccccc2)N1c1ccccc1,False,train
+prednisolone acetate,CC(=O)OCC(=O)C1(O)CCC2C3CCC4=CC(=O)C=CC4(C)C3C(O)CC21C,-4.37,O=C1C=CC2C(=C1)CCC1C3CCCC3CCC21,False,train
+Methyl propyl ether ,CCCOC,-0.39,,True,train
+Isopropyl acetate,CC(=O)OC(C)C,-0.55,,True,train
+Bromobenzene,Brc1ccccc1,-2.55,c1ccccc1,False,train
+Ethyl-p-hydroxybenzoate ,CCOC(=O)c1ccc(O)cc1,-2.35,c1ccccc1,False,train
+3-Butanoyloxymethylphenytoin,CCCC(=O)OCN1C(=O)NC(c2ccccc2)(c2ccccc2)C1=O,-5.071000000000001,O=C1NC(=O)C(c2ccccc2)(c2ccccc2)N1,False,train
+testosterone propionate,CCC(=O)OC1CCC2C3CCC4=CC(=O)CCC4(C)C3CCC12C,-5.37,O=C1C=C2CCC3C4CCCC4CCC3C2CC1,False,train
+Chloroethylene,C=CCl,-1.75,,True,train
+diphenamid,CN(C)C(=O)C(c1ccccc1)c1ccccc1,-2.98,c1ccc(Cc2ccccc2)cc1,False,train
+Tetrabromomethane,BrC(Br)(Br)Br,-3.14,,True,train
+Methyl benzoate ,COC(=O)c1ccccc1,-1.85,c1ccccc1,False,train
+1-methyluracil,Cn1ccc(=O)[nH]c1=O,-0.807,O=c1cc[nH]c(=O)[nH]1,False,train
+oxyphenbutazone,CCCCC1C(=O)N(c2ccccc2)N(c2ccc(O)cc2)C1=O,-3.73,O=C1CC(=O)N(c2ccccc2)N1c1ccccc1,False,train
+"2,2',3,5'-PCB",Clc1ccc(Cl)c(-c2cccc(Cl)c2Cl)c1,-6.47,c1ccc(-c2ccccc2)cc1,False,train
+Diuron,CN(C)C(=O)Nc1ccc(Cl)c(Cl)c1,-3.8,c1ccccc1,False,train
+Cyclopentene ,C1=CCCC1,-2.1,C1=CCCC1,False,train
+Nonane,CCCCCCCCC,-5.88,,True,train
+2-Chlorophenol,Oc1ccccc1Cl,-1.06,c1ccccc1,False,train
+5-Methylchrysene,Cc1cc2ccccc2c2ccc3ccccc3c12,-6.59,c1ccc2c(c1)ccc1c3ccccc3ccc21,False,train
+Phenetole,CCOc1ccccc1,-2.33,c1ccccc1,False,train
+ethyl cinnamate,CCOC(=O)C=Cc1ccccc1,-3.0,c1ccccc1,False,train
+Terbacil,Cc1[nH]c(=O)n(C(C)(C)C)c(=O)c1Cl,-2.484,O=c1cc[nH]c(=O)[nH]1,False,train
+Clonazepam,O=C1CN=C(c2ccccc2Cl)c2cc([N+](=O)[O-])ccc2N1,-3.499,O=C1CN=C(c2ccccc2)c2ccccc2N1,False,train
+p-Toluenesulfonamide ,Cc1ccc(S(N)(=O)=O)cc1,-1.74,c1ccccc1,False,train
+Chlorbufam,C#CC(C)OC(=O)Nc1cccc(Cl)c1,-2.617,c1ccccc1,False,train
+2-Methylheptane,CCCCCC(C)C,-5.08,,True,train
+Cyhalothrin,CC1(C)C(C=C(Cl)C(F)(F)F)C1C(=O)OC(C#N)c1cccc(Oc2ccccc2)c1,-8.176,O=C(OCc1cccc(Oc2ccccc2)c1)C1CC1,False,train
+Diazepam,CN1C(=O)CN=C(c2ccccc2)c2cc(Cl)ccc21,-3.754,O=C1CN=C(c2ccccc2)c2ccccc2N1,False,train
+2-Methyl-3-pentanol,CCC(O)C(C)C,-0.7,,True,train
+fensulfothion,CCOP(=S)(OCC)Oc1ccc(S(C)=O)cc1,-2.3,c1ccccc1,False,train
+borneol,CC1(C)C2CCC1(C)C(O)C2,-2.32,C1CC2CCC1C2,False,train
+Testosterone,CC12CCC(=O)C=C1CCC1C2CCC2(C)C(O)CCC12,-4.02,O=C1C=C2CCC3C4CCCC4CCC3C2CC1,False,train
+Heptane,CCCCCCC,-4.53,,True,train
+1-Napthol,Oc1cccc2ccccc12,-2.22,c1ccc2ccccc2c1,False,train
+"cis-1,2-Dimethylcyclohexane",CC1CCCCC1C,-4.3,C1CCCCC1,False,train
+Medrogestone,CC(=O)C1(C)CCC2C3C=C(C)C4=CC(=O)CCC4(C)C3CCC21C,-5.27,O=C1C=C2C=CC3C4CCCC4CCC3C2CC1,False,train
+2-Heptanone,CCCCCC(C)=O,-1.45,,True,train
+Acephate,COP(=O)(NC(C)=O)SC,0.54,,True,train
+DEF,CCCCSP(=O)(SCCCC)SCCCC,-5.14,,True,train
+phthalamide,O=C1NC(=O)C2C=CC=CC12,-2.932,O=C1NC(=O)C2C=CC=CC12,False,train
+2-Methy-2-Butene,CC=C(C)C,-2.56,,True,train
+"1,2,4-Trimethylbenzene",Cc1ccc(C)c(C)c1,-3.31,c1ccccc1,False,train
+"2,4,5-Trichlorophenol ",Oc1cc(Cl)c(Cl)cc1Cl,-2.21,c1ccccc1,False,train
+3-Methyl-3-hexanol,CCCC(C)(O)CC,-0.98,,True,train
+Octane,CCCCCCCC,-5.24,,True,train
+Anthracene,c1ccc2cc3ccccc3cc2c1,-6.35,c1ccc2cc3ccccc3cc2c1,False,train
+Phenylhydrazine,NNc1ccccc1,0.07,c1ccccc1,False,train
+Propionaldehyde,CCC=O,0.58,,True,train
+"5,5-Diallylbarbital",C=CCC1(CC=C)C(=O)NC(=O)NC1=O,-2.077,O=C1CC(=O)NC(=O)N1,False,train
+Trichloromethane,ClC(Cl)Cl,-1.17,,True,train
+Pencycuron,O=C(Nc1ccccc1)N(Cc1ccc(Cl)cc1)C1CCCC1,-5.915,O=C(Nc1ccccc1)N(Cc1ccccc1)C1CCCC1,False,train
+2-Ethylhexanal,CCCCC(C=O)CC,-2.13,,True,train
+Khellin,COc1c2occc2c(OC)c2c(=O)cc(C)oc12,-3.0210000000000004,O=c1ccoc2cc3occc3cc12,False,train
+2-Ethylbutanal,CCC(C=O)CC,-1.52,,True,train
+Dipropyl ether,CCCOCCC,-1.62,,True,train
+1-Tetradecanol,CCCCCCCCCCCCCCO,-5.84,,True,train
+"2,3,6-Trichlorophenol",Oc1c(Cl)ccc(Cl)c1Cl,-2.64,c1ccccc1,False,train
+Urea,NC(N)=O,0.96,,True,train
+1-Pentyne,C#CCCC,-1.64,,True,train
+"1,3-Dibromobenzene",Brc1cccc(Br)c1,-3.54,c1ccccc1,False,train
+1-Octadecanol,CCCCCCCCCCCCCCCCCCO,-8.4,,True,train
+Acetanilide,CC(=O)Nc1ccccc1,-1.33,c1ccccc1,False,train
+Isonazid,NNC(=O)c1ccncc1,0.009,c1ccncc1,False,train
+Isopentyl formate,CC(C)CCOC=O,-1.52,,True,train
+Acetophenone,CC(=O)c1ccccc1,-1.28,c1ccccc1,False,train
+Triethyl phosphate,CCOP(=O)(OCC)OCC,0.43,,True,train
+7-methoxypteridine,COc1cnc2cncnc2n1,-0.91,c1cnc2ncncc2n1,False,train
+2-Nitropropane,CC(C)[N+](=O)[O-],-0.62,,True,train
+Erythritol,OCC(O)C(O)CO,0.7,,True,train
+Risocaine,CCCOC(=O)c1ccc(N)cc1,-2.452,c1ccccc1,False,train
+Azodrin,CNC(=O)C=C(C)OP(=O)(OC)OC,0.6509999999999999,,True,train
+"2,3-Dimethylpentane",CCC(C)C(C)C,-4.28,,True,train
+RTI 16,CCN1c2ncccc2C(=S)N(C)c2cccnc21,-4.634,S=C1Nc2cccnc2Nc2ncccc21,False,train
+1-Heptyne,C#CCCCCC,-3.01,,True,train
+Ethyl benzoate ,CCOC(=O)c1ccccc1,-2.32,c1ccccc1,False,train
+1-Chloro-2-methylpropane,CC(C)CCl,-2.0,,True,train
+Ethinyl estradiol,C#CC1(O)CCC2C3CCc4cc(O)ccc4C3CCC21C,-4.3,c1ccc2c(c1)CCC1C2CCC2CCCC21,False,train
+methyl laurate,CCCCCCCCCCCC(=O)OC,-4.69,,True,train
+Di-n-propylsulfide,CCCSCCC,-2.58,,True,train
+1-Bromopentane,CCCCCBr,-3.08,,True,train
+trans-2-Heptene ,C/C=C/CCCC,-3.82,,True,train
+Pentylcyclopentane,CCCCCC1CCCC1,-6.08,C1CCCC1,False,train
+"2,2',3,5,5',6-PCB",Clc1ccc(Cl)c(-c2c(Cl)c(Cl)cc(Cl)c2Cl)c1,-7.42,c1ccc(-c2ccccc2)cc1,False,train
+"1,1,1-Trichloroethane",CC(Cl)(Cl)Cl,-2.0,,True,train
+Monolinuron,CON(C)C(=O)Nc1ccc(Cl)cc1,-2.57,c1ccccc1,False,train
+4-Bromotoluene,Cc1ccc(Br)cc1,-3.19,c1ccccc1,False,train
+Diethyl ether ,CCOCC,-0.09,,True,train
+Rovral,CC(C)NC(=O)N1CC(=O)N(c2cc(Cl)cc(Cl)c2)C1=O,-4.376,O=C1CNC(=O)N1c1ccccc1,False,train
+Benfluralin,CCCCN(CC)c1c([N+](=O)[O-])cc(C(F)(F)F)cc1[N+](=O)[O-],-5.53,c1ccccc1,False,train
+"2,4,6-Trimethylphenol",Cc1cc(C)c(O)c(C)c1,-2.05,c1ccccc1,False,train
+Benzene ,c1ccccc1,-1.64,c1ccccc1,False,train
+p-Chloroiodobenzene,Clc1ccc(I)cc1,-4.03,c1ccccc1,False,train
+Metoxuron,COc1ccc(NC(=O)N(C)C)cc1Cl,-2.564,c1ccccc1,False,train
+propachlor,CC(C)N(C(=O)CCl)c1ccccc1,-2.48,c1ccccc1,False,train
+Styrene,C=Cc1ccccc1,-2.82,c1ccccc1,False,train
+Dimethoxymethane,COCOC,0.48,,True,train
+o-Xylene ,Cc1ccccc1C,-2.8,c1ccccc1,False,train
+Butan-2-ol,CCC(C)O,0.47,,True,train
+"1,4-Benzenediol",Oc1ccc(O)cc1,-0.17,c1ccccc1,False,train
+estriol,CC12CCC3c4ccc(O)cc4CCC3C1CC(O)C2O,-4.955,c1ccc2c(c1)CCC1C2CCC2CCCC21,False,train
+Benzo(b)fluorene,c1ccc2c(c1)Cc1cc3ccccc3cc1-2,-8.04,c1ccc2c(c1)Cc1cc3ccccc3cc1-2,False,train
+hydantoin,O=C1CNC(=O)N1,-0.4,O=C1CNC(=O)N1,False,train
+4-hexylresorcinol,CCCCCCc1ccc(O)cc1O,-2.59,c1ccccc1,False,train
+allicin,C=CCSS(=O)CC=C,-0.83,,True,train
+"5,6-Dimethylchrysene",Cc1c(C)c2c3ccccc3ccc2c2ccccc12,-7.01,c1ccc2c(c1)ccc1c3ccccc3ccc21,False,train
+Betamethasone-17-valerate,CCCCC(=O)OC1(C(=O)CO)C(C)CC2C3CCC4=CC(=O)C=CC4(C)C3(F)C(O)CC21C,-4.71,O=C1C=CC2C(=C1)CCC1C3CCCC3CCC21,False,train
+"2,3,4,6-Tetrachlorophenol",Oc1c(Cl)cc(Cl)c(Cl)c1Cl,-3.1,c1ccccc1,False,train
+"1,3-Dichlorobenzene",Clc1cccc(Cl)c1,-3.04,c1ccccc1,False,train
+DDT,Clc1ccc(C(c2ccc(Cl)cc2)C(Cl)(Cl)Cl)cc1,-7.15,c1ccc(Cc2ccccc2)cc1,False,train
+Isobutyl formate,CC(C)COC=O,-1.01,,True,train
+thioanisole,CSc1ccccc1,-2.39,c1ccccc1,False,train
+RTI 13,CCN1c2ncccc2C(=O)Nc2c(C(F)(F)F)cc(C)nc21,-4.207,O=C1Nc2cccnc2Nc2ncccc21,False,train
+Hexane ,CCCCCC,-3.84,,True,train
+methyl nicotinate,COC(=O)c1cccnc1,-0.46,c1ccncc1,False,train
+"2,3,3',4,4',5-PCB",Clc1ccc(-c2cc(Cl)c(Cl)c(Cl)c2Cl)cc1Cl,-7.82,c1ccc(-c2ccccc2)cc1,False,train
+Cyanazine,CCNc1nc(Cl)nc(NC(C)(C)C#N)n1,-3.15,c1ncncn1,False,train
+Di(2-ethylhexyl)-phthalate,CCCCC(CC)COC(=O)c1ccccc1C(=O)OCC(CC)CCCC,-6.96,c1ccccc1,False,train
+2-Ethyl pyridine,CCc1ccccn1,0.51,c1ccncc1,False,train
+Naled,COP(=O)(OC)OC(Br)C(Cl)(Cl)Br,-2.28,,True,train
+Biphenyl,c1ccc(-c2ccccc2)cc1,-4.345,c1ccc(-c2ccccc2)cc1,False,train
+"2,2',4,4',6,6'-PCB",Clc1cc(Cl)c(-c2c(Cl)cc(Cl)cc2Cl)c(Cl)c1,-8.71,c1ccc(-c2ccccc2)cc1,False,train
+Altretamine,CN(C)c1nc(N(C)C)nc(N(C)C)n1,-3.364,c1ncncn1,False,train
+"2,4-Dimethyl-2-pentanol ",CC(C)CC(C)(C)O,-0.92,,True,train
+Cycloheptyl-5-spirobarbituric acid,O=C1NC(=O)C2(CCCCCC2)C(=O)N1,-3.168,O=C1NC(=O)C2(CCCCCC2)C(=O)N1,False,train
+Fructose,OCC1OC(O)(CO)C(O)C1O,0.64,C1CCOC1,False,train
+"3,5-Dimethylphenol",Cc1cc(C)cc(O)c1,-1.4,c1ccccc1,False,train
+Barban,O=C(Nc1cccc(Cl)c1)OCC#CCCl,-4.37,c1ccccc1,False,train
+p-Chloroacetanilide,CC(=O)Nc1ccc(Cl)cc1,-2.843,c1ccccc1,False,train
+"2,2',3,4,5,5',6-PCB",Clc1ccc(Cl)c(-c2c(Cl)c(Cl)c(Cl)c(Cl)c2Cl)c1,-8.94,c1ccc(-c2ccccc2)cc1,False,train
+"2,2-Dimethylbutane",CCC(C)(C)C,-3.55,,True,train
+N-Methylaniline ,CNc1ccccc1,-1.28,c1ccccc1,False,train
+"1,4-Pentadiene ",C=CCC=C,-2.09,,True,train
+Hydrocortisone 21-acetate,CC(=O)OCC(=O)C1(O)CCC2C3CCC4=CC(=O)CCC4(C)C3C(O)CC21C,-4.88,O=C1C=C2CCC3C4CCCC4CCC3C2CC1,False,train
+DNOC,Cc1cc([N+](=O)[O-])cc([N+](=O)[O-])c1O,-1.456,c1ccccc1,False,train
+Lorazepam,O=C1Nc2ccc(Cl)cc2C(c2ccccc2Cl)=NC1O,-3.604,O=C1CN=C(c2ccccc2)c2ccccc2N1,False,train
+3-Chlorophenol,Oc1cccc(Cl)c1,-0.7,c1ccccc1,False,train
+m-Chlorobromobenzene,Clc1cccc(Br)c1,-3.21,c1ccccc1,False,train
+chlorothiazide,NS(=O)(=O)c1cc2c(cc1Cl)N=CNS2(=O)=O,-3.05,O=S1(=O)NC=Nc2ccccc21,False,train
+5-Methyl-5-ethylbarbituric acid,CCC1(C)C(=O)NC(=O)NC1=O,-1.228,O=C1CC(=O)NC(=O)N1,False,train
+2-Phenoxyethanol,OCCOc1ccccc1,-0.7,c1ccccc1,False,train
+Diphenylmethane,c1ccc(Cc2ccccc2)cc1,-4.08,c1ccc(Cc2ccccc2)cc1,False,train
+3-Octanol,CCCCCC(O)CC,-1.98,,True,train
+Propazine,CC(C)Nc1nc(Cl)nc(NC(C)C)n1,-4.43,c1ncncn1,False,train
+2-Methylpentanol,CCCC(C)CO,-1.11,,True,train
+2-Methyl-2-hexanol,CCCCC(C)(C)O,-1.08,,True,train
+Ethylbenzene,CCc1ccccc1,-2.77,c1ccccc1,False,train
+5-(3-Methyl-2-butenyl)-5-ethylbarbital,CCC1(CC=C(C)C)C(=O)NC(=O)NC1=O,-2.253,O=C1CC(=O)NC(=O)N1,False,train
+butallylonal,C=C(Br)CC1(C(C)CC)C(=O)NC(=O)NC1=O,-2.647,O=C1CC(=O)NC(=O)N1,False,train
+Fenpropathrin,CC1(C)C(C(=O)OC(C#N)c2cccc(Oc3ccccc3)c2)C1(C)C,-6.025,O=C(OCc1cccc(Oc2ccccc2)c1)C1CC1,False,train
+Methoprene,COC(C)(C)CCCC(C)CC=CC(C)=CC(=O)OC(C)C,-5.19,,True,train
+Ethyl propionate,CCOC(=O)CC,-0.66,,True,train
+Prometryn,CSc1nc(NC(C)C)nc(NC(C)C)n1,-4.1,c1ncncn1,False,train
+Buturon,C#CC(C)N(C)C(=O)Nc1ccc(Cl)cc1,-3.9,c1ccccc1,False,train
+"2,3-Dimethylnaphthalene",Cc1cc2ccccc2cc1C,-4.72,c1ccc2ccccc2c1,False,train
+"2,4',5-PCB",Clc1ccc(-c2cc(Cl)ccc2Cl)cc1,-6.25,c1ccc(-c2ccccc2)cc1,False,train
+"2,3',4,4',5-PCB",Clc1ccc(-c2cc(Cl)c(Cl)c(Cl)c2Cl)c(Cl)c1,-7.39,c1ccc(-c2ccccc2)cc1,False,train
+2-cyanoguanidine,N#CN=C(N)N,-0.31,,True,train
+Chloropicrin,O=[N+]([O-])C(Cl)(Cl)Cl,-2.0,,True,train
+"2,6-PCB",Clc1cccc(Cl)c1-c1ccccc1,-5.21,c1ccc(-c2ccccc2)cc1,False,train
+p-Methoxybenzaldehyde,COc1ccc(C=O)cc1,-1.49,c1ccccc1,False,train
+4-Nitroacetanilide,CC(=O)Nc1ccc([N+](=O)[O-])cc1,-2.692,c1ccccc1,False,train
+Ethyl heptanoate,CCCCCCC(=O)OCC,-2.74,,True,train
+p-Hydroxyacetanilide,CC(=O)Nc1ccc(O)cc1,-1.03,c1ccccc1,False,train
+Methyl acetate,COC(C)=O,0.46,,True,train
+1-Hexene-3-ol,C=CC(O)CCC,-0.59,,True,train
+Dibutyl ether ,CCCCOCCCC,-1.85,,True,train
+1-Dodecanol,CCCCCCCCCCCCO,-4.8,,True,train
+RTI 6,CCN1c2nc(N(C)CCO)ccc2NC(=O)c2cccnc21,-3.36,O=C1Nc2cccnc2Nc2ncccc21,False,train
+2-Methyl-2-pentanol,CCCC(C)(C)O,-0.49,,True,train
+stadacaine,CCCCOc1ccc(C(=O)OCC)c(N(CC)CC)c1,-3.84,c1ccccc1,False,train
+2-Methyl-2-heptanol,CCCCCC(C)(C)O,-1.72,,True,train
+Hexamethylbenzene,Cc1c(C)c(C)c(C)c(C)c1C,-5.23,c1ccccc1,False,train
+Thymol,Cc1ccc(C(C)C)c(O)c1,-2.22,c1ccccc1,False,train
+Pteridine,c1cnc2ncncc2n1,0.02,c1cnc2ncncc2n1,False,train
+Parathion,CCOP(=S)(OCC)Oc1ccc([N+](=O)[O-])cc1,-4.66,c1ccccc1,False,train
+Methane,C,-0.9,,True,train
+1-Nitronapthalene,O=[N+]([O-])c1cccc2ccccc12,-3.54,c1ccc2ccccc2c1,False,train
+3-Methyl-2-pentanone,CCC(C)C(C)=O,-0.67,,True,train
+isoguanine,Nc1nc(O)nc2nc[nH]c12,-3.401,c1ncc2[nH]cnc2n1,False,train
+bromadiolone,O=c1oc2ccccc2c(O)c1C(CC(O)c1ccc(-c2ccc(Br)cc2)cc1)c1ccccc1,-4.445,O=c1oc2ccccc2cc1C(CCc1ccc(-c2ccccc2)cc1)c1ccccc1,False,train
+Nitromethane,C[N+](=O)[O-],0.26,,True,train
+Triallate,CC(C)N(C(=O)SCC(Cl)=C(Cl)Cl)C(C)C,-4.88,,True,train
+"1,5-Hexadiene ",C=CCCC=C,-2.68,,True,train
+Indole,c1ccc2[nH]ccc2c1,-1.52,c1ccc2[nH]ccc2c1,False,train
+1-Hexene,C=CCCCC,-3.23,,True,train
+Ethylcyclohexane,CCC1CCCCC1,-4.25,C1CCCCC1,False,train
+2-Nonanone,CCCCCCCC(C)=O,-2.58,,True,train
+Mebendazole,COC(=O)Nc1nc2ccc(C(=O)c3ccccc3)cc2[nH]1,-3.88,O=C(c1ccccc1)c1ccc2nc[nH]c2c1,False,train
+Chloropham,CC(C)OC(=O)Nc1cccc(Cl)c1,-3.38,c1ccccc1,False,train
+RTI 12,CCN1c2ncccc2C(=O)N(C)c2ccc(Cl)nc21,-4.114,O=C1Nc2cccnc2Nc2ncccc21,False,train
+Carbaryl,CNC(=O)Oc1cccc2ccccc12,-3.224,c1ccc2ccccc2c1,False,train
+Ethyne,C#C,0.29,,True,train
+"3,5-Dimethylpyridine",Cc1cncc(C)c1,0.38,c1ccncc1,False,train
+Mecarbam,CCOC(=O)N(C)C(=O)CSP(=S)(OCC)OCC,-2.518,,True,train
+1-Phenylethanol,CC(O)c1ccccc1,-0.92,c1ccccc1,False,train
+"1,2-Dichloropropane",CC(Cl)CCl,-1.6,,True,train
+2-Ethyl-2-hexanal,CCCC=C(C=O)CC,-2.46,,True,train
+Disulfoton,CCOP(=S)(OCC)SCCSCC,-4.23,,True,train
+methyltestosterone acetate,CC(=O)OC1(C)CCC2C3CCC4=CC(=O)CCC4(C)C3CCC21C,-5.284,O=C1C=C2CCC3C4CCCC4CCC3C2CC1,False,train
+"2,4,6-PCB",Clc1ccc(-c2c(Cl)cccc2Cl)cc1,-6.14,c1ccc(-c2ccccc2)cc1,False,train
+difluron,O=C(NC(=O)c1c(F)cccc1F)Nc1ccc(Cl)cc1,-6.02,O=C(NC(=O)c1ccccc1)Nc1ccccc1,False,train
+Triclosan,Oc1cc(Cl)ccc1Oc1ccc(Cl)cc1Cl,-4.46,c1ccc(Oc2ccccc2)cc1,False,train
+diisooctyl phthalate,CC(C)CCCCCOC(=O)c1ccccc1C(=O)OCCCCCC(C)C,-6.6370000000000005,c1ccccc1,False,train
+Corticosterone,CC12CCC(=O)C=C1CCC1C2C(O)CC2(C)C(C(=O)CO)CCC12,-3.24,O=C1C=C2CCC3C4CCCC4CCC3C2CC1,False,train
+"1,3,5-Trimethylbenzene ",Cc1cc(C)cc(C)c1,-3.4,c1ccccc1,False,train
+dioctyl phthalate,CCCCCCCCOC(=O)c1ccccc1C(=O)OCCCCCCCC,-5.115,c1ccccc1,False,train
+1-Pentadecanol,CCCCCCCCCCCCCCCO,-6.35,,True,train
+"2,2',6,6'-PCB",Clc1cccc(Cl)c1-c1c(Cl)cccc1Cl,-7.39,c1ccc(-c2ccccc2)cc1,False,train
+"5,5-Dimethylbarbituric acid",CC1(C)C(=O)NC(=O)NC1=O,-1.742,O=C1CC(=O)NC(=O)N1,False,train
+2-Iodopropane,CC(C)I,-2.09,,True,train
+"1,2-Dinitrobenzene",O=[N+]([O-])c1ccccc1[N+](=O)[O-],-3.1,c1ccccc1,False,train
+3-Methyl-2-butanone,CC(=O)C(C)C,-0.12,,True,train
+Hexadecane,CCCCCCCCCCCCCCCC,-8.4,,True,train
+2-Octanone,CCCCCCC(C)=O,-2.05,,True,train
+Methyl nonanoate,CCCCCCCCC(=O)OC,-3.38,,True,train
+"1,4-Difluorobenzene",Fc1ccc(F)cc1,-1.97,c1ccccc1,False,train
+Trifluralin,CCCN(CCC)c1c([N+](=O)[O-])cc(C(F)(F)F)cc1[N+](=O)[O-],-5.68,c1ccccc1,False,train
+Ethanol,CCO,1.1,,True,train
+Carbetamide,CCNC(=O)C(C)OC(=O)Nc1ccccc1,-1.83,c1ccccc1,False,train
+phenothrin,CC(C)=CC1C(C(=O)OCc2cccc(Oc3ccccc3)c2)C1(C)C,-5.24,O=C(OCc1cccc(Oc2ccccc2)c1)C1CC1,False,train
+1-Bromooctane,CCCCCCCCBr,-5.06,,True,train
+3-Pentanol,CCC(O)CC,-0.24,,True,train
+p-Nitrotoluene,Cc1ccc([N+](=O)[O-])cc1,-2.49,c1ccccc1,False,train
+4-Methylpentanol,CC(C)CCCO,-1.14,,True,train
+Norethisterone,C#CC1(O)CCC2C3CCC4=CC(=O)CCC4(O)C3CCC21C,-4.57,O=C1C=C2CCC3C4CCCC4CCC3C2CC1,False,train
+bromopropylate,CC(C)OC(=O)C(O)(c1ccc(Br)cc1)c1ccc(Br)cc1,-4.93,c1ccc(Cc2ccccc2)cc1,False,train
+Pyrazon,Nc1cnn(-c2ccccc2)c(=O)c1Cl,-2.878,O=c1cccnn1-c1ccccc1,False,train
+2-Methylbutan-2-ol,CCC(C)(C)O,0.15,,True,train
+p-Cresol,Cc1ccc(O)cc1,-0.73,c1ccccc1,False,train
+Ethyl formate,CCOC=O,0.15,,True,train
+"N,N-Dimethylaniline",CN(C)c1ccccc1,-1.92,c1ccccc1,False,train
+Butanethiol ,CCCCS,-2.18,,True,train
+Benzo(e)pyrene,c1ccc2c(c1)c1cccc3ccc4cccc2c4c31,-7.8,c1ccc2c(c1)c1cccc3ccc4cccc2c4c31,False,train
+Tetrachloroethylene,ClC(Cl)=C(Cl)Cl,-2.54,,True,train
+3-Pentanone,CCC(=O)CC,-0.28,,True,train
+Acrylonitrile,C=CC#N,0.15,,True,train
+Flumethasone,CC1CC2C3CC(F)C4=CC(=O)C=CC4(C)C3(F)C(O)CC2(C)C1(O)C(=O)CO,-5.613,O=C1C=CC2C(=C1)CCC1C3CCCC3CCC21,False,train
+2-Hexanone,CCCCC(C)=O,-0.8,,True,train
+Terbumeton,CCNc1nc(NC(C)(C)C)nc(OC)n1,-3.239,c1ncncn1,False,train
+3-Methylheptane,CCCCC(C)CC,-5.16,,True,train
+"1,2-Dibromoethane",BrCCBr,-1.68,,True,train
+Isoprocarb,CNC(=O)Oc1ccccc1C(C)C,-2.863,c1ccccc1,False,train
+2-Chloroanisole,COc1ccccc1Cl,-2.46,c1ccccc1,False,train
+Bromophos,COP(=S)(OC)Oc1cc(Cl)c(Br)cc1Cl,-6.09,c1ccccc1,False,train
+Methyl acrylate,C=CC(=O)OC,-0.22,,True,train
+Chloroxuron,CN(C)C(=O)Nc1ccc(Oc2ccc(Cl)cc2)cc1,-4.89,c1ccc(Oc2ccccc2)cc1,False,train
+4-Isopropyltoluene,Cc1ccc(C(C)C)cc1,-3.77,c1ccccc1,False,train
+"2,6-Dichlorophenol",Oc1c(Cl)cccc1Cl,-1.79,c1ccccc1,False,train
+d-inositol,OC1C(O)C(O)C(O)C(O)C1O,0.35,C1CCCCC1,False,train
+Dyphylline,Cn1c(=O)c2c(ncn2CC(O)CO)n(C)c1=O,-0.17,O=c1[nH]c(=O)c2[nH]cnc2[nH]1,False,train
+Chloramphenicol,O=C(NC(CO)C(O)c1ccc([N+](=O)[O-])cc1)C(Cl)Cl,-2.111,c1ccccc1,False,train
+3-Ethyl-3-pentanol,CCC(O)(CC)CC,-0.85,,True,train
+"1,2-Dibromobenzene",Brc1ccccc1Br,-3.5,c1ccccc1,False,train
+"2,4,6-Trichlorophenol",Oc1c(Cl)cc(Cl)cc1Cl,-2.34,c1ccccc1,False,train
+oryzalin,CCCN(CCC)c1c([N+](=O)[O-])cc(S(N)(=O)=O)cc1[N+](=O)[O-],-5.16,c1ccccc1,False,train
+"2,4-Dimethyl-3-pentanone",CC(C)C(=O)C(C)C,-1.3,,True,train
+5-(3-Methyl-2-butenyl)-5-isoPrbarbital,CC(C)=CCC1(C(C)C)C(=O)NC(=O)NC1=O,-2.593,O=C1CC(=O)NC(=O)N1,False,train
+gentisin,COC1=CC2OC3C=CC(O)=CC3C(=O)C2C(O)=C1,-2.943,O=C1C2C=CC=CC2OC2C=CC=CC12,False,train
+Caffeine,Cn1c(=O)c2c(ncn2C)n(C)c1=O,-0.8759999999999999,O=c1[nH]c(=O)c2[nH]cnc2[nH]1,False,train
+Spironolactone,CC(=O)SC1CC2=CC(=O)CCC2(C)C2CCC3(C)C(CCC34CCC(=O)O4)C12,-4.173,O=C1C=C2CCC3C(CCC4C3CCC43CCC(=O)O3)C2CC1,False,train
+"3,4-Dimethylphenol",Cc1ccc(O)cc1C,-1.38,c1ccccc1,False,train
+Diphenyl ether ,c1ccc(Oc2ccccc2)cc1,-3.96,c1ccc(Oc2ccccc2)cc1,False,train
+"2,2',4,4',5,5'-PCB",Clc1cc(Cl)c(-c2cc(Cl)c(Cl)cc2Cl)cc1Cl,-8.56,c1ccc(-c2ccccc2)cc1,False,train
+nicotinamide,NC(=O)c1cccnc1,0.61,c1ccncc1,False,train
+Thiophenol ,Sc1ccccc1,-2.12,c1ccccc1,False,train
+XMC,CNC(=O)Oc1cc(C)cc(C)c1,-2.5810000000000004,c1ccccc1,False,train
+Dimethyldisulfide,CSSC,-1.44,,True,train
+Benzamide,NC(=O)c1ccccc1,-0.96,c1ccccc1,False,train
+o-Chlorobromobenzene,Clc1ccccc1Br,-3.19,c1ccccc1,False,train
+Monotropitoside,COC(=O)c1ccccc1OC1OC(COC2OCC(O)C(O)C2O)C(O)C(O)C1O,-0.742,c1ccc(OC2CCCC(COC3CCCCO3)O2)cc1,False,train
+3-Heptanol ,CCCCC(O)CC,-1.47,,True,train
+RTI 15,CCN1c2ncccc2C(=O)Nc2c(C)cc(C)nc21,-4.553999999999999,O=C1Nc2cccnc2Nc2ncccc21,False,train
+"3,5-Dichlorophenol",Oc1cc(Cl)cc(Cl)c1,-1.34,c1ccccc1,False,train
+2-Ethyl-1-hexanol,CCCCC(CC)CO,-2.11,,True,train
+Diallate,CC(C)N(C(=O)SCC(Cl)=CCl)C(C)C,-4.2860000000000005,,True,train
+Toluene ,Cc1ccccc1,-2.21,c1ccccc1,False,train
+Nitrapyrin,Clc1cccc(C(Cl)(Cl)Cl)n1,-3.76,c1ccncc1,False,train
+Thiram,CN(C)C(=S)SSC(=S)N(C)C,-3.9,,True,train
+Griseofulvin,COC1=CC(=O)CC(C)C12Oc1c(Cl)c(OC)cc(OC)c1C2=O,-3.2460000000000004,O=C1C=CC2(CC1)Oc1ccccc1C2=O,False,train
+1-Decanol,CCCCCCCCCCO,-3.63,,True,train
+"3,3-Dimethylpentane",CCC(C)(C)CC,-4.23,,True,train
+vamidothion,CNC(=O)C(C)SCCSP(=O)(OC)OC,1.144,,True,train
+"2,3,4,5-Tetrachlorophenol",Oc1cc(Cl)c(Cl)c(Cl)c1Cl,-3.15,c1ccccc1,False,train
+Butyraldehyde,CCCC=O,-0.01,,True,train
+dexamethasone acetate,CC(=O)OCC(=O)C1(O)C(C)CC2C3CCC4=CC(=O)C=CC4(C)C3(F)C(O)CC21C,-4.9,O=C1C=CC2C(=C1)CCC1C3CCCC3CCC21,False,train
+Butane,CCCC,-2.57,,True,train
+Fluoromethalone,CC(=O)C1(O)CCC2C3CC(C)C4=CC(=O)C=CC4(C)C3(F)C(O)CC21C,-4.099,O=C1C=CC2C(=C1)CCC1C3CCCC3CCC21,False,train
+Pentachloroethane,ClC(Cl)C(Cl)(Cl)Cl,-2.6,,True,train
+Diethyl phthalate ,CCOC(=O)c1ccccc1C(=O)OCC,-2.35,c1ccccc1,False,train
+2-Methylpropan-1-ol,CC(C)CO,0.1,,True,train
+Isobutylbenzene,CC(C)Cc1ccccc1,-4.12,c1ccccc1,False,train
+Diiodomethane,ICI,-2.34,,True,train
+4-Heptanol,CCCC(O)CCC,-1.4,,True,train
+Pentyl acetate,CCCCCOC(C)=O,-1.89,,True,train
+"2,3,5,6-Tetrachlorophenol",Oc1c(Cl)c(Cl)cc(Cl)c1Cl,-3.37,c1ccccc1,False,train
+Propylbenzene ,CCCc1ccccc1,-3.37,c1ccccc1,False,train
+"1,2-Dichlorotetrafluoroethane",FC(F)(Cl)C(F)(F)Cl,-2.74,,True,train
+2-butenal,CC=CC=O,0.32,,True,train
+tetramethylurea,CN(C)C(=O)N(C)C,0.94,,True,train
+"1,2,4,5-Tetramethylbenzene",Cc1cc(C)c(C)cc1C,-4.59,c1ccccc1,False,train
+norethindrone acetate,C#CC1(OC(C)=O)CCC2C3CCC4=CC(=O)CCC4C3CCC21C,-4.8,O=C1C=C2CCC3C4CCCC4CCC3C2CC1,False,train
+Sulfallate,C=C(Cl)CSC(=S)N(CC)CC,-3.39,,True,train
+Chloroethane,CCCl,-1.06,,True,train
+Mefluidide,CC(=O)Nc1cc(NS(=O)(=O)C(F)(F)F)c(C)cc1C,-3.24,c1ccccc1,False,train
+Piperine,O=C(C=CC=Cc1ccc2c(c1)OCO2)N1CCCCC1,-3.46,O=C(C=CC=Cc1ccc2c(c1)OCO2)N1CCCCC1,False,train
+cis-2-Pentene,C/C=C\CC,-2.54,,True,train
+thiofanox,CNC(=O)ON=C(CSC)C(C)(C)C,-1.62,,True,train
+butacarb,CNC(=O)Oc1cc(C(C)(C)C)cc(C(C)(C)C)c1,-4.24,c1ccccc1,False,train
+Eriodictyol,O=C1CC(c2ccc(O)c(O)c2)Oc2cc(O)cc(O)c21,-3.62,O=C1CC(c2ccccc2)Oc2ccccc21,False,train
+Eicosane,CCCCCCCCCCCCCCCCCCCC,-8.172,,True,train
+hydrazobenzene,c1ccc(NNc2ccccc2)cc1,-2.92,c1ccc(NNc2ccccc2)cc1,False,train
+2-Ethyl-1-butanol,CCC(CC)CO,-1.17,,True,train
+4-hydroxypyridine,Oc1ccncc1,1.02,c1ccncc1,False,train
+"cis 1,2-Dichloroethylene",Cl/C=C\Cl,-1.3,,True,train
+Methylcyclopentane,CC1CCCC1,-3.3,C1CCCC1,False,train
+4-Methyl-2-pentanol,CC(C)CC(C)O,-0.8,,True,train
+"2,2-Dimethylpropanol",CC(C)(C)CO,-0.4,,True,train
+Propylene,C=CC,-1.08,,True,train
+Dichlorophen,Oc1ccc(Cl)cc1Cc1cc(Cl)ccc1O,-3.953,c1ccc(Cc2ccccc2)cc1,False,train
+Anthraquinone,O=C1c2ccccc2C(=O)c2ccccc21,-5.19,O=C1c2ccccc2C(=O)c2ccccc21,False,train
+2-Octanol,CCCCCCC(C)O,-2.09,,True,train
+Butylbenzene,CCCCc1ccccc1,-4.06,c1ccccc1,False,train
+Abate,COP(=S)(OC)Oc1ccc(Sc2ccc(OP(=S)(OC)OC)cc2)cc1,-6.237,c1ccc(Sc2ccccc2)cc1,False,train
+Isobutyl acetate,CC(=O)OCC(C)C,-1.21,,True,train
+"2,2,3-Trimethylbutane",CC(C)C(C)(C)C,-4.36,,True,train
+"2,3,3',4,4'6-PCB",Clc1ccc(-c2c(Cl)cc(Cl)c(Cl)c2Cl)c(Cl)c1Cl,-7.66,c1ccc(-c2ccccc2)cc1,False,train
+Phthalonitrile,N#Cc1ccccc1C#N,-2.38,c1ccccc1,False,train
+m-Nitrotoluene,Cc1cccc([N+](=O)[O-])c1,-2.44,c1ccccc1,False,train
+halothane,FC(F)(F)C(Cl)Br,-1.71,,True,train
+Oxamyl,CNC(=O)ON=C(SC)C(=O)N(C)C,0.106,,True,train
+Thiometon,CCSCCSP(=S)(OC)OC,-3.091,,True,train
+2-Methylbutane,CCC(C)C,-3.18,,True,train
+Stirofos,COP(=O)(OC)OC(=CCl)c1cc(Cl)c(Cl)cc1Cl,-4.522,c1ccccc1,False,train

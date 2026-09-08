@@ -1,0 +1,25 @@
+======================================================================
+CURATION START
+======================================================================
+Raw rows: 1128
+
+======================================================================
+CURATION SUMMARY
+======================================================================
+Raw records:                1128
+Final curated structures:   1116
+
+Curation actions:
+curation_action
+unique_keep             1106
+duplicate_aggregated      10
+Name: count, dtype: int64
+
+Conflicting source records excluded: 2
+
+Unique canonical structures: 1116
+
+Saved:
+  data/processed/esol_curated.csv
+  reports/curation_log.csv
+  reports/conflicting_duplicates.csv

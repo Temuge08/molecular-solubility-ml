@@ -1,0 +1,114 @@
+compound_ids,canonical_smiles,measured_logS,scaffold,is_acyclic_scaffold,split
+Thiophene,c1ccsc1,-1.33,c1ccsc1,False,test
+Rotenone,C=C(C)C1Cc2c(ccc3c2OC2COc4cc(OC)c(OC)cc4C2C3=O)O1,-4.42,O=C1c2ccc3c(c2OC2COc4ccccc4C12)CCO3,False,test
+2-pyrrolidone,O=C1CCCN1,1.07,O=C1CCCN1,False,test
+"P,P'-DDE",ClC(Cl)=C(c1ccc(Cl)cc1)c1ccc(Cl)cc1,-6.9,C=C(c1ccccc1)c1ccccc1,False,test
+1-Methylfluorene,Cc1cccc2c1Cc1ccccc1-2,-5.22,c1ccc2c(c1)Cc1ccccc1-2,False,test
+Piperophos,CCCOP(=S)(OCCC)SCC(=O)N1CCCCC1C,-4.15,C1CCNCC1,False,test
+"2,7-dimethylquinoline",Cc1ccc2ccc(C)nc2c1,-1.94,c1ccc2ncccc2c1,False,test
+Benznidazole,O=C(Cn1ccnc1[N+](=O)[O-])NCc1ccccc1,-2.81,O=C(Cn1ccnc1)NCc1ccccc1,False,test
+"Atovaquone(0,430mg/ml) - neutral",O=C1C(O)=C(C2CCC(c3ccc(Cl)cc3)CC2)C(=O)c2ccccc21,-5.931,O=C1C=C(C2CCC(c3ccccc3)CC2)C(=O)c2ccccc21,False,test
+nitrofurantoin,O=C1CN(N=Cc2ccc([N+](=O)[O-])o2)C(=O)N1,-3.38,O=C1CN(N=Cc2ccco2)C(=O)N1,False,test
+Menthone,CC1CCC(C(C)C)C(=O)C1,-2.35,O=C1CCCCC1,False,test
+Fluoranthene,c1ccc2c(c1)-c1cccc3cccc-2c13,-6.0,c1ccc2c(c1)-c1cccc3cccc-2c13,False,test
+styrene oxide,c1ccc(C2CO2)cc1,-1.6,c1ccc(C2CO2)cc1,False,test
+Niclosamide,O=C(Nc1ccc([N+](=O)[O-])cc1Cl)c1cc(Cl)ccc1O,-4.7,O=C(Nc1ccccc1)c1ccccc1,False,test
+Cyclopropyl-5-spirobarbituric acid,O=C1NC(=O)C2(CC2)C(=O)N1,-1.886,O=C1NC(=O)C2(CC2)C(=O)N1,False,test
+Tricresyl phosphate,Cc1ccc(OP(=O)(Oc2cccc(C)c2)Oc2ccccc2C)cc1,-6.01,O=P(Oc1ccccc1)(Oc1ccccc1)Oc1ccccc1,False,test
+cycloheximide,CC1CC(C)C(=O)C(C(O)CC2CC(=O)NC(=O)C2)C1,-1.13,O=C1CC(CCC2CCCCC2=O)CC(=O)N1,False,test
+isophorone,CC1=CC(=O)CC(C)(C)C1,-1.06,O=C1C=CCCC1,False,test
+Methaqualone,Cc1ccccc1-n1c(C)nc2ccccc2c1=O,-2.925,O=c1c2ccccc2ncn1-c1ccccc1,False,test
+Diosgenin,CC1COC2CC3(C)C(CC4C5C=C6CC(O)CCC6(C)CC5CCC43C)OC2C1,-7.32,C1=C2CCCCC2CC2CCC3C4CC5OCCCC5OC4CC3C12,False,test
+6-hydroxyquinoline,Oc1ccc2ncccc2c1,-2.16,c1ccc2ncccc2c1,False,test
+Carvone,C=C(C)C1CC=C(C)C(=O)C1,-2.06,O=C1C=CCCC1,False,test
+Isazofos,CCOP(=S)(OCC)Oc1nc(Cl)n(C(C)C)n1,-3.658,c1nc[nH]n1,False,test
+Cyclohexanone,O=C1CCCCC1,-0.6,O=C1CCCCC1,False,test
+Bibenzyl ,c1ccc(CCc2ccccc2)cc1,-4.62,c1ccc(CCc2ccccc2)cc1,False,test
+2-Methylphenanthrene,Cc1ccc2c(ccc3ccccc32)c1,-5.84,c1ccc2c(c1)ccc1ccccc12,False,test
+Equilin,CC12CCC3C(=CCc4cc(O)ccc43)C1CCC2=O,-5.282,O=C1CCC2C3=CCc4ccccc4C3CCC12,False,test
+Cyclooctanol,OC1CCCCCCC1,-1.29,C1CCCCCCC1,False,test
+Ancymidol,COc1ccc(C(O)(c2cncnc2)C2CC2)cc1,-2.596,c1ccc(C(c2cncnc2)C2CC2)cc1,False,test
+Carbanilide,O=C(Nc1ccccc1)Nc1ccccc1,-3.15,O=C(Nc1ccccc1)Nc1ccccc1,False,test
+Cycloheptane,C1CCCCCC1,-3.51,C1CCCCCC1,False,test
+Dibenzofurane,c1ccc2c(c1)oc1ccccc12,-4.6,c1ccc2c(c1)oc1ccccc12,False,test
+Reposal,CCC1(C2=CCC3CCC2C3)C(=O)NC(=O)NC1=O,-2.696,O=C1NC(=O)C(C2=CCC3CCC2C3)C(=O)N1,False,test
+Hexestrol,CCC(c1ccc(O)cc1)C(CC)c1ccc(O)cc1,-4.43,c1ccc(CCc2ccccc2)cc1,False,test
+Buthidazole,CN1CC(O)N(c2nnc(C(C)(C)C)s2)C1=O,-1.877,O=C1NCCN1c1nncs1,False,test
+Amitraz,Cc1ccc(N=CN(C)C=Nc2ccc(C)cc2C)c(C)c1,-5.47,C(=Nc1ccccc1)NC=Nc1ccccc1,False,test
+aminothiazole,Nc1nccs1,-0.36,c1cscn1,False,test
+Mefenacet,CN(C(=O)COc1nc2ccccc2s1)c1ccccc1,-4.873,O=C(COc1nc2ccccc2s1)Nc1ccccc1,False,test
+5-hydroxyquinoline,Oc1cccc2ncccc12,-2.54,c1ccc2ncccc2c1,False,test
+Cycloheptanol,OC1CCCCCC1,-0.88,C1CCCCCC1,False,test
+acetazolamide,CC(=O)Nc1nnc(S(N)(=O)=O)s1,-2.36,c1nncs1,False,test
+Aldrin,ClC1=C(Cl)C2(Cl)C3C4C=CC(C4)C3C1(Cl)C2(Cl)Cl,-6.307,C1=CC2CC1C1C3C=CC(C3)C21,False,test
+rhodanine,O=C1CSC(=S)N1,-1.77,O=C1CSC(=S)N1,False,test
+Kepone,O=C1C2(Cl)C3(Cl)C4(Cl)C(Cl)(Cl)C5(Cl)C3(Cl)C1(Cl)C5(Cl)C24Cl,-5.259,O=C1C2C3C4CC5C3C1C5C42,False,test
+Lactose,OCC1OC(OC2C(CO)OC(O)C(O)C2O)C(O)C(O)C1O,-0.244,C1CCC(OC2CCCOC2)OC1,False,test
+Glafenine,O=C(OCC(O)CO)c1ccccc1Nc1ccnc2cc(Cl)ccc12,-4.571000000000001,c1ccc(Nc2ccnc3ccccc23)cc1,False,test
+Tetrafluthrin,Cc1c(F)c(F)c(COC(=O)C2C(C=C(Cl)C(F)(F)F)C2(C)C)c(F)c1F,-7.321000000000001,O=C(OCc1ccccc1)C1CC1,False,test
+Amitrole,Nc1nc[nH]n1,0.522,c1nc[nH]n1,False,test
+Minoxidil,Nc1cc(N2CCCCC2)nc(N)[n+]1[O-],-1.989,c1cc(N2CCCCC2)nc[nH+]1,False,test
+Methazole,Cn1c(=O)on(-c2ccc(Cl)c(Cl)c2)c1=O,-2.82,O=c1[nH]c(=O)n(-c2ccccc2)o1,False,test
+Fluorene ,c1ccc2c(c1)Cc1ccccc1-2,-5.0,c1ccc2c(c1)Cc1ccccc1-2,False,test
+ampyrone,Cc1c(N)c(=O)n(-c2ccccc2)n1C,-0.624,O=c1cc[nH]n1-c1ccccc1,False,test
+"Digoxin (L1=41,8mg/mL, L2=68,2mg/mL, Z=40,1mg/mL)",CC1OC(OC2C(O)CC(OC3C(O)CC(OC4CCC5(C)C(CCC6C5CC(O)C5(C)C(C7=CC(=O)OC7)CCC65O)C4)OC3C)OC2C)CC(O)C1O,-4.081,O=C1C=C(C2CCC3C2CCC2C4CCC(OC5CCC(OC6CCC(OC7CCCCO7)CO6)CO5)CC4CCC23)CO1,False,test
+hydrobenzoin,OC(c1ccccc1)C(O)c1ccccc1,-1.93,c1ccc(CCc2ccccc2)cc1,False,test
+Ethirimol,CCCCc1c(C)nc(NCC)[nH]c1=O,-3.028,O=c1ccnc[nH]1,False,test
+p-terphenyl,c1ccc(-c2ccc(-c3ccccc3)cc2)cc1,-7.11,c1ccc(-c2ccc(-c3ccccc3)cc2)cc1,False,test
+benodanil,O=C(Nc1ccccc1)c1ccccc1I,-4.21,O=C(Nc1ccccc1)c1ccccc1,False,test
+Riboflavin,Cc1cc2nc3c(=O)[nH]c(=O)nc-3n(CC(O)C(O)C(O)CO)c2cc1C,-3.685,O=c1nc2[nH]c3ccccc3nc-2c(=O)[nH]1,False,test
+Methoxsalen,COc1c2occc2cc2ccc(=O)oc12,-3.664,O=c1ccc2cc3ccoc3cc2o1,False,test
+Menadione,CC1=CC(=O)c2ccccc2C1=O,-3.03,O=C1C=CC(=O)c2ccccc21,False,test
+Phenanthrene,c1ccc2c(c1)ccc1ccccc12,-5.26,c1ccc2c(c1)ccc1ccccc12,False,test
+triforine,O=CNC(N1C=CN(C(NC=O)C(Cl)(Cl)Cl)C=C1)C(Cl)(Cl)Cl,-4.19,C1=CNC=CN1,False,test
+RTI 17,CCN1c2ccccc2N(C)C(=S)c2cccnc21,-4.706,S=C1Nc2ccccc2Nc2ncccc21,False,test
+hydrochlorothiazide,NS(=O)(=O)c1cc2c(cc1Cl)NCNS2(=O)=O,-2.63,O=S1(=O)NCNc2ccccc21,False,test
+Benzo(a)pyrene,c1ccc2c(c1)cc1ccc3cccc4ccc2c1c34,-8.699,c1ccc2c(c1)cc1ccc3cccc4ccc2c1c34,False,test
+Digitoxin,CC1OC(OC2C(O)CC(OC3C(O)CC(OC4CCC5(C)C(CCC6C5CCC5(C)C(C7=CC(=O)OC7)CCC65O)C4)OC3C)OC2C)CC(O)C1O,-5.292999999999999,O=C1C=C(C2CCC3C2CCC2C4CCC(OC5CCC(OC6CCC(OC7CCCCO7)CO6)CO5)CC4CCC23)CO1,False,test
+8-quinolinol,Oc1cccc2cccnc12,-2.42,c1ccc2ncccc2c1,False,test
+phenolphthalein,O=C1OC(c2ccc(O)cc2)(c2ccc(O)cc2)c2ccccc21,-2.9,O=C1OC(c2ccccc2)(c2ccccc2)c2ccccc21,False,test
+Quinoline,c1ccc2ncccc2c1,-1.3,c1ccc2ncccc2c1,False,test
+fluconazole,OC(Cn1cncn1)(Cn1cncn1)c1ccc(F)cc1F,-1.8,c1ccc(C(Cn2cncn2)Cn2cncn2)cc1,False,test
+Prasterone,CC12CCC3C(CC=C4CC(O)CCC43C)C1CCC2=O,-4.12,O=C1CCC2C1CCC1C3CCCCC3=CCC21,False,test
+Benzo[ghi]perylene,c1cc2ccc3ccc4ccc5cccc6c(c1)c2c3c4c56,-9.018,c1cc2ccc3ccc4ccc5cccc6c(c1)c2c3c4c56,False,test
+Antipyrene,Cc1cc(=O)n(-c2ccccc2)n1C,0.715,O=c1cc[nH]n1-c1ccccc1,False,test
+Norea,CN(C)C(=O)NC1CC2CC1C1CCCC21,-3.1710000000000003,C1CC2C3CCC(C3)C2C1,False,test
+allopurinol,O=c1[nH]cnc2[nH]ncc12,-2.266,O=c1[nH]cnc2[nH]ncc12,False,test
+Trimazosin,COc1cc2c(N)nc(N3CCN(C(=O)OCC(C)(C)O)CC3)nc2c(OC)c1OC,-3.638,c1ccc2nc(N3CCNCC3)ncc2c1,False,test
+Cholanthrene,c1cc2c3c(c4ccc5ccccc5c4cc3c1)CC2,-7.85,c1cc2c3c(c4ccc5ccccc5c4cc3c1)CC2,False,test
+Trichlomethiazide,NS(=O)(=O)c1cc2c(cc1Cl)NC(C(Cl)Cl)NS2(=O)=O,-2.68,O=S1(=O)NCNc2ccccc21,False,test
+Cyclooctane,C1CCCCCCC1,-4.15,C1CCCCCCC1,False,test
+thiouracil,O=c1ccnc(S)[nH]1,-2.273,O=c1ccnc[nH]1,False,test
+Benzo(j)fluoranthene,c1ccc2c3c(ccc2c1)-c1cccc2cccc-3c12,-8.0,c1ccc2c3c(ccc2c1)-c1cccc2cccc-3c12,False,test
+hydroxychlordene,OC1C=CC2C1C1(Cl)C(Cl)=C(Cl)C2(Cl)C1(Cl)Cl,-5.46,C1=CC2C3C=CC(C3)C2C1,False,test
+Chlordene,ClC1=C(Cl)C2(Cl)C3CC=CC3C1(Cl)C2(Cl)Cl,-5.64,C1=CC2C3C=CC(C3)C2C1,False,test
+Carbazole,c1ccc2c(c1)[nH]c1ccccc12,-5.27,c1ccc2c(c1)[nH]c1ccccc12,False,test
+RTI 9,CCN1C(=O)c2ccccc2Oc2ccccc21,-3.68,O=C1Nc2ccccc2Oc2ccccc21,False,test
+3-Methylcholanthrene,Cc1ccc2c(ccc3c4c5c(cccc5cc32)CC4)c1,-7.92,c1cc2c3c(c4ccc5ccccc5c4cc3c1)CC2,False,test
+Napthacene,c1ccc2cc3cc4ccccc4cc3cc2c1,-8.6,c1ccc2cc3cc4ccccc4cc3cc2c1,False,test
+Cyclohexyl-5-spirobarbituric acid,O=C1NC(=O)C2(CCCCC2)C(=O)N1,-3.06,O=C1NC(=O)C2(CCCCC2)C(=O)N1,False,test
+dimetan,CN(C)C(=O)OC1=CC(=O)CC(C)(C)C1,-0.85,O=C1C=CCCC1,False,test
+Bendroflumethiazide,NS(=O)(=O)c1cc2c(cc1C(F)(F)F)NC(Cc1ccccc1)NS2(=O)=O,-3.59,O=S1(=O)NC(Cc2ccccc2)Nc2ccccc21,False,test
+Flumetralin,CCN(Cc1c(F)cccc1Cl)c1c([N+](=O)[O-])cc(C(F)(F)F)cc1[N+](=O)[O-],-6.78,c1ccc(CNc2ccccc2)cc1,False,test
+Heptachlor,ClC1=C(Cl)C2(Cl)C3C(Cl)C=CC3C1(Cl)C2(Cl)Cl,-6.317,C1=CC2C3C=CC(C3)C2C1,False,test
+indazole,c1ccc2[nH]ncc2c1,-2.16,c1ccc2[nH]ncc2c1,False,test
+triamcinolone acetonide,CC1(C)OC2CC3C4CCC5=CC(=O)C=CC5(C)C4(F)C(O)CC3(C)C2(C(=O)CO)O1,-4.31,O=C1C=CC2C(=C1)CCC1C2CCC2C1CC1OCOC12,False,test
+norbormide,O=C1NC(=O)C2C3C(C(O)(c4ccccc4)c4ccccn4)=CC(C3=C(c3ccccc3)c3ccccn3)C12,-3.931,O=C1NC(=O)C2C3C(C(c4ccccc4)c4ccccn4)=CC(C3=C(c3ccccc3)c3ccccn3)C12,False,test
+Androstenedione,CC12CCC3C(CCC4=CC(=O)CCC43C)C1CCC2=O,-3.69,O=C1C=C2CCC3C4CCC(=O)C4CCC3C2CC1,False,test
+Xipamide,Cc1cccc(C)c1NC(=O)c1cc(S(N)(=O)=O)c(Cl)cc1O,-3.79,O=C(Nc1ccccc1)c1ccccc1,False,test
+"1,4-Cyclohexadiene",C1=CCC=CC1,-2.06,C1=CCC=CC1,False,test
+Thalidomide,O=C1CCC(N2C(=O)c3ccccc3C2=O)C(=O)N1,-2.676,O=C1CCC(N2C(=O)c3ccccc3C2=O)C(=O)N1,False,test
+Cycluron,CN(C)C(=O)NC1CCCCCCC1,-2.218,C1CCCCCCC1,False,test
+aminopyrine,Cc1c(N(C)C)c(=O)n(-c2ccccc2)n1C,-0.364,O=c1cc[nH]n1-c1ccccc1,False,test
+Benzo(a)fluorene,c1ccc2c(c1)Cc1c-2ccc2ccccc12,-6.68,c1ccc2c(c1)Cc1c-2ccc2ccccc12,False,test
+Quinonamid,O=C(CC(Cl)Cl)NC1=C(Cl)C(=O)c2ccccc2C1=O,-5.03,O=C1C=CC(=O)c2ccccc21,False,test
+Azobenzene,c1ccc(N=Nc2ccccc2)cc1,-4.45,c1ccc(N=Nc2ccccc2)cc1,False,test
+Epitostanol,CC12CCC3C(CCC4CC5SC5CC43C)C1CCC2O,-5.41,C1CC2CCC3C4CC5SC5CC4CCC3C2C1,False,test
+RTI 20,O=C1c2ccccc2Cc2ccccc2N1CCF,-4.799,O=C1Nc2ccccc2Cc2ccccc21,False,test
+1-Methylphenanthrene,Cc1cccc2c1ccc1ccccc12,-5.85,c1ccc2c(c1)ccc1ccccc12,False,test
+salicylanilide,O=C(Nc1ccccc1)c1ccccc1O,-3.59,O=C(Nc1ccccc1)c1ccccc1,False,test
+RTI 11,Cc1ccc2c(c1)C(=O)N(C)c1cc(N)ccc1O2,-3.928,O=C1Nc2ccccc2Oc2ccccc21,False,test
+Triadimefon,CC(C)(C)C(=O)C(Oc1ccc(Cl)cc1)n1cncn1,-3.61,c1ccc(OCn2cncn2)cc1,False,test
+Isocarboxazid,Cc1cc(C(=O)NNCc2ccccc2)no1,-2.461,O=C(NNCc1ccccc1)c1ccon1,False,test
+Oxycarboxin,CC1=C(C(=O)Nc2ccccc2)S(=O)(=O)CCO1,-2.281,O=C(Nc1ccccc1)C1=COCCS1(=O)=O,False,test
+Chlorthalidone,NS(=O)(=O)c1cc(C2(O)NC(=O)c3ccccc32)ccc1Cl,-3.451,O=C1NC(c2ccccc2)c2ccccc21,False,test

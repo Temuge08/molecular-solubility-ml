@@ -1,0 +1,23 @@
+compound_id,smiles,canonical_smiles,measured_logS
+Amobarbital,CCC1(CCC(C)C)C(=O)NC(=O)NC1=O,CCC1(CCC(C)C)C(=O)NC(=O)NC1=O,-2.468
+eucalyptol,CC12CCC(CC1)C(C)(C)O2 ,CC12CCC(CC1)C(C)(C)O2,-1.64
+2-bromonaphthalene,c1c(Br)ccc2ccccc12 ,Brc1ccc2ccccc2c1,-4.4
+Epiandrosterone,CC34CCC1C(CCC2CC(O)CCC12C)C3CCC4=O,CC12CCC3C(CCC4CC(O)CCC43C)C1CCC2=O,-4.16
+mannitol,OCC(O)C(O)C(O)C(O)CO ,OCC(O)C(O)C(O)C(O)CO,0.06
+Dialifor,CCOP(=S)(OCC)SC(CCl)N1C(=O)c2ccccc2C1=O,CCOP(=S)(OCC)SC(CCl)N1C(=O)c2ccccc2C1=O,-6.34
+Sorbitol,OCC(O)C(O)C(O)C(O)CO,OCC(O)C(O)C(O)C(O)CO,1.09
+phenobarbital,CCC1(C(=O)NC(=O)NC1=O)c2ccccc2 ,CCC1(c2ccccc2)C(=O)NC(=O)NC1=O,-2.322
+DDD,ClC(Cl)C(c1ccc(Cl)cc1)c2ccc(Cl)cc2,Clc1ccc(C(c2ccc(Cl)cc2)C(Cl)Cl)cc1,-7.2
+5-Ethyl-5-phenylbarbital,O=C1NC(=O)NC(=O)C1(CC)c1ccccc1,CCC1(c2ccccc2)C(=O)NC(=O)NC1=O,-2.322
+Dialifos,CCOP(=S)(OCC)SC(CCl)N2C(=O)c1ccccc1C2=O,CCOP(=S)(OCC)SC(CCl)N1C(=O)c2ccccc2C1=O,-6.34
+2-Bromonapthalene,Brc1ccc2ccccc2c1,Brc1ccc2ccccc2c1,-4.4
+Androsterone,CC12CCC(O)CC1CCC3C2CCC4(C)C3CCC4=O,CC12CCC3C(CCC4CC(O)CCC43C)C1CCC2=O,-4.402
+Guaiacol,COc1ccccc1O ,COc1ccccc1O,-1.96
+probarbital,CCC1(C(C)C)C(=O)NC(=O)NC1=O ,CCC1(C(C)C)C(=O)NC(=O)NC1=O,-2.21
+Metronidazole,Cc1ncc(N(=O)=O)n1CCO,Cc1ncc([N+](=O)[O-])n1CCO,-1.22
+5-Ethyl-5-(3-methylbutyl)barbital,O=C1NC(=O)NC(=O)C1(CC)CCC(C)C,CCC1(CCC(C)C)C(=O)NC(=O)NC1=O,-2.658
+Metranidazole,Cc1ncc(N(=O)=O)n1CCO ,Cc1ncc([N+](=O)[O-])n1CCO,-1.26
+5-Ethyl-5-isopropylbarbituric acid,O=C1NC(=O)NC(=O)C1(CC)C(C)C,CCC1(C(C)C)C(=O)NC(=O)NC1=O,-2.148
+"1,8-Cineole",CC12CCC(CC1)C(C)(C)O2,CC12CCC(CC1)C(C)(C)O2,-1.74
+"P,P'-DDD",ClC(Cl)C(c1ccc(Cl)cc1)c2ccc(Cl)cc2 ,Clc1ccc(C(c2ccc(Cl)cc2)C(Cl)Cl)cc1,-7.2
+o-Methoxyphenol,COc1ccccc1O,COc1ccccc1O,-1.96

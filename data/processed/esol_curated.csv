@@ -1,0 +1,1117 @@
+compound_ids,original_smiles,canonical_smiles,measured_logS,replicate_n,replicate_std,replicate_range,curation_action
+Amigdalin,OCC3OC(OCC2OC(OC(C#N)c1ccccc1)C(O)C(O)C2O)C(O)C(O)C3O ,N#CC(OC1OC(COC2OC(CO)C(O)C(O)C2O)C(O)C(O)C1O)c1ccccc1,-0.77,1,,0.0,unique_keep
+Fenfuram,Cc1occc1C(=O)Nc2ccccc2,Cc1occc1C(=O)Nc1ccccc1,-3.3,1,,0.0,unique_keep
+citral,CC(C)=CCCC(C)=CC(=O),CC(C)=CCCC(C)=CC=O,-2.06,1,,0.0,unique_keep
+Picene,c1ccc2c(c1)ccc3c2ccc4c5ccccc5ccc43,c1ccc2c(c1)ccc1c2ccc2c3ccccc3ccc21,-7.87,1,,0.0,unique_keep
+Thiophene,c1ccsc1,c1ccsc1,-1.33,1,,0.0,unique_keep
+benzothiazole,c2ccc1scnc1c2 ,c1ccc2scnc2c1,-1.5,1,,0.0,unique_keep
+"2,2,4,6,6'-PCB",Clc1cc(Cl)c(c(Cl)c1)c2c(Cl)cccc2Cl,Clc1cc(Cl)c(-c2c(Cl)cccc2Cl)c(Cl)c1,-7.32,1,,0.0,unique_keep
+Estradiol,CC12CCC3C(CCc4cc(O)ccc34)C2CCC1O,CC12CCC3c4ccc(O)cc4CCC3C1CCC2O,-5.03,1,,0.0,unique_keep
+Dieldrin,ClC4=C(Cl)C5(Cl)C3C1CC(C2OC12)C3C4(Cl)C5(Cl)Cl,ClC1=C(Cl)C2(Cl)C3C4CC(C5OC45)C3C1(Cl)C2(Cl)Cl,-6.29,1,,0.0,unique_keep
+Rotenone,COc5cc4OCC3Oc2c1CC(Oc1ccc2C(=O)C3c4cc5OC)C(C)=C ,C=C(C)C1Cc2c(ccc3c2OC2COc4cc(OC)c(OC)cc4C2C3=O)O1,-4.42,1,,0.0,unique_keep
+2-pyrrolidone,O=C1CCCN1,O=C1CCCN1,1.07,1,,0.0,unique_keep
+2-Chloronapthalene,Clc1ccc2ccccc2c1,Clc1ccc2ccccc2c1,-4.14,1,,0.0,unique_keep
+1-Pentene ,CCCC=C,C=CCCC,-2.68,1,,0.0,unique_keep
+Primidone,CCC1(C(=O)NCNC1=O)c2ccccc2,CCC1(c2ccccc2)C(=O)NCNC1=O,-2.64,1,,0.0,unique_keep
+Tetradecane,CCCCCCCCCCCCCC,CCCCCCCCCCCCCC,-7.96,1,,0.0,unique_keep
+2-Chloropropane,CC(C)Cl,CC(C)Cl,-1.41,1,,0.0,unique_keep
+2-Methylbutanol,CCC(C)CO,CCC(C)CO,-0.47,1,,0.0,unique_keep
+Benzonitrile,N#Cc1ccccc1,N#Cc1ccccc1,-1.0,1,,0.0,unique_keep
+Diazinon,CCOP(=S)(OCC)Oc1cc(C)nc(n1)C(C)C,CCOP(=S)(OCC)Oc1cc(C)nc(C(C)C)n1,-3.64,1,,0.0,unique_keep
+2-Undecanol,CCCCCCCCCC(C)O,CCCCCCCCCC(C)O,-2.94,1,,0.0,unique_keep
+"2,2',3,4,6-PCB",Clc1ccc(c(Cl)c1)c2c(Cl)ccc(Cl)c2Cl ,Clc1ccc(-c2c(Cl)ccc(Cl)c2Cl)c(Cl)c1,-7.43,1,,0.0,unique_keep
+Lenacil,O=c2[nH]c1CCCc1c(=O)n2C3CCCCC3,O=c1[nH]c2c(c(=O)n1C1CCCCC1)CCC2,-4.593999999999999,1,,0.0,unique_keep
+Phorate,CCOP(=S)(OCC)SCSCC,CCOP(=S)(OCC)SCSCC,-4.11,1,,0.0,unique_keep
+Phenacetin,CCOc1ccc(NC(=O)C)cc1,CCOc1ccc(NC(C)=O)cc1,-2.35,1,,0.0,unique_keep
+Dinitramine,CCN(CC)c1c(cc(c(N)c1N(=O)=O)C(F)(F)F)N(=O)=O,CCN(CC)c1c([N+](=O)[O-])cc(C(F)(F)F)c(N)c1[N+](=O)[O-],-5.47,1,,0.0,unique_keep
+1-Heptanol,CCCCCCCO,CCCCCCCO,-1.81,1,,0.0,unique_keep
+Theophylline,Cn1c(=O)n(C)c2nc[nH]c2c1=O,Cn1c(=O)c2[nH]cnc2n(C)c1=O,-1.39,1,,0.0,unique_keep
+Butethal,CCCCC1(CC)C(=O)NC(=O)NC1=O,CCCCC1(CC)C(=O)NC(=O)NC1=O,-1.661,1,,0.0,unique_keep
+"P,P'-DDE",ClC(Cl)=C(c1ccc(Cl)cc1)c2ccc(Cl)cc2,ClC(Cl)=C(c1ccc(Cl)cc1)c1ccc(Cl)cc1,-6.9,1,,0.0,unique_keep
+Methyl octanoate,CCCCCCCC(=O)OC,CCCCCCCC(=O)OC,-3.17,1,,0.0,unique_keep
+"1,4-Diethylbenzene ",CCc1ccc(CC)cc1,CCc1ccc(CC)cc1,-3.75,1,,0.0,unique_keep
+Terbufos,CCOP(=S)(OCC)SCSC(C)(C)C,CCOP(=S)(OCC)SCSC(C)(C)C,-4.755,1,,0.0,unique_keep
+Phenmedipham,COC(=O)Nc1cccc(OC(=O)Nc2cccc(C)c2)c1,COC(=O)Nc1cccc(OC(=O)Nc2cccc(C)c2)c1,-4.805,1,,0.0,unique_keep
+"1,1-Dichloroethylene",ClC(=C)Cl,C=C(Cl)Cl,-1.64,1,,0.0,unique_keep
+1-Methylfluorene,Cc1cccc2c1Cc3ccccc32,Cc1cccc2c1Cc1ccccc1-2,-5.22,1,,0.0,unique_keep
+Valeraldehyde,CCCCC=O,CCCCC=O,-0.85,1,,0.0,unique_keep
+Diphenylamine,N(c1ccccc1)c2ccccc2,c1ccc(Nc2ccccc2)cc1,-3.504,1,,0.0,unique_keep
+Fenothiocarb,CN(C)C(=O)SCCCCOc1ccccc1,CN(C)C(=O)SCCCCOc1ccccc1,-3.927,1,,0.0,unique_keep
+Piperophos,CCCOP(=S)(OCCC)SCC(=O)N1CCCCC1C,CCCOP(=S)(OCCC)SCC(=O)N1CCCCC1C,-4.15,1,,0.0,unique_keep
+1-Iodoheptane,CCCCCCCI,CCCCCCCI,-4.81,1,,0.0,unique_keep
+3-Chlorobiphenyl,c1c(Cl)cccc1c2ccccc2,Clc1cccc(-c2ccccc2)c1,-4.88,1,,0.0,unique_keep
+4-Pentene-1-ol,OCCCC=C,C=CCCCO,-0.15,1,,0.0,unique_keep
+Cyclobutyl-5-spirobarbituric acid,O=C2NC(=O)C1(CCC1)C(=O)N2,O=C1NC(=O)C2(CCC2)C(=O)N1,-1.655,1,,0.0,unique_keep
+menthol,CC(C)C1CCC(C)CC1O ,CC1CCC(C(C)C)C(O)C1,-2.53,1,,0.0,unique_keep
+Isopropyl formate,CC(C)OC=O,CC(C)OC=O,-0.63,1,,0.0,unique_keep
+2-Heptanol ,CCCCCC(C)O,CCCCCC(C)O,-1.55,1,,0.0,unique_keep
+p-Bromoacetanilide,CC(=O)Nc1ccc(Br)cc1,CC(=O)Nc1ccc(Br)cc1,-3.083,1,,0.0,unique_keep
+brompyrazone,c1ccccc1n2ncc(N)c(Br)c2(=O),Nc1cnn(-c2ccccc2)c(=O)c1Br,-3.127,1,,0.0,unique_keep
+nifedipine,COC(=O)C1=C(C)NC(=C(C1c2ccccc2N(=O)=O)C(=O)OC)C ,COC(=O)C1=C(C)NC(C)=C(C(=O)OC)C1c1ccccc1[N+](=O)[O-],-4.76,1,,0.0,unique_keep
+"2,7-dimethylquinoline",c2c(C)cc1nc(C)ccc1c2 ,Cc1ccc2ccc(C)nc2c1,-1.94,1,,0.0,unique_keep
+1-Octyne ,CCCCCCC#C,C#CCCCCCC,-3.66,1,,0.0,unique_keep
+cyclobarbital,CCC1(C(=O)NC(=O)NC1=O)C2=CCCCC2 ,CCC1(C2=CCCCC2)C(=O)NC(=O)NC1=O,-2.17,1,,0.0,unique_keep
+Chrysene,c1ccc2c(c1)ccc3c4ccccc4ccc23,c1ccc2c(c1)ccc1c3ccccc3ccc21,-8.057,1,,0.0,unique_keep
+Bromacil,CCC(C)n1c(=O)[nH]c(C)c(Br)c1=O ,CCC(C)n1c(=O)[nH]c(C)c(Br)c1=O,-2.523,1,,0.0,unique_keep
+"2,2',3,3',5,6-PCB",Clc1cccc(c1Cl)c2c(Cl)c(Cl)cc(Cl)c2Cl ,Clc1cccc(-c2c(Cl)c(Cl)cc(Cl)c2Cl)c1Cl,-8.6,1,,0.0,unique_keep
+2-Methylphenol,Cc1ccccc1O,Cc1ccccc1O,-0.62,1,,0.0,unique_keep
+"2,2,5-Trimethylhexane",CC(C)CCC(C)(C)C,CC(C)CCC(C)(C)C,-5.05,1,,0.0,unique_keep
+"1,4-Dimethylnaphthalene ",Cc1ccc(C)c2ccccc12,Cc1ccc(C)c2ccccc12,-4.14,1,,0.0,unique_keep
+6-Methylchrysene,Cc1cc2c3ccccc3ccc2c4ccccc14,Cc1cc2c3ccccc3ccc2c2ccccc12,-6.57,1,,0.0,unique_keep
+2-Pentanone,CCCC(=O)C,CCCC(C)=O,-0.19,1,,0.0,unique_keep
+"2,2',3,3',5,5',6,6'-PCB",Clc1cc(Cl)c(Cl)c(c1Cl)c2c(Cl)c(Cl)cc(Cl)c2Cl ,Clc1cc(Cl)c(Cl)c(-c2c(Cl)c(Cl)cc(Cl)c2Cl)c1Cl,-9.15,1,,0.0,unique_keep
+Methyl butyrate,CCCOC(=O)CC,CCCOC(=O)CC,-0.82,1,,0.0,unique_keep
+Triamcinolone,CC34CC(O)C1(F)C(CCC2=CC(=O)C=CC12C)C3CC(O)C4(O)C(=O)CO,CC12C=CC(=O)C=C1CCC1C3CC(O)C(O)(C(=O)CO)C3(C)CC(O)C12F,-3.68,1,,0.0,unique_keep
+p-Aminophenol,Nc1ccc(O)cc1,Nc1ccc(O)cc1,-0.8,1,,0.0,unique_keep
+Benznidazole,O=C(Cn1ccnc1N(=O)=O)NCc2ccccc2,O=C(Cn1ccnc1[N+](=O)[O-])NCc1ccccc1,-2.81,1,,0.0,unique_keep
+"Atovaquone(0,430mg/ml) - neutral",OC4=C(C1CCC(CC1)c2ccc(Cl)cc2)C(=O)c3ccccc3C4=O,O=C1C(O)=C(C2CCC(c3ccc(Cl)cc3)CC2)C(=O)c2ccccc21,-5.931,1,,0.0,unique_keep
+Trietazine,CCNc1nc(Cl)nc(n1)N(CC)CC,CCNc1nc(Cl)nc(N(CC)CC)n1,-4.06,1,,0.0,unique_keep
+Pyrazinamide,NC(=O)c1cnccn1,NC(=O)c1cnccn1,-0.667,1,,0.0,unique_keep
+Carbromal,CCC(Br)(CC)C(=O)NC(N)=O,CCC(Br)(CC)C(=O)NC(N)=O,-2.68,1,,0.0,unique_keep
+"2,2'-PCB",Clc1ccccc1c2ccccc2Cl ,Clc1ccccc1-c1ccccc1Cl,-5.27,1,,0.0,unique_keep
+nitrofurantoin,O=C2CN(N=Cc1ccc(o1)N(=O)=O)C(=O)N2 ,O=C1CN(N=Cc2ccc([N+](=O)[O-])o2)C(=O)N1,-3.38,1,,0.0,unique_keep
+Nitrofen,Clc2ccc(Oc1ccc(cc1)N(=O)=O)c(Cl)c2,O=[N+]([O-])c1ccc(Oc2ccc(Cl)cc2Cl)cc1,-5.46,1,,0.0,unique_keep
+Camphor,CC1(C)C2CCC1(C)C(=O)C2,CC12CCC(CC1=O)C2(C)C,-1.96,1,,0.0,unique_keep
+5-Allyl-5-phenylbarbital,O=C1NC(=O)NC(=O)C1(CC=C)c1ccccc1,C=CCC1(c2ccccc2)C(=O)NC(=O)NC1=O,-2.369,1,,0.0,unique_keep
+Pentyl propanoate,CCCCC(=O)OCC,CCCCC(=O)OCC,-2.25,1,,0.0,unique_keep
+Isopentyl acetate,CC(C)CCOC(=O)C,CC(=O)OCCC(C)C,-1.92,1,,0.0,unique_keep
+3-Hexanoyloxymethylphenyltoin,O=C1N(COC(=O)CCCCC)C(=O)C(N1)(c2ccccc2)c3ccccc3,CCCCCC(=O)OCN1C(=O)NC(c2ccccc2)(c2ccccc2)C1=O,-5.886,1,,0.0,unique_keep
+"2,3',5-PCB",Clc1cccc(c1)c2cc(Cl)ccc2Cl ,Clc1cccc(-c2cc(Cl)ccc2Cl)c1,-6.01,1,,0.0,unique_keep
+1-Bromopropane,CCCBr,CCCBr,-1.73,1,,0.0,unique_keep
+Propiconazole,CCCC1COC(Cn2cncn2)(O1)c3ccc(Cl)cc3Cl,CCCC1COC(Cn2cncn2)(c2ccc(Cl)cc2Cl)O1,-3.4930000000000003,1,,0.0,unique_keep
+Formothion,COP(=S)(OC)SCC(=O)N(C)C=O,COP(=S)(OC)SCC(=O)N(C)C=O,-1.995,1,,0.0,unique_keep
+4-methylpteridine,Cc1ncnc2nccnc12,Cc1ncnc2nccnc12,-0.466,1,,0.0,unique_keep
+Thiourea,NC(=S)N,NC(N)=S,0.32,1,,0.0,unique_keep
+p-Xylene ,Cc1ccc(C)cc1,Cc1ccc(C)cc1,-2.77,1,,0.0,unique_keep
+"1,2-Diethylbenzene",CCc1ccccc1CC,CCc1ccccc1CC,-3.28,1,,0.0,unique_keep
+Hexachloroethane,ClC(Cl)(Cl)C(Cl)(Cl)Cl,ClC(Cl)(Cl)C(Cl)(Cl)Cl,-3.67,1,,0.0,unique_keep
+Flucythrinate,CC(C)C(C(=O)OC(C#N)c1cccc(Oc2ccccc2)c1)c3ccc(OC(F)F)cc3,CC(C)C(C(=O)OC(C#N)c1cccc(Oc2ccccc2)c1)c1ccc(OC(F)F)cc1,-6.876,1,,0.0,unique_keep
+1-Nitropropane,CCCN(=O)=O,CCC[N+](=O)[O-],-0.8,1,,0.0,unique_keep
+Menthone,CC(C)C1CCC(C)CC1=O,CC1CCC(C(C)C)C(=O)C1,-2.35,1,,0.0,unique_keep
+RTI 24,CCN2c1cc(Cl)ccc1NC(=O)c3cccnc23 ,CCN1c2cc(Cl)ccc2NC(=O)c2cccnc21,-5.36,1,,0.0,unique_keep
+"2,3-Dichloronitrobenzene",O=N(=O)c1c(Cl)c(Cl)ccc1,O=[N+]([O-])c1cccc(Cl)c1Cl,-3.48,1,,0.0,unique_keep
+thiamylal,CCCC(C)C1(CC=C)C(=O)NC(=S)NC1=O ,C=CCC1(C(C)CCC)C(=O)NC(=S)NC1=O,-3.46,1,,0.0,unique_keep
+Fluoranthene,c1ccc2c(c1)c3cccc4cccc2c34,c1ccc2c(c1)-c1cccc3cccc-2c13,-6.0,1,,0.0,unique_keep
+Propylisopropylether,CCCOC(C)C,CCCOC(C)C,-1.34,1,,0.0,unique_keep
+"1,3-Dimethylnaphthalene",Cc1cc(C)c2ccccc2c1,Cc1cc(C)c2ccccc2c1,-4.29,1,,0.0,unique_keep
+diethylstilbestrol,CCC(=C(CC)c1ccc(O)cc1)c2ccc(O)cc2 ,CCC(=C(CC)c1ccc(O)cc1)c1ccc(O)cc1,-4.07,1,,0.0,unique_keep
+Chlorothalonil,c1(C#N)c(Cl)c(C#N)c(Cl)c(Cl)c(Cl)1,N#Cc1c(Cl)c(Cl)c(Cl)c(C#N)c1Cl,-5.64,1,,0.0,unique_keep
+"2,3',4',5-PCB",Clc1ccc(Cl)c(c1)c2ccc(Cl)c(Cl)c2,Clc1ccc(Cl)c(-c2ccc(Cl)c(Cl)c2)c1,-7.25,1,,0.0,unique_keep
+styrene oxide,C1OC1c2ccccc2 ,c1ccc(C2CO2)cc1,-1.6,1,,0.0,unique_keep
+Isopropylbenzene ,CC(C)c1ccccc1,CC(C)c1ccccc1,-3.27,1,,0.0,unique_keep
+Deoxycorticosterone,CC12CCC3C(CCC4=CC(=O)CCC34C)C2CCC1C(=O)CO,CC12CCC(=O)C=C1CCC1C2CCC2(C)C(C(=O)CO)CCC12,-3.45,1,,0.0,unique_keep
+chlorquinox,c2(Cl)c(Cl)c(Cl)c1nccnc1c2(Cl) ,Clc1c(Cl)c(Cl)c2nccnc2c1Cl,-5.43,1,,0.0,unique_keep
+L-arabinose,C1OC(O)C(O)C(O)C1O,OC1COC(O)C(O)C1O,0.39,1,,0.0,unique_keep
+Dichloromethane,ClCCl,ClCCl,-0.63,1,,0.0,unique_keep
+1-Ethylnaphthalene ,CCc1cccc2ccccc12,CCc1cccc2ccccc12,-4.17,1,,0.0,unique_keep
+Methyl formate,COC=O,COC=O,0.58,1,,0.0,unique_keep
+o-Nitrophenol,Oc1ccccc1N(=O)=O,O=[N+]([O-])c1ccccc1O,-1.74,1,,0.0,unique_keep
+thymine,Cc1c[nH]c(=O)[nH]c1=O ,Cc1c[nH]c(=O)[nH]c1=O,-1.506,1,,0.0,unique_keep
+2-Methylpropane,CC(C)C,CC(C)C,-2.55,1,,0.0,unique_keep
+Inosine,OCC1OC(C(O)C1O)n2cnc3c(O)ncnc23,OCC1OC(n2cnc3c(O)ncnc32)C(O)C1O,-1.23,1,,0.0,unique_keep
+Ioxynil,Oc1c(I)cc(C#N)cc1I,N#Cc1cc(I)c(O)c(I)c1,-3.61,1,,0.0,unique_keep
+Niclosamide,Oc1ccc(Cl)cc1C(=O)Nc2ccc(cc2Cl)N(=O)=O,O=C(Nc1ccc([N+](=O)[O-])cc1Cl)c1cc(Cl)ccc1O,-4.7,1,,0.0,unique_keep
+Pentane,CCCCC,CCCCC,-3.18,1,,0.0,unique_keep
+Phenol,c1ccccc1O,Oc1ccccc1,0.0,1,,0.0,unique_keep
+2-aminoanthracene,Nc3ccc2cc1ccccc1cc2c3 ,Nc1ccc2cc3ccccc3cc2c1,-5.17,1,,0.0,unique_keep
+theobromine,Cn1cnc2n(C)c(=O)[nH]c(=O)c12 ,Cn1cnc2c1c(=O)[nH]c(=O)n2C,-2.523,1,,0.0,unique_keep
+Isoquinoline,c1ccc2cnccc2c1,c1ccc2cnccc2c1,-1.45,1,,0.0,unique_keep
+Anilofos,COP(=S)(OC)SCC(=O)N(C(C)C)c1ccc(Cl)cc1,COP(=S)(OC)SCC(=O)N(c1ccc(Cl)cc1)C(C)C,-4.432,1,,0.0,unique_keep
+Hexylbenzene ,CCCCCCc1ccccc1,CCCCCCc1ccccc1,-5.21,1,,0.0,unique_keep
+2-Chlorobiphenyl,Clc1ccccc1c2ccccc2,Clc1ccccc1-c1ccccc1,-4.54,1,,0.0,unique_keep
+2-Methyl-1-Pentene,CCCC(=C)C,C=C(C)CCC,-3.03,1,,0.0,unique_keep
+"2,3,4-Trimethylpentane",CC(C)C(C)C(C)C,CC(C)C(C)C(C)C,-4.8,1,,0.0,unique_keep
+Pentachlorobenzene,Clc1cc(Cl)c(Cl)c(Cl)c1Cl,Clc1cc(Cl)c(Cl)c(Cl)c1Cl,-5.65,1,,0.0,unique_keep
+m-Nitrophenol,Oc1cccc(c1)N(=O)=O,O=[N+]([O-])c1cccc(O)c1,-1.01,1,,0.0,unique_keep
+1-Decene,CCCCCCCCC=C,C=CCCCCCCCC,-5.51,1,,0.0,unique_keep
+Glyceryl triacetate,CC(=O)OCC(COC(=O)C)OC(=O)C,CC(=O)OCC(COC(C)=O)OC(C)=O,-0.6,1,,0.0,unique_keep
+dimethirimol,CCCCc1c(C)nc(nc1O)N(C)C ,CCCCc1c(C)nc(N(C)C)nc1O,-2.24,1,,0.0,unique_keep
+Cyfluthrin,CC1(C)C(C=C(Cl)Cl)C1C(=O)OC(C#N)c2ccc(F)c(Oc3ccccc3)c2,CC1(C)C(C=C(Cl)Cl)C1C(=O)OC(C#N)c1ccc(F)c(Oc2ccccc2)c1,-7.337000000000001,1,,0.0,unique_keep
+Pyridine,c1ccncc1,c1ccncc1,0.76,1,,0.0,unique_keep
+1-Bromoheptane,CCCCCCCBr,CCCCCCCBr,-4.43,1,,0.0,unique_keep
+"3,4-Dimethylpyridine",Cc1ccncc1C,Cc1ccncc1C,0.36,1,,0.0,unique_keep
+Fludrocortisone,CC34CC(O)C1(F)C(CCC2=CC(=O)CCC12C)C3CCC4(O)C(=O)CO ,CC12CCC(=O)C=C1CCC1C3CCC(O)(C(=O)CO)C3(C)CC(O)C12F,-3.43,1,,0.0,unique_keep
+ethiofencarb,CCSCc1ccccc1OC(=O)NC ,CCSCc1ccccc1OC(=O)NC,-2.09,1,,0.0,unique_keep
+Malonic acid diethylester,CCOC(=O)CC(=O)OCC,CCOC(=O)CC(=O)OCC,-0.82,1,,0.0,unique_keep
+d-Limonene,CC1=CCC(CC1)C(C)=C,C=C(C)C1CC=C(C)CC1,-4.26,1,,0.0,unique_keep
+Indan,C1Cc2ccccc2C1,c1ccc2c(c1)CCC2,-3.04,1,,0.0,unique_keep
+p-t-Butylphenol,CC(C)(C)c1ccc(O)cc1,CC(C)(C)c1ccc(O)cc1,-2.41,1,,0.0,unique_keep
+Cyclopropyl-5-spirobarbituric acid,O=C2NC(=O)C1(CC1)C(=O)N2 ,O=C1NC(=O)C2(CC2)C(=O)N1,-1.886,1,,0.0,unique_keep
+m-Chloroiodobenzene,Clc1cccc(I)c1,Clc1cccc(I)c1,-3.55,1,,0.0,unique_keep
+1-Bromonapthalene,Brc1cccc2ccccc12,Brc1cccc2ccccc12,-4.35,1,,0.0,unique_keep
+trans-2-Pentene ,CC/C=C/C,C/C=C/CC,-2.54,1,,0.0,unique_keep
+"2,6-Dimethylpyridine",Cc1cccc(C)n1,Cc1cccc(C)n1,0.45,1,,0.0,unique_keep
+Trichloroethylene,ClC=C(Cl)Cl,ClC=C(Cl)Cl,-1.96,1,,0.0,unique_keep
+1-Napthylamine,Nc1cccc2ccccc12,Nc1cccc2ccccc12,-1.92,1,,0.0,unique_keep
+m-Xylene ,Cc1cccc(C)c1,Cc1cccc(C)c1,-2.82,1,,0.0,unique_keep
+2-hydroxypteridine,Oc2ncc1nccnc1n2,Oc1ncc2nccnc2n1,-1.947,1,,0.0,unique_keep
+Methanol,CO,CO,1.57,1,,0.0,unique_keep
+Amobarbital|5-Ethyl-5-(3-methylbutyl)barbital,CCC1(CCC(C)C)C(=O)NC(=O)NC1=O|O=C1NC(=O)NC(=O)C1(CC)CCC(C)C,CCC1(CCC(C)C)C(=O)NC(=O)NC1=O,-2.5629999999999997,2,0.134350288425444,0.18999999999999995,duplicate_aggregated
+2-Butanone,CCC(=O)C,CCC(C)=O,0.52,1,,0.0,unique_keep
+5-fluorouracil,Fc1c[nH]c(=O)[nH]c1=O ,O=c1[nH]cc(F)c(=O)[nH]1,-1.077,1,,0.0,unique_keep
+tubercidin,Nc1ncnc2n(ccc12)C3OC(CO)C(O)C3O ,Nc1ncnc2c1ccn2C1OC(CO)C(O)C1O,-1.95,1,,0.0,unique_keep
+"1,3-Benzenediol",Oc1cccc(O)c1,Oc1cccc(O)c1,0.81,1,,0.0,unique_keep
+1-Hexanol,CCCCCCO,CCCCCCO,-1.24,1,,0.0,unique_keep
+1-Chloropentane,CCCCCCl,CCCCCCl,-2.73,1,,0.0,unique_keep
+"1,3-Butadiene",C=CC=C,C=CC=C,-1.87,1,,0.0,unique_keep
+Propyl acetate,CCCOC(=O)C,CCCOC(C)=O,-0.72,1,,0.0,unique_keep
+"5,6,7,8-tetrahydro-2-naphthol",Oc2ccc1CCCCc1c2 ,Oc1ccc2c(c1)CCCC2,-1.99,1,,0.0,unique_keep
+chloroacetamide,NC(=O)CCl ,NC(=O)CCl,-0.02,1,,0.0,unique_keep
+Iodofenphos,COP(=S)(OC)Oc1cc(Cl)c(I)cc1Cl,COP(=S)(OC)Oc1cc(Cl)c(I)cc1Cl,-6.62,1,,0.0,unique_keep
+4-Chlorotoluene,Cc1ccc(Cl)cc1,Cc1ccc(Cl)cc1,-3.08,1,,0.0,unique_keep
+Metribuzin,CSc1nnc(c(=O)n1N)C(C)(C)C,CSc1nnc(C(C)(C)C)c(=O)n1N,-2.253,1,,0.0,unique_keep
+Tricresyl phosphate,Cc1ccc(OP(=O)(Oc2cccc(C)c2)Oc3ccccc3C)cc1,Cc1ccc(OP(=O)(Oc2cccc(C)c2)Oc2ccccc2C)cc1,-6.01,1,,0.0,unique_keep
+Caproaldehyde,CCCCCC=O,CCCCCC=O,-1.3,1,,0.0,unique_keep
+Butamben,CCCCOC(=O)c1ccc(N)cc1,CCCCOC(=O)c1ccc(N)cc1,-3.082,1,,0.0,unique_keep
+RTI 3,O2c1cc(C)ccc1N(C)C(=O)c3cc(N)cnc23 ,Cc1ccc2c(c1)Oc1ncc(N)cc1C(=O)N2C,-3.043,1,,0.0,unique_keep
+Nerol,CC(C)=CCC/C(C)=C\CO,CC(C)=CCC/C(C)=C\CO,-2.46,1,,0.0,unique_keep
+"2,4'-PCB",Clc1ccc(cc1)c2ccccc2Cl ,Clc1ccc(-c2ccccc2Cl)cc1,-5.28,1,,0.0,unique_keep
+3-Octanoyloxymethylphenytoin,O=C1N(COC(=O)CCCCCCC)C(=O)C(N1)(c2ccccc2)c3ccccc3,CCCCCCCC(=O)OCN1C(=O)NC(c2ccccc2)(c2ccccc2)C1=O,-6.523,1,,0.0,unique_keep
+Nitroethane,CCN(=O)=O,CC[N+](=O)[O-],-0.22,1,,0.0,unique_keep
+Ethalfluralin,CCN(CC(C)=C)c1c(cc(cc1N(=O)=O)C(F)(F)F)N(=O)=O,C=C(C)CN(CC)c1c([N+](=O)[O-])cc(C(F)(F)F)cc1[N+](=O)[O-],-6.124,1,,0.0,unique_keep
+"1,2,3,4-Tetrachlorobenzene",Clc1ccc(Cl)c(Cl)c1Cl,Clc1ccc(Cl)c(Cl)c1Cl,-4.57,1,,0.0,unique_keep
+Meprobamate,CCCC(C)(COC(N)=O)COC(N)=O ,CCCC(C)(COC(N)=O)COC(N)=O,-1.807,1,,0.0,unique_keep
+pregnenolone,CC(=O)C3CCC4C2CC=C1CC(O)CCC1(C)C2CCC34C ,CC(=O)C1CCC2C3CC=C4CC(O)CCC4(C)C3CCC12C,-4.65,1,,0.0,unique_keep
+Iodomethane,CI,CI,-1.0,1,,0.0,unique_keep
+cycloheximide,CC1CC(C)C(=O)C(C1)C(O)CC2CC(=O)NC(=O)C2 ,CC1CC(C)C(=O)C(C(O)CC2CC(=O)NC(=O)C2)C1,-1.13,1,,0.0,unique_keep
+3-Heptanoyloxymethylphenytoin,O=C1N(COC(=O)CCCCCC)C(=O)C(N1)(c2ccccc2)c3ccccc3,CCCCCCC(=O)OCN1C(=O)NC(c2ccccc2)(c2ccccc2)C1=O,-6.301,1,,0.0,unique_keep
+isophorone,CC1=CC(=O)CC(C)(C)C1 ,CC1=CC(=O)CC(C)(C)C1,-1.06,1,,0.0,unique_keep
+Butabarbital,O=C1NC(=O)NC(=O)C1(CC)C(C)CC,CCC(C)C1(CC)C(=O)NC(=O)NC1=O,-2.39,1,,0.0,unique_keep
+5-Nonanone,CCCCC(=O)CCCC,CCCCC(=O)CCCC,-2.58,1,,0.0,unique_keep
+Glutethimide,CCC1(CCC(=O)NC1=O)c2ccccc2 ,CCC1(c2ccccc2)CCC(=O)NC1=O,-2.337,1,,0.0,unique_keep
+3-Methylpentane,CCC(C)CC,CCC(C)CC,-3.68,1,,0.0,unique_keep
+Etofenprox,CCOc1ccc(cc1)C(C)(C)COCc3cccc(Oc2ccccc2)c3,CCOc1ccc(C(C)(C)COCc2cccc(Oc3ccccc3)c2)cc1,-8.6,1,,0.0,unique_keep
+Methaqualone,Cc1ccccc1n3c(C)nc2ccccc2c3=O,Cc1ccccc1-n1c(C)nc2ccccc2c1=O,-2.925,1,,0.0,unique_keep
+Chloroacetonitrile,ClCC#N,N#CCCl,-0.092,1,,0.0,unique_keep
+Trichloronate,CCOP(=S)(CC)Oc1cc(Cl)c(Cl)cc1Cl,CCOP(=S)(CC)Oc1cc(Cl)c(Cl)cc1Cl,-5.752000000000001,1,,0.0,unique_keep
+Ethisterone,CC12CCC(=O)C=C1CCC3C2CCC4(C)C3CCC4(O)C#C ,C#CC1(O)CCC2C3CCC4=CC(=O)CCC4(C)C3CCC21C,-5.66,1,,0.0,unique_keep
+Pyridazine,c1ccnnc1,c1ccnnc1,1.1,1,,0.0,unique_keep
+"1,2,3,5-Tetrachlorobenzene",Clc1cc(Cl)c(Cl)c(Cl)c1,Clc1cc(Cl)c(Cl)c(Cl)c1,-4.63,1,,0.0,unique_keep
+Diosgenin,C1C(O)CCC2(C)CC3CCC4(C)C5(C)CC6OCC(C)CC6OC5CC4C3C=C21,CC1COC2CC3(C)C(CC4C5C=C6CC(O)CCC6(C)CC5CCC43C)OC2C1,-7.32,1,,0.0,unique_keep
+o-Aminophenol,Nc1ccccc1O,Nc1ccccc1O,-0.72,1,,0.0,unique_keep
+Ethyl nonanoate,CCCCCCCCC(=O)OCC,CCCCCCCCC(=O)OCC,-3.8,1,,0.0,unique_keep
+metalaxyl,COCC(=O)N(C(C)C(=O)OC)c1c(C)cccc1C ,COCC(=O)N(c1c(C)cccc1C)C(C)C(=O)OC,-1.601,1,,0.0,unique_keep
+Propoxur,CNC(=O)Oc1ccccc1OC(C)C,CNC(=O)Oc1ccccc1OC(C)C,-2.05,1,,0.0,unique_keep
+2-Chlorobutane,CCC(C)Cl,CCC(C)Cl,-1.96,1,,0.0,unique_keep
+2-Napthol,Oc1ccc2ccccc2c1,Oc1ccc2ccccc2c1,-2.28,1,,0.0,unique_keep
+Oxadiazon,CC(C)Oc1cc(c(Cl)cc1Cl)n2nc(oc2=O)C(C)(C)C,CC(C)Oc1cc(-n2nc(C(C)(C)C)oc2=O)c(Cl)cc1Cl,-5.696000000000001,1,,0.0,unique_keep
+1-Hexyne ,CCCCC#C,C#CCCCC,-2.36,1,,0.0,unique_keep
+1-Nonyne ,CCCCCCCC#C,C#CCCCCCCC,-4.24,1,,0.0,unique_keep
+2-Chlorotoluene,Cc1ccccc1Cl,Cc1ccccc1Cl,-3.52,1,,0.0,unique_keep
+Diisopropyl ether ,CC(C)OC(C)C,CC(C)OC(C)C,-1.1,1,,0.0,unique_keep
+Dapsone,Nc1ccc(cc1)S(=O)(=O)c2ccc(N)cc2,Nc1ccc(S(=O)(=O)c2ccc(N)cc2)cc1,-3.094,1,,0.0,unique_keep
+Methyl hydrazine,CNN,CNN,1.34,1,,0.0,unique_keep
+Propyne,CC#C,C#CC,-0.41,1,,0.0,unique_keep
+Phoxim,CCOP(=S)(OCC)ON=C(C#N)c1ccccc1,CCOP(=S)(OCC)ON=C(C#N)c1ccccc1,-4.862,1,,0.0,unique_keep
+Propetamphos,CCNP(=S)(OC)OC(=CC(=O)OC(C)C)C,CCNP(=S)(OC)OC(C)=CC(=O)OC(C)C,-3.408,1,,0.0,unique_keep
+Acrolein,C=CC=O,C=CC=O,0.57,1,,0.0,unique_keep
+Hypoxanthine,O=c1[nH]cnc2nc[nH]c12 ,O=c1[nH]cnc2nc[nH]c12,-2.296,1,,0.0,unique_keep
+6-hydroxyquinoline,Oc2ccc1ncccc1c2 ,Oc1ccc2ncccc2c1,-2.16,1,,0.0,unique_keep
+Fluorobenzene,Fc1ccccc1,Fc1ccccc1,-1.8,1,,0.0,unique_keep
+1-Chloropropane,CCCCl,CCCCl,-1.47,1,,0.0,unique_keep
+Ethyl acetate,CCOC(=O)C,CCOC(C)=O,-0.04,1,,0.0,unique_keep
+"2,2-Dimethylpentane",CCCC(C)(C)C,CCCC(C)(C)C,-4.36,1,,0.0,unique_keep
+Pentamethylbenzene,Cc1cc(C)c(C)c(C)c1C,Cc1cc(C)c(C)c(C)c1C,-4.0,1,,0.0,unique_keep
+"eucalyptol|1,8-Cineole",CC12CCC(CC1)C(C)(C)O2 |CC12CCC(CC1)C(C)(C)O2,CC12CCC(CC1)C(C)(C)O2,-1.69,2,0.07071067811865482,0.10000000000000009,duplicate_aggregated
+dibutyl sebacate,CCCCOC(=O)CCCCCCCCC(=O)OCCCC,CCCCOC(=O)CCCCCCCCC(=O)OCCCC,-3.896,1,,0.0,unique_keep
+"4,4'-PCB",Clc1ccc(cc1)c2ccc(Cl)cc2 ,Clc1ccc(-c2ccc(Cl)cc2)cc1,-6.56,1,,0.0,unique_keep
+"2,3-Dimethylpyridine",Cc1cccnc1C,Cc1cccnc1C,0.38,1,,0.0,unique_keep
+Carvone,CC(=C)C1CC=C(C)C(=O)C1,C=C(C)C1CC=C(C)C(=O)C1,-2.06,1,,0.0,unique_keep
+Carbophenthion,CCOP(=S)(OCC)SCSc1ccc(Cl)cc1,CCOP(=S)(OCC)SCSc1ccc(Cl)cc1,-5.736000000000001,1,,0.0,unique_keep
+"Etoposide (148-167,25mg/ml)",COc1cc(cc(OC)c1O)C6C2C(COC2=O)C(OC4OC3COC(C)OC3C(O)C4O)c7cc5OCOc5cc67,COc1cc(C2c3cc4c(cc3C(OC3OC5COC(C)OC5C(O)C3O)C3COC(=O)C23)OCO4)cc(OC)c1O,-3.571,1,,0.0,unique_keep
+Perylene,c1cc2cccc3c4cccc5cccc(c(c1)c23)c54,c1cc2cccc3c4cccc5cccc(c(c1)c23)c54,-8.804,1,,0.0,unique_keep
+"2,4-Dinitrotoluene",Cc1ccc(cc1N(=O)=O)N(=O)=O,Cc1ccc([N+](=O)[O-])cc1[N+](=O)[O-],-2.82,1,,0.0,unique_keep
+2-bromonaphthalene|2-Bromonapthalene,c1c(Br)ccc2ccccc12 |Brc1ccc2ccccc2c1,Brc1ccc2ccccc2c1,-4.4,2,0.0,0.0,duplicate_aggregated
+Formetanate,CNC(=O)Oc1cccc(N=CN(C)C)c1,CNC(=O)Oc1cccc(N=CN(C)C)c1,-2.34,1,,0.0,unique_keep
+6-methoxypteridine,COc2cnc1ncncc1n2,COc1cnc2ncncc2n1,-1.139,1,,0.0,unique_keep
+nevirapine,Cc3ccnc4N(C1CC1)c2ncccc2C(=O)Nc34 ,Cc1ccnc2c1NC(=O)c1cccnc1N2C1CC1,-3.19,1,,0.0,unique_keep
+Isazofos,CCOP(=S)(OCC)Oc1nc(Cl)n(n1)C(C)C,CCOP(=S)(OCC)Oc1nc(Cl)n(C(C)C)n1,-3.658,1,,0.0,unique_keep
+"2-Methyl-1,3-Butadiene ",CC(=C)C=C,C=CC(=C)C,-2.03,1,,0.0,unique_keep
+linalool,CC(C)=CCCC(O)(C)C=C,C=CC(C)(O)CCC=C(C)C,-1.99,1,,0.0,unique_keep
+Fenthion,COP(=S)(OC)Oc1ccc(SC)c(C)c1,COP(=S)(OC)Oc1ccc(SC)c(C)c1,-4.57,1,,0.0,unique_keep
+Cyclohexanol ,OC1CCCCC1,OC1CCCCC1,-0.44,1,,0.0,unique_keep
+5-Allyl-5-methylbarbital,O=C1NC(=O)NC(=O)C1(C)CC=C,C=CCC1(C)C(=O)NC(=O)NC1=O,-1.16,1,,0.0,unique_keep
+Epiandrosterone|Androsterone,CC34CCC1C(CCC2CC(O)CCC12C)C3CCC4=O|CC12CCC(O)CC1CCC3C2CCC4(C)C3CCC4=O,CC12CCC3C(CCC4CC(O)CCC43C)C1CCC2=O,-4.281000000000001,2,0.1711198410471445,0.242,duplicate_aggregated
+4-Methylbiphenyl,Cc1ccc(cc1)c2ccccc2,Cc1ccc(-c2ccccc2)cc1,-4.62,1,,0.0,unique_keep
+Atrazine,CCNc1nc(Cl)nc(NC(C)C)n1,CCNc1nc(Cl)nc(NC(C)C)n1,-3.85,1,,0.0,unique_keep
+Phenylthiourea,NC(=S)Nc1ccccc1,NC(=S)Nc1ccccc1,-1.77,1,,0.0,unique_keep
+4-Heptanone,CCCC(=O)CCC,CCCC(=O)CCC,-1.3,1,,0.0,unique_keep
+"3,3-Dimethyl-2-butanone",CC(=O)C(C)(C)C,CC(=O)C(C)(C)C,-0.72,1,,0.0,unique_keep
+4-Chlorophenol ,Oc1ccc(Cl)cc1,Oc1ccc(Cl)cc1,-0.7,1,,0.0,unique_keep
+Cyclohexanone,O=C1CCCCC1,O=C1CCCCC1,-0.6,1,,0.0,unique_keep
+m-Methylaniline,Cc1cccc(N)c1,Cc1cccc(N)c1,-0.85,1,,0.0,unique_keep
+Trichloroacetonitrile,ClC(Cl)(Cl)C#N,N#CC(Cl)(Cl)Cl,-2.168,1,,0.0,unique_keep
+norflurazon,CNc2cnn(c1cccc(c1)C(F)(F)F)c(=O)c2Cl,CNc1cnn(-c2cccc(C(F)(F)F)c2)c(=O)c1Cl,-4.046,1,,0.0,unique_keep
+2-Decanone,CCCCCCCCC(=O)C,CCCCCCCCC(C)=O,-3.3,1,,0.0,unique_keep
+Ipazine,CCN(CC)c1nc(Cl)nc(NC(C)C)n1,CCN(CC)c1nc(Cl)nc(NC(C)C)n1,-3.785,1,,0.0,unique_keep
+Benzocaine,CCOC(=O)c1ccc(N)cc1,CCOC(=O)c1ccc(N)cc1,-2.616,1,,0.0,unique_keep
+"1,2,4-Trichlorobenzene",Clc1ccc(Cl)c(Cl)c1,Clc1ccc(Cl)c(Cl)c1,-3.59,1,,0.0,unique_keep
+Triazolam,Cc3nnc4CN=C(c1ccccc1Cl)c2cc(Cl)ccc2n34,Cc1nnc2n1-c1ccc(Cl)cc1C(c1ccccc1Cl)=NC2,-4.09,1,,0.0,unique_keep
+"1,2-Benzenediol",Oc1ccccc1O,Oc1ccccc1O,0.62,1,,0.0,unique_keep
+Reverse Transcriptase inhibitor 1,CCN2c1ncccc1N(C)C(=O)c3cccnc23 ,CCN1c2ncccc2C(=O)N(C)c2cccnc21,-2.62,1,,0.0,unique_keep
+Dimethyl sulfide,CSC,CSC,-0.45,1,,0.0,unique_keep
+2-Bromotoluene,Cc1ccccc1Br,Cc1ccccc1Br,-2.23,1,,0.0,unique_keep
+O-Ethyl carbamate,CCOC(=O)N,CCOC(N)=O,0.85,1,,0.0,unique_keep
+megestrol acetate,CC(=O)OC3(CCC4C2C=C(C)C1=CC(=O)CCC1(C)C2CCC34C)C(C)=O ,CC(=O)OC1(C(C)=O)CCC2C3C=C(C)C4=CC(=O)CCC4(C)C3CCC21C,-5.35,1,,0.0,unique_keep
+"2,4-Dimethyl-3-pentanol",CC(C)C(O)C(C)C,CC(C)C(O)C(C)C,-1.22,1,,0.0,unique_keep
+Napthalene,c1ccc2ccccc2c1,c1ccc2ccccc2c1,-3.6,1,,0.0,unique_keep
+N-Ethylaniline,CCNc1ccccc1,CCNc1ccccc1,-1.7,1,,0.0,unique_keep
+Phenytoin,O=C1NC(=O)C(N1)(c2ccccc2)c3ccccc3,O=C1NC(=O)C(c2ccccc2)(c2ccccc2)N1,-4.097,1,,0.0,unique_keep
+"7,12-Dimethylbenz(a)anthracene",Cc1c2ccccc2c(C)c3ccc4ccccc4c13,Cc1c2ccccc2c(C)c2c1ccc1ccccc12,-7.02,1,,0.0,unique_keep
+Dialifor|Dialifos,CCOP(=S)(OCC)SC(CCl)N1C(=O)c2ccccc2C1=O|CCOP(=S)(OCC)SC(CCl)N2C(=O)c1ccccc1C2=O,CCOP(=S)(OCC)SC(CCl)N1C(=O)c2ccccc2C1=O,-6.34,2,0.0,0.0,duplicate_aggregated
+Methoxychlor,COc1ccc(cc1)C(c2ccc(OC)cc2)C(Cl)(Cl)Cl,COc1ccc(C(c2ccc(OC)cc2)C(Cl)(Cl)Cl)cc1,-6.89,1,,0.0,unique_keep
+TEFLUBENZURON,Fc1cccc(F)c1C(=O)NC(=O)Nc2cc(Cl)c(F)c(Cl)c2F ,O=C(NC(=O)c1c(F)cccc1F)Nc1cc(Cl)c(F)c(Cl)c1F,-7.28,1,,0.0,unique_keep
+3-Pentanoyloxymethylphenytoin,O=C1N(COC(=O)CCCC)C(=O)C(N1)(c2ccccc2)c3ccccc3,CCCCC(=O)OCN1C(=O)NC(c2ccccc2)(c2ccccc2)C1=O,-4.678,1,,0.0,unique_keep
+Monuron,CN(C)C(=O)Nc1ccc(Cl)cc1,CN(C)C(=O)Nc1ccc(Cl)cc1,-2.89,1,,0.0,unique_keep
+Flutriafol,OC(Cn1cncn1)(c2ccc(F)cc2)c3ccccc3F,OC(Cn1cncn1)(c1ccc(F)cc1)c1ccccc1F,-3.37,1,,0.0,unique_keep
+triamcinolone diacetate,CC(=O)OCC(=O)C3(O)C(CC4C2CCC1=CC(=O)C=CC1(C)C2(F)C(O)CC34C)OC(C)=O ,CC(=O)OCC(=O)C1(O)C(OC(C)=O)CC2C3CCC4=CC(=O)C=CC4(C)C3(F)C(O)CC21C,-4.13,1,,0.0,unique_keep
+1-Bromobutane,CCCCBr,CCCCBr,-2.37,1,,0.0,unique_keep
+"1,2,4,5-Tetrabromobenzene",Brc1cc(Br)c(Br)cc1Br,Brc1cc(Br)c(Br)cc1Br,-6.98,1,,0.0,unique_keep
+4-Methyl-2-pentanone,CC(C)CC(=O)C,CC(=O)CC(C)C,-0.74,1,,0.0,unique_keep
+cycloate,CCSC(=O)N(CC)C1CCCCC1 ,CCSC(=O)N(CC)C1CCCCC1,-3.4,1,,0.0,unique_keep
+4-Chloroanisole,COc1ccc(Cl)cc1,COc1ccc(Cl)cc1,-2.78,1,,0.0,unique_keep
+Deltamethrin,CC1(C)C(C=C(Br)Br)C1C(=O)OC(C#N)c2cccc(Oc3ccccc3)c2,CC1(C)C(C=C(Br)Br)C1C(=O)OC(C#N)c1cccc(Oc2ccccc2)c1,-8.402000000000001,1,,0.0,unique_keep
+Talbutal,CCC(C)C1(CC=C)C(=O)NC(=O)NC1=O,C=CCC1(C(C)CC)C(=O)NC(=O)NC1=O,-2.016,1,,0.0,unique_keep
+Fenitrothion,COP(=S)(OC)Oc1ccc(N(=O)=O)c(C)c1,COP(=S)(OC)Oc1ccc([N+](=O)[O-])c(C)c1,-4.04,1,,0.0,unique_keep
+1-Iodonapthalene,Ic1cccc2ccccc12,Ic1cccc2ccccc12,-4.55,1,,0.0,unique_keep
+Ethanethiol,CCS,CCS,-0.6,1,,0.0,unique_keep
+"1,1,2-Trichloroethane",ClCC(Cl)Cl,ClCC(Cl)Cl,-1.48,1,,0.0,unique_keep
+Pyrolan,CN(C)C(=O)Oc1cc(C)nn1c2ccccc2,Cc1cc(OC(=O)N(C)C)n(-c2ccccc2)n1,-2.09,1,,0.0,unique_keep
+o-Hydroxybenzamide,NC(=O)c1ccccc1O,NC(=O)c1ccccc1O,-1.82,1,,0.0,unique_keep
+o-Nitrotoluene,Cc1ccccc1N(=O)=O,Cc1ccccc1[N+](=O)[O-],-2.33,1,,0.0,unique_keep
+"5,5-Diisopropylbarbital",O=C1NC(=O)NC(=O)C1(C(C)C)C(C)C,CC(C)C1(C(C)C)C(=O)NC(=O)NC1=O,-2.766,1,,0.0,unique_keep
+2-Ethyltoluene,CCc1ccccc1C,CCc1ccccc1C,-3.21,1,,0.0,unique_keep
+1-Chloroheptane,CCCCCCCCl,CCCCCCCCl,-4.0,1,,0.0,unique_keep
+Barbital,O=C1NC(=O)NC(=O)C1(CC)CC,CCC1(CC)C(=O)NC(=O)NC1=O,-2.4,1,,0.0,unique_keep
+Bibenzyl ,C(Cc1ccccc1)c2ccccc2,c1ccc(CCc2ccccc2)cc1,-4.62,1,,0.0,unique_keep
+"1,1,2,2-Tetrachloroethane",ClC(Cl)C(Cl)Cl,ClC(Cl)C(Cl)Cl,-1.74,1,,0.0,unique_keep
+RTI 23,CCN2c1cc(OC)cc(C)c1NC(=O)c3cccnc23 ,CCN1c2cc(OC)cc(C)c2NC(=O)c2cccnc21,-5.153,1,,0.0,unique_keep
+2-Methylphenanthrene,Cc1ccc2c(ccc3ccccc32)c1,Cc1ccc2c(ccc3ccccc32)c1,-5.84,1,,0.0,unique_keep
+dibutylphthalate,CCCCOC(=O)c1ccccc1C(=O)OCCCC ,CCCCOC(=O)c1ccccc1C(=O)OCCCC,-4.4,1,,0.0,unique_keep
+tetrachloroguaiacol,COc1c(O)c(Cl)c(Cl)c(Cl)c1Cl ,COc1c(O)c(Cl)c(Cl)c(Cl)c1Cl,-4.02,1,,0.0,unique_keep
+Dimecron,CCN(CC)C(=O)C(=CCOP(=O)(OC)OC)Cl,CCN(CC)C(=O)C(Cl)=CCOP(=O)(OC)OC,0.523,1,,0.0,unique_keep
+Equilin,CC34CCC1C(=CCc2cc(O)ccc12)C3CCC4=O,CC12CCC3C(=CCc4cc(O)ccc43)C1CCC2=O,-5.282,1,,0.0,unique_keep
+Chlorimuron-ethyl (ph 7),CCOC(=O)c1ccccc1S(=O)(=O)NN(C=O)c2nc(Cl)cc(OC)n2,CCOC(=O)c1ccccc1S(=O)(=O)NN(C=O)c1nc(Cl)cc(OC)n1,-4.5760000000000005,1,,0.0,unique_keep
+p-Nitroanisole,COc1ccc(cc1)N(=O)=O,COc1ccc([N+](=O)[O-])cc1,-2.41,1,,0.0,unique_keep
+1-Chlorohexane,CCCCCCCl,CCCCCCCl,-3.12,1,,0.0,unique_keep
+"2,2',3,3',4,4',5,5'-PCB",Clc1cc(c(Cl)c(Cl)c1Cl)c2cc(Cl)c(Cl)c(Cl)c2Cl,Clc1cc(-c2cc(Cl)c(Cl)c(Cl)c2Cl)c(Cl)c(Cl)c1Cl,-9.16,1,,0.0,unique_keep
+Raffinose,OCC1OC(CO)(OC2OC(COC3OC(CO)C(O)C(O)C3O)C(O)C(O)C2O)C(O)C1O,OCC1OC(OCC2OC(OC3(CO)OC(CO)C(O)C3O)C(O)C(O)C2O)C(O)C(O)C1O,-0.41,1,,0.0,unique_keep
+hexacosane,CCCCCCCCCCCCCCCCCCCCCCCCCC,CCCCCCCCCCCCCCCCCCCCCCCCCC,-8.334,1,,0.0,unique_keep
+RTI 5,CCN2c1ccccc1N(C)C(=O)c3cccnc23 ,CCN1c2ccccc2N(C)C(=O)c2cccnc21,-3.324,1,,0.0,unique_keep
+"1,1-Dichloroethane",CC(Cl)Cl,CC(Cl)Cl,-1.29,1,,0.0,unique_keep
+Sulfanilamide,Nc1ccc(cc1)S(N)(=O)=O,Nc1ccc(S(N)(=O)=O)cc1,-1.34,1,,0.0,unique_keep
+Isopropalin,CCCN(CCC)c1c(cc(cc1N(=O)=O)C(C)C)N(=O)=O,CCCN(CCC)c1c([N+](=O)[O-])cc(C(C)C)cc1[N+](=O)[O-],-6.49,1,,0.0,unique_keep
+Lindane,ClC1C(Cl)C(Cl)C(Cl)C(Cl)C1Cl,ClC1C(Cl)C(Cl)C(Cl)C(Cl)C1Cl,-4.64,1,,0.0,unique_keep
+Isofenphos,CCOP(=S)(NC(C)C)Oc1ccccc1C(=O)OC(C)C,CCOP(=S)(NC(C)C)Oc1ccccc1C(=O)OC(C)C,-4.194,1,,0.0,unique_keep
+"1,2,3-Trichlorobenzene",Clc1cccc(Cl)c1Cl,Clc1cccc(Cl)c1Cl,-4.0,1,,0.0,unique_keep
+Tetrachloromethane,ClC(Cl)(Cl)Cl,ClC(Cl)(Cl)Cl,-2.31,1,,0.0,unique_keep
+"3,4-Dichloronitrobenzene",O=N(=O)c1cc(Cl)c(Cl)cc1,O=[N+]([O-])c1ccc(Cl)c(Cl)c1,-3.2,1,,0.0,unique_keep
+Cyclooctanol,OC1CCCCCCC1,OC1CCCCCCC1,-1.29,1,,0.0,unique_keep
+17a-Methyltestosterone,CC1(O)CCC2C3CCC4=CC(=O)CCC4(C)C3CCC21C,CC12CCC(=O)C=C1CCC1C2CCC2(C)C1CCC2(C)O,-3.999,1,,0.0,unique_keep
+Dulcin,CCOc1ccc(NC(N)=O)cc1,CCOc1ccc(NC(N)=O)cc1,-2.17,1,,0.0,unique_keep
+"trans-1,4-Dimethylcyclohexane",C/C1CCC(\C)CC1,CC1CCC(C)CC1,-4.47,1,,0.0,unique_keep
+"1,7-phenantroline",c1cnc2c(c1)ccc3ncccc23,c1cnc2c(c1)ccc1ncccc12,-2.68,1,,0.0,unique_keep
+Methyl t-butyl ether ,COC(C)(C)C,COC(C)(C)C,-0.24,1,,0.0,unique_keep
+Anethole,COc1ccc(C=CC)cc1,CC=Cc1ccc(OC)cc1,-3.13,1,,0.0,unique_keep
+1-Hexadecanol,CCCCCCCCCCCCCCCCO,CCCCCCCCCCCCCCCCO,-7.0,1,,0.0,unique_keep
+uracil,O=c1cc[nH]c(=O)[nH]1 ,O=c1cc[nH]c(=O)[nH]1,-1.4880000000000002,1,,0.0,unique_keep
+adenine,Nc1ncnc2nc[nH]c12 ,Nc1ncnc2nc[nH]c12,-2.12,1,,0.0,unique_keep
+"2,2',3,4,5-PCB",Clc1cc(Cl)c(cc1Cl)c2cccc(Cl)c2Cl ,Clc1cc(Cl)c(-c2cccc(Cl)c2Cl)cc1Cl,-7.21,1,,0.0,unique_keep
+Ancymidol,COc1ccc(cc1)C(O)(C2CC2)c3cncnc3 ,COc1ccc(C(O)(c2cncnc2)C2CC2)cc1,-2.596,1,,0.0,unique_keep
+Benzo(b)fluoranthene,c1ccc2c(c1)c3cccc4c3c2cc5ccccc54,c1ccc2c(c1)-c1cccc3c1c-2cc1ccccc13,-8.23,1,,0.0,unique_keep
+Carbanilide,O=C(Nc1ccccc1)Nc2ccccc2,O=C(Nc1ccccc1)Nc1ccccc1,-3.15,1,,0.0,unique_keep
+phenobarbital|5-Ethyl-5-phenylbarbital,CCC1(C(=O)NC(=O)NC1=O)c2ccccc2 |O=C1NC(=O)NC(=O)C1(CC)c1ccccc1,CCC1(c2ccccc2)C(=O)NC(=O)NC1=O,-2.322,2,0.0,0.0,duplicate_aggregated
+"2',3,4-PCB",Clc1ccc(cc1)c2cccc(Cl)c2Cl ,Clc1ccc(-c2cccc(Cl)c2Cl)cc1,-6.29,1,,0.0,unique_keep
+Isoproturon,CC(C)c1ccc(NC(=O)N(C)C)cc1,CC(C)c1ccc(NC(=O)N(C)C)cc1,-3.536,1,,0.0,unique_keep
+Azintamide,CCN(CC)C(=O)CSc1ccc(Cl)nn1,CCN(CC)C(=O)CSc1ccc(Cl)nn1,-1.716,1,,0.0,unique_keep
+"2,2-Dimethyl-1-butanol",CCC(C)(C)CO,CCC(C)(C)CO,-1.04,1,,0.0,unique_keep
+Ethyl pentanoate,CCCOC(=O)CCC,CCCOC(=O)CCC,-1.75,1,,0.0,unique_keep
+"2,4,6-Trinitrotoluene",Cc1c(cc(cc1N(=O)=O)N(=O)=O)N(=O)=O,Cc1c([N+](=O)[O-])cc([N+](=O)[O-])cc1[N+](=O)[O-],-3.22,1,,0.0,unique_keep
+Bensulide,CC(C)OP(=S)(OC(C)C)SCCNS(=O)(=O)c1ccccc1,CC(C)OP(=S)(OC(C)C)SCCNS(=O)(=O)c1ccccc1,-4.2,1,,0.0,unique_keep
+Cycloheptane,C1CCCCCC1,C1CCCCCC1,-3.51,1,,0.0,unique_keep
+Propyl formate,CCCOC=O,CCCOC=O,-0.49,1,,0.0,unique_keep
+2-Isopropyltoluene,CC(C)c1ccccc1C,Cc1ccccc1C(C)C,-3.76,1,,0.0,unique_keep
+m-Chloroaniline,Nc1cccc(Cl)c1,Nc1cccc(Cl)c1,-1.37,1,,0.0,unique_keep
+"2,4-Dimethylpentane",CC(C)CC(C)C,CC(C)CC(C)C,-4.26,1,,0.0,unique_keep
+Dibenzofurane,o1c2ccccc2c3ccccc13,c1ccc2c(c1)oc1ccccc12,-4.6,1,,0.0,unique_keep
+ethofumesate,CCOC2Oc1ccc(OS(C)(=O)=O)cc1C2(C)C,CCOC1Oc2ccc(OS(C)(=O)=O)cc2C1(C)C,-3.42,1,,0.0,unique_keep
+Fluometuron,CN(C)C(=O)Nc1cccc(c1)C(F)(F)F,CN(C)C(=O)Nc1cccc(C(F)(F)F)c1,-3.43,1,,0.0,unique_keep
+Acridine,c3ccc2nc1ccccc1cc2c3,c1ccc2nc3ccccc3cc2c1,-3.67,1,,0.0,unique_keep
+Cortisone,CC12CC(=O)C3C(CCC4=CC(=O)CCC34C)C2CCC1(O)C(=O)CO,CC12CCC(=O)C=C1CCC1C2C(=O)CC2(C)C1CCC2(O)C(=O)CO,-3.11,1,,0.0,unique_keep
+glucose,OCC1OC(O)C(O)C(O)C1O,OCC1OC(O)C(O)C(O)C1O,0.74,1,,0.0,unique_keep
+3-Methylphenol,Cc1cccc(O)c1,Cc1cccc(O)c1,-0.68,1,,0.0,unique_keep
+Indapamide,CC2Cc1ccccc1N2NC(=O)c3ccc(Cl)c(c3)S(N)(=O)=O ,CC1Cc2ccccc2N1NC(=O)c1ccc(Cl)c(S(N)(=O)=O)c1,-3.5860000000000003,1,,0.0,unique_keep
+Lovastatin,CCC(C)C(=O)OC2CC(C)C=C3C=CC(C)C(CCC1CC(O)CC(=O)O1)C23 ,CCC(C)C(=O)OC1CC(C)C=C2C=CC(C)C(CCC3CC(O)CC(=O)O3)C21,-6.005,1,,0.0,unique_keep
+"1,4-Dinitrobenzene",O=N(=O)c1ccc(cc1)N(=O)=O,O=[N+]([O-])c1ccc([N+](=O)[O-])cc1,-3.39,1,,0.0,unique_keep
+Reposal,CCC1(C(=O)NC(=O)NC1=O)C2=CCC3CCC2C3,CCC1(C2=CCC3CCC2C3)C(=O)NC(=O)NC1=O,-2.696,1,,0.0,unique_keep
+Ethyl decanoate,CCCCCCCCCC(=O)OCC,CCCCCCCCCC(=O)OCC,-4.1,1,,0.0,unique_keep
+Fenuron,CN(C)C(=O)Nc1ccccc1,CN(C)C(=O)Nc1ccccc1,-1.6,1,,0.0,unique_keep
+Ethyl propyl ether,CCCOCC,CCCOCC,-0.66,1,,0.0,unique_keep
+2-Propanol,CC(C)O,CC(C)O,0.43,1,,0.0,unique_keep
+2-Methylnapthalene,Cc1ccc2ccccc2c1,Cc1ccc2ccccc2c1,-3.77,1,,0.0,unique_keep
+Chlorodibromethane,ClC(Br)Br,ClC(Br)Br,-1.9,1,,0.0,unique_keep
+Hexestrol,CCC(C(CC)c1ccc(O)cc1)c2ccc(O)cc2,CCC(c1ccc(O)cc1)C(CC)c1ccc(O)cc1,-4.43,1,,0.0,unique_keep
+Malathion,CCOC(=O)CC(SP(=S)(OC)OC)C(=O)OCC,CCOC(=O)CC(SP(=S)(OC)OC)C(=O)OCC,-3.37,1,,0.0,unique_keep
+Benzylchloride,ClCc1ccccc1,ClCc1ccccc1,-2.39,1,,0.0,unique_keep
+t-Crotonaldehyde,C/C=C/C=O,C/C=C/C=O,0.32,1,,0.0,unique_keep
+Chlorbromuron,CON(C)C(=O)Nc1ccc(Br)c(Cl)c1,CON(C)C(=O)Nc1ccc(Br)c(Cl)c1,-3.924,1,,0.0,unique_keep
+"9,10-Dimethylanthracene",Cc1c2ccccc2c(C)c3ccccc13,Cc1c2ccccc2c(C)c2ccccc12,-6.57,1,,0.0,unique_keep
+Methyl hexanoate,CCCCCC(=O)OC,CCCCCC(=O)OC,-1.87,1,,0.0,unique_keep
+Dimefuron,CN(C)C(=O)Nc1ccc(c(Cl)c1)n2nc(oc2=O)C(C)(C)C,CN(C)C(=O)Nc1ccc(-n2nc(C(C)(C)C)oc2=O)c(Cl)c1,-4.328,1,,0.0,unique_keep
+p-Fluoroacetanilide,CC(=O)Nc1ccc(F)cc1,CC(=O)Nc1ccc(F)cc1,-1.78,1,,0.0,unique_keep
+alachlor,CCc1cccc(CC)c1N(COC)C(=O)CCl ,CCc1cccc(CC)c1N(COC)C(=O)CCl,-3.26,1,,0.0,unique_keep
+Cyclohexene,C1CCC=CC1,C1=CCCCC1,-2.59,1,,0.0,unique_keep
+Hydrocortisone ,CC12CC(O)C3C(CCC4=CC(=O)CCC34C)C2CCC1(O)C(=O)CO,CC12CCC(=O)C=C1CCC1C2C(O)CC2(C)C1CCC2(O)C(=O)CO,-3.09,1,,0.0,unique_keep
+Pyrimidine,c1cncnc1,c1cncnc1,1.1,1,,0.0,unique_keep
+p-Chloronitrobenzene,Clc1ccc(cc1)N(=O)=O,O=[N+]([O-])c1ccc(Cl)cc1,-2.92,1,,0.0,unique_keep
+Methyl propionate,CCC(=O)OC,CCC(=O)OC,-0.14,1,,0.0,unique_keep
+o-Chloronitrobenzene,Clc1ccccc1N(=O)=O,O=[N+]([O-])c1ccccc1Cl,-2.55,1,,0.0,unique_keep
+Neburon,CCCCN(C)C(=O)Nc1ccc(Cl)c(Cl)c1,CCCCN(C)C(=O)Nc1ccc(Cl)c(Cl)c1,-4.77,1,,0.0,unique_keep
+Buthidazole,CN1CC(O)N(C1=O)c2nnc(s2)C(C)(C)C,CN1CC(O)N(c2nnc(C(C)(C)C)s2)C1=O,-1.877,1,,0.0,unique_keep
+Nitrobenzene,O=N(=O)c1ccccc1,O=[N+]([O-])c1ccccc1,-1.8,1,,0.0,unique_keep
+Iodobenzene,Ic1ccccc1,Ic1ccccc1,-3.01,1,,0.0,unique_keep
+Metolazone,CC2Nc1cc(Cl)c(cc1C(=O)N2c3ccccc3C)S(N)(=O)=O ,Cc1ccccc1N1C(=O)c2cc(S(N)(=O)=O)c(Cl)cc2NC1C,-3.78,1,,0.0,unique_keep
+Methocarbamol,COc1ccccc1OCC(O)COC(N)=O,COc1ccccc1OCC(O)COC(N)=O,-0.985,1,,0.0,unique_keep
+butachlor,CCCCOCN(C(=O)CCl)c1c(CC)cccc1CC ,CCCCOCN(C(=O)CCl)c1c(CC)cccc1CC,-4.19,1,,0.0,unique_keep
+"2,3-Dichlorophenol",Oc1cccc(Cl)c1Cl,Oc1cccc(Cl)c1Cl,-1.3,1,,0.0,unique_keep
+Propyl butyrate,CCCC(=O)OC,CCCC(=O)OC,-1.92,1,,0.0,unique_keep
+Propanil,CCC(=O)Nc1ccc(Cl)c(Cl)c1,CCC(=O)Nc1ccc(Cl)c(Cl)c1,-3.0,1,,0.0,unique_keep
+Triamterene,Nc3nc(N)c2nc(c1ccccc1)c(N)nc2n3,Nc1nc(N)c2nc(-c3ccccc3)c(N)nc2n1,-2.404,1,,0.0,unique_keep
+Ethyl hexanoate,CCCCCC(=O)OCC,CCCCCC(=O)OCC,-2.35,1,,0.0,unique_keep
+chloralose,OCC(O)C2OC1OC(OC1C2O)C(Cl)(Cl)Cl ,OCC(O)C1OC2OC(C(Cl)(Cl)Cl)OC2C1O,-1.84,1,,0.0,unique_keep
+Amitraz,CN(C=Nc1ccc(C)cc1C)C=Nc2ccc(C)cc2C,Cc1ccc(N=CN(C)C=Nc2ccc(C)cc2C)c(C)c1,-5.47,1,,0.0,unique_keep
+Prometon,COc1nc(NC(C)C)nc(NC(C)C)n1,COc1nc(NC(C)C)nc(NC(C)C)n1,-2.478,1,,0.0,unique_keep
+1-Octene ,CCCCCCC=C,C=CCCCCCC,-4.44,1,,0.0,unique_keep
+p-Methylaniline ,Cc1ccc(N)cc1,Cc1ccc(N)cc1,-1.21,1,,0.0,unique_keep
+aminothiazole,Nc1nccs1 ,Nc1nccs1,-0.36,1,,0.0,unique_keep
+Metolcarb,c1ccccc1(OC(=O)NC),CNC(=O)Oc1ccccc1,-1.803,1,,0.0,unique_keep
+3-Hexanol,CCCC(O)CC,CCCC(O)CC,-0.8,1,,0.0,unique_keep
+9-anthrol,c3ccc2c(O)c1ccccc1cc2c3 ,Oc1c2ccccc2cc2ccccc12,-4.73,1,,0.0,unique_keep
+2-Methylanthracene,Cc1ccc2cc3ccccc3cc2c1,Cc1ccc2cc3ccccc3cc2c1,-6.96,1,,0.0,unique_keep
+"1,2,3-Trimethylbenzene ",Cc1cccc(C)c1C,Cc1cccc(C)c1C,-3.2,1,,0.0,unique_keep
+Aminocarb,CNC(=O)Oc1ccc(N(C)C)c(C)c1,CNC(=O)Oc1ccc(N(C)C)c(C)c1,-2.36,1,,0.0,unique_keep
+2-Nonanol,CCCCCCCC(C)O,CCCCCCCC(C)O,-2.74,1,,0.0,unique_keep
+Methyldymron,CN(C(=O)NC(C)(C)c1ccccc1)c2ccccc2,CN(C(=O)NC(C)(C)c1ccccc1)c1ccccc1,-3.35,1,,0.0,unique_keep
+3-Hexanone,CCCC(=O)CC,CCCC(=O)CC,-0.83,1,,0.0,unique_keep
+bromoxynil,Oc1c(Br)cc(C#N)cc1Br ,N#Cc1cc(Br)c(O)c(Br)c1,-3.33,1,,0.0,unique_keep
+"3,4-PCB",Clc1ccc(cc1Cl)c2ccccc2 ,Clc1ccc(-c2ccccc2)cc1Cl,-6.39,1,,0.0,unique_keep
+Mefenacet,CN(C(=O)COc1nc2ccccc2s1)c3ccccc3,CN(C(=O)COc1nc2ccccc2s1)c1ccccc1,-4.873,1,,0.0,unique_keep
+5-hydroxyquinoline,Oc1cccc2ncccc12 ,Oc1cccc2ncccc12,-2.54,1,,0.0,unique_keep
+Carboxin,CC1=C(SCCO1)C(=O)Nc2ccccc2,CC1=C(C(=O)Nc2ccccc2)SCCO1,-3.14,1,,0.0,unique_keep
+Ethoxyzolamide,CCOc2ccc1nc(sc1c2)S(N)(=O)=O ,CCOc1ccc2nc(S(N)(=O)=O)sc2c1,-3.81,1,,0.0,unique_keep
+Pentachlorophenol,Oc1c(Cl)c(Cl)c(Cl)c(Cl)c1Cl,Oc1c(Cl)c(Cl)c(Cl)c(Cl)c1Cl,-4.28,1,,0.0,unique_keep
+Bromochloromethane,ClCBr,ClCBr,-0.89,1,,0.0,unique_keep
+metharbital,CCC1(CC)C(=O)NC(=O)N(C)C1=O ,CCC1(CC)C(=O)NC(=O)N(C)C1=O,-2.23,1,,0.0,unique_keep
+deoxycorticosterone acetate,CC(=O)OCC(=O)C3CCC4C2CCC1=CC(=O)CCC1(C)C2CCC34C ,CC(=O)OCC(=O)C1CCC2C3CCC4=CC(=O)CCC4(C)C3CCC12C,-4.63,1,,0.0,unique_keep
+benzylurea,NC(=O)NCc1ccccc1 ,NC(=O)NCc1ccccc1,-0.95,1,,0.0,unique_keep
+Chlortoluron,CN(C)C(=O)Nc1ccc(C)c(Cl)c1,Cc1ccc(NC(=O)N(C)C)cc1Cl,-3.483,1,,0.0,unique_keep
+Linuron,CON(C)C(=O)Nc1ccc(Cl)c(Cl)c1,CON(C)C(=O)Nc1ccc(Cl)c(Cl)c1,-3.592,1,,0.0,unique_keep
+Cycloheptanol,OC1CCCCCC1,OC1CCCCCC1,-0.88,1,,0.0,unique_keep
+Thiamphenicol,CS(=O)(=O)c1ccc(cc1)C(O)C(CO)NC(=O)C(Cl)Cl ,CS(=O)(=O)c1ccc(C(O)C(CO)NC(=O)C(Cl)Cl)cc1,-2.154,1,,0.0,unique_keep
+thiopental,CCCC(C)C1(CC)C(=O)NC(=S)NC1=O ,CCCC(C)C1(CC)C(=O)NC(=S)NC1=O,-3.36,1,,0.0,unique_keep
+acetazolamide,CC(=O)Nc1nnc(s1)S(N)(=O)=O ,CC(=O)Nc1nnc(S(N)(=O)=O)s1,-2.36,1,,0.0,unique_keep
+p-Nitrophenol,Oc1ccc(cc1)N(=O)=O,O=[N+]([O-])c1ccc(O)cc1,-0.74,1,,0.0,unique_keep
+Aldrin,ClC1=C(Cl)C2(Cl)C3C4CC(C=C4)C3C1(Cl)C2(Cl)Cl,ClC1=C(Cl)C2(Cl)C3C4C=CC(C4)C3C1(Cl)C2(Cl)Cl,-6.307,1,,0.0,unique_keep
+Tetrahydrofurane ,C1CCOC1,C1CCOC1,0.49,1,,0.0,unique_keep
+o-Nitroaniline,Nc1ccccc1N(=O)=O,Nc1ccccc1[N+](=O)[O-],-1.96,1,,0.0,unique_keep
+"2,2',3,3'-PCB",Clc1cccc(c1Cl)c2cccc(Cl)c2Cl,Clc1cccc(-c2cccc(Cl)c2Cl)c1Cl,-7.28,1,,0.0,unique_keep
+phenylbutazone,CCCCC1C(=O)N(N(C1=O)c2ccccc2)c3ccccc3 ,CCCCC1C(=O)N(c2ccccc2)N(c2ccccc2)C1=O,-3.81,1,,0.0,unique_keep
+"2,6-Dinitrotoluene",Cc1c(cccc1N(=O)=O)N(=O)=O,Cc1c([N+](=O)[O-])cccc1[N+](=O)[O-],-3.0,1,,0.0,unique_keep
+Progesterone,CC(=O)C1CCC2C3CCC4=CC(=O)CCC4(C)C3CCC12C,CC(=O)C1CCC2C3CCC4=CC(=O)CCC4(C)C3CCC12C,-4.42,1,,0.0,unique_keep
+Chlorazine,CCN(CC)c1nc(Cl)nc(n1)N(CC)CC,CCN(CC)c1nc(Cl)nc(N(CC)CC)n1,-4.4110000000000005,1,,0.0,unique_keep
+captafol,ClC(Cl)C(Cl)(Cl)SN2C(=O)C1CC=CCC1C2=O ,O=C1C2CC=CCC2C(=O)N1SC(Cl)(Cl)C(Cl)Cl,-5.4,1,,0.0,unique_keep
+"1,2,4-tribromobenzene",c1(Br)c(Br)cc(Br)cc1,Brc1ccc(Br)c(Br)c1,-4.5,1,,0.0,unique_keep
+Oxazepam,OC3N=C(c1ccccc1)c2cc(Cl)ccc2NC3=O ,O=C1Nc2ccc(Cl)cc2C(c2ccccc2)=NC1O,-3.952,1,,0.0,unique_keep
+Secobarbital,O=C1NC(=O)NC(=O)C1(C(C)CCC)CC=C,C=CCC1(C(C)CCC)C(=O)NC(=O)NC1=O,-2.356,1,,0.0,unique_keep
+Carvacrol,c1(O)c(C)ccc(C(C)C)c1,Cc1ccc(C(C)C)cc1O,-2.08,1,,0.0,unique_keep
+rhodanine,C1SC(=S)NC1(=O),O=C1CSC(=S)N1,-1.77,1,,0.0,unique_keep
+Morin,Oc1ccc(c(O)c1)c3oc2cc(O)cc(O)c2c(=O)c3O ,O=c1c(O)c(-c2ccc(O)cc2O)oc2cc(O)cc(O)c12,-3.083,1,,0.0,unique_keep
+Kepone,ClC1(C(=O)C2(Cl)C3(Cl)C14Cl)C5(Cl)C2(Cl)C3(Cl)C(Cl)(Cl)C45Cl,O=C1C2(Cl)C3(Cl)C4(Cl)C(Cl)(Cl)C5(Cl)C3(Cl)C1(Cl)C5(Cl)C24Cl,-5.259,1,,0.0,unique_keep
+Disulfiram,CCN(CC)C(=S)SSC(=S)N(CC)CC,CCN(CC)C(=S)SSC(=S)N(CC)CC,-4.86,1,,0.0,unique_keep
+Cyclohexane,C1CCCCC1,C1CCCCC1,-3.1,1,,0.0,unique_keep
+Dienochlor,ClC1=C(Cl)C(Cl)(C(=C1Cl)Cl)C2(Cl)C(=C(Cl)C(=C2Cl)Cl)Cl,ClC1=C(Cl)C(Cl)(C2(Cl)C(Cl)=C(Cl)C(Cl)=C2Cl)C(Cl)=C1Cl,-7.278,1,,0.0,unique_keep
+chlordimeform,CN(C)C=Nc1ccc(Cl)cc1C,Cc1cc(Cl)ccc1N=CN(C)C,-2.86,1,,0.0,unique_keep
+Equilenin,CC34CCc1c(ccc2cc(O)ccc12)C3CCC4=O,CC12CCc3c(ccc4cc(O)ccc34)C1CCC2=O,-5.24,1,,0.0,unique_keep
+1-Octanol,CCCCCCCCO,CCCCCCCCO,-2.39,1,,0.0,unique_keep
+Diethyl sulfide,CCSCC,CCSCC,-1.34,1,,0.0,unique_keep
+"1,2-Dichloroethane",ClCCCl,ClCCCl,-1.06,1,,0.0,unique_keep
+2-Chloro-2-methylbutane,CCC(C)(C)Cl,CCC(C)(C)Cl,-2.51,1,,0.0,unique_keep
+1-Chloro-2-bromoethane,ClCCBr,ClCCBr,-1.32,1,,0.0,unique_keep
+p-Nitroaniline,Nc1ccc(cc1)N(=O)=O,Nc1ccc([N+](=O)[O-])cc1,-2.37,1,,0.0,unique_keep
+Lactose,OCC1OC(OC2C(O)C(O)C(O)OC2CO)C(O)C(O)C1O,OCC1OC(OC2C(CO)OC(O)C(O)C2O)C(O)C(O)C1O,-0.244,1,,0.0,unique_keep
+RTI 2,CCN2c1ncccc1N(CC)C(=O)c3cccnc23 ,CCN1C(=O)c2cccnc2N(CC)c2ncccc21,-2.86,1,,0.0,unique_keep
+Chlorobenzene,Clc1ccccc1,Clc1ccccc1,-2.38,1,,0.0,unique_keep
+1-Nonene ,CCCCCCCC=C,C=CCCCCCCC,-5.05,1,,0.0,unique_keep
+p-Bromoiodobenzene,Brc1ccc(I)cc1,Brc1ccc(I)cc1,-4.56,1,,0.0,unique_keep
+3-Methyl-3-pentanol,CCC(C)(O)CC,CCC(C)(O)CC,-0.36,1,,0.0,unique_keep
+Pentylbenzene,CCCCCc1ccccc1,CCCCCc1ccccc1,-4.64,1,,0.0,unique_keep
+allantoin,NC(=O)NC1NC(=O)NC1=O ,NC(=O)NC1NC(=O)NC1=O,-1.6,1,,0.0,unique_keep
+Glafenine,OCC(O)COC(=O)c1ccccc1Nc2ccnc3cc(Cl)ccc23,O=C(OCC(O)CO)c1ccccc1Nc1ccnc2cc(Cl)ccc12,-4.571000000000001,1,,0.0,unique_keep
+"DDD|P,P'-DDD",ClC(Cl)C(c1ccc(Cl)cc1)c2ccc(Cl)cc2|ClC(Cl)C(c1ccc(Cl)cc1)c2ccc(Cl)cc2 ,Clc1ccc(C(c2ccc(Cl)cc2)C(Cl)Cl)cc1,-7.2,2,0.0,0.0,duplicate_aggregated
+testosterone acetate,CC(=O)OC3CCC4C2CCC1=CC(=O)CCC1(C)C2CCC34C ,CC(=O)OC1CCC2C3CCC4=CC(=O)CCC4(C)C3CCC12C,-5.184,1,,0.0,unique_keep
+1-Chloronapthalene,Clc1cccc2ccccc12,Clc1cccc2ccccc12,-3.93,1,,0.0,unique_keep
+RTI 19,CCN2c1ccccc1N(C)C(=O)c3ccccc23 ,CCN1c2ccccc2C(=O)N(C)c2ccccc21,-4.749,1,,0.0,unique_keep
+2-Hexanol,CCCCC(C)O,CCCCC(C)O,-0.89,1,,0.0,unique_keep
+Propylcyclopentane,CCCC1CCCC1,CCCC1CCCC1,-4.74,1,,0.0,unique_keep
+Etomidate,CCOC(=O)c1cncn1C(C)c2ccccc2,CCOC(=O)c1cncn1C(C)c1ccccc1,-4.735,1,,0.0,unique_keep
+"3,4-Dichlorophenol",Oc1ccc(Cl)c(Cl)c1,Oc1ccc(Cl)c(Cl)c1,-1.25,1,,0.0,unique_keep
+Cypermethrin,CC1(C)C(C=C(Cl)Cl)C1C(=O)OC(C#N)c2cccc(Oc3ccccc3)c2,CC1(C)C(C=C(Cl)Cl)C1C(=O)OC(C#N)c1cccc(Oc2ccccc2)c1,-8.017000000000001,1,,0.0,unique_keep
+Benzoxazole,c2ccc1ocnc1c2,c1ccc2ocnc2c1,-1.16,1,,0.0,unique_keep
+1-Pentanol,CCCCCO,CCCCCO,-0.6,1,,0.0,unique_keep
+"N,N-Diethylaniline",CCN(CC)c1ccccc1,CCN(CC)c1ccccc1,-3.03,1,,0.0,unique_keep
+"1,3-Difluorobenzene",Fc1cccc(F)c1,Fc1cccc(F)c1,-2.0,1,,0.0,unique_keep
+3-chloropropionitrile,ClCCC#N ,N#CCCCl,-0.29,1,,0.0,unique_keep
+t-Pentylbenzene,CC(C)(C)Cc1ccccc1,CC(C)(C)Cc1ccccc1,-4.15,1,,0.0,unique_keep
+o-Chloroiodobenzene,Clc1ccccc1I,Clc1ccccc1I,-3.54,1,,0.0,unique_keep
+Benzotriazole,c2ccc1[nH]nnc1c2,c1ccc2[nH]nnc2c1,-0.78,1,,0.0,unique_keep
+Carbofuran,CNC(=O)Oc1cccc2CC(C)(C)Oc12,CNC(=O)Oc1cccc2c1OC(C)(C)C2,-2.8,1,,0.0,unique_keep
+"2,6-Dimethylphenol",Cc1cccc(C)c1O,Cc1cccc(C)c1O,-1.29,1,,0.0,unique_keep
+3-Methyl-2-butanol,CC(C)C(C)O,CC(C)C(C)O,-0.18,1,,0.0,unique_keep
+benzhydrol,c1ccccc1C(O)c2ccccc2,OC(c1ccccc1)c1ccccc1,-2.55,1,,0.0,unique_keep
+Methyl decanoate,CCCCCCCCCC(=O)OC,CCCCCCCCCC(=O)OC,-4.69,1,,0.0,unique_keep
+Dicapthon,COP(=S)(OC)Oc1ccc(cc1Cl)N(=O)=O,COP(=S)(OC)Oc1ccc([N+](=O)[O-])cc1Cl,-4.31,1,,0.0,unique_keep
+1-Bromo-2-methylpropane,CC(C)CBr,CC(C)CBr,-2.43,1,,0.0,unique_keep
+Iodoethane,CCI,CCI,-1.6,1,,0.0,unique_keep
+Pirimicarb,CN(C)C(=O)Oc1nc(nc(C)c1C)N(C)C,Cc1nc(N(C)C)nc(OC(=O)N(C)C)c1C,-1.95,1,,0.0,unique_keep
+1-Bromohexane,CCCCCCBr,CCCCCCBr,-3.81,1,,0.0,unique_keep
+2-Methylpentane,CCCC(C)C,CCCC(C)C,-3.74,1,,0.0,unique_keep
+Tetrafluthrin,Cc1c(F)c(F)c(COC(=O)C2C(C=C(Cl)C(F)(F)F)C2(C)C)c(F)c1F,Cc1c(F)c(F)c(COC(=O)C2C(C=C(Cl)C(F)(F)F)C2(C)C)c(F)c1F,-7.321000000000001,1,,0.0,unique_keep
+Metolachlor,CCc1cccc(C)c1N(C(C)COC)C(=O)CCl ,CCc1cccc(C)c1N(C(=O)CCl)C(C)COC,-2.73,1,,0.0,unique_keep
+nifuroxime,ON=Cc1ccc(o1)N(=O)=O ,O=[N+]([O-])c1ccc(C=NO)o1,-2.19,1,,0.0,unique_keep
+Fluvalinate,CC(C)C(Nc1ccc(cc1Cl)C(F)(F)F)C(=O)OC(C#N)c2cccc(Oc3ccccc3)c2,CC(C)C(Nc1ccc(C(F)(F)F)cc1Cl)C(=O)OC(C#N)c1cccc(Oc2ccccc2)c1,-8.003,1,,0.0,unique_keep
+Amitrole,Nc1nc[nH]n1,Nc1nc[nH]n1,0.522,1,,0.0,unique_keep
+Tribromomethane,BrC(Br)Br,BrC(Br)Br,-1.91,1,,0.0,unique_keep
+Trichlorfon,COP(=O)(OC)C(O)C(Cl)(Cl)Cl,COP(=O)(OC)C(O)C(Cl)(Cl)Cl,-0.22,1,,0.0,unique_keep
+Phosalone,CCOP(=S)(OCC)SCn1c(=O)oc2cc(Cl)ccc12,CCOP(=S)(OCC)SCn1c(=O)oc2cc(Cl)ccc21,-5.233,1,,0.0,unique_keep
+Phenylmethanol,OCc1ccccc1,OCc1ccccc1,-0.4,1,,0.0,unique_keep
+Coumatetralyl,O=c2c(C3CCCc4ccccc43)c(O)c1ccccc1o2 ,O=c1oc2ccccc2c(O)c1C1CCCc2ccccc21,-2.84,1,,0.0,unique_keep
+4-Bromophenol,Oc1ccc(Br)cc1,Oc1ccc(Br)cc1,-1.09,1,,0.0,unique_keep
+2-Bromopropane,CC(C)Br,CC(C)Br,-1.59,1,,0.0,unique_keep
+"2,2,4-Trimethylpentane",CC(C)CC(C)(C)C,CC(C)CC(C)(C)C,-4.74,1,,0.0,unique_keep
+"1,3,5-Trinitrobenzene",O=N(=O)c1cc(cc(c1)N(=O)=O)N(=O)=O,O=[N+]([O-])c1cc([N+](=O)[O-])cc([N+](=O)[O-])c1,-2.89,1,,0.0,unique_keep
+Nimetazepam,CN2C(=O)CN=C(c1ccccc1)c3cc(ccc23)N(=O)=O,CN1C(=O)CN=C(c2ccccc2)c2cc([N+](=O)[O-])ccc21,-3.796,1,,0.0,unique_keep
+Propane,CCC,CCC,-1.94,1,,0.0,unique_keep
+Minoxidil,Nc1cc(nc(N)n1=O)N2CCCCC2 ,Nc1cc(N2CCCCC2)nc(N)[n+]1[O-],-1.989,1,,0.0,unique_keep
+1-aminoacridine,Nc2cccc3nc1ccccc1cc23 ,Nc1cccc2nc3ccccc3cc12,-4.22,1,,0.0,unique_keep
+Benzo(k)fluoranthene,c1ccc2cc3c4cccc5cccc(c3cc2c1)c45,c1ccc2cc3c(cc2c1)-c1cccc2cccc-3c12,-8.49,1,,0.0,unique_keep
+Dicofol,OC(c1ccc(Cl)cc1)(c2ccc(Cl)cc2)C(Cl)(Cl)Cl,OC(c1ccc(Cl)cc1)(c1ccc(Cl)cc1)C(Cl)(Cl)Cl,-5.666,1,,0.0,unique_keep
+Acenapthene,C1Cc2cccc3cccc1c23,c1cc2c3c(cccc3c1)CC2,-4.63,1,,0.0,unique_keep
+"1,4-Dibromobenzene",Brc1ccc(Br)cc1,Brc1ccc(Br)cc1,-4.07,1,,0.0,unique_keep
+Methazole,Cn2c(=O)on(c1ccc(Cl)c(Cl)c1)c2=O,Cn1c(=O)on(-c2ccc(Cl)c(Cl)c2)c1=O,-2.82,1,,0.0,unique_keep
+p-Phenylphenol,Oc1ccc(cc1)c2ccccc2,Oc1ccc(-c2ccccc2)cc1,-3.48,1,,0.0,unique_keep
+pyracarbolid,CC1=C(CCCO1)C(=O)Nc2ccccc2 ,CC1=C(C(=O)Nc2ccccc2)CCCO1,-2.56,1,,0.0,unique_keep
+Ethyl vinyl ether,CCOC=C,C=COCC,-0.85,1,,0.0,unique_keep
+1-Butyne,CCC#C,C#CCC,-1.24,1,,0.0,unique_keep
+4-methoxypteridine,COc1ncnc2nccnc12 ,COc1ncnc2nccnc12,-1.11,1,,0.0,unique_keep
+3-Methyl-3-heptanol,CCCCC(C)(O)CC,CCCCC(C)(O)CC,-1.6,1,,0.0,unique_keep
+"1,4-Dichlorobenzene",Clc1ccc(Cl)cc1,Clc1ccc(Cl)cc1,-3.27,1,,0.0,unique_keep
+3-Ethanoyloxymethylphenytoin,O=C1N(COC(=O)C)C(=O)C(N1)(c2ccccc2)c3ccccc3,CC(=O)OCN1C(=O)NC(c2ccccc2)(c2ccccc2)C1=O,-4.47,1,,0.0,unique_keep
+"Sparsomycin (3,8mg/ml)",CSCS(=O)CC(CO)NC(=O)C=Cc1c(C)[nH]c(=O)[nH]c1=O,CSCS(=O)CC(CO)NC(=O)C=Cc1c(C)[nH]c(=O)[nH]c1=O,-1.981,1,,0.0,unique_keep
+3-methylindole,Cc1c[nH]c2ccccc12 ,Cc1c[nH]c2ccccc12,-2.42,1,,0.0,unique_keep
+2-methoxypteridine,COc2ncc1nccnc1n2,COc1ncc2nccnc2n1,-1.11,1,,0.0,unique_keep
+Dioxacarb,CNC(=O)Oc1ccccc1C2OCCO2,CNC(=O)Oc1ccccc1C1OCCO1,-1.57,1,,0.0,unique_keep
+isocarbamid,C1N(C(=O)NCC(C)C)C(=O)NC1,CC(C)CNC(=O)N1CCNC1=O,-2.15,1,,0.0,unique_keep
+Acetonitrile,CC#N,CC#N,0.26,1,,0.0,unique_keep
+Fenoxycarb,CCOC(=O)NCCOc2ccc(Oc1ccccc1)cc2,CCOC(=O)NCCOc1ccc(Oc2ccccc2)cc1,-4.7,1,,0.0,unique_keep
+acetyl sulfisoxazole,CC(=O)N(S(=O)c1ccc(N)cc1)c2onc(C)c2C ,CC(=O)N(c1onc(C)c1C)S(=O)c1ccc(N)cc1,-3.59,1,,0.0,unique_keep
+"1,1,1,2-Tetrachloroethane",ClCC(Cl)(Cl)Cl,ClCC(Cl)(Cl)Cl,-2.18,1,,0.0,unique_keep
+1-Butanol,CCCCO,CCCCO,0.0,1,,0.0,unique_keep
+Siduron,CC1CCCCC1NC(=O)Nc2ccccc2,CC1CCCCC1NC(=O)Nc1ccccc1,-4.11,1,,0.0,unique_keep
+"1,3,5-Trichlorobenzene",Clc1cc(Cl)cc(Cl)c1,Clc1cc(Cl)cc(Cl)c1,-4.48,1,,0.0,unique_keep
+Furfural,O=Cc1ccco1,O=Cc1ccco1,-0.1,1,,0.0,unique_keep
+3-Methylbutan-1-ol,CC(C)CCO,CC(C)CCO,-0.51,1,,0.0,unique_keep
+piperonal,O=Cc2ccc1OCOc1c2 ,O=Cc1ccc2c(c1)OCO2,-1.63,1,,0.0,unique_keep
+2-Methylpropene,CC(=C)C,C=C(C)C,-2.33,1,,0.0,unique_keep
+Benzaldehyde,O=Cc1ccccc1,O=Cc1ccccc1,-1.19,1,,0.0,unique_keep
+"2,3-Dimethyl-1,3-Butadiene",CC(=C)C(=C)C,C=C(C)C(=C)C,-2.4,1,,0.0,unique_keep
+Benfuracarb,CCOC(=O)CCN(SN(C)C(=O)Oc1cccc2CC(C)(C)Oc21)C(C)C,CCOC(=O)CCN(SN(C)C(=O)Oc1cccc2c1OC(C)(C)C2)C(C)C,-4.71,1,,0.0,unique_keep
+RTI 10,O2c1ccccc1N(C)C(=O)c3cccnc23 ,CN1C(=O)c2cccnc2Oc2ccccc21,-3.672,1,,0.0,unique_keep
+Fluorene ,C1c2ccccc2c3ccccc13,c1ccc2c(c1)Cc1ccccc1-2,-5.0,1,,0.0,unique_keep
+Methylcyclohexane ,CC1CCCCC1,CC1CCCCC1,-3.85,1,,0.0,unique_keep
+sulfaguanidine,NC(=N)NS(=O)(=O)c1ccc(N)cc1 ,N=C(N)NS(=O)(=O)c1ccc(N)cc1,-1.99,1,,0.0,unique_keep
+Methylparaben,COC(=O)c1ccc(O)cc1,COC(=O)c1ccc(O)cc1,-1.827,1,,0.0,unique_keep
+2-Methyltetrahydrofurane,CC1CCCO1,CC1CCCO1,0.11,1,,0.0,unique_keep
+Santonin,CC3C2CCC1(C)C=CC(=O)C(=C1C2OC3=O)C,CC1=C2C3OC(=O)C(C)C3CCC2(C)C=CC1=O,-3.09,1,,0.0,unique_keep
+Salicin,OCC2OC(Oc1ccccc1CO)C(O)C(O)C2O,OCc1ccccc1OC1OC(CO)C(O)C(O)C1O,-0.85,1,,0.0,unique_keep
+1-Iodopropane,CCCI,CCCI,-2.29,1,,0.0,unique_keep
+Ametryn,CCNc1nc(NC(C)C)nc(SC)n1,CCNc1nc(NC(C)C)nc(SC)n1,-3.04,1,,0.0,unique_keep
+1-Propanol,CCCO,CCCO,0.62,1,,0.0,unique_keep
+Hydroxyprogesterone-17a,CC(=O)C1(O)CCC2C3CCC4=CC(=O)CCC4(C)C3CCC21C,CC(=O)C1(O)CCC2C3CCC4=CC(=O)CCC4(C)C3CCC21C,-3.817,1,,0.0,unique_keep
+2-Pentanol,CCCC(C)O,CCCC(C)O,-0.29,1,,0.0,unique_keep
+benzoin,OC(C(=O)c1ccccc1)c2ccccc2,O=C(c1ccccc1)C(O)c1ccccc1,-2.85,1,,0.0,unique_keep
+"2,4-Dimethylphenol",Cc1ccc(O)c(C)c1,Cc1ccc(O)c(C)c1,-1.19,1,,0.0,unique_keep
+m-Chloronitrobenzene ,Clc1cccc(c1)N(=O)=O,O=[N+]([O-])c1cccc(Cl)c1,-2.77,1,,0.0,unique_keep
+ampyrone,Cc2c(N)c(=O)n(c1ccccc1)n2C,Cc1c(N)c(=O)n(-c2ccccc2)n1C,-0.624,1,,0.0,unique_keep
+"2,2',4,5'-PCB",Clc1ccc(c(Cl)c1)c2cc(Cl)ccc2Cl ,Clc1ccc(-c2cc(Cl)ccc2Cl)c(Cl)c1,-6.57,1,,0.0,unique_keep
+"Hexachloro-1,3-butadiene",ClC(=C(Cl)C(=C(Cl)Cl)Cl)Cl,ClC(Cl)=C(Cl)C(Cl)=C(Cl)Cl,-4.92,1,,0.0,unique_keep
+Terbutryn,CCNc1nc(NC(C)(C)C)nc(SC)n1,CCNc1nc(NC(C)(C)C)nc(SC)n1,-4.0,1,,0.0,unique_keep
+3-Methyl-2-pentanol,CCC(C)CCO,CCC(C)CCO,-0.71,1,,0.0,unique_keep
+2-methylpteridine,Cc2ncc1nccnc1n2,Cc1ncc2nccnc2n1,-0.12,1,,0.0,unique_keep
+Danazol,CC23Cc1cnoc1C=C2CCC4C3CCC5(C)C4CCC5(O)C#C,C#CC1(O)CCC2C3CCC4=Cc5oncc5CC4(C)C3CCC21C,-5.507000000000001,1,,0.0,unique_keep
+1-Iodobutane,CCCCI,CCCCI,-2.96,1,,0.0,unique_keep
+"Digoxin (L1=41,8mg/mL, L2=68,2mg/mL, Z=40,1mg/mL)",CC1OC(CC(O)C1O)OC2C(O)CC(OC2C)OC8C(O)CC(OC7CCC3(C)C(CCC4C3CC(O)C5(C)C(CCC45O)C6=CC(=O)OC6)C7)OC8C ,CC1OC(OC2C(O)CC(OC3C(O)CC(OC4CCC5(C)C(CCC6C5CC(O)C5(C)C(C7=CC(=O)OC7)CCC65O)C4)OC3C)OC2C)CC(O)C1O,-4.081,1,,0.0,unique_keep
+Benzyltrifluoride,FC(F)(F)c1ccccc1,FC(F)(F)c1ccccc1,-2.51,1,,0.0,unique_keep
+Dihexyl phthalate,CCCCCCOC(=O)c1ccccc1C(=O)OCCCCCC,CCCCCCOC(=O)c1ccccc1C(=O)OCCCCCC,-6.144,1,,0.0,unique_keep
+Dibenzothiophene,c1ccc2c(c1)sc3ccccc23,c1ccc2c(c1)sc1ccccc12,-4.38,1,,0.0,unique_keep
+"2,3',4,4'-PCB",Clc1ccc(c(Cl)c1)c2ccc(Cl)c(Cl)c2Cl ,Clc1ccc(-c2ccc(Cl)c(Cl)c2Cl)c(Cl)c1,-7.8,1,,0.0,unique_keep
+"2,2',3,3',4,4'-PCB",Clc1ccc(c(Cl)c1Cl)c2ccc(Cl)c(Cl)c2Cl ,Clc1ccc(-c2ccc(Cl)c(Cl)c2Cl)c(Cl)c1Cl,-8.01,1,,0.0,unique_keep
+Warfarin,CC(=O)CC(c1ccccc1)c3c(O)c2ccccc2oc3=O ,CC(=O)CC(c1ccccc1)c1c(O)c2ccccc2oc1=O,-3.893,1,,0.0,unique_keep
+hydrobenzoin,c1ccccc1C(O)C(O)c2ccccc2,OC(c1ccccc1)C(O)c1ccccc1,-1.93,1,,0.0,unique_keep
+Dimethyl phthalate,COC(=O)c1ccccc1C(=O)OC,COC(=O)c1ccccc1C(=O)OC,-1.66,1,,0.0,unique_keep
+Ethyl octanoate,CCCCCCCC(=O)OCC,CCCCCCCC(=O)OCC,-3.39,1,,0.0,unique_keep
+Diethyldisulfide,CCSSCC,CCSSCC,-2.42,1,,0.0,unique_keep
+"1,2-Diethoxyethane ",CCOCCOCC,CCOCCOCC,-0.77,1,,0.0,unique_keep
+"1,2,4,5-Tetrachlorobenzene",Clc1cc(Cl)c(Cl)cc1Cl,Clc1cc(Cl)c(Cl)cc1Cl,-5.56,1,,0.0,unique_keep
+p-benzidine,Nc1ccc(cc1)c2ccc(N)cc2,Nc1ccc(-c2ccc(N)cc2)cc1,-2.7,1,,0.0,unique_keep
+1-Heptene,CCCCCC=C,C=CCCCCC,-3.73,1,,0.0,unique_keep
+Ethirimol,CCCCc1c(C)nc(NCC)[nH]c1=O,CCCCc1c(C)nc(NCC)[nH]c1=O,-3.028,1,,0.0,unique_keep
+Pentobarbital,O=C1NC(=O)NC(=O)C1(CC)C(C)CCC,CCCC(C)C1(CC)C(=O)NC(=O)NC1=O,-2.39,1,,0.0,unique_keep
+o-Chloroaniline,Nc1ccccc1Cl,Nc1ccccc1Cl,-1.52,1,,0.0,unique_keep
+3-Chloroanisole,COc1cccc(Cl)c1,COc1cccc(Cl)c1,-2.78,1,,0.0,unique_keep
+Pebulate,CCCCN(CC)C(=O)SCCC,CCCCN(CC)C(=O)SCCC,-3.53,1,,0.0,unique_keep
+Butyl acetate,CCCCOC=O,CCCCOC=O,-1.37,1,,0.0,unique_keep
+Prednisolone,CC12CC(O)C3C(CCC4=CC(=O)C=CC34C)C2CCC1(O)C(=O)CO,CC12C=CC(=O)C=C1CCC1C2C(O)CC2(C)C1CCC2(O)C(=O)CO,-3.18,1,,0.0,unique_keep
+Bromodichloromethane,BrC(Cl)Cl,ClC(Cl)Br,-1.54,1,,0.0,unique_keep
+adrenosterone,CC34CC(=O)C1C(CCC2=CC(=O)CCC12C)C3CCC4(=O) ,CC12CC(=O)C3C(CCC4=CC(=O)CCC43C)C1CCC2=O,-3.48,1,,0.0,unique_keep
+p-terphenyl,c1ccc(cc1)c2ccc(cc2)c3ccccc3,c1ccc(-c2ccc(-c3ccccc3)cc2)cc1,-7.11,1,,0.0,unique_keep
+p-Hydroxybenzaldehyde ,Oc1ccc(C=O)cc1,O=Cc1ccc(O)cc1,-0.96,1,,0.0,unique_keep
+Bromomethane,CBr,CBr,-0.79,1,,0.0,unique_keep
+Perfluidone,Cc1cc(ccc1NS(=O)(=O)C(F)(F)F)S(=O)(=O)c2ccccc2,Cc1cc(S(=O)(=O)c2ccccc2)ccc1NS(=O)(=O)C(F)(F)F,-3.8,1,,0.0,unique_keep
+Coumachlor,CC(=O)CC(c1ccc(Cl)cc1)c2c(O)c3ccccc3oc2=O,CC(=O)CC(c1ccc(Cl)cc1)c1c(O)c2ccccc2oc1=O,-5.839,1,,0.0,unique_keep
+2-Ethylnaphthalene,CCc1ccc2ccccc2c1,CCc1ccc2ccccc2c1,-4.29,1,,0.0,unique_keep
+5-methylcytosine,Nc1c(C)c[nH]c(=O)n1 ,Cc1c[nH]c(=O)nc1N,-1.4580000000000002,1,,0.0,unique_keep
+"2,3,4,5,6-PCB",Clc2c(Cl)c(Cl)c(c1ccccc1)c(Cl)c2Cl ,Clc1c(Cl)c(Cl)c(-c2ccccc2)c(Cl)c1Cl,-7.92,1,,0.0,unique_keep
+benodanil,c1c(NC(=O)c2ccccc2(I))cccc1,O=C(Nc1ccccc1)c1ccccc1I,-4.21,1,,0.0,unique_keep
+Riboflavin,Cc3cc2nc1c(=O)[nH]c(=O)nc1n(CC(O)C(O)C(O)CO)c2cc3C,Cc1cc2nc3c(=O)[nH]c(=O)nc-3n(CC(O)C(O)C(O)CO)c2cc1C,-3.685,1,,0.0,unique_keep
+o-Fluorobromobenzene,Fc1ccccc1Br,Fc1ccccc1Br,-2.7,1,,0.0,unique_keep
+"2,4-Dichlorophenol ",Oc1ccc(Cl)cc1Cl,Oc1ccc(Cl)cc1Cl,-1.55,1,,0.0,unique_keep
+Permethrin,CC1(C)C(C=C(Cl)Cl)C1C(=O)OCc2cccc(Oc3ccccc3)c2,CC1(C)C(C=C(Cl)Cl)C1C(=O)OCc1cccc(Oc2ccccc2)c1,-6.291,1,,0.0,unique_keep
+piroxicam,CN2C(=C(O)c1ccccc1S2(=O)=O)C(=O)Nc3ccccn3 ,CN1C(C(=O)Nc2ccccn2)=C(O)c2ccccc2S1(=O)=O,-4.16,1,,0.0,unique_keep
+3-Propanoyloxymethylphenytoin,O=C1N(COC(=O)CC)C(=O)C(N1)(c2ccccc2)c3ccccc3,CCC(=O)OCN1C(=O)NC(c2ccccc2)(c2ccccc2)C1=O,-4.907,1,,0.0,unique_keep
+Cyclopentane ,C1CCCC1,C1CCCC1,-2.64,1,,0.0,unique_keep
+o-Toluidine,Cc1ccccc1N,Cc1ccccc1N,-2.21,1,,0.0,unique_keep
+Estragole,c1(OC)ccc(CC=C)cc1,C=CCc1ccc(OC)cc1,-2.92,1,,0.0,unique_keep
+karbutilate,CN(C)C(=O)Nc1cccc(OC(=O)NC(C)(C)C)c1 ,CN(C)C(=O)Nc1cccc(OC(=O)NC(C)(C)C)c1,-2.93,1,,0.0,unique_keep
+3-Methyl-1-Butene,CC(C)C=C,C=CC(C)C,-2.73,1,,0.0,unique_keep
+2-Hydroxypyridine,Oc1ccccn1,Oc1ccccn1,1.02,1,,0.0,unique_keep
+Ethane,CC,CC,-1.36,1,,0.0,unique_keep
+"1,2-Dichlorobenzene",Clc1ccccc1Cl,Clc1ccccc1Cl,-3.05,1,,0.0,unique_keep
+mercaptobenzothiazole,Sc2nc1ccccc1s2 ,Sc1nc2ccccc2s1,-3.18,1,,0.0,unique_keep
+"2,2',3,3',4,4',5,5',6,6'-PCB",Clc1c(Cl)c(Cl)c(c(Cl)c1Cl)c2c(Cl)c(Cl)c(Cl)c(Cl)c2Cl ,Clc1c(Cl)c(Cl)c(-c2c(Cl)c(Cl)c(Cl)c(Cl)c2Cl)c(Cl)c1Cl,-11.6,1,,0.0,unique_keep
+Methoxsalen,COc2c1occc1cc3ccc(=O)oc23 ,COc1c2occc2cc2ccc(=O)oc12,-3.664,1,,0.0,unique_keep
+Acetamide,CC(=O)N,CC(N)=O,1.58,1,,0.0,unique_keep
+1-Methylnaphthalene,Cc1cccc2ccccc12,Cc1cccc2ccccc12,-3.7,1,,0.0,unique_keep
+Napropamide,CCN(CC)C(=O)C(C)Oc1cccc2ccccc12 ,CCN(CC)C(=O)C(C)Oc1cccc2ccccc12,-3.57,1,,0.0,unique_keep
+"3,3-Dimethyl-2-butanol",CC(O)C(C)(C)C,CC(O)C(C)(C)C,-0.62,1,,0.0,unique_keep
+Methyl pentanoate,CCCC(=O)OCC,CCCC(=O)OCC,-1.36,1,,0.0,unique_keep
+Menadione,CC2=CC(=O)c1ccccc1C2=O ,CC1=CC(=O)c2ccccc2C1=O,-3.03,1,,0.0,unique_keep
+Phenanthrene,c1ccc2c(c1)ccc3ccccc32,c1ccc2c(c1)ccc1ccccc12,-5.26,1,,0.0,unique_keep
+"2,4-Dimethylpyridine",Cc1ccnc(C)c1,Cc1ccnc(C)c1,0.38,1,,0.0,unique_keep
+1-Nonanol,CCCCCCCCCO,CCCCCCCCCO,-3.01,1,,0.0,unique_keep
+Dibromomethane,BrCBr,BrCBr,-1.17,1,,0.0,unique_keep
+Dexamethasone,CC1CC2C3CCC4=CC(=O)C=CC4(C)C3(F)C(O)CC2(C)C1(O)C(=O)CO,CC1CC2C3CCC4=CC(=O)C=CC4(C)C3(F)C(O)CC2(C)C1(O)C(=O)CO,-3.59,1,,0.0,unique_keep
+"2,6-Dimethylnaphthalene ",Cc1ccc2cc(C)ccc2c1,Cc1ccc2cc(C)ccc2c1,-4.89,1,,0.0,unique_keep
+Butylate,CCSC(=O)N(CC(C)C)CC(C)C,CCSC(=O)N(CC(C)C)CC(C)C,-3.68,1,,0.0,unique_keep
+nitroglycerin,O=N(=O)OCC(CON(=O)=O)ON(=O)=O ,O=[N+]([O-])OCC(CO[N+](=O)[O-])O[N+](=O)[O-],-2.22,1,,0.0,unique_keep
+m-Nitroaniline,Nc1cccc(c1)N(=O)=O,Nc1cccc([N+](=O)[O-])c1,-2.19,1,,0.0,unique_keep
+1-Chlorobutane,CCCCCl,CCCCCl,-2.03,1,,0.0,unique_keep
+triforine,ClC(Cl)(Cl)C(NC=O)N1C=CN(C=C1)C(NC=O)C(Cl)(Cl)Cl ,O=CNC(N1C=CN(C(NC=O)C(Cl)(Cl)Cl)C=C1)C(Cl)(Cl)Cl,-4.19,1,,0.0,unique_keep
+Fluridone,Cn2cc(c1ccccc1)c(=O)c(c2)c3cccc(c3)C(F)(F)F,Cn1cc(-c2ccccc2)c(=O)c(-c2cccc(C(F)(F)F)c2)c1,-4.445,1,,0.0,unique_keep
+6-aminochrysene,Nc3cc2c1ccccc1ccc2c4ccccc34 ,Nc1cc2c3ccccc3ccc2c2ccccc12,-6.2,1,,0.0,unique_keep
+Estrone,CC12CCC3C(CCc4cc(O)ccc34)C2CCC1=O,CC12CCC3c4ccc(O)cc4CCC3C1CCC2=O,-3.955,1,,0.0,unique_keep
+RTI 17,CCN2c1ccccc1N(C)C(=S)c3cccnc23 ,CCN1c2ccccc2N(C)C(=S)c2cccnc21,-4.706,1,,0.0,unique_keep
+"1,2-Propylene oxide",CC1CO1,CC1CO1,-0.59,1,,0.0,unique_keep
+Nitrazepam,O=C3CN=C(c1ccccc1)c2cc(ccc2N3)N(=O)=O,O=C1CN=C(c2ccccc2)c2cc([N+](=O)[O-])ccc2N1,-3.796,1,,0.0,unique_keep
+"1,3-diethylthiourea",CCNC(=S)NCC,CCNC(=S)NCC,-1.46,1,,0.0,unique_keep
+"2,3,5-Trichlorophenol",Oc1cc(Cl)cc(Cl)c1Cl,Oc1cc(Cl)cc(Cl)c1Cl,-2.67,1,,0.0,unique_keep
+Propyl propanoate,CCCCC(=O)OC,CCCCC(=O)OC,-1.34,1,,0.0,unique_keep
+Aniline ,Nc1ccccc1,Nc1ccccc1,-0.41,1,,0.0,unique_keep
+"1,5-Dimethlnapthalene",Cc1cccc2c(C)cccc12,Cc1cccc2c(C)cccc12,-4.678999999999999,1,,0.0,unique_keep
+hydrochlorothiazide,NS(=O)(=O)c2cc1c(NCNS1(=O)=O)cc2Cl ,NS(=O)(=O)c1cc2c(cc1Cl)NCNS2(=O)=O,-2.63,1,,0.0,unique_keep
+Acenapthylene,C1=Cc2cccc3cccc1c23,C1=Cc2cccc3cccc1c23,-3.96,1,,0.0,unique_keep
+Ethyl butyrate,CCCCCOC(=O)CC,CCCCCOC(=O)CC,-1.28,1,,0.0,unique_keep
+Atratone,CCNc1nc(NC(C)C)nc(OC)n1,CCNc1nc(NC(C)C)nc(OC)n1,-2.084,1,,0.0,unique_keep
+Benzo(a)pyrene,c1ccc2c(c1)cc3ccc4cccc5ccc2c3c45,c1ccc2c(c1)cc1ccc3cccc4ccc2c1c34,-8.699,1,,0.0,unique_keep
+Bromoethane,CCBr,CCBr,-1.09,1,,0.0,unique_keep
+3-Hexyne,CCC#CCC,CCC#CCC,-1.99,1,,0.0,unique_keep
+Digitoxin,CC1OC(CC(O)C1O)OC2C(O)CC(OC2C)OC8C(O)CC(OC7CCC3(C)C(CCC4C3CCC5(C)C(CCC45O)C6=CC(=O)OC6)C7)OC8C ,CC1OC(OC2C(O)CC(OC3C(O)CC(OC4CCC5(C)C(CCC6C5CCC5(C)C(C7=CC(=O)OC7)CCC65O)C4)OC3C)OC2C)CC(O)C1O,-5.292999999999999,1,,0.0,unique_keep
+2-Methyl-1-Butene,CCC(=C)C,C=C(C)CC,-2.73,1,,0.0,unique_keep
+8-quinolinol,Oc1cccc2cccnc12 ,Oc1cccc2cccnc12,-2.42,1,,0.0,unique_keep
+"1,2,3,4-Tetrahydronapthalene",C1CCc2ccccc2C1,c1ccc2c(c1)CCCC2,-4.37,1,,0.0,unique_keep
+phenolphthalein,Oc1ccc(cc1)C2(OC(=O)c3ccccc23)c4ccc(O)cc4 ,O=C1OC(c2ccc(O)cc2)(c2ccc(O)cc2)c2ccccc21,-2.9,1,,0.0,unique_keep
+"1,3,5-Tribromobenzene",Brc1cc(Br)cc(Br)c1,Brc1cc(Br)cc(Br)c1,-5.6,1,,0.0,unique_keep
+Ronnel,COP(=S)(OC)Oc1cc(Cl)c(Cl)cc1Cl,COP(=S)(OC)Oc1cc(Cl)c(Cl)cc1Cl,-5.72,1,,0.0,unique_keep
+methylthiouracil,Cc1cc(=O)[nH]c(=S)[nH]1,Cc1cc(=O)[nH]c(=S)[nH]1,-2.436,1,,0.0,unique_keep
+Eugenol,COc1cc(CC=C)ccc1O,C=CCc1ccc(O)c(OC)c1,-1.56,1,,0.0,unique_keep
+5-Allyl-5-isopropylbarbital,O=C1NC(=O)NC(=O)C1(C(C)C)CC=C,C=CCC1(C(C)C)C(=O)NC(=O)NC1=O,-1.7080000000000002,1,,0.0,unique_keep
+Pyrene,c1cc2ccc3cccc4ccc(c1)c2c34,c1cc2ccc3cccc4ccc(c1)c2c34,-6.176,1,,0.0,unique_keep
+"1,1-Diethoxyethane ",CCOC(C)OCC,CCOC(C)OCC,-0.43,1,,0.0,unique_keep
+Clomazone,CC1(C)CON(Cc2ccccc2Cl)C1=O,CC1(C)CON(Cc2ccccc2Cl)C1=O,-2.338,1,,0.0,unique_keep
+2-Butoxyethanol,CCCCOCCO,CCCCOCCO,-0.42,1,,0.0,unique_keep
+Quintozene,Clc1c(Cl)c(Cl)c(N(=O)=O)c(Cl)c1Cl,O=[N+]([O-])c1c(Cl)c(Cl)c(Cl)c(Cl)c1Cl,-5.82,1,,0.0,unique_keep
+Flurochloridone,FC(F)(F)c1cccc(c1)N2CC(CCl)C(Cl)C2=O,O=C1C(Cl)C(CCl)CN1c1cccc(C(F)(F)F)c1,-4.047,1,,0.0,unique_keep
+Quinoline,c1ccc2ncccc2c1,c1ccc2ncccc2c1,-1.3,1,,0.0,unique_keep
+methyl gallate,COC(=O)c1cc(O)c(O)c(O)c1 ,COC(=O)c1cc(O)c(O)c(O)c1,-1.24,1,,0.0,unique_keep
+fluconazole,OC(Cn1cncn1)(Cn2cncn2)c3ccc(F)cc3F ,OC(Cn1cncn1)(Cn1cncn1)c1ccc(F)cc1F,-1.8,1,,0.0,unique_keep
+Chlorzoxazone,Clc2ccc1oc(=O)[nH]c1c2,O=c1[nH]c2cc(Cl)ccc2o1,-2.8310000000000004,1,,0.0,unique_keep
+"2,2',3,4,4',5',6-PCB",Clc1ccc(c(Cl)c1)c2c(Cl)c(Cl)c(Cl)c(Cl)c2Cl,Clc1ccc(-c2c(Cl)c(Cl)c(Cl)c(Cl)c2Cl)c(Cl)c1,-7.92,1,,0.0,unique_keep
+alloxan,O=C1NC(=O)C(=O)C(=O)N1 ,O=C1NC(=O)C(=O)C(=O)N1,-1.25,1,,0.0,unique_keep
+"1,3-Dichloropropane",ClCCCCl,ClCCCCl,-1.62,1,,0.0,unique_keep
+m-Fluorobromobenzene,Fc1cccc(Br)c1,Fc1cccc(Br)c1,-2.67,1,,0.0,unique_keep
+p-Chlorobromobenzene,Clc1ccc(Br)cc1,Clc1ccc(Br)cc1,-3.63,1,,0.0,unique_keep
+"2,3-Dimethylbutane",CC(C)C(C)C,CC(C)C(C)C,-3.65,1,,0.0,unique_keep
+1-Butene,CCC=C,C=CCC,-1.94,1,,0.0,unique_keep
+"2,2',3,4,5,5'-PCB",Clc1ccc(Cl)c(c1)c2cc(Cl)c(Cl)c(Cl)c2Cl,Clc1ccc(Cl)c(-c2cc(Cl)c(Cl)c(Cl)c2Cl)c1,-7.68,1,,0.0,unique_keep
+cytosine,Nc1cc[nH]c(=O)n1 ,Nc1cc[nH]c(=O)n1,-1.155,1,,0.0,unique_keep
+"1,1,2-Trichlorotrifluoroethane",FC(F)(Cl)C(F)(Cl)Cl,FC(F)(Cl)C(F)(Cl)Cl,-3.04,1,,0.0,unique_keep
+Propionitrile,CCC#N,CCC#N,0.28,1,,0.0,unique_keep
+"O,P'-DDD",ClC(Cl)C(c1ccc(Cl)cc1)c2ccccc2Cl ,Clc1ccc(C(c2ccccc2Cl)C(Cl)Cl)cc1,-6.51,1,,0.0,unique_keep
+o-Nitroanisole,COc1ccccc1N(=O)=O,COc1ccccc1[N+](=O)[O-],-1.96,1,,0.0,unique_keep
+Prasterone,CC34CCC1C(CC=C2CC(O)CCC12C)C3CCC4=O,CC12CCC3C(CC=C4CC(O)CCC43C)C1CCC2=O,-4.12,1,,0.0,unique_keep
+Procymidone,CC12CC2(C)C(=O)N(C1=O)c3cc(Cl)cc(Cl)c3,CC12CC1(C)C(=O)N(c1cc(Cl)cc(Cl)c1)C2=O,-4.8,1,,0.0,unique_keep
+Benzo[ghi]perylene,c1cc2ccc3ccc4ccc5cccc6c(c1)c2c3c4c56,c1cc2ccc3ccc4ccc5cccc6c(c1)c2c3c4c56,-9.018,1,,0.0,unique_keep
+Dinoseb,CCC(C)c1cc(cc(N(=O)=O)c1O)N(=O)=O ,CCC(C)c1cc([N+](=O)[O-])cc([N+](=O)[O-])c1O,-3.38,1,,0.0,unique_keep
+meconin,c1c(OC)c(OC)C2C(=O)OCC2c1,COC1=C(OC)C2C(=O)OCC2C=C1,-1.899,1,,0.0,unique_keep
+Glycerol,OCC(O)CO,OCC(O)CO,1.12,1,,0.0,unique_keep
+Guaiacol|o-Methoxyphenol,COc1ccccc1O |COc1ccccc1O,COc1ccccc1O,-1.96,2,0.0,0.0,duplicate_aggregated
+chlorpyrifos,CCOP(=S)(OCC)Oc1nc(Cl)c(Cl)cc1Cl ,CCOP(=S)(OCC)Oc1nc(Cl)c(Cl)cc1Cl,-5.67,1,,0.0,unique_keep
+9-Methylanthracene,Cc1c2ccccc2cc3ccccc13,Cc1c2ccccc2cc2ccccc12,-5.89,1,,0.0,unique_keep
+Antipyrene,Cc1cc(=O)n(c2ccccc2)n1C,Cc1cc(=O)n(-c2ccccc2)n1C,0.715,1,,0.0,unique_keep
+Methyl butyl ether ,CCCCOC,CCCCOC,-0.99,1,,0.0,unique_keep
+7-methylpteridine,Cc2cnc1cncnc1n2,Cc1cnc2cncnc2n1,-0.8540000000000001,1,,0.0,unique_keep
+simazine,CCNc1nc(Cl)nc(NCC)n1 ,CCNc1nc(Cl)nc(NCC)n1,-4.55,1,,0.0,unique_keep
+"N,N-Dimethylacetamide",CN(C)C(=O)C,CC(=O)N(C)C,1.11,1,,0.0,unique_keep
+Simetryn,CSc1nc(nc(n1)N(C)C)N(C)C,CSc1nc(N(C)C)nc(N(C)C)n1,-2.676,1,,0.0,unique_keep
+Ethylene,C=C,C=C,-0.4,1,,0.0,unique_keep
+"3,3-Dimethyl-1-butanol",CC(C)(C)CCO,CC(C)(C)CCO,-0.5,1,,0.0,unique_keep
+5-Allyl-5-ethylbarbital,O=C1NC(=O)NC(=O)C1(CC)CC=C,C=CCC1(CC)C(=O)NC(=O)NC1=O,-1.614,1,,0.0,unique_keep
+"2,3,4-Trichlorophenol",Oc1ccc(Cl)c(Cl)c1Cl,Oc1ccc(Cl)c(Cl)c1Cl,-2.67,1,,0.0,unique_keep
+Anisole,COc1ccccc1,COc1ccccc1,-1.85,1,,0.0,unique_keep
+chloropropylate,c1ccc(Cl)cc1C(c2ccc(Cl)cc2)(O)C(=O)OC(C)C,CC(C)OC(=O)C(O)(c1ccc(Cl)cc1)c1cccc(Cl)c1,-4.53,1,,0.0,unique_keep
+aldosterone,CC13CCC(=O)C=C1CCC4C2CCC(C(=O)CO)C2(CC(O)C34)C=O ,CC12CCC(=O)C=C1CCC1C2C(O)CC2(C=O)C(C(=O)CO)CCC12,-3.85,1,,0.0,unique_keep
+Difenoxuron,COc2ccc(Oc1ccc(NC(=O)N(C)C)cc1)cc2,COc1ccc(Oc2ccc(NC(=O)N(C)C)cc2)cc1,-4.16,1,,0.0,unique_keep
+4-Ethyltoluene,CCc1ccc(C)cc1,CCc1ccc(C)cc1,-3.11,1,,0.0,unique_keep
+Diisopropylsulfide,CC(C)SC(C)C,CC(C)SC(C)C,-2.24,1,,0.0,unique_keep
+"1,3-Dinitrobenzene",O=N(=O)c1cccc(c1)N(=O)=O,O=[N+]([O-])c1cccc([N+](=O)[O-])c1,-2.29,1,,0.0,unique_keep
+Ethion,CCOP(=S)(OCC)SCSP(=S)(OCC)OCC,CCOP(=S)(OCC)SCSP(=S)(OCC)OCC,-5.54,1,,0.0,unique_keep
+probarbital|5-Ethyl-5-isopropylbarbituric acid,CCC1(C(C)C)C(=O)NC(=O)NC1=O |O=C1NC(=O)NC(=O)C1(CC)C(C)C,CCC1(C(C)C)C(=O)NC(=O)NC1=O,-2.1790000000000003,2,0.043840620433565826,0.06199999999999983,duplicate_aggregated
+cortisone acetate,CC(=O)OCC(=O)C3(O)CCC4C2CCC1=CC(=O)CCC1(C)C2C(=O)CC34C ,CC(=O)OCC(=O)C1(O)CCC2C3CCC4=CC(=O)CCC4(C)C3C(=O)CC21C,-4.21,1,,0.0,unique_keep
+Metronidazole|Metranidazole,Cc1ncc(N(=O)=O)n1CCO|Cc1ncc(N(=O)=O)n1CCO ,Cc1ncc([N+](=O)[O-])n1CCO,-1.24,2,0.028284271247461926,0.040000000000000036,duplicate_aggregated
+p-Chloroaniline,Nc1ccc(Cl)cc1,Nc1ccc(Cl)cc1,-1.66,1,,0.0,unique_keep
+"2,2-Dimethylpentanol",CCCC(C)(C)CO,CCCC(C)(C)CO,-1.52,1,,0.0,unique_keep
+Furane,c1ccoc1,c1ccoc1,-0.82,1,,0.0,unique_keep
+Methoproptryne,COCCCNc1nc(NC(C)C)nc(SC)n1,COCCCNc1nc(NC(C)C)nc(SC)n1,-2.928,1,,0.0,unique_keep
+Norea,CN(C)C(=O)NC1CC2CC1C3CCCC23,CN(C)C(=O)NC1CC2CC1C1CCCC21,-3.1710000000000003,1,,0.0,unique_keep
+t-Butylbenzene ,CC(C)(C)c1ccccc1,CC(C)(C)c1ccccc1,-3.66,1,,0.0,unique_keep
+kebuzone,CC(=O)CCC1C(=O)N(N(C1=O)c2ccccc2)c3ccccc3,CC(=O)CCC1C(=O)N(c2ccccc2)N(c2ccccc2)C1=O,-3.27,1,,0.0,unique_keep
+prednisolone acetate,CC(=O)OCC(=O)C3(O)CCC4C2CCC1=CC(=O)C=CC1(C)C2C(O)CC34C ,CC(=O)OCC(=O)C1(O)CCC2C3CCC4=CC(=O)C=CC4(C)C3C(O)CC21C,-4.37,1,,0.0,unique_keep
+Methyl propyl ether ,CCCOC,CCCOC,-0.39,1,,0.0,unique_keep
+Isopropyl acetate,CC(C)OC(=O)C,CC(=O)OC(C)C,-0.55,1,,0.0,unique_keep
+Bromobenzene,Brc1ccccc1,Brc1ccccc1,-2.55,1,,0.0,unique_keep
+Ethyl-p-hydroxybenzoate ,CCOC(=O)c1ccc(O)cc1,CCOC(=O)c1ccc(O)cc1,-2.35,1,,0.0,unique_keep
+3-Butanoyloxymethylphenytoin,O=C1N(COC(=O)CCC)C(=O)C(N1)(c2ccccc2)c3ccccc3,CCCC(=O)OCN1C(=O)NC(c2ccccc2)(c2ccccc2)C1=O,-5.071000000000001,1,,0.0,unique_keep
+testosterone propionate,CCC(=O)OC3CCC4C2CCC1=CC(=O)CCC1(C)C2CCC34C ,CCC(=O)OC1CCC2C3CCC4=CC(=O)CCC4(C)C3CCC12C,-5.37,1,,0.0,unique_keep
+Coronene,c1cc2ccc3ccc4ccc5ccc6ccc1c7c2c3c4c5c67,c1cc2ccc3ccc4ccc5ccc6ccc1c1c2c3c4c5c61,-9.332,1,,0.0,unique_keep
+allopurinol,O=c1[nH]cnc2[nH]ncc12 ,O=c1[nH]cnc2[nH]ncc12,-2.266,1,,0.0,unique_keep
+Chloroethylene,ClC=C,C=CCl,-1.75,1,,0.0,unique_keep
+diphenamid,CN(C)C(=O)C(c1ccccc1)c2ccccc2 ,CN(C)C(=O)C(c1ccccc1)c1ccccc1,-2.98,1,,0.0,unique_keep
+Tetrabromomethane,BrC(Br)(Br)Br,BrC(Br)(Br)Br,-3.14,1,,0.0,unique_keep
+RTI 22,CCN2c1cc(N(C)C)cc(C)c1NC(=O)c3cccnc23 ,CCN1c2cc(N(C)C)cc(C)c2NC(=O)c2cccnc21,-4.871,1,,0.0,unique_keep
+phthalimide,O=C1NC(=O)c2ccccc12 ,O=C1NC(=O)c2ccccc21,-2.61,1,,0.0,unique_keep
+Fenarimol,OC(c1ccc(Cl)cc1)(c2cncnc2)c3ccccc3Cl,OC(c1ccc(Cl)cc1)(c1cncnc1)c1ccccc1Cl,-4.38,1,,0.0,unique_keep
+Methyl benzoate ,COC(=O)c1ccccc1,COC(=O)c1ccccc1,-1.85,1,,0.0,unique_keep
+1-methyluracil,Cn1ccc(=O)[nH]c1=O,Cn1ccc(=O)[nH]c1=O,-0.807,1,,0.0,unique_keep
+oxyphenbutazone,CCCCC1C(=O)N(N(C1=O)c2ccc(O)cc2)c3ccccc3 ,CCCCC1C(=O)N(c2ccccc2)N(c2ccc(O)cc2)C1=O,-3.73,1,,0.0,unique_keep
+"2,2',3,5'-PCB",Clc1ccc(Cl)c(c1)c2cccc(Cl)c2Cl ,Clc1ccc(Cl)c(-c2cccc(Cl)c2Cl)c1,-6.47,1,,0.0,unique_keep
+Quinethazone,CCC2NC(=O)c1cc(c(Cl)cc1N2)S(N)(=O)=O,CCC1NC(=O)c2cc(S(N)(=O)=O)c(Cl)cc2N1,-3.29,1,,0.0,unique_keep
+Diuron,CN(C)C(=O)Nc1ccc(Cl)c(Cl)c1,CN(C)C(=O)Nc1ccc(Cl)c(Cl)c1,-3.8,1,,0.0,unique_keep
+Cyclopentene ,C1CC=CC1,C1=CCCC1,-2.1,1,,0.0,unique_keep
+alloxantin,C1(=O)NC(=O)NC(=O)C1(O)C2(O)C(=O)NC(=O)NC2(=O),O=C1NC(=O)C(O)(C2(O)C(=O)NC(=O)NC2=O)C(=O)N1,-1.99,1,,0.0,unique_keep
+Nonane,CCCCCCCCC,CCCCCCCCC,-5.88,1,,0.0,unique_keep
+2-Chlorophenol,Oc1ccccc1Cl,Oc1ccccc1Cl,-1.06,1,,0.0,unique_keep
+5-Methylchrysene,c1cccc2c3c(C)cc4ccccc4c3ccc12,Cc1cc2ccccc2c2ccc3ccccc3c12,-6.59,1,,0.0,unique_keep
+Phenetole,CCOc1ccccc1,CCOc1ccccc1,-2.33,1,,0.0,unique_keep
+ethyl cinnamate,CCOC(=O)C=Cc1ccccc1,CCOC(=O)C=Cc1ccccc1,-3.0,1,,0.0,unique_keep
+Terbacil,Cc1[nH]c(=O)n(c(=O)c1Cl)C(C)(C)C,Cc1[nH]c(=O)n(C(C)(C)C)c(=O)c1Cl,-2.484,1,,0.0,unique_keep
+Clonazepam,Clc1ccccc1C2=NCC(=O)Nc3ccc(cc23)N(=O)=O,O=C1CN=C(c2ccccc2Cl)c2cc([N+](=O)[O-])ccc2N1,-3.499,1,,0.0,unique_keep
+p-Toluenesulfonamide ,Cc1ccc(cc1)S(=O)(=O)N,Cc1ccc(S(N)(=O)=O)cc1,-1.74,1,,0.0,unique_keep
+Chlorbufam,CC(OC(=O)Nc1cccc(Cl)c1)C#C,C#CC(C)OC(=O)Nc1cccc(Cl)c1,-2.617,1,,0.0,unique_keep
+2-Methylheptane,CCCCCC(C)C,CCCCCC(C)C,-5.08,1,,0.0,unique_keep
+Cyhalothrin,CC1(C)C(C=C(Cl)C(F)(F)F)C1C(=O)OC(C#N)c2cccc(Oc3ccccc3)c2,CC1(C)C(C=C(Cl)C(F)(F)F)C1C(=O)OC(C#N)c1cccc(Oc2ccccc2)c1,-8.176,1,,0.0,unique_keep
+Apazone,CCCC1C(=O)N3N(C1=O)c2cc(C)ccc2N=C3N(C)C ,CCCC1C(=O)N2C(N(C)C)=Nc3ccc(C)cc3N2C1=O,-3.5380000000000003,1,,0.0,unique_keep
+Diazepam,CN2C(=O)CN=C(c1ccccc1)c3cc(Cl)ccc23,CN1C(=O)CN=C(c2ccccc2)c2cc(Cl)ccc21,-3.754,1,,0.0,unique_keep
+2-Methyl-3-pentanol,CCC(O)C(C)C,CCC(O)C(C)C,-0.7,1,,0.0,unique_keep
+fensulfothion,CCOP(=S)(OCC)Oc1ccc(cc1)S(C)=O ,CCOP(=S)(OCC)Oc1ccc(S(C)=O)cc1,-2.3,1,,0.0,unique_keep
+borneol,CC1(C)C2CCC1(C)C(O)C2,CC1(C)C2CCC1(C)C(O)C2,-2.32,1,,0.0,unique_keep
+Testosterone,CC12CCC3C(CCC4=CC(=O)CCC34C)C2CCC1O,CC12CCC(=O)C=C1CCC1C2CCC2(C)C(O)CCC12,-4.02,1,,0.0,unique_keep
+Heptane,CCCCCCC,CCCCCCC,-4.53,1,,0.0,unique_keep
+1-Napthol,Oc1cccc2ccccc12,Oc1cccc2ccccc12,-2.22,1,,0.0,unique_keep
+"cis-1,2-Dimethylcyclohexane",C/C1CCCCC1\C,CC1CCCCC1C,-4.3,1,,0.0,unique_keep
+Trimazosin,COc2cc1c(N)nc(nc1c(OC)c2OC)N3CCN(CC3)C(=O)OCC(C)(C)O ,COc1cc2c(N)nc(N3CCN(C(=O)OCC(C)(C)O)CC3)nc2c(OC)c1OC,-3.638,1,,0.0,unique_keep
+Cholanthrene,C1Cc2c3c1cccc3cc4c2ccc5ccccc54,c1cc2c3c(c4ccc5ccccc5c4cc3c1)CC2,-7.85,1,,0.0,unique_keep
+Medrogestone,CC(=O)C3(C)CCC4C2C=C(C)C1=CC(=O)CCC1(C)C2CCC34C,CC(=O)C1(C)CCC2C3C=C(C)C4=CC(=O)CCC4(C)C3CCC21C,-5.27,1,,0.0,unique_keep
+2-Heptanone,CCCCCC(=O)C,CCCCCC(C)=O,-1.45,1,,0.0,unique_keep
+Acephate,COP(=O)(NC(C)=O)SC ,COP(=O)(NC(C)=O)SC,0.54,1,,0.0,unique_keep
+DEF,CCCCSP(=O)(SCCCC)SCCCC,CCCCSP(=O)(SCCCC)SCCCC,-5.14,1,,0.0,unique_keep
+phthalamide,c1cC2C(=O)NC(=O)C2cc1,O=C1NC(=O)C2C=CC=CC12,-2.932,1,,0.0,unique_keep
+Trichlomethiazide,NS(=O)(=O)c2cc1c(NC(NS1(=O)=O)C(Cl)Cl)cc2Cl ,NS(=O)(=O)c1cc2c(cc1Cl)NC(C(Cl)Cl)NS2(=O)=O,-2.68,1,,0.0,unique_keep
+2-Methy-2-Butene,CC=C(C)C,CC=C(C)C,-2.56,1,,0.0,unique_keep
+"1,2,4-Trimethylbenzene",Cc1ccc(C)c(C)c1,Cc1ccc(C)c(C)c1,-3.31,1,,0.0,unique_keep
+"2,4,5-Trichlorophenol ",Oc1cc(Cl)c(Cl)cc1Cl,Oc1cc(Cl)c(Cl)cc1Cl,-2.21,1,,0.0,unique_keep
+phenanthridine,c1ccc2c(c1)cnc3ccccc23 ,c1ccc2c(c1)cnc1ccccc12,-2.78,1,,0.0,unique_keep
+3-Methyl-3-hexanol,CCCC(C)(O)CC,CCCC(C)(O)CC,-0.98,1,,0.0,unique_keep
+Octane,CCCCCCCC,CCCCCCCC,-5.24,1,,0.0,unique_keep
+Anthracene,c1ccc2cc3ccccc3cc2c1,c1ccc2cc3ccccc3cc2c1,-6.35,1,,0.0,unique_keep
+Phenylhydrazine,NNc1ccccc1,NNc1ccccc1,0.07,1,,0.0,unique_keep
+Propionaldehyde,CCC=O,CCC=O,0.58,1,,0.0,unique_keep
+Cyclooctane,C1CCCCCCC1,C1CCCCCCC1,-4.15,1,,0.0,unique_keep
+"5,5-Diallylbarbital",O=C1NC(=O)NC(=O)C1(CC=C)CC=C,C=CCC1(CC=C)C(=O)NC(=O)NC1=O,-2.077,1,,0.0,unique_keep
+Trichloromethane,ClC(Cl)Cl,ClC(Cl)Cl,-1.17,1,,0.0,unique_keep
+thiouracil,Sc1nccc(=O)[nH]1 ,O=c1ccnc(S)[nH]1,-2.273,1,,0.0,unique_keep
+Pencycuron,Clc1ccc(CN(C2CCCC2)C(=O)Nc3ccccc3)cc1,O=C(Nc1ccccc1)N(Cc1ccc(Cl)cc1)C1CCCC1,-5.915,1,,0.0,unique_keep
+1-Methylcyclohexene ,CC1=CCCCC1,CC1=CCCCC1,-3.27,1,,0.0,unique_keep
+2-Ethylhexanal,CCCCC(CC)C=O,CCCCC(C=O)CC,-2.13,1,,0.0,unique_keep
+Khellin,COc2c1occc1c(OC)c3c(=O)cc(C)oc23 ,COc1c2occc2c(OC)c2c(=O)cc(C)oc12,-3.0210000000000004,1,,0.0,unique_keep
+Benzo(j)fluoranthene,c1ccc2c3c(ccc2c1)c4cccc5cccc3c45,c1ccc2c3c(ccc2c1)-c1cccc2cccc-3c12,-8.0,1,,0.0,unique_keep
+2-Ethylbutanal,CCC(CC)C=O,CCC(C=O)CC,-1.52,1,,0.0,unique_keep
+Dipropyl ether,CCCOCCC,CCCOCCC,-1.62,1,,0.0,unique_keep
+1-Tetradecanol,CCCCCCCCCCCCCCO,CCCCCCCCCCCCCCO,-5.84,1,,0.0,unique_keep
+"2,3,6-Trichlorophenol",Oc1c(Cl)ccc(Cl)c1Cl,Oc1c(Cl)ccc(Cl)c1Cl,-2.64,1,,0.0,unique_keep
+Urea,NC(=O)N,NC(N)=O,0.96,1,,0.0,unique_keep
+1-Pentyne,CCCC#C,C#CCCC,-1.64,1,,0.0,unique_keep
+"1,3-Dibromobenzene",Brc1cccc(Br)c1,Brc1cccc(Br)c1,-3.54,1,,0.0,unique_keep
+1-Octadecanol,CCCCCCCCCCCCCCCCCCO,CCCCCCCCCCCCCCCCCCO,-8.4,1,,0.0,unique_keep
+Acetanilide,CC(=O)Nc1ccccc1,CC(=O)Nc1ccccc1,-1.33,1,,0.0,unique_keep
+hematein,c1cc(O)c(O)c2OCC3(O)CC4=CC(=O)C(O)=CC4=C3c21,O=C1C=C2CC3(O)COc4c(ccc(O)c4O)C3=C2C=C1O,-2.7,1,,0.0,unique_keep
+Isonazid,c1nccc(C(=O)NN)c1,NNC(=O)c1ccncc1,0.009,1,,0.0,unique_keep
+hydroxychlordene,OC1C=CC2C1C3(Cl)C(=C(Cl)C2(Cl)C3(Cl)Cl)Cl ,OC1C=CC2C1C1(Cl)C(Cl)=C(Cl)C2(Cl)C1(Cl)Cl,-5.46,1,,0.0,unique_keep
+Isopentyl formate,CC(C)CCOC=O,CC(C)CCOC=O,-1.52,1,,0.0,unique_keep
+Acetophenone,CC(=O)c1ccccc1,CC(=O)c1ccccc1,-1.28,1,,0.0,unique_keep
+biquinoline,c2ccc1nc(ccc1c2)c4ccc3ccccc3n4 ,c1ccc2nc(-c3ccc4ccccc4n3)ccc2c1,-5.4,1,,0.0,unique_keep
+Triethyl phosphate,CCOP(=O)(OCC)OCC,CCOP(=O)(OCC)OCC,0.43,1,,0.0,unique_keep
+D-fenchone,CC2(C)C1CCC(C)(C1)C2=O,CC12CCC(C1)C(C)(C)C2=O,-1.85,1,,0.0,unique_keep
+7-methoxypteridine,COc2cnc1cncnc1n2,COc1cnc2cncnc2n1,-0.91,1,,0.0,unique_keep
+Chlordene,ClC2=C(Cl)C3(Cl)C1C=CCC1C2(Cl)C3(Cl)Cl ,ClC1=C(Cl)C2(Cl)C3CC=CC3C1(Cl)C2(Cl)Cl,-5.64,1,,0.0,unique_keep
+2-Nitropropane,CC(C)N(=O)=O,CC(C)[N+](=O)[O-],-0.62,1,,0.0,unique_keep
+Carbazole,c1ccc2c(c1)[nH]c3ccccc32,c1ccc2c(c1)[nH]c1ccccc12,-5.27,1,,0.0,unique_keep
+Erythritol,OCC(O)C(O)CO,OCC(O)C(O)CO,0.7,1,,0.0,unique_keep
+Risocaine,CCCOC(=O)c1ccc(N)cc1,CCCOC(=O)c1ccc(N)cc1,-2.452,1,,0.0,unique_keep
+Azodrin,CNC(=O)C=C(C)OP(=O)(OC)OC,CNC(=O)C=C(C)OP(=O)(OC)OC,0.6509999999999999,1,,0.0,unique_keep
+Succinimide,O=C1CCC(=O)N1,O=C1CCC(=O)N1,0.3,1,,0.0,unique_keep
+"2,3-Dimethylpentane",CCC(C)C(C)C,CCC(C)C(C)C,-4.28,1,,0.0,unique_keep
+bupirimate,CCCCc1c(C)nc(NCC)nc1OS(=O)(=O)N(C)C ,CCCCc1c(C)nc(NCC)nc1OS(=O)(=O)N(C)C,-4.16,1,,0.0,unique_keep
+RTI 16,CCN2c1ncccc1N(C)C(=S)c3cccnc23 ,CCN1c2ncccc2C(=S)N(C)c2cccnc21,-4.634,1,,0.0,unique_keep
+RTI 9,O2c1ccccc1N(CC)C(=O)c3ccccc23 ,CCN1C(=O)c2ccccc2Oc2ccccc21,-3.68,1,,0.0,unique_keep
+Tetrahydropyran ,C1CCOCC1,C1CCOCC1,-0.03,1,,0.0,unique_keep
+1-Heptyne,CCCCCC#C,C#CCCCCC,-3.01,1,,0.0,unique_keep
+osthole,c1cc2ccc(OC)c(CC=C(C)(C))c2oc1=O ,COc1ccc2ccc(=O)oc2c1CC=C(C)C,-4.314,1,,0.0,unique_keep
+3-Methylcholanthrene,c1cc(C)cc2c1c3cc4cccc5CCc(c45)c3cc2,Cc1ccc2c(ccc3c4c5c(cccc5cc32)CC4)c1,-7.92,1,,0.0,unique_keep
+Ethyl benzoate ,CCOC(=O)c1ccccc1,CCOC(=O)c1ccccc1,-2.32,1,,0.0,unique_keep
+1-Chloro-2-methylpropane,ClCC(C)C,CC(C)CCl,-2.0,1,,0.0,unique_keep
+Ethinyl estradiol,CC34CCC1C(CCc2cc(O)ccc12)C3CCC4(O)C#C ,C#CC1(O)CCC2C3CCc4cc(O)ccc4C3CCC21C,-4.3,1,,0.0,unique_keep
+methyl laurate,CCCCCCCCCCCC(=O)OC,CCCCCCCCCCCC(=O)OC,-4.69,1,,0.0,unique_keep
+Di-n-propylsulfide,CCCSCCC,CCCSCCC,-2.58,1,,0.0,unique_keep
+Napthacene,c1ccc2cc3cc4ccccc4cc3cc2c1,c1ccc2cc3cc4ccccc4cc3cc2c1,-8.6,1,,0.0,unique_keep
+1-Bromopentane,CCCCCBr,CCCCCBr,-3.08,1,,0.0,unique_keep
+trans-2-Heptene ,CCCC/C=C/C,C/C=C/CCCC,-3.82,1,,0.0,unique_keep
+Pentylcyclopentane,CCCCCC1CCCC1,CCCCCC1CCCC1,-6.08,1,,0.0,unique_keep
+"2,2',3,5,5',6-PCB",Clc1ccc(Cl)c(c1)c2c(Cl)c(Cl)cc(Cl)c2Cl ,Clc1ccc(Cl)c(-c2c(Cl)c(Cl)cc(Cl)c2Cl)c1,-7.42,1,,0.0,unique_keep
+"1,1,1-Trichloroethane",CC(Cl)(Cl)Cl,CC(Cl)(Cl)Cl,-2.0,1,,0.0,unique_keep
+Monolinuron,CON(C)C(=O)Nc1ccc(Cl)cc1,CON(C)C(=O)Nc1ccc(Cl)cc1,-2.57,1,,0.0,unique_keep
+Cyclohexyl-5-spirobarbituric acid,O=C2NC(=O)C1(CCCCC1)C(=O)N2,O=C1NC(=O)C2(CCCCC2)C(=O)N1,-3.06,1,,0.0,unique_keep
+dimetan,CN(C)C(=O)OC1=CC(=O)CC(C)(C)C1 ,CN(C)C(=O)OC1=CC(=O)CC(C)(C)C1,-0.85,1,,0.0,unique_keep
+4-Bromotoluene,Cc1ccc(Br)cc1,Cc1ccc(Br)cc1,-3.19,1,,0.0,unique_keep
+Diethyl ether ,CCOCC,CCOCC,-0.09,1,,0.0,unique_keep
+Rovral,CC(C)NC(=O)N1CC(=O)N(C1=O)c2cc(Cl)cc(Cl)c2,CC(C)NC(=O)N1CC(=O)N(c2cc(Cl)cc(Cl)c2)C1=O,-4.376,1,,0.0,unique_keep
+Benfluralin,CCCCN(CC)c1c(cc(cc1N(=O)=O)C(F)(F)F)N(=O)=O,CCCCN(CC)c1c([N+](=O)[O-])cc(C(F)(F)F)cc1[N+](=O)[O-],-5.53,1,,0.0,unique_keep
+"2,4,6-Trimethylphenol",Cc1cc(C)c(O)c(C)c1,Cc1cc(C)c(O)c(C)c1,-2.05,1,,0.0,unique_keep
+Benzene ,c1ccccc1,c1ccccc1,-1.64,1,,0.0,unique_keep
+p-Chloroiodobenzene,Clc1ccc(I)cc1,Clc1ccc(I)cc1,-4.03,1,,0.0,unique_keep
+Metoxuron,COc1ccc(NC(=O)N(C)C)cc1Cl,COc1ccc(NC(=O)N(C)C)cc1Cl,-2.564,1,,0.0,unique_keep
+propachlor,CC(C)N(C(=O)CCl)c1ccccc1 ,CC(C)N(C(=O)CCl)c1ccccc1,-2.48,1,,0.0,unique_keep
+Styrene,C=Cc1ccccc1,C=Cc1ccccc1,-2.82,1,,0.0,unique_keep
+Dimethoxymethane,COCOC,COCOC,0.48,1,,0.0,unique_keep
+o-Xylene ,Cc1ccccc1C,Cc1ccccc1C,-2.8,1,,0.0,unique_keep
+Butan-2-ol,CCC(C)O,CCC(C)O,0.47,1,,0.0,unique_keep
+"1,4-Benzenediol",Oc1ccc(O)cc1,Oc1ccc(O)cc1,-0.17,1,,0.0,unique_keep
+estriol,CC34CCC1C(CCc2cc(O)ccc12)C3CC(O)C4O ,CC12CCC3c4ccc(O)cc4CCC3C1CC(O)C2O,-4.955,1,,0.0,unique_keep
+Benzo(b)fluorene,C1c2ccccc2c3cc4ccccc4cc13,c1ccc2c(c1)Cc1cc3ccccc3cc1-2,-8.04,1,,0.0,unique_keep
+hydantoin,O=C1CNC(=O)N1 ,O=C1CNC(=O)N1,-0.4,1,,0.0,unique_keep
+4-hexylresorcinol,c1(O)cc(O)ccc1CCCCCC,CCCCCCc1ccc(O)cc1O,-2.59,1,,0.0,unique_keep
+allicin,C=CCS(=O)SCC=C,C=CCSS(=O)CC=C,-0.83,1,,0.0,unique_keep
+Coumaphos,CCOP(=S)(OCC)Oc2ccc1oc(=O)c(Cl)c(C)c1c2,CCOP(=S)(OCC)Oc1ccc2oc(=O)c(Cl)c(C)c2c1,-5.382000000000001,1,,0.0,unique_keep
+"5,6-Dimethylchrysene",Cc1c(C)c2c3ccccc3ccc2c4ccccc14,Cc1c(C)c2c3ccccc3ccc2c2ccccc12,-7.01,1,,0.0,unique_keep
+Betamethasone-17-valerate,CCCCC(=O)OC3(C(C)CC4C2CCC1=CC(=O)C=CC1(C)C2(F)C(O)CC34C)C(=O)CO,CCCCC(=O)OC1(C(=O)CO)C(C)CC2C3CCC4=CC(=O)C=CC4(C)C3(F)C(O)CC21C,-4.71,1,,0.0,unique_keep
+uric acid,O=c2[nH]c(=O)c1[nH]c(=O)[nH]c1[nH]2 ,O=c1[nH]c(=O)c2[nH]c(=O)[nH]c2[nH]1,-3.93,1,,0.0,unique_keep
+"2,3,4,6-Tetrachlorophenol",Oc1c(Cl)cc(Cl)c(Cl)c1Cl,Oc1c(Cl)cc(Cl)c(Cl)c1Cl,-3.1,1,,0.0,unique_keep
+"1,3-Dichlorobenzene",Clc1cccc(Cl)c1,Clc1cccc(Cl)c1,-3.04,1,,0.0,unique_keep
+DDT,Clc1ccc(cc1)C(c2ccc(Cl)cc2)C(Cl)(Cl)Cl,Clc1ccc(C(c2ccc(Cl)cc2)C(Cl)(Cl)Cl)cc1,-7.15,1,,0.0,unique_keep
+Isobutyl formate,CC(C)COC=O,CC(C)COC=O,-1.01,1,,0.0,unique_keep
+thioanisole,c1ccccc1SC,CSc1ccccc1,-2.39,1,,0.0,unique_keep
+RTI 13,CCN2c1nc(C)cc(C(F)(F)F)c1NC(=O)c3cccnc23 ,CCN1c2ncccc2C(=O)Nc2c(C(F)(F)F)cc(C)nc21,-4.207,1,,0.0,unique_keep
+Hexane ,CCCCCC,CCCCCC,-3.84,1,,0.0,unique_keep
+methyl nicotinate,COC(=O)c1cccnc1 ,COC(=O)c1cccnc1,-0.46,1,,0.0,unique_keep
+Bendroflumethiazide,NS(=O)(=O)c3cc2c(NC(Cc1ccccc1)NS2(=O)=O)cc3C(F)(F)F,NS(=O)(=O)c1cc2c(cc1C(F)(F)F)NC(Cc1ccccc1)NS2(=O)=O,-3.59,1,,0.0,unique_keep
+"2,3,3',4,4',5-PCB",Clc1ccc(cc1Cl)c2cc(Cl)c(Cl)c(Cl)c2Cl ,Clc1ccc(-c2cc(Cl)c(Cl)c(Cl)c2Cl)cc1Cl,-7.82,1,,0.0,unique_keep
+Vinclozolin,CC1(OC(=O)N(C1=O)c2cc(Cl)cc(Cl)c2)C=C,C=CC1(C)OC(=O)N(c2cc(Cl)cc(Cl)c2)C1=O,-4.925,1,,0.0,unique_keep
+Cyanazine,CCNc1nc(Cl)nc(NC(C)(C)C#N)n1,CCNc1nc(Cl)nc(NC(C)(C)C#N)n1,-3.15,1,,0.0,unique_keep
+Triphenylene,c1ccc2c(c1)c3ccccc3c4ccccc24,c1ccc2c(c1)c1ccccc1c1ccccc21,-6.726,1,,0.0,unique_keep
+Dienestrol,CC=C(C(=CC)c1ccc(O)cc1)c2ccc(O)cc2,CC=C(C(=CC)c1ccc(O)cc1)c1ccc(O)cc1,-4.95,1,,0.0,unique_keep
+Di(2-ethylhexyl)-phthalate,CCCCC(CC)COC(=O)c1ccccc1C(=O)OCC(CC)CCCC,CCCCC(CC)COC(=O)c1ccccc1C(=O)OCC(CC)CCCC,-6.96,1,,0.0,unique_keep
+2-Ethyl pyridine,CCc1ccccn1,CCc1ccccn1,0.51,1,,0.0,unique_keep
+Naled,COP(=O)(OC)OC(Br)C(Cl)(Cl)Br,COP(=O)(OC)OC(Br)C(Cl)(Cl)Br,-2.28,1,,0.0,unique_keep
+Biphenyl,c1ccc(cc1)c2ccccc2,c1ccc(-c2ccccc2)cc1,-4.345,1,,0.0,unique_keep
+"2,2',4,4',6,6'-PCB",Clc1cc(Cl)c(c(Cl)c1)c2c(Cl)cc(Cl)cc2Cl ,Clc1cc(Cl)c(-c2c(Cl)cc(Cl)cc2Cl)c(Cl)c1,-8.71,1,,0.0,unique_keep
+Altretamine,CN(C)c1nc(nc(n1)N(C)C)N(C)C,CN(C)c1nc(N(C)C)nc(N(C)C)n1,-3.364,1,,0.0,unique_keep
+"2,4-Dimethyl-2-pentanol ",CC(C)CC(C)(C)O,CC(C)CC(C)(C)O,-0.92,1,,0.0,unique_keep
+Cycloheptyl-5-spirobarbituric acid,O=C2NC(=O)C1(CCCCCC1)C(=O)N2 ,O=C1NC(=O)C2(CCCCCC2)C(=O)N1,-3.168,1,,0.0,unique_keep
+Fructose,OCC1OC(O)(CO)C(O)C1O,OCC1OC(O)(CO)C(O)C1O,0.64,1,,0.0,unique_keep
+"3,5-Dimethylphenol",Cc1cc(C)cc(O)c1,Cc1cc(C)cc(O)c1,-1.4,1,,0.0,unique_keep
+Barban,ClCC#CCOC(=O)Nc1cccc(Cl)c1,O=C(Nc1cccc(Cl)c1)OCC#CCCl,-4.37,1,,0.0,unique_keep
+p-Chloroacetanilide,CC(=O)Nc1ccc(Cl)cc1,CC(=O)Nc1ccc(Cl)cc1,-2.843,1,,0.0,unique_keep
+"2,2',3,4,5,5',6-PCB",Clc1ccc(Cl)c(c1)c2c(Cl)c(Cl)c(Cl)c(Cl)c2Cl,Clc1ccc(Cl)c(-c2c(Cl)c(Cl)c(Cl)c(Cl)c2Cl)c1,-8.94,1,,0.0,unique_keep
+"2,2-Dimethylbutane",CCC(C)(C)C,CCC(C)(C)C,-3.55,1,,0.0,unique_keep
+N-Methylaniline ,CNc1ccccc1,CNc1ccccc1,-1.28,1,,0.0,unique_keep
+"1,4-Pentadiene ",C=CCC=C,C=CCC=C,-2.09,1,,0.0,unique_keep
+Hydrocortisone 21-acetate,CC(=O)OCC(=O)C1(O)CCC2C3CCC4=CC(=O)CCC4(C)C3C(O)CC21C,CC(=O)OCC(=O)C1(O)CCC2C3CCC4=CC(=O)CCC4(C)C3C(O)CC21C,-4.88,1,,0.0,unique_keep
+DNOC,Cc1cc(cc(N(=O)=O)c1O)N(=O)=O,Cc1cc([N+](=O)[O-])cc([N+](=O)[O-])c1O,-1.456,1,,0.0,unique_keep
+Lorazepam,OC3N=C(c1ccccc1Cl)c2cc(Cl)ccc2NC3=O,O=C1Nc2ccc(Cl)cc2C(c2ccccc2Cl)=NC1O,-3.604,1,,0.0,unique_keep
+3-Chlorophenol,Oc1cccc(Cl)c1,Oc1cccc(Cl)c1,-0.7,1,,0.0,unique_keep
+m-Chlorobromobenzene,Clc1cccc(Br)c1,Clc1cccc(Br)c1,-3.21,1,,0.0,unique_keep
+chlorothiazide,NS(=O)(=O)c2cc1c(N=CNS1(=O)=O)cc2Cl ,NS(=O)(=O)c1cc2c(cc1Cl)N=CNS2(=O)=O,-3.05,1,,0.0,unique_keep
+5-Methyl-5-ethylbarbituric acid,O=C1NC(=O)NC(=O)C1(C)CC,CCC1(C)C(=O)NC(=O)NC1=O,-1.228,1,,0.0,unique_keep
+2-Phenoxyethanol,OCCOc1ccccc1,OCCOc1ccccc1,-0.7,1,,0.0,unique_keep
+Diphenylmethane,C(c1ccccc1)c2ccccc2,c1ccc(Cc2ccccc2)cc1,-4.08,1,,0.0,unique_keep
+3-Octanol,CCCCCC(O)CC,CCCCCC(O)CC,-1.98,1,,0.0,unique_keep
+Flumetralin,CCN(Cc1c(F)cccc1Cl)c2c(cc(cc2N(=O)=O)C(F)(F)F)N(=O)=O,CCN(Cc1c(F)cccc1Cl)c1c([N+](=O)[O-])cc(C(F)(F)F)cc1[N+](=O)[O-],-6.78,1,,0.0,unique_keep
+Propazine,CC(C)Nc1nc(Cl)nc(NC(C)C)n1,CC(C)Nc1nc(Cl)nc(NC(C)C)n1,-4.43,1,,0.0,unique_keep
+2-Methylpentanol,CCCC(C)CO,CCCC(C)CO,-1.11,1,,0.0,unique_keep
+2-Methyl-2-hexanol,CCCCC(C)(C)O,CCCCC(C)(C)O,-1.08,1,,0.0,unique_keep
+Ethylbenzene,CCc1ccccc1,CCc1ccccc1,-2.77,1,,0.0,unique_keep
+5-(3-Methyl-2-butenyl)-5-ethylbarbital,O=C1NC(=O)NC(=O)C1(CC)CC=C(C)C,CCC1(CC=C(C)C)C(=O)NC(=O)NC1=O,-2.253,1,,0.0,unique_keep
+Heptachlor,ClC1C=CC2C1C3(Cl)C(=C(Cl)C2(Cl)C3(Cl)Cl)Cl,ClC1=C(Cl)C2(Cl)C3C(Cl)C=CC3C1(Cl)C2(Cl)Cl,-6.317,1,,0.0,unique_keep
+butallylonal,CCC(C)C1(CC(Br)=C)C(=O)NC(=O)NC1=O ,C=C(Br)CC1(C(C)CC)C(=O)NC(=O)NC1=O,-2.647,1,,0.0,unique_keep
+Fenpropathrin,CC1(C)C(C(=O)OC(C#N)c2cccc(Oc3ccccc3)c2)C1(C)C,CC1(C)C(C(=O)OC(C#N)c2cccc(Oc3ccccc3)c2)C1(C)C,-6.025,1,,0.0,unique_keep
+Methoprene,COC(C)(C)CCCC(C)CC=CC(C)=CC(=O)OC(C)C,COC(C)(C)CCCC(C)CC=CC(C)=CC(=O)OC(C)C,-5.19,1,,0.0,unique_keep
+Ethyl propionate,CCOC(=O)CC,CCOC(=O)CC,-0.66,1,,0.0,unique_keep
+Prometryn,CSc1nc(NC(C)C)nc(NC(C)C)n1,CSc1nc(NC(C)C)nc(NC(C)C)n1,-4.1,1,,0.0,unique_keep
+Buturon,CC(C#C)N(C)C(=O)Nc1ccc(Cl)cc1,C#CC(C)N(C)C(=O)Nc1ccc(Cl)cc1,-3.9,1,,0.0,unique_keep
+"2,3-Dimethylnaphthalene",Cc1cc2ccccc2cc1C,Cc1cc2ccccc2cc1C,-4.72,1,,0.0,unique_keep
+"2,4',5-PCB",Clc1ccc(cc1)c2cc(Cl)ccc2Cl ,Clc1ccc(-c2cc(Cl)ccc2Cl)cc1,-6.25,1,,0.0,unique_keep
+"2,3',4,4',5-PCB",Clc1ccc(c(Cl)c1)c2cc(Cl)c(Cl)c(Cl)c2Cl ,Clc1ccc(-c2cc(Cl)c(Cl)c(Cl)c2Cl)c(Cl)c1,-7.39,1,,0.0,unique_keep
+2-cyanoguanidine,NC(N)=NC#N ,N#CN=C(N)N,-0.31,1,,0.0,unique_keep
+Chloropicrin,ClC(Cl)(Cl)N(=O)=O,O=[N+]([O-])C(Cl)(Cl)Cl,-2.0,1,,0.0,unique_keep
+"2,6-PCB",Clc1cccc(Cl)c1c2ccccc2 ,Clc1cccc(Cl)c1-c1ccccc1,-5.21,1,,0.0,unique_keep
+p-Methoxybenzaldehyde,COc1ccc(C=O)cc1,COc1ccc(C=O)cc1,-1.49,1,,0.0,unique_keep
+4-Nitroacetanilide,CC(=O)Nc1ccc(cc1)N(=O)=O,CC(=O)Nc1ccc([N+](=O)[O-])cc1,-2.692,1,,0.0,unique_keep
+Ethyl heptanoate,CCCCCCC(=O)OCC,CCCCCCC(=O)OCC,-2.74,1,,0.0,unique_keep
+p-Hydroxyacetanilide,CC(=O)Nc1ccc(O)cc1,CC(=O)Nc1ccc(O)cc1,-1.03,1,,0.0,unique_keep
+indazole,c2ccc1[nH]ncc1c2 ,c1ccc2[nH]ncc2c1,-2.16,1,,0.0,unique_keep
+triamcinolone acetonide,CC5(C)OC4CC3C2CCC1=CC(=O)C=CC1(C)C2(F)C(O)CC3(C)C4(O5)C(=O)CO ,CC1(C)OC2CC3C4CCC5=CC(=O)C=CC5(C)C4(F)C(O)CC3(C)C2(C(=O)CO)O1,-4.31,1,,0.0,unique_keep
+guanine,Nc2nc1[nH]cnc1c(=O)[nH]2 ,Nc1nc2[nH]cnc2c(=O)[nH]1,-3.583,1,,0.0,unique_keep
+Methyl acetate,COC(=O)C,COC(C)=O,0.46,1,,0.0,unique_keep
+Stanolone,CC34CCC1C(CCC2CC(=O)CCC12C)C3CCC4O ,CC12CCC3C(CCC4CC(=O)CCC43C)C1CCC2O,-4.743,1,,0.0,unique_keep
+1-Hexene-3-ol,CCCC(O)C=C,C=CC(O)CCC,-0.59,1,,0.0,unique_keep
+norbormide,OC(C1=CC2C5C(C1C2=C(c3ccccc3)c4ccccn4)C(=O)NC5=O)(c6ccccc6)c7ccccn7 ,O=C1NC(=O)C2C3C(C(O)(c4ccccc4)c4ccccn4)=CC(C3=C(c3ccccc3)c3ccccn3)C12,-3.931,1,,0.0,unique_keep
+Dibutyl ether ,CCCCOCCCC,CCCCOCCCC,-1.85,1,,0.0,unique_keep
+1-Dodecanol,CCCCCCCCCCCCO,CCCCCCCCCCCCO,-4.8,1,,0.0,unique_keep
+RTI 6,CCN2c1nc(N(C)(CCO))ccc1NC(=O)c3cccnc23 ,CCN1c2nc(N(C)CCO)ccc2NC(=O)c2cccnc21,-3.36,1,,0.0,unique_keep
+2-Methyl-2-pentanol,CCCC(C)(C)O,CCCC(C)(C)O,-0.49,1,,0.0,unique_keep
+Flucytosine,Nc1nc(=O)[nH]cc1F,Nc1nc(=O)[nH]cc1F,-0.972,1,,0.0,unique_keep
+stadacaine,CCCCOc1ccc(C(=O)OCC)c(c1)N(CC)CC ,CCCCOc1ccc(C(=O)OCC)c(N(CC)CC)c1,-3.84,1,,0.0,unique_keep
+2-Methyl-2-heptanol,CCCCCC(C)(C)O,CCCCCC(C)(C)O,-1.72,1,,0.0,unique_keep
+Hexamethylbenzene,Cc1c(C)c(C)c(C)c(C)c1C,Cc1c(C)c(C)c(C)c(C)c1C,-5.23,1,,0.0,unique_keep
+Thymol,CC(C)c1ccc(C)cc1O,Cc1ccc(C(C)C)c(O)c1,-2.22,1,,0.0,unique_keep
+Pteridine,c2cnc1ncncc1n2,c1cnc2ncncc2n1,0.02,1,,0.0,unique_keep
+Parathion,CCOP(=S)(OCC)Oc1ccc(cc1)N(=O)=O,CCOP(=S)(OCC)Oc1ccc([N+](=O)[O-])cc1,-4.66,1,,0.0,unique_keep
+Methane,C,C,-0.9,1,,0.0,unique_keep
+indoline,c2ccc1NCCc1c2 ,c1ccc2c(c1)CCN2,-1.04,1,,0.0,unique_keep
+1-Nitronapthalene,O=N(=O)c1cccc2ccccc12,O=[N+]([O-])c1cccc2ccccc12,-3.54,1,,0.0,unique_keep
+3-Methyl-2-pentanone,CCC(C)C(=O)C,CCC(C)C(C)=O,-0.67,1,,0.0,unique_keep
+isoguanine,Nc1nc(O)nc2nc[nH]c12 ,Nc1nc(O)nc2nc[nH]c12,-3.401,1,,0.0,unique_keep
+bromadiolone,OC(CC(c1ccccc1)c3c(O)c2ccccc2oc3=O)c4ccc(cc4)c5ccc(Br)cc5 ,O=c1oc2ccccc2c(O)c1C(CC(O)c1ccc(-c2ccc(Br)cc2)cc1)c1ccccc1,-4.445,1,,0.0,unique_keep
+Nitromethane,CN(=O)=O,C[N+](=O)[O-],0.26,1,,0.0,unique_keep
+Triallate,CC(C)N(C(C)C)C(=O)SCC(Cl)=C(Cl)Cl,CC(C)N(C(=O)SCC(Cl)=C(Cl)Cl)C(C)C,-4.88,1,,0.0,unique_keep
+"1,5-Hexadiene ",C=CCCC=C,C=CCCC=C,-2.68,1,,0.0,unique_keep
+Indole,c2ccc1[nH]ccc1c2,c1ccc2[nH]ccc2c1,-1.52,1,,0.0,unique_keep
+Androstenedione,CC34CCC1C(CCC2=CC(=O)CCC12C)C3CCC4=O,CC12CCC3C(CCC4=CC(=O)CCC43C)C1CCC2=O,-3.69,1,,0.0,unique_keep
+1-Hexene,CCCCC=C,C=CCCCC,-3.23,1,,0.0,unique_keep
+Xipamide,Cc1cccc(C)c1NC(=O)c2cc(c(Cl)cc2O)S(N)(=O)=O,Cc1cccc(C)c1NC(=O)c1cc(S(N)(=O)=O)c(Cl)cc1O,-3.79,1,,0.0,unique_keep
+Ethylcyclohexane,CCC1CCCCC1,CCC1CCCCC1,-4.25,1,,0.0,unique_keep
+2-Nonanone,CCCCCCCC(=O)C,CCCCCCCC(C)=O,-2.58,1,,0.0,unique_keep
+Mebendazole,COC(=O)Nc2nc1ccc(cc1[nH]2)C(=O)c3ccccc3,COC(=O)Nc1nc2ccc(C(=O)c3ccccc3)cc2[nH]1,-3.88,1,,0.0,unique_keep
+Chloropham,CC(C)OC(=O)Nc1cccc(Cl)c1,CC(C)OC(=O)Nc1cccc(Cl)c1,-3.38,1,,0.0,unique_keep
+RTI 12,CCN2c1nc(Cl)ccc1N(C)C(=O)c3cccnc23 ,CCN1c2ncccc2C(=O)N(C)c2ccc(Cl)nc21,-4.114,1,,0.0,unique_keep
+Carbaryl,CNC(=O)Oc1cccc2ccccc12,CNC(=O)Oc1cccc2ccccc12,-3.224,1,,0.0,unique_keep
+Ethyne,C#C,C#C,0.29,1,,0.0,unique_keep
+"3,5-Dimethylpyridine",Cc1cncc(C)c1,Cc1cncc(C)c1,0.38,1,,0.0,unique_keep
+"1,4-Cyclohexadiene",C1C=CCC=C1,C1=CCC=CC1,-2.06,1,,0.0,unique_keep
+Mecarbam,CCOC(=O)N(C)C(=O)CSP(=S)(OCC)OCC,CCOC(=O)N(C)C(=O)CSP(=S)(OCC)OCC,-2.518,1,,0.0,unique_keep
+1-Phenylethanol,CC(O)c1ccccc1,CC(O)c1ccccc1,-0.92,1,,0.0,unique_keep
+"1,2-Dichloropropane",CC(Cl)CCl,CC(Cl)CCl,-1.6,1,,0.0,unique_keep
+2-Ethyl-2-hexanal,CCCC=C(CC)C=O,CCCC=C(C=O)CC,-2.46,1,,0.0,unique_keep
+Disulfoton,CCOP(=S)(OCC)SCCSCC,CCOP(=S)(OCC)SCCSCC,-4.23,1,,0.0,unique_keep
+methyltestosterone acetate,CC(=O)OC3(C)CCC4C2CCC1=CC(=O)CCC1(C)C2CCC34C ,CC(=O)OC1(C)CCC2C3CCC4=CC(=O)CCC4(C)C3CCC21C,-5.284,1,,0.0,unique_keep
+"2,4,6-PCB",Clc1ccc(cc1)c2c(Cl)cccc2Cl ,Clc1ccc(-c2c(Cl)cccc2Cl)cc1,-6.14,1,,0.0,unique_keep
+difluron,Fc1cccc(F)c1C(=O)NC(=O)Nc2ccc(Cl)cc2,O=C(NC(=O)c1c(F)cccc1F)Nc1ccc(Cl)cc1,-6.02,1,,0.0,unique_keep
+Triclosan,Oc1cc(Cl)ccc1Oc2ccc(Cl)cc2Cl,Oc1cc(Cl)ccc1Oc1ccc(Cl)cc1Cl,-4.46,1,,0.0,unique_keep
+diisooctyl phthalate,c1(C(=O)OCCCCCC(C)(C))c(C(=O)OCCCCCC(C)(C))cccc1,CC(C)CCCCCOC(=O)c1ccccc1C(=O)OCCCCCC(C)C,-6.6370000000000005,1,,0.0,unique_keep
+Corticosterone,CC12CC(O)C3C(CCC4=CC(=O)CCC34C)C2CCC1C(=O)CO,CC12CCC(=O)C=C1CCC1C2C(O)CC2(C)C(C(=O)CO)CCC12,-3.24,1,,0.0,unique_keep
+"1,3,5-Trimethylbenzene ",Cc1cc(C)cc(C)c1,Cc1cc(C)cc(C)c1,-3.4,1,,0.0,unique_keep
+dioctyl phthalate,CCCCCCCCOC(=O)c1ccccc1C(=O)OCCCCCCCC ,CCCCCCCCOC(=O)c1ccccc1C(=O)OCCCCCCCC,-5.115,1,,0.0,unique_keep
+1-Pentadecanol,CCCCCCCCCCCCCCCO,CCCCCCCCCCCCCCCO,-6.35,1,,0.0,unique_keep
+"2,2',6,6'-PCB",Clc1cccc(Cl)c1c2c(Cl)cccc2Cl ,Clc1cccc(Cl)c1-c1c(Cl)cccc1Cl,-7.39,1,,0.0,unique_keep
+"5,5-Dimethylbarbituric acid",O=C1NC(=O)NC(=O)C1(C)C,CC1(C)C(=O)NC(=O)NC1=O,-1.742,1,,0.0,unique_keep
+2-Iodopropane,CC(C)I,CC(C)I,-2.09,1,,0.0,unique_keep
+"1,2-Dinitrobenzene",O=N(=O)c1ccccc1N(=O)=O,O=[N+]([O-])c1ccccc1[N+](=O)[O-],-3.1,1,,0.0,unique_keep
+3-Methyl-2-butanone,CC(C)C(=O)C,CC(=O)C(C)C,-0.12,1,,0.0,unique_keep
+Hexadecane,CCCCCCCCCCCCCCCC,CCCCCCCCCCCCCCCC,-8.4,1,,0.0,unique_keep
+Tricyclazole,Cc2cccc3sc1nncn1c23 ,Cc1cccc2sc3nncn3c12,-2.07,1,,0.0,unique_keep
+2-Octanone,CCCCCCC(=O)C,CCCCCCC(C)=O,-2.05,1,,0.0,unique_keep
+Methyl nonanoate,CCCCCCCCC(=O)OC,CCCCCCCCC(=O)OC,-3.38,1,,0.0,unique_keep
+"1,4-Difluorobenzene",Fc1ccc(F)cc1,Fc1ccc(F)cc1,-1.97,1,,0.0,unique_keep
+Thalidomide,O=C1N(C2CCC(=O)NC2=O)C(=O)c3ccccc13,O=C1CCC(N2C(=O)c3ccccc3C2=O)C(=O)N1,-2.676,1,,0.0,unique_keep
+Trifluralin,CCCN(CCC)c1c(cc(cc1N(=O)=O)C(F)(F)F)N(=O)=O,CCCN(CCC)c1c([N+](=O)[O-])cc(C(F)(F)F)cc1[N+](=O)[O-],-5.68,1,,0.0,unique_keep
+Ethanol,CCO,CCO,1.1,1,,0.0,unique_keep
+Cyclopentyl-5-spirobarbituric acid,O=C2NC(=O)C1(CCCC1)C(=O)N2,O=C1NC(=O)C2(CCCC2)C(=O)N1,-2.349,1,,0.0,unique_keep
+Carbetamide,c1c(NC(=O)OC(C)C(=O)NCC)cccc1,CCNC(=O)C(C)OC(=O)Nc1ccccc1,-1.83,1,,0.0,unique_keep
+phenothrin,CC(C)=CC3C(C(=O)OCc2cccc(Oc1ccccc1)c2)C3(C)C ,CC(C)=CC1C(C(=O)OCc2cccc(Oc3ccccc3)c2)C1(C)C,-5.24,1,,0.0,unique_keep
+Cycluron,CN(C)C(=O)NC1CCCCCCC1,CN(C)C(=O)NC1CCCCCCC1,-2.218,1,,0.0,unique_keep
+Mirex,ClC1(C2(Cl)C3(Cl)C4(Cl)C5(Cl)C1(Cl)C3(Cl)Cl)C5(Cl)C(Cl)(Cl)C24Cl,ClC1(Cl)C2(Cl)C3(Cl)C4(Cl)C(Cl)(Cl)C5(Cl)C3(Cl)C1(Cl)C5(Cl)C24Cl,-6.8,1,,0.0,unique_keep
+1-Bromooctane,CCCCCCCCBr,CCCCCCCCBr,-5.06,1,,0.0,unique_keep
+Benomyl,CCCCNC(=O)n1c(NC(=O)OC)nc2ccccc12,CCCCNC(=O)n1c(NC(=O)OC)nc2ccccc21,-4.883,1,,0.0,unique_keep
+aminopyrine,CN(C)c2c(C)n(C)n(c1ccccc1)c2=O ,Cc1c(N(C)C)c(=O)n(-c2ccccc2)n1C,-0.364,1,,0.0,unique_keep
+3-Pentanol,CCC(O)CC,CCC(O)CC,-0.24,1,,0.0,unique_keep
+p-Nitrotoluene,Cc1ccc(cc1)N(=O)=O,Cc1ccc([N+](=O)[O-])cc1,-2.49,1,,0.0,unique_keep
+4-Methylpentanol,CC(C)CCCO,CC(C)CCCO,-1.14,1,,0.0,unique_keep
+Norethisterone,CC34CCC1C(CCC2=CC(=O)CCC12O)C3CCC4(O)C#C,C#CC1(O)CCC2C3CCC4=CC(=O)CCC4(O)C3CCC21C,-4.57,1,,0.0,unique_keep
+bromopropylate,CC(C)OC(=O)C(O)(c1ccc(Br)cc1)c2ccc(Br)cc2 ,CC(C)OC(=O)C(O)(c1ccc(Br)cc1)c1ccc(Br)cc1,-4.93,1,,0.0,unique_keep
+Pyrazon,Nc2cnn(c1ccccc1)c(=O)c2Cl,Nc1cnn(-c2ccccc2)c(=O)c1Cl,-2.878,1,,0.0,unique_keep
+2-Methylbutan-2-ol,CCC(C)(C)O,CCC(C)(C)O,0.15,1,,0.0,unique_keep
+p-Cresol,Cc1ccc(O)cc1,Cc1ccc(O)cc1,-0.73,1,,0.0,unique_keep
+Ethyl formate,CCOC=O,CCOC=O,0.15,1,,0.0,unique_keep
+"N,N-Dimethylaniline",CN(C)c1ccccc1,CN(C)c1ccccc1,-1.92,1,,0.0,unique_keep
+Decalin,C1CCC2CCCCC2C1,C1CCC2CCCCC2C1,-5.19,1,,0.0,unique_keep
+Butanethiol ,CCCCS,CCCCS,-2.18,1,,0.0,unique_keep
+Benzo(e)pyrene,c1ccc2c(c1)c3cccc4ccc5cccc2c5c43,c1ccc2c(c1)c1cccc3ccc4cccc2c4c31,-7.8,1,,0.0,unique_keep
+Tetrachloroethylene,ClC(=C(Cl)Cl)Cl,ClC(Cl)=C(Cl)Cl,-2.54,1,,0.0,unique_keep
+3-Pentanone,CCC(=O)CC,CCC(=O)CC,-0.28,1,,0.0,unique_keep
+Acrylonitrile,C=CC#N,C=CC#N,0.15,1,,0.0,unique_keep
+Flumethasone,CC1CC2C3CC(F)C4=CC(=O)C=CC4(C)C3(F)C(O)CC2(C)C1(O)C(=O)CO,CC1CC2C3CC(F)C4=CC(=O)C=CC4(C)C3(F)C(O)CC2(C)C1(O)C(=O)CO,-5.613,1,,0.0,unique_keep
+2-Hexanone,CCCCC(=O)C,CCCCC(C)=O,-0.8,1,,0.0,unique_keep
+Terbumeton,CCNc1nc(NC(C)(C)C)nc(OC)n1,CCNc1nc(NC(C)(C)C)nc(OC)n1,-3.239,1,,0.0,unique_keep
+3-Methylheptane,CCCCC(C)CC,CCCCC(C)CC,-5.16,1,,0.0,unique_keep
+"1,2-Dibromoethane",BrCCBr,BrCCBr,-1.68,1,,0.0,unique_keep
+Isoprocarb,CNC(=O)Oc1ccccc1C(C)C,CNC(=O)Oc1ccccc1C(C)C,-2.863,1,,0.0,unique_keep
+Niridazole,O=C1NCCN1c2ncc(s2)N(=O)=O,O=C1NCCN1c1ncc([N+](=O)[O-])s1,-3.22,1,,0.0,unique_keep
+Benzo(a)fluorene,C1c2ccccc2c3ccc4ccccc4c13,c1ccc2c(c1)Cc1c-2ccc2ccccc12,-6.68,1,,0.0,unique_keep
+2-Chloroanisole,COc1ccccc1Cl,COc1ccccc1Cl,-2.46,1,,0.0,unique_keep
+Bromophos,COP(=S)(OC)Oc1cc(Cl)c(Br)cc1Cl,COP(=S)(OC)Oc1cc(Cl)c(Br)cc1Cl,-6.09,1,,0.0,unique_keep
+Quinonamid,ClC(Cl)CC(=O)NC2=C(Cl)C(=O)c1ccccc1C2=O,O=C(CC(Cl)Cl)NC1=C(Cl)C(=O)c2ccccc2C1=O,-5.03,1,,0.0,unique_keep
+Methyl acrylate,COC(=O)C=C,C=CC(=O)OC,-0.22,1,,0.0,unique_keep
+Chloroxuron,CN(C)C(=O)Nc2ccc(Oc1ccc(Cl)cc1)cc2,CN(C)C(=O)Nc1ccc(Oc2ccc(Cl)cc2)cc1,-4.89,1,,0.0,unique_keep
+Azobenzene,N(=Nc1ccccc1)c2ccccc2,c1ccc(N=Nc2ccccc2)cc1,-4.45,1,,0.0,unique_keep
+4-Isopropyltoluene,CC(C)c1ccc(C)cc1,Cc1ccc(C(C)C)cc1,-3.77,1,,0.0,unique_keep
+"2,6-Dichlorophenol",Oc1c(Cl)cccc1Cl,Oc1c(Cl)cccc1Cl,-1.79,1,,0.0,unique_keep
+Sucrose,OCC2OC(OC1(CO)OC(CO)C(O)C1O)C(O)C(O)C2O ,OCC1OC(OC2(CO)OC(CO)C(O)C2O)C(O)C(O)C1O,0.79,1,,0.0,unique_keep
+d-inositol,OC1C(O)C(O)C(O)C(O)C1O,OC1C(O)C(O)C(O)C(O)C1O,0.35,1,,0.0,unique_keep
+Dyphylline,Cn2c(=O)n(C)c1ncn(CC(O)CO)c1c2=O,Cn1c(=O)c2c(ncn2CC(O)CO)n(C)c1=O,-0.17,1,,0.0,unique_keep
+Chloramphenicol,OCC(NC(=O)C(Cl)Cl)C(O)c1ccc(cc1)N(=O)=O,O=C(NC(CO)C(O)c1ccc([N+](=O)[O-])cc1)C(Cl)Cl,-2.111,1,,0.0,unique_keep
+3-Ethyl-3-pentanol,CCC(O)(CC)CC,CCC(O)(CC)CC,-0.85,1,,0.0,unique_keep
+Epitostanol,CC45CCC2C(CCC3CC1SC1CC23C)C4CCC5O,CC12CCC3C(CCC4CC5SC5CC43C)C1CCC2O,-5.41,1,,0.0,unique_keep
+"1,2-Dibromobenzene",Brc1ccccc1Br,Brc1ccccc1Br,-3.5,1,,0.0,unique_keep
+"2,4,6-Trichlorophenol",Oc1c(Cl)cc(Cl)cc1Cl,Oc1c(Cl)cc(Cl)cc1Cl,-2.34,1,,0.0,unique_keep
+oryzalin,CCCN(CCC)c1c(cc(cc1N(=O)=O)S(N)(=O)=O)N(=O)=O,CCCN(CCC)c1c([N+](=O)[O-])cc(S(N)(=O)=O)cc1[N+](=O)[O-],-5.16,1,,0.0,unique_keep
+RTI 20,C2c1ccccc1N(CCF)C(=O)c3ccccc23 ,O=C1c2ccccc2Cc2ccccc2N1CCF,-4.799,1,,0.0,unique_keep
+"2,4-Dimethyl-3-pentanone",CC(C)C(=O)C(C)C,CC(C)C(=O)C(C)C,-1.3,1,,0.0,unique_keep
+5-(3-Methyl-2-butenyl)-5-isoPrbarbital,O=C1NC(=O)NC(=O)C1(C(C)C)CC=C(C)C,CC(C)=CCC1(C(C)C)C(=O)NC(=O)NC1=O,-2.593,1,,0.0,unique_keep
+gentisin,c1c(O)C2C(=O)C3cc(O)ccC3OC2cc1(OC),COC1=CC2OC3C=CC(O)=CC3C(=O)C2C(O)=C1,-2.943,1,,0.0,unique_keep
+Caffeine,Cn1cnc2n(C)c(=O)n(C)c(=O)c12,Cn1c(=O)c2c(ncn2C)n(C)c1=O,-0.8759999999999999,1,,0.0,unique_keep
+Spironolactone,CC(=O)SC4CC1=CC(=O)CCC1(C)C5CCC2(C)C(CCC23CCC(=O)O3)C45,CC(=O)SC1CC2=CC(=O)CCC2(C)C2CCC3(C)C(CCC34CCC(=O)O4)C12,-4.173,1,,0.0,unique_keep
+"3,4-Dimethylphenol",Cc1ccc(O)cc1C,Cc1ccc(O)cc1C,-1.38,1,,0.0,unique_keep
+Diphenyl ether ,O(c1ccccc1)c2ccccc2,c1ccc(Oc2ccccc2)cc1,-3.96,1,,0.0,unique_keep
+"2,2',4,4',5,5'-PCB",Clc1cc(Cl)c(cc1Cl)c2cc(Cl)c(Cl)cc2Cl ,Clc1cc(Cl)c(-c2cc(Cl)c(Cl)cc2Cl)cc1Cl,-8.56,1,,0.0,unique_keep
+nicotinamide,NC(=O)c1cccnc1 ,NC(=O)c1cccnc1,0.61,1,,0.0,unique_keep
+Thiophenol ,Sc1ccccc1,Sc1ccccc1,-2.12,1,,0.0,unique_keep
+XMC,CNC(=O)Oc1cc(C)cc(C)c1,CNC(=O)Oc1cc(C)cc(C)c1,-2.5810000000000004,1,,0.0,unique_keep
+Chlordane,ClC1CC2C(C1Cl)C3(Cl)C(=C(Cl)C2(Cl)C3(Cl)Cl)Cl,ClC1=C(Cl)C2(Cl)C3C(Cl)C(Cl)CC3C1(Cl)C2(Cl)Cl,-6.86,1,,0.0,unique_keep
+Dimethyldisulfide,CSSC,CSSC,-1.44,1,,0.0,unique_keep
+Benzamide,NC(=O)c1ccccc1,NC(=O)c1ccccc1,-0.96,1,,0.0,unique_keep
+o-Chlorobromobenzene,Clc1ccccc1Br,Clc1ccccc1Br,-3.19,1,,0.0,unique_keep
+Monotropitoside,COC(=O)c1ccccc1OC2OC(COC3OCC(O)C(O)C3O)C(O)C(O)C2O,COC(=O)c1ccccc1OC1OC(COC2OCC(O)C(O)C2O)C(O)C(O)C1O,-0.742,1,,0.0,unique_keep
+3-Heptanol ,CCCCC(O)CC,CCCCC(O)CC,-1.47,1,,0.0,unique_keep
+RTI 15,CCN2c1nc(C)cc(C)c1NC(=O)c3cccnc23 ,CCN1c2ncccc2C(=O)Nc2c(C)cc(C)nc21,-4.553999999999999,1,,0.0,unique_keep
+"3,5-Dichlorophenol",Oc1cc(Cl)cc(Cl)c1,Oc1cc(Cl)cc(Cl)c1,-1.34,1,,0.0,unique_keep
+1-Methylphenanthrene,Cc1cccc2c1ccc3ccccc32,Cc1cccc2c1ccc1ccccc12,-5.85,1,,0.0,unique_keep
+2-Ethyl-1-hexanol,CCCCC(CC)CO,CCCCC(CC)CO,-2.11,1,,0.0,unique_keep
+Diallate,CC(C)N(C(C)C)C(=O)SCC(=CCl)Cl,CC(C)N(C(=O)SCC(Cl)=CCl)C(C)C,-4.2860000000000005,1,,0.0,unique_keep
+Toluene ,Cc1ccccc1,Cc1ccccc1,-2.21,1,,0.0,unique_keep
+Nitrapyrin,Clc1cccc(n1)C(Cl)(Cl)Cl,Clc1cccc(C(Cl)(Cl)Cl)n1,-3.76,1,,0.0,unique_keep
+Cycloheptene,C1CCC=CCC1,C1=CCCCCC1,-3.18,1,,0.0,unique_keep
+Thiram,CN(C)C(=S)SSC(=S)N(C)C ,CN(C)C(=S)SSC(=S)N(C)C,-3.9,1,,0.0,unique_keep
+Griseofulvin,COC1=CC(=O)CC(C)C13Oc2c(Cl)c(OC)cc(OC)c2C3=O,COC1=CC(=O)CC(C)C12Oc1c(Cl)c(OC)cc(OC)c1C2=O,-3.2460000000000004,1,,0.0,unique_keep
+1-Decanol,CCCCCCCCCCO,CCCCCCCCCCO,-3.63,1,,0.0,unique_keep
+"3,3-Dimethylpentane",CCC(C)(C)CC,CCC(C)(C)CC,-4.23,1,,0.0,unique_keep
+vamidothion,CNC(=O)C(C)SCCSP(=O)(OC)(OC),CNC(=O)C(C)SCCSP(=O)(OC)OC,1.144,1,,0.0,unique_keep
+"2,3,4,5-Tetrachlorophenol",Oc1cc(Cl)c(Cl)c(Cl)c1Cl,Oc1cc(Cl)c(Cl)c(Cl)c1Cl,-3.15,1,,0.0,unique_keep
+Butyraldehyde,CCCC=O,CCCC=O,-0.01,1,,0.0,unique_keep
+dexamethasone acetate,CC4CC3C2CCC1=CC(=O)C=CC1(C)C2(F)C(O)CC3(C)C4(O)C(=O)COC(C)=O ,CC(=O)OCC(=O)C1(O)C(C)CC2C3CCC4=CC(=O)C=CC4(C)C3(F)C(O)CC21C,-4.9,1,,0.0,unique_keep
+Butane,CCCC,CCCC,-2.57,1,,0.0,unique_keep
+Fluoromethalone,CC1CC2C3CCC(O)(C(=O)C)C3(C)CC(O)C2(F)C4(C)C=CC(=O)C=C14,CC(=O)C1(O)CCC2C3CC(C)C4=CC(=O)C=CC4(C)C3(F)C(O)CC21C,-4.099,1,,0.0,unique_keep
+Pentachloroethane,ClC(Cl)C(Cl)(Cl)Cl,ClC(Cl)C(Cl)(Cl)Cl,-2.6,1,,0.0,unique_keep
+Diethyl phthalate ,CCOC(=O)c1ccccc1C(=O)OCC,CCOC(=O)c1ccccc1C(=O)OCC,-2.35,1,,0.0,unique_keep
+2-Methylpropan-1-ol,CC(C)CO,CC(C)CO,0.1,1,,0.0,unique_keep
+Isobutylbenzene,CC(C)Cc1ccccc1,CC(C)Cc1ccccc1,-4.12,1,,0.0,unique_keep
+Diiodomethane,ICI,ICI,-2.34,1,,0.0,unique_keep
+4-Heptanol,CCCC(O)CCC,CCCC(O)CCC,-1.4,1,,0.0,unique_keep
+Pentyl acetate,CCCCCOC(=O)C,CCCCCOC(C)=O,-1.89,1,,0.0,unique_keep
+"2,3,5,6-Tetrachlorophenol",Oc1c(Cl)c(Cl)cc(Cl)c1Cl,Oc1c(Cl)c(Cl)cc(Cl)c1Cl,-3.37,1,,0.0,unique_keep
+Propylbenzene ,CCCc1ccccc1,CCCc1ccccc1,-3.37,1,,0.0,unique_keep
+"1,2-Dichlorotetrafluoroethane",FC(F)(Cl)C(F)(F)Cl,FC(F)(Cl)C(F)(F)Cl,-2.74,1,,0.0,unique_keep
+2-butenal,CC=CC=O,CC=CC=O,0.32,1,,0.0,unique_keep
+tetramethylurea,CN(C)C(=O)N(C)C ,CN(C)C(=O)N(C)C,0.94,1,,0.0,unique_keep
+"1,2,4,5-Tetramethylbenzene",Cc1cc(C)c(C)cc1C,Cc1cc(C)c(C)cc1C,-4.59,1,,0.0,unique_keep
+norethindrone acetate,CC(=O)OC3(CCC4C2CCC1=CC(=O)CCC1C2CCC34C)C#C,C#CC1(OC(C)=O)CCC2C3CCC4=CC(=O)CCC4C3CCC21C,-4.8,1,,0.0,unique_keep
+Ditalimfos,CCOP(=S)(OCC)N2C(=O)c1ccccc1C2=O,CCOP(=S)(OCC)N1C(=O)c2ccccc2C1=O,-3.35,1,,0.0,unique_keep
+salicylanilide,c1ccccc1NC(=O)c2c(O)cccc2,O=C(Nc1ccccc1)c1ccccc1O,-3.59,1,,0.0,unique_keep
+Sulfallate,CCN(CC)C(=S)SCC(Cl)=C,C=C(Cl)CSC(=S)N(CC)CC,-3.39,1,,0.0,unique_keep
+Chloroethane,ClCC,CCCl,-1.06,1,,0.0,unique_keep
+Mefluidide,CC(=O)Nc1cc(NS(=O)(=O)C(F)(F)F)c(C)cc1C,CC(=O)Nc1cc(NS(=O)(=O)C(F)(F)F)c(C)cc1C,-3.24,1,,0.0,unique_keep
+Piperine,O=C(C=CC=Cc2ccc1OCOc1c2)N3CCCCC3,O=C(C=CC=Cc1ccc2c(c1)OCO2)N1CCCCC1,-3.46,1,,0.0,unique_keep
+cis-2-Pentene,CC/C=C\C,C/C=C\CC,-2.54,1,,0.0,unique_keep
+thiofanox,CNC(=O)ON=C(CSC)C(C)(C)C ,CNC(=O)ON=C(CSC)C(C)(C)C,-1.62,1,,0.0,unique_keep
+Cyclooctyl-5-spirobarbituric acid,O=C2NC(=O)C1(CCCCCCC1)C(=O)N2,O=C1NC(=O)C2(CCCCCCC2)C(=O)N1,-2.982,1,,0.0,unique_keep
+butacarb,c1(C(C)(C)C)cc(C(C)(C)C)cc(OC(=O)NC)c1,CNC(=O)Oc1cc(C(C)(C)C)cc(C(C)(C)C)c1,-4.24,1,,0.0,unique_keep
+Eriodictyol,Oc2cc(O)c1C(=O)CC(Oc1c2)c3ccc(O)c(O)c3,O=C1CC(c2ccc(O)c(O)c2)Oc2cc(O)cc(O)c21,-3.62,1,,0.0,unique_keep
+Benzophenone,O=C(c1ccccc1)c2ccccc2,O=C(c1ccccc1)c1ccccc1,-3.12,1,,0.0,unique_keep
+Eicosane,CCCCCCCCCCCCCCCCCCCC,CCCCCCCCCCCCCCCCCCCC,-8.172,1,,0.0,unique_keep
+hydrazobenzene,N(Nc1ccccc1)c2ccccc2 ,c1ccc(NNc2ccccc2)cc1,-2.92,1,,0.0,unique_keep
+2-Ethyl-1-butanol,CCC(CC)CO,CCC(CC)CO,-1.17,1,,0.0,unique_keep
+4-hydroxypyridine,Oc1ccncc1,Oc1ccncc1,1.02,1,,0.0,unique_keep
+"cis 1,2-Dichloroethylene",Cl\C=C/Cl,Cl/C=C\Cl,-1.3,1,,0.0,unique_keep
+Methylcyclopentane,CC1CCCC1,CC1CCCC1,-3.3,1,,0.0,unique_keep
+4-Methyl-2-pentanol,CC(C)CC(C)O,CC(C)CC(C)O,-0.8,1,,0.0,unique_keep
+RTI 11,O2c1ccc(N)cc1N(C)C(=O)c3cc(C)ccc23 ,Cc1ccc2c(c1)C(=O)N(C)c1cc(N)ccc1O2,-3.928,1,,0.0,unique_keep
+"2,2-Dimethylpropanol",CC(C)(C)CO,CC(C)(C)CO,-0.4,1,,0.0,unique_keep
+Triadimefon,CC(C)(C)C(=O)C(Oc1ccc(Cl)cc1)n2cncn2,CC(C)(C)C(=O)C(Oc1ccc(Cl)cc1)n1cncn1,-3.61,1,,0.0,unique_keep
+Isocarboxazid,Cc1cc(no1)C(=O)NNCc2ccccc2,Cc1cc(C(=O)NNCc2ccccc2)no1,-2.461,1,,0.0,unique_keep
+Propylene,CC=C,C=CC,-1.08,1,,0.0,unique_keep
+Dichlorophen,Oc1ccc(Cl)cc1Cc2cc(Cl)ccc2O,Oc1ccc(Cl)cc1Cc1cc(Cl)ccc1O,-3.953,1,,0.0,unique_keep
+Desmedipham,CCOC(=O)Nc2cccc(OC(=O)Nc1ccccc1)c2 ,CCOC(=O)Nc1cccc(OC(=O)Nc2ccccc2)c1,-4.632,1,,0.0,unique_keep
+Anthraquinone,O=C1c2ccccc2C(=O)c3ccccc13,O=C1c2ccccc2C(=O)c2ccccc21,-5.19,1,,0.0,unique_keep
+2-Octanol,CCCCCCC(C)O,CCCCCCC(C)O,-2.09,1,,0.0,unique_keep
+Oxycarboxin,CC1=C(C(=O)Nc2ccccc2)S(=O)(=O)CCO1,CC1=C(C(=O)Nc2ccccc2)S(=O)(=O)CCO1,-2.281,1,,0.0,unique_keep
+Butylbenzene,CCCCc1ccccc1,CCCCc1ccccc1,-4.06,1,,0.0,unique_keep
+parabanic acid,O=C1NC(=O)C(=O)N1 ,O=C1NC(=O)C(=O)N1,-0.4,1,,0.0,unique_keep
+Abate,COP(=S)(OC)Oc1ccc(Sc2ccc(OP(=S)(OC)OC)cc2)cc1,COP(=S)(OC)Oc1ccc(Sc2ccc(OP(=S)(OC)OC)cc2)cc1,-6.237,1,,0.0,unique_keep
+Chlorthalidone,NS(=O)(=O)c1cc(ccc1Cl)C2(O)NC(=O)c3ccccc23,NS(=O)(=O)c1cc(C2(O)NC(=O)c3ccccc32)ccc1Cl,-3.451,1,,0.0,unique_keep
+Isobutyl acetate,CC(C)COC(=O)C,CC(=O)OCC(C)C,-1.21,1,,0.0,unique_keep
+"2,2,3-Trimethylbutane",CC(C)C(C)(C)C,CC(C)C(C)(C)C,-4.36,1,,0.0,unique_keep
+"2,3,3',4,4'6-PCB",Clc1ccc(c(Cl)c1Cl)c2c(Cl)cc(Cl)c(Cl)c2Cl ,Clc1ccc(-c2c(Cl)cc(Cl)c(Cl)c2Cl)c(Cl)c1Cl,-7.66,1,,0.0,unique_keep
+Phthalonitrile,N#Cc1ccccc1C#N,N#Cc1ccccc1C#N,-2.38,1,,0.0,unique_keep
+m-Nitrotoluene,Cc1cccc(c1)N(=O)=O,Cc1cccc([N+](=O)[O-])c1,-2.44,1,,0.0,unique_keep
+halothane,FC(F)(F)C(Cl)Br ,FC(F)(F)C(Cl)Br,-1.71,1,,0.0,unique_keep
+Oxamyl,CNC(=O)ON=C(SC)C(=O)N(C)C,CNC(=O)ON=C(SC)C(=O)N(C)C,0.106,1,,0.0,unique_keep
+Thiometon,CCSCCSP(=S)(OC)OC,CCSCCSP(=S)(OC)OC,-3.091,1,,0.0,unique_keep
+2-Methylbutane,CCC(C)C,CCC(C)C,-3.18,1,,0.0,unique_keep
+Stirofos,COP(=O)(OC)OC(=CCl)c1cc(Cl)c(Cl)cc1Cl,COP(=O)(OC)OC(=CCl)c1cc(Cl)c(Cl)cc1Cl,-4.522,1,,0.0,unique_keep

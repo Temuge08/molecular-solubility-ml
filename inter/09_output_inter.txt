@@ -1,0 +1,65 @@
+======================================================================
+FINAL MODEL
+======================================================================
+Development molecules: 1003
+Test molecules:        113
+Features:              10
+
+======================================================================
+TEST RESULTS
+======================================================================
+
+Mean baseline:
+  RMSE = 2.2176
+  MAE  = 1.8131
+  R2   = -0.1975
+
+Descriptor Random Forest:
+  RMSE = 0.8533
+  MAE  = 0.6253
+  R2   = 0.8227
+
+Saved:
+  models/final_esol_descriptor_rf.joblib
+  reports/final_test_predictions.csv
+  reports/final_test_metrics.csv
+
+The held-out test set has now been evaluated.
+Do not modify the model based on these test results.
+
+
+
+
+
+
+
+
+
+Our representation decision also looks justified
+
+Remember:
+
+Descriptor model:
+10 features
+
+Combined model:
+2058 features
+
+Their tuned validation performances were essentially identical:
+
+Descriptor RMSE = 0.7587
+Combined RMSE   = 0.7555
+
+So we chose the simpler descriptor model.
+
+Now it delivers:
+
+Test R² = 0.823
+
+That's a nice demonstration of parsimony:
+
+A compact set of interpretable physicochemical descriptors was sufficient to achieve strong predictive performance, while adding 2,048 Morgan fingerprint features provided negligible validation improvement.
+
+That is a much better scientific statement than:
+
+"The combined model was best because 0.755 < 0.759."

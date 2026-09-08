@@ -1,0 +1,73 @@
+======================================================================
+RANDOM FOREST HYPERPARAMETER TUNING
+======================================================================
+
+Split sizes:
+split
+train         892
+test          113
+validation    111
+Name: count, dtype: int64
+
+======================================================================
+TUNING: DESCRIPTORS
+======================================================================
+Features: 10
+Train:      (892, 10)
+Validation: (111, 10)
+Configurations: 54
+  completed 10/54
+  completed 20/54
+  completed 30/54
+  completed 40/54
+  completed 50/54
+  completed 54/54
+
+Best parameters:
+  max_depth: 20
+  max_features: sqrt
+  min_samples_leaf: 1
+  min_samples_split: 2
+
+Best validation metrics:
+  RMSE = 0.7587
+  MAE  = 0.5772
+  R2   = 0.8458
+
+======================================================================
+TUNING: COMBINED
+======================================================================
+Features: 2058
+Train:      (892, 2058)
+Validation: (111, 2058)
+Configurations: 54
+  completed 10/54
+  completed 20/54
+  completed 30/54
+  completed 40/54
+  completed 50/54
+  completed 54/54
+
+Best parameters:
+  max_depth: 20
+  max_features: 0.5
+  min_samples_leaf: 2
+  min_samples_split: 2
+
+Best validation metrics:
+  RMSE = 0.7555
+  MAE  = 0.5819
+  R2   = 0.8471
+
+======================================================================
+BEST MODEL COMPARISON
+======================================================================
+representation  validation_rmse  validation_mae  validation_r2  max_depth max_features  min_samples_leaf  min_samples_split
+      combined         0.755498        0.581948       0.847066         20          0.5                 2                  2
+   descriptors         0.758674        0.577174       0.845778         20         sqrt                 1                  2
+
+======================================================================
+TUNING COMPLETE
+======================================================================
+
+TEST SET WAS NOT USED.

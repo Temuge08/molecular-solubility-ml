@@ -1,0 +1,72 @@
+======================================================================
+BEMIS-MURCKO SCAFFOLD SPLIT
+======================================================================
+Total molecules: 1116
+
+Acyclic / empty-scaffold molecules: 315
+Acyclic fraction: 0.282
+
+Unique scaffold groups: 269
+
+======================================================================
+LARGEST SCAFFOLD GROUPS
+======================================================================
+ 1. n= 315  <ACYCLIC>
+ 2. n= 253  c1ccccc1
+ 3. n=  39  c1ccc(-c2ccccc2)cc1
+ 4. n=  21  c1ccc2ccccc2c1
+ 5. n=  19  O=C1CC(=O)NC(=O)N1
+ 6. n=  17  O=C1C=C2CCC3C4CCCC4CCC3C2CC1
+ 7. n=  16  c1ncncn1
+ 8. n=  14  c1ccncc1
+ 9. n=  11  c1ccc(Cc2ccccc2)cc1
+10. n=  10  C1CCCCC1
+11. n=   9  O=C1C=CC2C(=C1)CCC1C3CCCC3CCC21
+12. n=   9  c1cnc2ncncc2n1
+13. n=   8  O=C1NC(=O)C(c2ccccc2)(c2ccccc2)N1
+14. n=   7  O=C(OCc1cccc(Oc2ccccc2)c1)C1CC1
+15. n=   7  O=c1cc[nH]c(=O)[nH]1
+
+======================================================================
+TARGET SPLIT SIZES
+======================================================================
+Train target:      892
+Validation target: 111
+Test target:       113
+
+======================================================================
+LEAKAGE CHECK
+======================================================================
+Scaffolds appearing in multiple splits: 0
+
+======================================================================
+ACTUAL SPLIT SUMMARY
+======================================================================
+     split  n_molecules  fraction  n_scaffolds  mean_logS  std_logS  min_logS  max_logS
+     train          892  0.799283          102  -2.927161  2.070786   -11.600      1.58
+validation          111  0.099462           83  -3.386865  2.105570    -9.332      1.10
+      test          113  0.101254           84  -3.721416  2.116539    -9.018      1.07
+
+======================================================================
+SCAFFOLD SPLIT COMPLETE
+======================================================================
+
+Saved:
+  data/processed/esol_split_manifest.csv
+  data/processed/esol_train_molecules.csv
+  data/processed/esol_validation_molecules.csv
+  data/processed/esol_test_molecules.csv
+  reports/scaffold_split_summary.csv
+  reports/scaffold_groups.csv
+
+Interpret:
+This output tells us something important: plain Bemis–Murcko scaffold splitting is too coarse for this ESOL dataset to use as our only split strategy.
+
+Two groups dominate:
+
+315 / 1116 = 28.2% have no ring scaffold at all
+253 / 1116 = 22.7% collapse to the simple benzene scaffold c1ccccc1
+
+So over half of the dataset belongs to just two scaffold groups.
+
+If we keep the strict split, all 315 acyclic molecules must go into one split, and all 253 benzene-core molecules must go into one split. That's chemically conservative, but it can make the train/validation/test sets very unbalanced and somewhat artificial.

@@ -1,0 +1,86 @@
+======================================================================
+DATA SPLIT
+======================================================================
+split
+train         892
+test          113
+validation    111
+Name: count, dtype: int64
+
+======================================================================
+MEAN BASELINE
+======================================================================
+Train mean logS: -3.1960
+Validation RMSE: 1.9872
+Validation MAE:  1.6263
+Validation R2:   -0.0581
+
+======================================================================
+REPRESENTATION: DESCRIPTORS
+======================================================================
+Number of features: 10
+Train shape:      (892, 10)
+Validation shape: (111, 10)
+
+Training:
+  RMSE = 0.2761
+  MAE  = 0.1999
+  R2   = 0.9826
+
+Validation:
+  RMSE = 0.8097
+  MAE  = 0.6223
+  R2   = 0.8244
+
+======================================================================
+REPRESENTATION: MORGAN
+======================================================================
+Number of features: 2048
+Train shape:      (892, 2048)
+Validation shape: (111, 2048)
+
+Training:
+  RMSE = 0.4779
+  MAE  = 0.3218
+  R2   = 0.9478
+
+Validation:
+  RMSE = 1.5661
+  MAE  = 1.2228
+  R2   = 0.3428
+
+======================================================================
+REPRESENTATION: COMBINED
+======================================================================
+Number of features: 2058
+Train shape:      (892, 2058)
+Validation shape: (111, 2058)
+
+Training:
+  RMSE = 0.2369
+  MAE  = 0.1703
+  R2   = 0.9872
+
+Validation:
+  RMSE = 0.7834
+  MAE  = 0.6016
+  R2   = 0.8356
+
+======================================================================
+REPRESENTATION COMPARISON
+======================================================================
+representation  n_features  train_rmse  train_mae  train_r2  validation_rmse  validation_mae  validation_r2
+      combined        2058    0.236930   0.170317  0.987177         0.783401        0.601580       0.835561
+   descriptors          10    0.276125   0.199886  0.982584         0.809660        0.622333       0.824352
+        morgan        2048    0.477915   0.321801  0.947827         1.566087        1.222796       0.342843
+
+======================================================================
+TRAINING COMPLETE
+======================================================================
+
+Important: the TEST set has not been used.
+
+Saved:
+  reports/rf_representation_comparison.csv
+  reports/validation_predictions_*.csv
+  models/rf_*.joblib

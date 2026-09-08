@@ -1,0 +1,229 @@
+======================================================================
+VALIDATION ERROR ANALYSIS
+======================================================================
+Validation molecules: 111
+
+======================================================================
+PER-MOLECULE MODEL COMPARISON
+======================================================================
+better_model
+descriptors    58
+combined       53
+Name: count, dtype: int64
+
+Mean absolute-error difference (combined - descriptors):
+0.004774445438387753
+
+Median absolute-error difference (combined - descriptors):
+0.010648704761908379
+
+Calculating nearest training molecule for each validation compound...
+
+======================================================================
+CHEMICAL SIMILARITY TO TRAINING SET
+======================================================================
+count    111.000000
+mean       0.339715
+std        0.122548
+min        0.066667
+25%        0.252907
+50%        0.333333
+75%        0.391414
+max        0.729730
+Name: max_train_tanimoto, dtype: float64
+
+======================================================================
+SIMILARITY VS ERROR
+======================================================================
+Descriptors:
+  Spearman rho = -0.0372
+  p-value      = 0.6983
+
+Combined:
+  Spearman rho = -0.0837
+  p-value      = 0.3825
+
+======================================================================
+ERROR BY SIMILARITY BIN
+======================================================================
+similarity_bin  n_molecules  mean_similarity  descriptor_mae  combined_mae
+         <0.30           39         0.219625        0.617929      0.644312
+     0.30-0.39           45         0.339646        0.555547      0.581401
+     0.40-0.49           10         0.440758        0.766521      0.695093
+     0.50-0.59           14         0.536163        0.431267      0.380005
+     0.60-0.69            2         0.607692        0.462709      0.401302
+     0.70-0.79            1         0.729730        0.339048      0.231402
+        >=0.80            0              NaN             NaN           NaN
+
+======================================================================
+10 WORST DESCRIPTOR PREDICTIONS
+======================================================================
+             compound_ids  measured_logS  predicted_logS_descriptors  absolute_error_descriptors  max_train_tanimoto
+               Etofenprox         -8.600                   -6.611560                    1.988440            0.425000
+            TEFLUBENZURON         -7.280                   -5.394763                    1.885237            0.568182
+                 Acephate          0.540                   -1.325421                    1.865421            0.333333
+                  Lenacil         -4.594                   -2.810235                    1.783765            0.176471
+            cycloheximide         -1.130                   -2.806905                    1.676905            0.239130
+                  dimetan         -0.850                   -2.467993                    1.617993            0.233333
+              Altretamine         -3.364                   -1.821310                    1.542690            0.344828
+        Dialifor|Dialifos         -6.340                   -4.809872                    1.530128            0.352941
+              fluconazole         -1.800                   -3.299907                    1.499907            0.205128
+1,2,4,5-Tetrabromobenzene         -6.980                   -5.511951                    1.468049            0.466667
+
+======================================================================
+10 WORST COMBINED PREDICTIONS
+======================================================================
+        compound_ids  measured_logS  predicted_logS_combined  absolute_error_combined  max_train_tanimoto
+          Etofenprox         -8.600                -6.560989                 2.039011            0.425000
+             Lenacil         -4.594                -2.751476                 1.842524            0.176471
+       TEFLUBENZURON         -7.280                -5.501983                 1.778017            0.568182
+   Dialifor|Dialifos         -6.340                -4.661546                 1.678454            0.352941
+            Acephate          0.540                -1.117914                 1.657914            0.333333
+             dimetan         -0.850                -2.486273                 1.636273            0.233333
+         Altretamine         -3.364                -1.792039                 1.571961            0.344828
+            Stirofos         -4.522                -6.045066                 1.523066            0.317073
+       cycloheximide         -1.130                -2.626093                 1.496093            0.239130
+2,6-Dimethylpyridine          0.450                -1.020579                 1.470579            0.388889
+
+======================================================================
+ANALYSIS COMPLETE
+======================================================================
+
+Saved reports:
+  reports/validation_error_analysis.csv
+  reports/validation_error_by_similarity.csv
+  reports/worst_descriptor_predictions.csv
+  reports/worst_combined_predictions.csv
+
+Saved figures:
+  figures/descriptor_error_vs_similarity.png
+  figures/combined_error_vs_similarity.png
+  figures/descriptor_measured_vs_predicted.png
+  figures/combined_measured_vs_predicted.png
+
+TEST SET HAS NOT BEEN USED.
+
+
+Interpret:
+    almost identical predictive performance
+              +
+10 interpretable features
+              +
+much simpler model representation
+              ↓
+     Descriptor RF (as final model)
+
+
+These results are enough to make a model-selection decision.
+
+The main conclusion is:
+
+Choose the descriptor-only Random Forest as our final RF model.
+
+Even though the combined model had a trivially lower RMSE during tuning, the molecule-level analysis shows no meaningful advantage from adding the 2,048 Morgan bits.
+
+
+
+
+
+
+
+
+
+What did the applicability-domain analysis show?
+
+This part is also interesting.
+You hypothesized:
+more similar to training data
+        ↓
+smaller prediction error
+
+But:
+Descriptors:
+rho = -0.037
+p = 0.698
+
+Combined:
+rho = -0.084
+p = 0.383
+
+Essentially:
+rho ≈ 0
+
+So nearest-neighbor Tanimoto similarity did not meaningfully correlate with validation error.
+We should report that honestly rather than forcing an applicability-domain story.
+The bins also don't show a clean monotonic trend:
+
+Similarity       Descriptor MAE
+<0.30                0.618
+0.30-0.39            0.556
+0.40-0.49            0.767
+0.50-0.59            0.431
+
+The 0.40–0.49 group actually performs worse than less-similar groups.
+
+However, note that some upper bins have very few molecules:
+
+0.60–0.69     n=2
+0.70–0.79     n=1
+
+so we shouldn't interpret those strongly.
+A reasonable conclusion is:
+
+Within this cluster-split ESOL validation set, maximum Morgan-Tanimoto similarity to the training set was not a reliable standalone indicator of prediction error.
+That's a useful negative result.
+
+
+
+
+
+
+
+
+Why might similarity not correlate with error?
+
+Remember what model won:
+
+RDKit physicochemical descriptors
+
+not Morgan fingerprints.
+
+Our descriptor model is learning relationships involving:
+
+LogP
+MW
+TPSA
+HBD
+HBA
+rotatable bonds
+rings
+...
+
+A validation molecule may have low Morgan similarity to training structures but nevertheless have familiar physicochemical properties:
+
+structurally unusual
+       ↓
+Tanimoto = 0.25
+
+but:
+
+MW = 190
+LogP = 2.1
+TPSA = 45
+HBD = 1
+HBA = 3
+
+       ↓
+well represented descriptor space
+
+So molecular fingerprint similarity and descriptor-space familiarity aren't the same thing.
+
+That's actually a nice finding from this experiment.
+
+Later, we could construct an applicability domain using descriptor-space distance instead:
+
+standardized descriptors
+        ↓
+distance to training molecules
+
+But it isn't necessary before finishing version 1.

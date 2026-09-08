@@ -1,0 +1,126 @@
+======================================================================
+RAW DATASET
+======================================================================
+Rows:    1128
+Columns: 10
+
+Original columns:
+  Compound ID
+  ESOL predicted log solubility in mols per litre
+  Minimum Degree
+  Molecular Weight
+  Number of H-Bond Donors
+  Number of Rings
+  Number of Rotatable Bonds
+  Polar Surface Area
+  measured log solubility in mols per litre
+  smiles
+
+======================================================================
+MISSING VALUES
+======================================================================
+compound_id      0
+smiles           0
+measured_logS    0
+dtype: int64
+
+Missing/non-numeric logS values:
+0
+
+======================================================================
+SMILES VALIDITY
+======================================================================
+Valid: 1128
+Invalid: 0
+
+======================================================================
+DUPLICATE STRUCTURES
+======================================================================
+Rows belonging to duplicated structures: 22
+Unique duplicated structures: 11
+
+Largest disagreements:
+                                         count   mean       std  minimum  maximum  range
+canonical_smiles                                                                        
+OCC(O)C(O)C(O)C(O)CO                         2  0.575  0.728320    0.060    1.090  1.030
+CC12CCC3C(CCC4CC(O)CCC43C)C1CCC2=O           2 -4.281  0.171120   -4.402   -4.160  0.242
+CCC1(CCC(C)C)C(=O)NC(=O)NC1=O                2 -2.563  0.134350   -2.658   -2.468  0.190
+CC12CCC(CC1)C(C)(C)O2                        2 -1.690  0.070711   -1.740   -1.640  0.100
+CCC1(C(C)C)C(=O)NC(=O)NC1=O                  2 -2.179  0.043841   -2.210   -2.148  0.062
+Cc1ncc([N+](=O)[O-])n1CCO                    2 -1.240  0.028284   -1.260   -1.220  0.040
+Brc1ccc2ccccc2c1                             2 -4.400  0.000000   -4.400   -4.400  0.000
+CCOP(=S)(OCC)SC(CCl)N1C(=O)c2ccccc2C1=O      2 -6.340  0.000000   -6.340   -6.340  0.000
+CCC1(c2ccccc2)C(=O)NC(=O)NC1=O               2 -2.322  0.000000   -2.322   -2.322  0.000
+COc1ccccc1O                                  2 -1.960  0.000000   -1.960   -1.960  0.000
+
+======================================================================
+MULTI-FRAGMENT MOLECULES
+======================================================================
+Multi-fragment structures: 0
+
+======================================================================
+FORMAL CHARGE
+======================================================================
+formal_charge
+0    1128
+Name: count, dtype: int64
+
+======================================================================
+MOLECULAR SIZE
+======================================================================
+       molecular_weight  heavy_atom_count
+count       1128.000000       1128.000000
+mean         203.937074         13.289894
+std          102.738077          6.878603
+min           16.043000          1.000000
+25%          121.183000          8.000000
+50%          182.179000         12.000000
+75%          270.372000         18.000000
+max          780.949000         55.000000
+
+======================================================================
+SOLUBILITY TARGET
+======================================================================
+count    1128.000000
+mean       -3.050102
+std         2.096441
+min       -11.600000
+25%        -4.317500
+50%        -2.860000
+75%        -1.600000
+max         1.580000
+Name: measured_logS, dtype: float64
+
+10 lowest-solubility compounds:
+                      compound_id                                             smiles  measured_logS
+603  2,2',3,3',4,4',5,5',6,6'-PCB  Clc1c(Cl)c(Cl)c(c(Cl)c1Cl)c2c(Cl)c(Cl)c(Cl)c(C...        -11.600
+718                      Coronene             c1cc2ccc3ccc4ccc5ccc6ccc1c7c2c3c4c5c67         -9.332
+297       2,2',3,3',4,4',5,5'-PCB       Clc1cc(c(Cl)c(Cl)c1Cl)c2cc(Cl)c(Cl)c(Cl)c2Cl         -9.160
+60        2,2',3,3',5,5',6,6'-PCB      Clc1cc(Cl)c(Cl)c(c1Cl)c2c(Cl)c(Cl)cc(Cl)c2Cl          -9.150
+676            Benzo[ghi]perylene               c1cc2ccc3ccc4ccc5cccc6c(c1)c2c3c4c56         -9.018
+879           2,2',3,4,5,5',6-PCB         Clc1ccc(Cl)c(c1)c2c(Cl)c(Cl)c(Cl)c(Cl)c2Cl         -8.940
+220                      Perylene                 c1cc2cccc3c4cccc5cccc(c(c1)c23)c54         -8.804
+871            2,2',4,4',6,6'-PCB            Clc1cc(Cl)c(c(Cl)c1)c2c(Cl)cc(Cl)cc2Cl          -8.710
+637                Benzo(a)pyrene                   c1ccc2c(c1)cc3ccc4cccc5ccc2c3c45         -8.699
+819                    Napthacene                         c1ccc2cc3cc4ccccc4cc3cc2c1         -8.600
+
+10 highest-solubility compounds:
+                compound_id                        smiles  measured_logS
+605               Acetamide                       CC(=O)N          1.580
+146                Methanol                            CO          1.570
+201        Methyl hydrazine                           CNN          1.340
+1064            vamidothion  CNC(=O)C(C)SCCSP(=O)(OC)(OC)          1.144
+679                Glycerol                      OCC(O)CO          1.120
+687   N,N-Dimethylacetamide                   CN(C)C(=O)C          1.110
+365              Pyrimidine                      c1cncnc1          1.100
+983                 Ethanol                           CCO          1.100
+186              Pyridazine                      c1ccnnc1          1.100
+276                Sorbitol          OCC(O)C(O)C(O)C(O)CO          1.090
+
+======================================================================
+AUDIT COMPLETE
+======================================================================
+Saved:
+  reports/esol_audit.csv
+  reports/duplicate_structures.csv
+  reports/duplicate_label_summary.csv

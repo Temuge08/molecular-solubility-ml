@@ -1,0 +1,21 @@
+======================================================================
+DESCRIPTOR FEATURE IMPORTANCE
+======================================================================
+Validation RMSE: 0.7587
+
+Permutation importance:
+                 feature  importance_mean  importance_std
+               desc_logp         1.959828        0.205441
+         desc_mol_weight         0.511444        0.080986
+   desc_heavy_atom_count         0.328841        0.064304
+               desc_tpsa         0.120595        0.036301
+                desc_hba         0.090993        0.032605
+         desc_ring_count         0.062114        0.028744
+      desc_fraction_csp3         0.042122        0.017206
+desc_aromatic_ring_count         0.032713        0.009498
+    desc_rotatable_bonds         0.016057        0.010341
+                desc_hbd         0.012621        0.012731
+
+Saved:
+  reports/descriptor_feature_importance.csv
+  figures/descriptor_feature_importance.png

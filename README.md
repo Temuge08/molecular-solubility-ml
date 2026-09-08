@@ -4,7 +4,6 @@ An end-to-end molecular machine learning project combining **cheminformatics, pr
 
 The project starts with aqueous solubility prediction using RDKit molecular representations and extends the workflow to de novo molecule generation using a PyTorch Variational Autoencoder (VAE).
 
----
 
 ## Project Overview
 
@@ -36,7 +35,6 @@ Held-out chemical-cluster test performance:
 
 Descriptor-based modeling substantially outperformed Morgan fingerprints alone on this dataset.
 
----
 
 ### De Novo Molecular Generation
 
@@ -68,7 +66,6 @@ A SMILES-aware tokenizer and recurrent VAE were implemented in PyTorch using:
 
 A subset of **100,000 MOSES molecules** was used for VAE development.
 
----
 
 ## Generated Molecule Evaluation
 
@@ -94,7 +91,6 @@ For example:
 | QED              |         0.806 |          0.798 |
 | Predicted logS   |        -3.756 |         -3.792 |
 
----
 
 ## Multi-Objective Candidate Selection
 
@@ -126,7 +122,6 @@ Diverse candidates selected: 100
 
 Morgan fingerprints and Tanimoto similarity are used to avoid selecting many nearly identical molecules.
 
----
 
 ## Repository Structure
 
@@ -147,7 +142,6 @@ Morgan fingerprints and Tanimoto similarity are used to avoid selecting many nea
 └── README.md
 ```
 
----
 
 ## Main Technologies
 
@@ -162,7 +156,6 @@ Morgan fingerprints and Tanimoto similarity are used to avoid selecting many nea
 * Linux
 * Git
 
----
 
 ## Installation
 
@@ -171,9 +164,7 @@ conda env create -f environment.yml
 conda activate molml
 ```
 
-The individual pipeline stages can then be run sequentially from `src/`.
 
----
 
 ## Example Workflow
 
@@ -195,7 +186,6 @@ Pareto ranking
 Diverse candidate set
 ```
 
----
 
 ## Current Limitations
 
@@ -229,3 +219,9 @@ Future work may include:
 ESOL:  Estimating Aqueous Solubility Directly from Molecular Structure 
 John S. Delaney, J. Chem. Inf. Comput. Sci., 2004, 44, 1000 - 1005
 https://pubs.acs.org/doi/abs/10.1021/ci034243x
+
+
+Polykovskiy, D. et al. (2020).  
+*Molecular Sets (MOSES): A Benchmarking Platform for Molecular Generation Models.*  
+Frontiers in Pharmacology, 11, 565644.  
+DOI: 10.3389/fphar.2020.565644

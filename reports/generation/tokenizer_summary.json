@@ -1,0 +1,8 @@
+{
+    "n_molecules": 100000,
+    "vocab_size": 26,
+    "n_chemical_tokens": 22,
+    "max_token_length": 51,
+    "max_sequence_length": 53,
+    "mean_token_length": 35.36744
+}

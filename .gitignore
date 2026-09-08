@@ -11,3 +11,10 @@ __pycache__/
 .idea/
 
 .env
+
+# Large generated datasets
+data/generation/raw/
+data/generation/processed/
+
+# Optional: large model checkpoints
+# models/vae/*.pt

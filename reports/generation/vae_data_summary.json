@@ -1,0 +1,10 @@
+{
+    "n_total": 100000,
+    "n_train": 90000,
+    "n_validation": 5000,
+    "n_holdout": 5000,
+    "vocab_size": 26,
+    "max_sequence_length": 53,
+    "batch_size": 128,
+    "random_state": 42
+}

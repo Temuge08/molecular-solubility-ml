@@ -1,0 +1,2 @@
+n_input,n_after_hard_filter,n_pareto,n_diverse_selected,min_qed_filter,max_lipinski_violations,weight_qed,weight_solubility,weight_lipinski,diversity_tanimoto_threshold
+8789,8696,35,100,0.5,1,0.45,0.35,0.2,0.65

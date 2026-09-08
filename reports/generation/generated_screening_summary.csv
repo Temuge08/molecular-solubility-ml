@@ -1,0 +1,2 @@
+n_novel_generated,mean_qed,median_qed,mean_predicted_logS,median_predicted_logS,lipinski_compliant_fraction,inside_esol_range_fraction,basic_candidate_count,basic_candidate_fraction
+8789,0.7976381295231868,0.8113670178497003,-3.7918073255631923,-3.9185835833333367,0.9961315280464217,1.0,8696,0.9894185914210946

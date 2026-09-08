@@ -1,0 +1,132 @@
+What are the three stages doing?
+1. Hard filtering
+
+Before ranking, we reject molecules that don't meet basic criteria:
+
+QED >= 0.5
+Lipinski violations <= 1
+inside ESOL model descriptor range
+
+This prevents a molecule from compensating for a serious problem just because another score is excellent.
+
+For example:
+
+QED = 0.9
+but
+outside solubility model domain
+
+shouldn't automatically rank first.
+
+2. Multi-objective score
+
+We currently use:
+
+45% QED
+35% predicted solubility
+20% Lipinski compliance
+
+The important part isn't these exact numbers.
+
+The important idea is:
+
+Normalize different objectives first, then explicitly define their relative importance.
+
+We're using percentile scores so:
+
+QED
+predicted logS
+
+both become approximately:
+
+0 → worst among candidates
+1 → best among candidates
+
+before combining them.
+
+These weights are generic because we don't have a specific therapeutic target yet.
+
+3. Pareto front
+
+This is more interesting than the weighted score.
+
+Imagine:
+
+             QED ↑
+
+Candidate A    0.95     logS -4.0
+Candidate B    0.85     logS -2.5
+Candidate C    0.65     logS -1.5
+
+There isn't necessarily one objectively best molecule.
+
+A has better drug-likeness.
+
+C has better predicted solubility.
+
+B compromises.
+
+All three might be Pareto optimal.
+
+A molecule is dominated if another candidate is at least as good in every objective and better in at least one.
+
+This is very relevant to drug discovery because molecular optimization is almost always multi-objective.
+
+4. Why diversity selection?
+
+Suppose your top 100 ranked candidates look like:
+
+Molecule A
+Molecule A + CH3
+Molecule A + Cl
+Molecule A + F
+Molecule A + OH
+...
+
+You technically have 100 molecules, but chemically they're one idea.
+
+Instead we use:
+
+Morgan fingerprint
+       ↓
+Tanimoto similarity
+       ↓
+reject if similarity > 0.65
+to an already-selected molecule
+
+giving:
+
+Candidate 1 → scaffold/family A
+Candidate 2 → family B
+Candidate 3 → family C
+...
+
+This is much closer to what you'd want before downstream experimental or docking work.
+
+
+
+
+
+
+
+
+MOSES molecules
+      ↓
+SMILES VAE
+      ↓
+de novo virtual molecules
+      ↓
+Validity / uniqueness / novelty
+      ↓
+Chemical distribution validation
+      ↓
+RDKit physicochemical properties
+      ↓
+Solubility prediction
+      ↓
+Multi-objective filtering
+      ↓
+Pareto analysis
+      ↓
+Chemical diversity selection
+      ↓
+Top virtual candidates

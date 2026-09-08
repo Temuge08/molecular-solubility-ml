@@ -1,0 +1,2 @@
+raw_rows,invalid_smiles,duplicates_removed,length_filtered,final_sample_size,minimum_length,maximum_length,mean_length
+1584663,0,0,0,100000,15,56,35.85649

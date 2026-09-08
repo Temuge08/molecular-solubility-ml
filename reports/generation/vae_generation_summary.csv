@@ -1,0 +1,2 @@
+n_generated,n_valid,validity,n_unique_valid,uniqueness,n_novel,novelty,temperature
+10000,8836,0.8836,8832,0.9995473064735174,8789,0.9951313405797102,1.0

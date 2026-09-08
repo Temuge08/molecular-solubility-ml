@@ -10,4 +10,5 @@ dependencies:
   - jupyterlab
   - numpy
   - matplotlib
+  - pytorch
 prefix: /Data/temuge/conda/envs/molml

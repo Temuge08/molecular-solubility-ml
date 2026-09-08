@@ -1,0 +1,40 @@
+======================================================================
+GENERATION RESULTS
+======================================================================
+Generated:       10000
+Valid:           8836
+Validity:        0.8836
+
+Unique valid:    8832
+Uniqueness:      0.9995
+
+Novel:           8789
+Novelty:         0.9951
+
+Example valid molecules:
+  COc1cccc(CNC(=O)Cc2c(C)noc2C)c1OC
+  COC(=O)C1CCCN(C(=O)CN(C)c2ccccc2F)C1
+  O=C(Cn1cc(C(=O)NC2CCCCC2)cn1)NCC1CCC1
+  O=C(Nc1ccccc1Cl)c1ncn(-c2ccccc2)n1
+  Cc1cc(Cn2cccn2)oc1NC(=O)c1sccc1C
+  Cn1c(NC(=O)C2CC=CC2)cc(-c2ccccc2)nc1=O
+  O=C(NC1CCc2cc(Br)ccc21)c1ccncc1
+  COC(=O)c1cccc(NC(=O)c2cncnc2SC)c1
+  Cc1ccc(OCCCNC(=O)Cc2ccc3c(c2)OCO3)cc1
+  CCN1CC2(CCN(C(=O)CC3CCCO3)CC2)CN1C(=O)C1CCC1
+  Cc1ccccc1C1(NC(=O)CCNCc2ccco2)CC1=O
+  N#Cc1cnc(NCc2ccco2)c(-c2cccc(O)c2)n1
+  CCOc1ccc(S(=O)(=O)Nc2ccn(C)c2)cc1OC
+  C#CCNC(=O)c1cccc(OC)c1OCc1ccccc1
+  Cc1cc(C(=O)N2CCCC23CCCCC3)n(C(C)C)n1
+  NC(=O)CNS(=O)(=O)CCNC(=O)c1ccc(Cl)cc1
+  Cc1nnc(SCC(=O)Nc2ccccc2)n1C
+  CCCOc1ccccc1C(=O)N1CCc2[nH]c(=O)ccc2C1
+  CCN(C(=O)c1ccc(Cl)cc1)S(=O)(=O)c1ccc(Cl)cc1
+  CCn1nc(C)cc1NC(=O)CCC(=O)N1CCCCC1
+
+Saved:
+  data/generation/processed/vae_generated_all.csv
+  data/generation/processed/vae_generated_valid.csv
+  data/generation/processed/vae_generated_novel.csv
+  reports/generation/vae_generation_summary.csv

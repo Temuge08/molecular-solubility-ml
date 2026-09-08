@@ -1,0 +1,44 @@
+
+======================================================================                                                                
+VAE DATA PREPARATION                                                                                                                  
+======================================================================                                                                
+Molecules:           100000                                                                                                           
+Vocabulary size:     26                                                                                                               
+Max sequence length: 53                                                                                                               
+                                                                                                                                      
+Split:                
+split
+train         90000
+validation     5000
+holdout        5000
+Name: count, dtype: int64
+
+======================================================================
+DATALOADER TEST
+======================================================================
+input_ids shape: torch.Size([128, 53])
+length shape: torch.Size([128])
+
+First sequence length: 32
+
+======================================================================
+ENCODE / DECODE TEST
+======================================================================
+Original: CCN(CC)C(=O)CCCNC(=O)c1nccnc1N
+Decoded:  CCN(CC)C(=O)CCCNC(=O)c1nccnc1N
+
+Encode/decode test PASSED.
+
+======================================================================
+AUTOREGRESSIVE SHIFT
+======================================================================
+Full tensor length: 53
+Decoder input length: 52
+Decoder target length: 52
+
+======================================================================
+VAE DATA PREPARATION COMPLETE
+======================================================================
+
+Saved split manifest:  data/generation/processed/moses_100k_split.csv
+Saved summary:  reports/generation/vae_data_summary.json

@@ -1,0 +1,28 @@
+Did the VAE learn roughly the same chemical-property distribution as the molecules it was trained on, 
+or did generation drift into a strange region of chemical space?
+
+Did ordinary VAE generation accidentally shift the molecules toward more or less soluble chemical space?
+
+======================================================================
+TRAINING VS GENERATED CHEMICAL SPACE
+======================================================================
+Generated novel molecules: 8789
+MOSES reference molecules: 20000
+
+======================================================================
+DISTRIBUTION COMPARISON
+======================================================================
+          property  ks_statistic      p_value  training_mean  generated_mean  mean_difference
+   desc_mol_weight      0.103766 1.070358e-57     307.153908      307.653275         0.499368
+         desc_logp      0.057366 6.592055e-18       2.430334        2.474897         0.044564
+         desc_tpsa      0.031865 8.047859e-06      65.919624       65.658365        -0.261258
+desc_fraction_csp3      0.041956 8.908127e-10       0.350662        0.342726        -0.007936
+               qed      0.040827 2.791859e-09       0.805692        0.797638        -0.008054
+    predicted_logS      0.058803 8.541535e-19      -3.756346       -3.791807        -0.035461
+
+
+Saved:
+  reports/generation/training_vs_generated_property_summary.csv
+  reports/generation/training_vs_generated_ks_tests.csv
+  reports/generation/moses_reference_properties.csv
+  figures/generation/training_vs_generated_*.png
